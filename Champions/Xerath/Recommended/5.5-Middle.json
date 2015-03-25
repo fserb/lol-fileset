@@ -1,0 +1,214 @@
+{
+  "type": "custom",
+  "title": "Middle 5.5",
+  "mode": "any",
+  "map": "any",
+  "associatedMaps": [],
+  "associatedChampions": [],
+  "sortrank": 1,
+  "isGlobalForChampions": false,
+  "priority": false,
+  "champion": "Xerath",
+  "blocks": [
+    {
+      "type": "Most Frequent Starters (48.66% win - 18357 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ]
+    },
+    {
+      "type": "Highest Win Rate Starters (49.80% win - 10973 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ]
+    },
+    {
+      "type": "Most Frequent Build (48.22% win - 4145 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3285"
+        }
+      ]
+    },
+    {
+      "type": "Highest Win Rate Build (53.03% win - 1513 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3285"
+        }
+      ]
+    },
+    {
+      "type": "Consumables",
+      "items": [
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
+        },
+        {
+          "count": 1,
+          "id": "2044"
+        },
+        {
+          "count": 1,
+          "id": "2043"
+        },
+        {
+          "count": 1,
+          "id": "2041"
+        },
+        {
+          "count": 1,
+          "id": "2138"
+        },
+        {
+          "count": 1,
+          "id": "2137"
+        },
+        {
+          "count": 1,
+          "id": "2139"
+        },
+        {
+          "count": 1,
+          "id": "2140"
+        }
+      ]
+    },
+    {
+      "type": "QWE -> QWE (48.83% win - 15576 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "3361"
+        },
+        {
+          "count": 1,
+          "id": "3362"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        }
+      ]
+    },
+    {
+      "type": "QEQW -> QWE (52.39% win - 1212 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "3361"
+        },
+        {
+          "count": 1,
+          "id": "3362"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        }
+      ]
+    }
+  ],
+  "isGlobalForMpas": true
+}

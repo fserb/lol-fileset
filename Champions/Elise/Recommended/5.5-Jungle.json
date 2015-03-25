@@ -1,0 +1,214 @@
+{
+  "type": "custom",
+  "title": "Jungle 5.5",
+  "mode": "any",
+  "map": "any",
+  "associatedMaps": [],
+  "associatedChampions": [],
+  "sortrank": 1,
+  "isGlobalForChampions": false,
+  "priority": false,
+  "champion": "Elise",
+  "blocks": [
+    {
+      "type": "Most Frequent Starters (43.11% win - 2693 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "1039"
+        },
+        {
+          "count": 2,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ]
+    },
+    {
+      "type": "Highest Win Rate Starters (43.11% win - 2693 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "1039"
+        },
+        {
+          "count": 2,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ]
+    },
+    {
+      "type": "Most Frequent Build (42.09% win - 60 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "3708"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3068"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        }
+      ]
+    },
+    {
+      "type": "Highest Win Rate Build (43.89% win - 33 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "3725"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        }
+      ]
+    },
+    {
+      "type": "Consumables",
+      "items": [
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
+        },
+        {
+          "count": 1,
+          "id": "2044"
+        },
+        {
+          "count": 1,
+          "id": "2043"
+        },
+        {
+          "count": 1,
+          "id": "2041"
+        },
+        {
+          "count": 1,
+          "id": "2138"
+        },
+        {
+          "count": 1,
+          "id": "2137"
+        },
+        {
+          "count": 1,
+          "id": "2139"
+        },
+        {
+          "count": 1,
+          "id": "2140"
+        }
+      ]
+    },
+    {
+      "type": "WQE -> QWE (45.34% win - 1290 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "3361"
+        },
+        {
+          "count": 1,
+          "id": "3362"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        }
+      ]
+    },
+    {
+      "type": "WQE -> QWE (45.34% win - 1290 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "3361"
+        },
+        {
+          "count": 1,
+          "id": "3362"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        }
+      ]
+    }
+  ],
+  "isGlobalForMpas": true
+}

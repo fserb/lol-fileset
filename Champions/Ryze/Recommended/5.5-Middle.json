@@ -1,0 +1,214 @@
+{
+  "type": "custom",
+  "title": "Middle 5.5",
+  "mode": "any",
+  "map": "any",
+  "associatedMaps": [],
+  "associatedChampions": [],
+  "sortrank": 1,
+  "isGlobalForChampions": false,
+  "priority": false,
+  "champion": "Ryze",
+  "blocks": [
+    {
+      "type": "Most Frequent Starters (50.48% win - 515 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "1027"
+        },
+        {
+          "count": 2,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ]
+    },
+    {
+      "type": "Highest Win Rate Starters (50.48% win - 515 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "1027"
+        },
+        {
+          "count": 2,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ]
+    },
+    {
+      "type": "Most Frequent Build (45.89% win - 160 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3003"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        }
+      ]
+    },
+    {
+      "type": "Highest Win Rate Build (47.56% win - 137 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3003"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3152"
+        }
+      ]
+    },
+    {
+      "type": "Consumables",
+      "items": [
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
+        },
+        {
+          "count": 1,
+          "id": "2044"
+        },
+        {
+          "count": 1,
+          "id": "2043"
+        },
+        {
+          "count": 1,
+          "id": "2041"
+        },
+        {
+          "count": 1,
+          "id": "2138"
+        },
+        {
+          "count": 1,
+          "id": "2137"
+        },
+        {
+          "count": 1,
+          "id": "2139"
+        },
+        {
+          "count": 1,
+          "id": "2140"
+        }
+      ]
+    },
+    {
+      "type": "QWE -> QWE (46.23% win - 452 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "3361"
+        },
+        {
+          "count": 1,
+          "id": "3362"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        }
+      ]
+    },
+    {
+      "type": "QWE -> QWE (46.23% win - 452 games)",
+      "items": [
+        {
+          "count": 1,
+          "id": "3361"
+        },
+        {
+          "count": 1,
+          "id": "3362"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        }
+      ]
+    }
+  ],
+  "isGlobalForMpas": true
+}
