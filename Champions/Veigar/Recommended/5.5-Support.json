@@ -1,218 +1,218 @@
 {
-  "type": "custom",
-  "title": "Support 5.5",
-  "mode": "any",
-  "map": "any",
-  "associatedMaps": [],
-  "associatedChampions": [],
   "sortrank": 1,
-  "isGlobalForChampions": false,
-  "priority": false,
-  "champion": "Veigar",
+  "type": "custom",
   "blocks": [
     {
-      "type": "Most Frequent Starters (46.91% win - 81 games)",
       "items": [
         {
-          "count": 1,
-          "id": "2004"
+          "id": "2004",
+          "count": 1
         },
         {
-          "count": 3,
-          "id": "2003"
+          "id": "2003",
+          "count": 3
         },
         {
-          "count": 1,
-          "id": "3303"
+          "id": "3303",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3340"
+          "id": "3340",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3341"
+          "id": "3341",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3342"
+          "id": "3342",
+          "count": 1
         }
-      ]
+      ],
+      "type": "Most Frequent Starters (46.91% win - 81 games)"
     },
     {
-      "type": "Highest Win Rate Starters (60.00% win - 30 games)",
       "items": [
         {
-          "count": 4,
-          "id": "2003"
+          "id": "2003",
+          "count": 4
         },
         {
-          "count": 1,
-          "id": "3301"
+          "id": "3301",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3340"
+          "id": "3340",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3341"
+          "id": "3341",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3342"
+          "id": "3342",
+          "count": 1
         }
-      ]
+      ],
+      "type": "Highest Win Rate Starters (60.00% win - 30 games)"
     },
     {
-      "type": "Most Frequent Build (46.17% win - 33 games)",
       "items": [
         {
-          "count": 1,
-          "id": "2049"
+          "id": "2049",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3117"
+          "id": "3117",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3069"
+          "id": "3069",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3165"
+          "id": "3165",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3157"
+          "id": "3157",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3190"
+          "id": "3190",
+          "count": 1
         }
-      ]
+      ],
+      "type": "Most Frequent Build (46.17% win - 33 games)"
     },
     {
-      "type": "Highest Win Rate Build (46.17% win - 33 games)",
       "items": [
         {
-          "count": 1,
-          "id": "2049"
+          "id": "2049",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3117"
+          "id": "3117",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3069"
+          "id": "3069",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3165"
+          "id": "3165",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3157"
+          "id": "3157",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3190"
+          "id": "3190",
+          "count": 1
         }
-      ]
+      ],
+      "type": "Highest Win Rate Build (46.17% win - 33 games)"
     },
     {
-      "type": "Consumables",
       "items": [
         {
-          "count": 1,
-          "id": "2003"
+          "id": "2003",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "2004"
+          "id": "2004",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "2044"
+          "id": "2044",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "2043"
+          "id": "2043",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "2041"
+          "id": "2041",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "2138"
+          "id": "2138",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "2137"
+          "id": "2137",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "2139"
+          "id": "2139",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "2140"
+          "id": "2140",
+          "count": 1
         }
-      ]
+      ],
+      "type": "Consumables"
     },
     {
-      "type": "QEW -> QEW (30.76% win - 26 games)",
       "items": [
         {
-          "count": 1,
-          "id": "3361"
+          "id": "3361",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3362"
+          "id": "3362",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3364"
+          "id": "3364",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3363"
+          "id": "3363",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "2003"
+          "id": "2003",
+          "count": 1
         }
-      ]
+      ],
+      "type": "QEW -> QEW (30.76% win - 26 games)"
     },
     {
-      "type": "EWEQ -> EWQ (54.54% win - 22 games)",
       "items": [
         {
-          "count": 1,
-          "id": "3361"
+          "id": "3361",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3362"
+          "id": "3362",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3364"
+          "id": "3364",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "3363"
+          "id": "3363",
+          "count": 1
         },
         {
-          "count": 1,
-          "id": "2003"
+          "id": "2003",
+          "count": 1
         }
-      ]
+      ],
+      "type": "EWEQ -> EWQ (54.54% win - 22 games)"
     }
   ],
-  "isGlobalForMpas": true
+  "title": "Support 5.5",
+  "priority": false,
+  "mode": "any",
+  "isGlobalForMaps": true,
+  "associatedChampions": [],
+  "map": "any",
+  "associatedMaps": [],
+  "champion": "Veigar",
+  "isGlobalForChampions": false
 }

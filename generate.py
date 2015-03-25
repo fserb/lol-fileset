@@ -86,7 +86,7 @@ def buildSet(champ, role, outdir):
       "title": role + " " + patch,
       "priority": False,
       "mode": "any",
-      "isGlobalForMpas": True,
+      "isGlobalForMaps": True,
       "associatedMaps": [],
       "type": "custom",
       "sortrank": 1,
