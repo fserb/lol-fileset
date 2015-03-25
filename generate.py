@@ -154,7 +154,8 @@ def buildSet(champ, role, outdir):
 
     filename = '%s-%s.json' % (patch, role)
 
-    json.dump(out, open(os.path.join(path, filename), 'wt'), indent=2)
+    json.dump(out, open(os.path.join(path, filename), 'wt'),
+      sort_keys=True, indent=2)
 
 
 def main(args):
