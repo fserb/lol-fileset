@@ -152,7 +152,7 @@ def buildSet(champ, role, outdir):
 
     os.makedirs(path, exist_ok=True)
 
-    filename = '%s-%s.json' % (patch, role)
+    filename = '%s.json' % (role)
 
     json.dump(out, open(os.path.join(path, filename), 'wt'),
       sort_keys=True, indent=2)
