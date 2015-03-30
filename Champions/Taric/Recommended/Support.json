@@ -1,0 +1,218 @@
+{
+  "associatedChampions": [],
+  "associatedMaps": [],
+  "blocks": [
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2004"
+        },
+        {
+          "count": 3,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3302"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ],
+      "type": "Most Frequent Starters (52.79% win - 197 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 4,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3302"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ],
+      "type": "Highest Win Rate Starters (59.28% win - 167 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3401"
+        },
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3025"
+        }
+      ],
+      "type": "Most Frequent Build (54.77% win - 110 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3401"
+        },
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3025"
+        }
+      ],
+      "type": "Highest Win Rate Build (54.77% win - 110 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
+        },
+        {
+          "count": 1,
+          "id": "2044"
+        },
+        {
+          "count": 1,
+          "id": "2043"
+        },
+        {
+          "count": 1,
+          "id": "2041"
+        },
+        {
+          "count": 1,
+          "id": "2138"
+        },
+        {
+          "count": 1,
+          "id": "2137"
+        },
+        {
+          "count": 1,
+          "id": "2139"
+        },
+        {
+          "count": 1,
+          "id": "2140"
+        }
+      ],
+      "type": "Consumables"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3361"
+        },
+        {
+          "count": 1,
+          "id": "3362"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        }
+      ],
+      "type": "EWQ -> WQE (59.64% win - 114 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3361"
+        },
+        {
+          "count": 1,
+          "id": "3362"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        }
+      ],
+      "type": "EQW -> EWQ (68.18% win - 22 games)"
+    }
+  ],
+  "champion": "Taric",
+  "isGlobalForChampions": false,
+  "isGlobalForMaps": true,
+  "map": "any",
+  "mode": "any",
+  "priority": false,
+  "sortrank": 1,
+  "title": "Support 5.6",
+  "type": "custom"
+}
