@@ -25,21 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48.02% win - 531 games)"
+      "type": "Most Frequent Starters (50.43% win - 2320 games)"
     },
     {
       "items": [
         {
-          "count": 2,
+          "count": 1,
+          "id": "1054"
+        },
+        {
+          "count": 1,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 1,
-          "id": "2041"
         },
         {
           "count": 1,
@@ -54,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53.61% win - 429 games)"
+      "type": "Highest Win Rate Starters (59.30% win - 172 games)"
     },
     {
       "items": [
@@ -76,14 +72,14 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3102"
         },
         {
           "count": 1,
           "id": "3110"
         }
       ],
-      "type": "Most Frequent Build (48.56% win - 36 games)"
+      "type": "Most Frequent Build (50.25% win - 175 games)"
     },
     {
       "items": [
@@ -97,7 +93,11 @@
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3158"
+        },
+        {
+          "count": 1,
+          "id": "3035"
         },
         {
           "count": 1,
@@ -105,14 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3065"
+          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (51.85% win - 27 games)"
+      "type": "Highest Win Rate Build (51.89% win - 129 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (45.06% win - 162 games)"
+      "type": "QWQE -> QWE (51.71% win - 671 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (55.63% win - 133 games)"
+      "type": "QWQE -> QEW (54.26% win - 223 games)"
     }
   ],
   "champion": "Gangplank",

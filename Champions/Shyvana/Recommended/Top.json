@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (44.23% win - 581 games)"
+      "type": "Most Frequent Starters (44.16% win - 2416 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1036"
         },
         {
-          "count": 1,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (44.23% win - 581 games)"
+      "type": "Highest Win Rate Starters (46.66% win - 315 games)"
     },
     {
       "items": [
@@ -72,17 +72,21 @@
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3078"
         }
       ],
-      "type": "Most Frequent Build (43.19% win - 46 games)"
+      "type": "Most Frequent Build (42.00% win - 186 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3153"
+        },
         {
           "count": 1,
           "id": "3068"
@@ -93,22 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3022"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (45.17% win - 42 games)"
+      "type": "Highest Win Rate Build (44.29% win - 100 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (50.66% win - 227 games)"
+      "type": "WEQ -> WEQ (47.86% win - 915 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (50.66% win - 227 games)"
+      "type": "EWQ -> WEQ (51.90% win - 262 games)"
     }
   ],
   "champion": "Shyvana",

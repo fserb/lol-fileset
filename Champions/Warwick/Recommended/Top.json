@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47.27% win - 165 games)"
+      "type": "Most Frequent Starters (47.47% win - 653 games)"
     },
     {
       "items": [
@@ -34,8 +34,12 @@
           "id": "1056"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,7 +54,65 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (47.27% win - 165 games)"
+      "type": "Highest Win Rate Starters (51.82% win - 137 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3091"
+        },
+        {
+          "count": 1,
+          "id": "3083"
+        }
+      ],
+      "type": "Most Frequent Build (45.27% win - 82 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3025"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        }
+      ],
+      "type": "Highest Win Rate Build (47.55% win - 36 games)"
     },
     {
       "items": [
@@ -116,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (46.01% win - 113 games)"
+      "type": "QWQE -> QWE (46.79% win - 483 games)"
     },
     {
       "items": [
@@ -141,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (60.00% win - 30 games)"
+      "type": "QWQE -> QEW (50.40% win - 125 games)"
     }
   ],
   "champion": "Warwick",

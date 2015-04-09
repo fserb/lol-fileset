@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50.87% win - 1653 games)"
+      "type": "Most Frequent Starters (49.66% win - 7190 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50.87% win - 1653 games)"
+      "type": "Highest Win Rate Starters (49.66% win - 7190 games)"
     },
     {
       "items": [
@@ -73,38 +73,42 @@
         {
           "count": 1,
           "id": "3072"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        }
+      ],
+      "type": "Most Frequent Build (48.27% win - 696 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3046"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3072"
+        },
+        {
+          "count": 1,
+          "id": "3035"
         },
         {
           "count": 1,
           "id": "3085"
         }
       ],
-      "type": "Most Frequent Build (49.06% win - 151 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 2,
-          "id": "3046"
-        },
-        {
-          "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 1,
-          "id": "3035"
-        }
-      ],
-      "type": "Highest Win Rate Build (54.41% win - 143 games)"
+      "type": "Highest Win Rate Build (51.41% win - 132 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (48.12% win - 266 games)"
+      "type": "QWE -> QWE (49.15% win - 1190 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (48.24% win - 199 games)"
+      "type": "WQE -> QEW (55.33% win - 206 games)"
     }
   ],
   "champion": "Varus",

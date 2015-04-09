@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52.18% win - 3014 games)"
+      "type": "Most Frequent Starters (51.73% win - 11490 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52.18% win - 3014 games)"
+      "type": "Highest Win Rate Starters (51.73% win - 11490 games)"
     },
     {
       "items": [
@@ -73,27 +73,23 @@
         {
           "count": 1,
           "id": "3102"
+        },
+        {
+          "count": 1,
+          "id": "3083"
+        }
+      ],
+      "type": "Most Frequent Build (50.23% win - 414 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3725"
         },
         {
           "count": 1,
           "id": "3800"
-        }
-      ],
-      "type": "Most Frequent Build (51.00% win - 117 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3725"
-        },
-        {
-          "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3075"
         },
         {
           "count": 1,
@@ -101,14 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (52.87% win - 50 games)"
+      "type": "Highest Win Rate Build (52.69% win - 158 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> EWQ (52.99% win - 719 games)"
+      "type": "WQE -> EWQ (52.22% win - 2803 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WEQ (56.58% win - 357 games)"
+      "type": "WQWE -> EWQ (58.93% win - 375 games)"
     }
   ],
   "champion": "Rammus",

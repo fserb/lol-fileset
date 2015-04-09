@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52.89% win - 484 games)"
+      "type": "Most Frequent Starters (51.94% win - 1721 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52.89% win - 484 games)"
+      "type": "Highest Win Rate Starters (52.70% win - 277 games)"
     },
     {
       "items": [
@@ -65,6 +65,35 @@
         {
           "count": 1,
           "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        }
+      ],
+      "type": "Most Frequent Build (49.58% win - 202 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3174"
+        },
+        {
+          "count": 1,
+          "id": "3111"
         },
         {
           "count": 1,
@@ -79,36 +108,7 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (50.73% win - 55 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3174"
-        },
-        {
-          "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        }
-      ],
-      "type": "Highest Win Rate Build (55.50% win - 33 games)"
+      "type": "Highest Win Rate Build (51.91% win - 35 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (59.04% win - 210 games)"
+      "type": "QEW -> QEW (52.66% win - 676 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (59.04% win - 210 games)"
+      "type": "QEQW -> QEW (55.49% win - 546 games)"
     }
   ],
   "champion": "Galio",
