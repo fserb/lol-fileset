@@ -66,7 +66,6 @@ def getSkills(obj):
 def buildSet(champ, role, outdir):
   print("Building for %s/%s" % (champ, role))
 
-  # data = open("cache_championgg/BardSupport").read()
   data = url("http://champion.gg/champion/%s/%s" % (champ, role))
   page = PyQuery(data)
 
@@ -99,19 +98,21 @@ def buildSet(champ, role, outdir):
 
     skillItems = makeItems(3361, 3362, 3364, 3363, 2003)
 
-    out['blocks'].append({
-      "type": "Most Frequent Starters (%.2f%% win - %d games)" % (
-        obj["firstItems"]["mostGames"]['winPercent'],
-        obj["firstItems"]["mostGames"]['games']),
-      "items": getItems(obj["firstItems"]["mostGames"]) + trinketItems
-      })
+    if obj['firstItems']['mostGames']['items']:
+      out['blocks'].append({
+        "type": "Most Frequent Starters (%.2f%% win - %d games)" % (
+          obj["firstItems"]["mostGames"]['winPercent'],
+          obj["firstItems"]["mostGames"]['games']),
+        "items": getItems(obj["firstItems"]["mostGames"]) + trinketItems
+        })
 
-    out['blocks'].append({
-      "type": "Highest Win Rate Starters (%.2f%% win - %d games)" % (
-        obj["firstItems"]["highestWinPercent"]['winPercent'],
-        obj["firstItems"]["highestWinPercent"]['games']),
-      "items": getItems(obj["firstItems"]["highestWinPercent"]) + trinketItems
-      })
+    if obj['firstItems']['highestWinPercent']['items']:
+      out['blocks'].append({
+        "type": "Highest Win Rate Starters (%.2f%% win - %d games)" % (
+          obj["firstItems"]["highestWinPercent"]['winPercent'],
+          obj["firstItems"]["highestWinPercent"]['games']),
+        "items": getItems(obj["firstItems"]["highestWinPercent"]) + trinketItems
+        })
 
     if obj['items']['mostGames']['items']:
       out['blocks'].append({
@@ -159,7 +160,7 @@ def buildSet(champ, role, outdir):
 
 
 def main(args):
-  # buildSet("Khazix", "Jungle", "tmp")
+  # buildSet("Galio", "Support", "tmp")
   # return 0
 
   if len(args) < 2:
