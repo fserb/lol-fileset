@@ -29,17 +29,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51.27% win - 1954 games)"
+      "type": "Most Frequent Starters (52.52% win - 1091 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 3,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2044"
         },
         {
           "count": 1,
@@ -58,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (59.04% win - 188 games)"
+      "type": "Highest Win Rate Starters (55.23% win - 315 games)"
     },
     {
       "items": [
@@ -84,10 +80,10 @@
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (50.41% win - 619 games)"
+      "type": "Most Frequent Build (50.80% win - 325 games)"
     },
     {
       "items": [
@@ -109,14 +105,14 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3174"
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (52.66% win - 249 games)"
+      "type": "Highest Win Rate Build (52.37% win - 128 games)"
     },
     {
       "items": [
@@ -182,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (51.98% win - 1814 games)"
+      "type": "QWE -> QEW (53.88% win - 1069 games)"
     },
     {
       "items": [
@@ -207,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> QEW (55.90% win - 703 games)"
+      "type": "EWQ -> EWQ (55.47% win - 146 games)"
     }
   ],
   "champion": "Zyra",
@@ -217,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.6",
+  "title": "Support 5.7",
   "type": "custom"
 }

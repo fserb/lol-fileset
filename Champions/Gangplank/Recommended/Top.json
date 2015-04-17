@@ -25,17 +25,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50.43% win - 2320 games)"
+      "type": "Most Frequent Starters (50.19% win - 1309 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "1054"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
-          "id": "2003"
+          "id": "2004"
+        },
+        {
+          "count": 1,
+          "id": "2041"
         },
         {
           "count": 1,
@@ -50,36 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (59.30% win - 172 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3102"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        }
-      ],
-      "type": "Most Frequent Build (50.25% win - 175 games)"
+      "type": "Highest Win Rate Starters (54.41% win - 1053 games)"
     },
     {
       "items": [
@@ -97,7 +72,32 @@
         },
         {
           "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
           "id": "3035"
+        },
+        {
+          "count": 1,
+          "id": "3153"
+        }
+      ],
+      "type": "Most Frequent Build (50.19% win - 110 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3087"
+        },
+        {
+          "count": 1,
+          "id": "3158"
         },
         {
           "count": 1,
@@ -105,10 +105,14 @@
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (51.89% win - 129 games)"
+      "type": "Highest Win Rate Build (52.72% win - 108 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (51.71% win - 671 games)"
+      "type": "QWQE -> QWE (52.23% win - 402 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (54.26% win - 223 games)"
+      "type": "QEQW -> QWE (55.55% win - 126 games)"
     }
   ],
   "champion": "Gangplank",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.6",
+  "title": "Top 5.7",
   "type": "custom"
 }

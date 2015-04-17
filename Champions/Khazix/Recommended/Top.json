@@ -25,17 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (46.85% win - 143 games)"
+      "type": "Most Frequent Starters (46.02% win - 289 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "1036"
         },
         {
-          "count": 1,
-          "id": "2041"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -50,7 +50,65 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (46.85% win - 143 games)"
+      "type": "Highest Win Rate Starters (52.17% win - 230 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3074"
+        },
+        {
+          "count": 1,
+          "id": "3035"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        }
+      ],
+      "type": "Most Frequent Build (47.46% win - 48 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3074"
+        },
+        {
+          "count": 1,
+          "id": "3035"
+        },
+        {
+          "count": 1,
+          "id": "3156"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3022"
+        }
+      ],
+      "type": "Highest Win Rate Build (49.34% win - 31 games)"
     },
     {
       "items": [
@@ -116,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (R:QEW) (44.00% win - 100 games)"
+      "type": "QWE -> QWE (R:QER) (44.80% win - 250 games)"
     },
     {
       "items": [
@@ -141,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (R:QER) (65.71% win - 35 games)"
+      "type": "QWE -> QWE (R:QER) (44.80% win - 250 games)"
     }
   ],
   "champion": "Khazix",
@@ -151,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.6",
+  "title": "Top 5.7",
   "type": "custom"
 }

@@ -25,12 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49.35% win - 1238 games)"
+      "type": "Most Frequent Starters (49.82% win - 586 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 2,
           "id": "2004"
         },
         {
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51.59% win - 188 games)"
+      "type": "Highest Win Rate Starters (58.09% win - 315 games)"
     },
     {
       "items": [
@@ -72,14 +76,14 @@
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3025"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (46.85% win - 257 games)"
+      "type": "Most Frequent Build (49.84% win - 113 games)"
     },
     {
       "items": [
@@ -89,11 +93,11 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3110"
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -101,14 +105,14 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3083"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3508"
         }
       ],
-      "type": "Highest Win Rate Build (48.44% win - 193 games)"
+      "type": "Highest Win Rate Build (51.52% win - 64 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (46.66% win - 645 games)"
+      "type": "EWQ -> EWQ (56.27% win - 295 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEW -> EQW (50.82% win - 242 games)"
+      "type": "EWQ -> EWQ (56.27% win - 295 games)"
     }
   ],
   "champion": "Yorick",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.6",
+  "title": "Top 5.7",
   "type": "custom"
 }

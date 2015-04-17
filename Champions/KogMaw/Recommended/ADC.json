@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50.34% win - 8039 games)"
+      "type": "Most Frequent Starters (50.01% win - 7146 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50.34% win - 8039 games)"
+      "type": "Highest Win Rate Starters (50.01% win - 7146 games)"
     },
     {
       "items": [
@@ -73,27 +73,31 @@
         {
           "count": 1,
           "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3102"
+        }
+      ],
+      "type": "Most Frequent Build (48.87% win - 1531 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3153"
         },
         {
           "count": 1,
           "id": "3046"
-        }
-      ],
-      "type": "Most Frequent Build (49.54% win - 1653 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3153"
         },
         {
           "count": 1,
@@ -102,13 +106,9 @@
         {
           "count": 1,
           "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3139"
         }
       ],
-      "type": "Highest Win Rate Build (52.03% win - 1563 games)"
+      "type": "Highest Win Rate Build (52.66% win - 1392 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEWQ -> WEQ (53.14% win - 1321 games)"
+      "type": "WEWQ -> WEQ (50.53% win - 1114 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEWQ -> WEQ (53.14% win - 1321 games)"
+      "type": "WQE -> WQE (52.34% win - 1068 games)"
     }
   ],
   "champion": "KogMaw",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.6",
+  "title": "ADC 5.7",
   "type": "custom"
 }

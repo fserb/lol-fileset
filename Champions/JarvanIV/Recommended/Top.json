@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50.76% win - 4511 games)"
+      "type": "Most Frequent Starters (49.84% win - 2538 games)"
     },
     {
       "items": [
@@ -54,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52.43% win - 410 games)"
+      "type": "Highest Win Rate Starters (52.28% win - 241 games)"
     },
     {
       "items": [
@@ -80,10 +80,10 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (49.85% win - 562 games)"
+      "type": "Most Frequent Build (51.89% win - 304 games)"
     },
     {
       "items": [
@@ -97,10 +97,6 @@
         },
         {
           "count": 1,
-          "id": "3035"
-        },
-        {
-          "count": 1,
           "id": "3143"
         },
         {
@@ -109,10 +105,14 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3035"
+        },
+        {
+          "count": 1,
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (51.88% win - 484 games)"
+      "type": "Highest Win Rate Build (51.89% win - 304 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50.31% win - 3840 games)"
+      "type": "QEW -> QEW (49.36% win - 2129 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (53.68% win - 2712 games)"
+      "type": "QEQW -> QWE (56.45% win - 310 games)"
     }
   ],
   "champion": "JarvanIV",
@@ -213,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.6",
+  "title": "Top 5.7",
   "type": "custom"
 }

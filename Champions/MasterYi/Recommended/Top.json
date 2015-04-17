@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52.23% win - 18431 games)"
+      "type": "Most Frequent Starters (49.07% win - 595 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1036"
         },
         {
-          "count": 1,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -50,25 +50,21 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52.23% win - 18431 games)"
+      "type": "Highest Win Rate Starters (50.69% win - 286 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3031"
-        },
         {
           "count": 1,
           "id": "3006"
         },
         {
           "count": 1,
-          "id": "3046"
+          "id": "3153"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3142"
         },
         {
           "count": 1,
@@ -76,16 +72,24 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (54.34% win - 1609 games)"
+      "type": "Most Frequent Build (47.72% win - 88 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3031"
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3142"
         },
         {
           "count": 1,
@@ -93,22 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3046"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3083"
         },
         {
           "count": 1,
           "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (54.34% win - 1609 games)"
+      "type": "Highest Win Rate Build (50.00% win - 41 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (52.69% win - 7866 games)"
+      "type": "QEW -> QEW (49.38% win - 486 games)"
     },
     {
       "items": [
@@ -199,16 +199,16 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (53.20% win - 3073 games)"
+      "type": "QEW -> QEW (49.38% win - 486 games)"
     }
   ],
-  "champion": "Draven",
+  "champion": "MasterYi",
   "isGlobalForChampions": false,
   "isGlobalForMaps": true,
   "map": "any",
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.7",
+  "title": "Top 5.7",
   "type": "custom"
 }

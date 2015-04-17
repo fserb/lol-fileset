@@ -25,17 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48.99% win - 2984 games)"
+      "type": "Most Frequent Starters (50.64% win - 1388 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "1056"
         },
         {
-          "count": 1,
-          "id": "2041"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54.69% win - 181 games)"
+      "type": "Highest Win Rate Starters (53.28% win - 503 games)"
     },
     {
       "items": [
@@ -79,17 +79,13 @@
           "id": "3285"
         }
       ],
-      "type": "Most Frequent Build (48.97% win - 259 games)"
+      "type": "Most Frequent Build (48.86% win - 107 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3174"
-        },
-        {
-          "count": 1,
-          "id": "3020"
+          "id": "3165"
         },
         {
           "count": 1,
@@ -97,7 +93,11 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3285"
         },
         {
           "count": 1,
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3003"
         }
       ],
-      "type": "Highest Win Rate Build (51.25% win - 229 games)"
+      "type": "Highest Win Rate Build (50.92% win - 43 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (53.55% win - 887 games)"
+      "type": "QEQW -> QEW (51.07% win - 417 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (54.43% win - 158 games)"
+      "type": "QEW -> QEW (53.96% win - 126 games)"
     }
   ],
   "champion": "Veigar",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.6",
+  "title": "Middle 5.7",
   "type": "custom"
 }

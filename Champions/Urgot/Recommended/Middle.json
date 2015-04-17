@@ -25,21 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (44.62% win - 1033 games)"
+      "type": "Most Frequent Starters (46.45% win - 607 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "1036"
-        },
-        {
-          "count": 2,
+          "count": 3,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "2004"
+          "id": "2041"
         },
         {
           "count": 1,
@@ -54,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51.49% win - 134 games)"
+      "type": "Highest Win Rate Starters (47.80% win - 525 games)"
     },
     {
       "items": [
@@ -80,20 +76,16 @@
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (45.60% win - 377 games)"
+      "type": "Most Frequent Build (45.10% win - 234 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "3004"
-        },
-        {
-          "count": 1,
-          "id": "3110"
         },
         {
           "count": 1,
@@ -105,14 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3110"
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3156"
         }
       ],
-      "type": "Highest Win Rate Build (47.71% win - 206 games)"
+      "type": "Highest Win Rate Build (47.49% win - 218 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (46.80% win - 987 games)"
+      "type": "QEW -> QEW (47.00% win - 517 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (48.42% win - 541 games)"
+      "type": "QEW -> QWE (47.36% win - 361 games)"
     }
   ],
   "champion": "Urgot",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.6",
+  "title": "Middle 5.7",
   "type": "custom"
 }

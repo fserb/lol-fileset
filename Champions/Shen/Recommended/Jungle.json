@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (46.95% win - 1214 games)"
+      "type": "Most Frequent Starters (49.20% win - 1189 games)"
     },
     {
       "items": [
@@ -50,13 +50,13 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (46.95% win - 1214 games)"
+      "type": "Highest Win Rate Starters (49.20% win - 1189 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3709"
+          "id": "3717"
         },
         {
           "count": 1,
@@ -68,28 +68,28 @@
         },
         {
           "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
           "id": "3075"
         },
         {
           "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3190"
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (48.84% win - 27 games)"
+      "type": "Most Frequent Build (47.71% win - 35 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3709"
+          "id": "3717"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3022"
+        },
+        {
+          "count": 1,
           "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3190"
         }
       ],
-      "type": "Highest Win Rate Build (48.84% win - 27 games)"
+      "type": "Highest Win Rate Build (49.48% win - 33 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (45.36% win - 485 games)"
+      "type": "QWE -> QWE (48.66% win - 526 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (45.36% win - 485 games)"
+      "type": "QWE -> QEW (50.63% win - 158 games)"
     }
   ],
   "champion": "Shen",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.6",
+  "title": "Jungle 5.7",
   "type": "custom"
 }

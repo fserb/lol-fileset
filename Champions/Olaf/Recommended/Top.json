@@ -25,10 +25,22 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (42.73% win - 1446 games)"
+      "type": "Most Frequent Starters (42.71% win - 824 games)"
     },
     {
       "items": [
+        {
+          "count": 2,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
+        },
+        {
+          "count": 1,
+          "id": "2041"
+        },
         {
           "count": 1,
           "id": "3340"
@@ -42,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50.40% win - 123 games)"
+      "type": "Highest Win Rate Starters (47.59% win - 166 games)"
     },
     {
       "items": [
@@ -68,10 +80,10 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3046"
         }
       ],
-      "type": "Most Frequent Build (43.76% win - 128 games)"
+      "type": "Most Frequent Build (43.74% win - 78 games)"
     },
     {
       "items": [
@@ -85,22 +97,22 @@
         },
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
           "id": "3143"
         },
         {
           "count": 1,
-          "id": "3142"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (45.51% win - 104 games)"
+      "type": "Highest Win Rate Build (45.37% win - 64 games)"
     },
     {
       "items": [
@@ -166,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (43.44% win - 465 games)"
+      "type": "QEW -> QEW (45.10% win - 286 games)"
     },
     {
       "items": [
@@ -191,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (50.35% win - 427 games)"
+      "type": "QEEW -> EQW (53.54% win - 155 games)"
     }
   ],
   "champion": "Olaf",
@@ -201,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.6",
+  "title": "Top 5.7",
   "type": "custom"
 }

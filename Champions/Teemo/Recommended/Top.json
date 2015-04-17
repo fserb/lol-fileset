@@ -25,17 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49.32% win - 5656 games)"
+      "type": "Most Frequent Starters (49.53% win - 4512 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "1001"
+          "count": 3,
+          "id": "2003"
         },
         {
-          "count": 4,
-          "id": "2003"
+          "count": 1,
+          "id": "2041"
         },
         {
           "count": 1,
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51.02% win - 486 games)"
+      "type": "Highest Win Rate Starters (52.82% win - 248 games)"
     },
     {
       "items": [
@@ -64,7 +64,11 @@
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3115"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         },
         {
           "count": 1,
@@ -72,20 +76,16 @@
         },
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3089"
+          "id": "3085"
         }
       ],
-      "type": "Most Frequent Build (47.53% win - 365 games)"
+      "type": "Most Frequent Build (48.70% win - 262 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3151"
+          "id": "3165"
         },
         {
           "count": 1,
@@ -93,11 +93,7 @@
         },
         {
           "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3135"
+          "id": "3151"
         },
         {
           "count": 1,
@@ -105,10 +101,14 @@
         },
         {
           "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
           "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (49.75% win - 243 games)"
+      "type": "Highest Win Rate Build (51.04% win - 153 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEW -> EQW (52.04% win - 2229 games)"
+      "type": "EQEW -> EQW (51.82% win - 1808 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> EQW (53.50% win - 157 games)"
+      "type": "EQQW -> QEW (53.35% win - 313 games)"
     }
   ],
   "champion": "Teemo",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.6",
+  "title": "Top 5.7",
   "type": "custom"
 }

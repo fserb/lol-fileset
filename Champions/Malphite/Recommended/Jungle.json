@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52.14% win - 9592 games)"
+      "type": "Most Frequent Starters (49.73% win - 6575 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52.14% win - 9592 games)"
+      "type": "Highest Win Rate Starters (49.73% win - 6575 games)"
     },
     {
       "items": [
@@ -64,39 +64,6 @@
         },
         {
           "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3102"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        }
-      ],
-      "type": "Most Frequent Build (50.35% win - 230 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3709"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
           "id": "3143"
         },
         {
@@ -106,9 +73,42 @@
         {
           "count": 1,
           "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (52.12% win - 126 games)"
+      "type": "Most Frequent Build (48.21% win - 172 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3709"
+        },
+        {
+          "count": 1,
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        }
+      ],
+      "type": "Highest Win Rate Build (51.16% win - 43 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWEQ -> EWQ (54.82% win - 1275 games)"
+      "type": "EWEQ -> EWQ (53.03% win - 905 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWEQ -> EWQ (54.82% win - 1275 games)"
+      "type": "EWEQ -> EQW (54.07% win - 479 games)"
     }
   ],
   "champion": "Malphite",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.6",
+  "title": "Jungle 5.7",
   "type": "custom"
 }

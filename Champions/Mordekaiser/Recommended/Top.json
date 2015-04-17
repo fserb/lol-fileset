@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48.49% win - 1326 games)"
+      "type": "Most Frequent Starters (52.77% win - 720 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1029"
+          "id": "1054"
         },
         {
-          "count": 5,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53.76% win - 452 games)"
+      "type": "Highest Win Rate Starters (52.77% win - 720 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (48.83% win - 121 games)"
+      "type": "Most Frequent Build (49.22% win - 74 games)"
     },
     {
       "items": [
@@ -89,15 +89,7 @@
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3135"
         },
         {
           "count": 1,
@@ -105,10 +97,18 @@
         },
         {
           "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
           "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (50.46% win - 51 games)"
+      "type": "Highest Win Rate Build (51.60% win - 70 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EQW (50.06% win - 817 games)"
+      "type": "EQW -> EQW (50.23% win - 432 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (52.38% win - 168 games)"
+      "type": "EQEW -> EQW (50.29% win - 334 games)"
     }
   ],
   "champion": "Mordekaiser",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.6",
+  "title": "Top 5.7",
   "type": "custom"
 }

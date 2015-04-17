@@ -29,21 +29,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49.80% win - 7730 games)"
+      "type": "Most Frequent Starters (50.21% win - 4240 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 4,
+          "count": 2,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "3303"
+          "id": "2044"
+        },
+        {
+          "count": 1,
+          "id": "3301"
         },
         {
           "count": 1,
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51.92% win - 570 games)"
+      "type": "Highest Win Rate Starters (57.05% win - 170 games)"
     },
     {
       "items": [
@@ -84,10 +84,10 @@
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3165"
         }
       ],
-      "type": "Most Frequent Build (47.65% win - 2122 games)"
+      "type": "Most Frequent Build (48.25% win - 1138 games)"
     },
     {
       "items": [
@@ -97,11 +97,7 @@
         },
         {
           "count": 1,
-          "id": "3092"
-        },
-        {
-          "count": 1,
-          "id": "3117"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -109,14 +105,18 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3092"
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (50.11% win - 1084 games)"
+      "type": "Highest Win Rate Build (50.64% win - 367 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (49.55% win - 5398 games)"
+      "type": "QEW -> QEW (49.58% win - 3023 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQQW -> QEW (52.45% win - 326 games)"
+      "type": "EQQW -> QEW (53.97% win - 176 games)"
     }
   ],
   "champion": "Lulu",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.6",
+  "title": "Support 5.7",
   "type": "custom"
 }

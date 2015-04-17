@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51.55% win - 36895 games)"
+      "type": "Most Frequent Starters (51.96% win - 20379 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54.02% win - 2954 games)"
+      "type": "Highest Win Rate Starters (54.92% win - 1522 games)"
     },
     {
       "items": [
@@ -64,6 +64,10 @@
         },
         {
           "count": 1,
+          "id": "3285"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
         {
@@ -73,13 +77,9 @@
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3285"
         }
       ],
-      "type": "Most Frequent Build (50.54% win - 2521 games)"
+      "type": "Most Frequent Build (50.82% win - 1271 games)"
     },
     {
       "items": [
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3001"
         }
       ],
-      "type": "Highest Win Rate Build (52.56% win - 1552 games)"
+      "type": "Highest Win Rate Build (53.44% win - 922 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (51.66% win - 19333 games)"
+      "type": "QWE -> QWE (51.72% win - 10853 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> WQE (52.42% win - 3630 games)"
+      "type": "QWE -> WQE (53.02% win - 1935 games)"
     }
   ],
   "champion": "Katarina",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.6",
+  "title": "Middle 5.7",
   "type": "custom"
 }

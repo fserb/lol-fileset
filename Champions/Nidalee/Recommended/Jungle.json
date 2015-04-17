@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51.02% win - 37314 games)"
+      "type": "Most Frequent Starters (48.79% win - 16904 games)"
     },
     {
       "items": [
@@ -50,36 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51.02% win - 37314 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3724"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3100"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        }
-      ],
-      "type": "Most Frequent Build (50.17% win - 1964 games)"
+      "type": "Highest Win Rate Starters (48.79% win - 16904 games)"
     },
     {
       "items": [
@@ -108,7 +79,36 @@
           "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (52.02% win - 1956 games)"
+      "type": "Most Frequent Build (50.91% win - 1062 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3724"
+        },
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        }
+      ],
+      "type": "Highest Win Rate Build (50.91% win - 1062 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (51.93% win - 24597 games)"
+      "type": "QEW -> QEW (49.23% win - 11438 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (52.82% win - 4719 games)"
+      "type": "WEQ -> QEW (50.21% win - 691 games)"
     }
   ],
   "champion": "Nidalee",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.6",
+  "title": "Jungle 5.7",
   "type": "custom"
 }

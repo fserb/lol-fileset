@@ -5,64 +5,6 @@
     {
       "items": [
         {
-          "count": 2,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 1,
-          "id": "3302"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Most Frequent Starters (51.51% win - 33 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 2,
-          "id": "2004"
-        },
-        {
-          "count": 1,
-          "id": "3303"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Highest Win Rate Starters (68.18% win - 22 games)"
-    },
-    {
-      "items": [
-        {
           "count": 1,
           "id": "2003"
         },
@@ -124,7 +66,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (43.63% win - 55 games)"
+      "type": "QWE -> QWE (52.77% win - 36 games)"
     },
     {
       "items": [
@@ -149,7 +91,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (57.14% win - 28 games)"
+      "type": "QEQW -> QEW (54.16% win - 24 games)"
     }
   ],
   "champion": "Galio",
@@ -159,6 +101,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.6",
+  "title": "Support 5.7",
   "type": "custom"
 }

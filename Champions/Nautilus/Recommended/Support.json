@@ -25,16 +25,12 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53.24% win - 5878 games)"
+      "type": "Most Frequent Starters (52.46% win - 5242 games)"
     },
     {
       "items": [
         {
-          "count": 2,
-          "id": "2004"
-        },
-        {
-          "count": 2,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -54,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54.41% win - 215 games)"
+      "type": "Highest Win Rate Starters (54.36% win - 1376 games)"
     },
     {
       "items": [
@@ -76,14 +72,14 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3068"
         }
       ],
-      "type": "Most Frequent Build (50.76% win - 2056 games)"
+      "type": "Most Frequent Build (53.94% win - 2027 games)"
     },
     {
       "items": [
@@ -97,11 +93,11 @@
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3401"
         },
         {
           "count": 1,
-          "id": "3401"
+          "id": "3800"
         },
         {
           "count": 1,
@@ -109,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3068"
         }
       ],
-      "type": "Highest Win Rate Build (53.22% win - 1382 games)"
+      "type": "Highest Win Rate Build (53.94% win - 2027 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EWQ (54.45% win - 2176 games)"
+      "type": "EQW -> EWQ (53.68% win - 2239 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEW -> EQW (57.25% win - 131 games)"
+      "type": "WQE -> EQW (59.39% win - 133 games)"
     }
   ],
   "champion": "Nautilus",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.6",
+  "title": "Support 5.7",
   "type": "custom"
 }
