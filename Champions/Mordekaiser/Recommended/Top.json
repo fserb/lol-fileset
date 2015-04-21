@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52.77% win - 720 games)"
+      "type": "Most Frequent Starters (52.12% win - 1153 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52.77% win - 720 games)"
+      "type": "Highest Win Rate Starters (52.12% win - 1153 games)"
     },
     {
       "items": [
@@ -72,24 +72,28 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3083"
+        }
+      ],
+      "type": "Most Frequent Build (48.75% win - 130 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3020"
         },
         {
           "count": 1,
           "id": "3089"
-        }
-      ],
-      "type": "Most Frequent Build (49.22% win - 74 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3152"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3152"
         },
         {
           "count": 1,
@@ -97,18 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3001"
         },
         {
           "count": 1,
-          "id": "3116"
-        },
-        {
-          "count": 1,
-          "id": "3285"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (51.60% win - 70 games)"
+      "type": "Highest Win Rate Build (50.77% win - 32 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EQW (50.23% win - 432 games)"
+      "type": "EQW -> EQW (49.78% win - 685 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEW -> EQW (50.29% win - 334 games)"
+      "type": "EWQ -> EWQ (50.00% win - 124 games)"
     }
   ],
   "champion": "Mordekaiser",

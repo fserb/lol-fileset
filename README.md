@@ -1,7 +1,7 @@
 champion.gg fileset generator
 =============================
 
-**Last update: patch 5.5**
+**Last update: patch 5.7**
 
 This repo contains the fileset generated from [champion.gg](http://champion.gg)
  and also the script needed to regenerate those files.

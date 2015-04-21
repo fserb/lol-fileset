@@ -5,40 +5,11 @@
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 3,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3303"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Most Frequent Starters (54.87% win - 2719 games)"
-    },
-    {
-      "items": [
-        {
           "count": 2,
           "id": "2004"
         },
         {
-          "count": 3,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -58,7 +29,36 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (59.01% win - 122 games)"
+      "type": "Most Frequent Starters (52.62% win - 4842 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2004"
+        },
+        {
+          "count": 4,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3303"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ],
+      "type": "Highest Win Rate Starters (58.90% win - 292 games)"
     },
     {
       "items": [
@@ -68,11 +68,11 @@
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "3117"
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "3092"
         },
         {
           "count": 1,
@@ -84,10 +84,10 @@
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3504"
         }
       ],
-      "type": "Most Frequent Build (52.98% win - 654 games)"
+      "type": "Most Frequent Build (52.36% win - 1462 games)"
     },
     {
       "items": [
@@ -97,15 +97,11 @@
         },
         {
           "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
           "id": "3092"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3100"
         },
         {
           "count": 1,
@@ -113,10 +109,14 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (55.18% win - 640 games)"
+      "type": "Highest Win Rate Build (54.16% win - 1462 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (53.98% win - 4733 games)"
+      "type": "QWQE -> QWE (53.08% win - 9090 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQW -> QWE (56.66% win - 210 games)"
+      "type": "QWQW -> QWE (56.18% win - 1317 games)"
     }
   ],
   "champion": "Sona",

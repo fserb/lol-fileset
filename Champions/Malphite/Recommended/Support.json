@@ -5,87 +5,74 @@
     {
       "items": [
         {
-          "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Most Frequent Starters (50.62% win - 3117 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Highest Win Rate Starters (50.62% win - 3117 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
           "count": 2,
-          "id": "3035"
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
+        },
+        {
+          "count": 1,
+          "id": "3302"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
         }
       ],
-      "type": "Most Frequent Build (48.60% win - 201 games)"
+      "type": "Most Frequent Starters (51.57% win - 698 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 3,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3302"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ],
+      "type": "Highest Win Rate Starters (59.19% win - 174 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3074"
+          "id": "2049"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3401"
+        },
+        {
+          "count": 1,
+          "id": "3110"
         },
         {
           "count": 1,
@@ -93,18 +80,39 @@
         },
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3035"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (50.98% win - 95 games)"
+      "type": "Most Frequent Build (50.98% win - 318 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3401"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3068"
+        },
+        {
+          "count": 1,
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3083"
+        }
+      ],
+      "type": "Highest Win Rate Build (52.95% win - 265 games)"
     },
     {
       "items": [
@@ -170,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (51.71% win - 845 games)"
+      "type": "QEQW -> QEW (50.68% win - 1322 games)"
     },
     {
       "items": [
@@ -195,16 +203,16 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EQW (57.14% win - 147 games)"
+      "type": "QEQE -> QEW (52.70% win - 905 games)"
     }
   ],
-  "champion": "Aatrox",
+  "champion": "Malphite",
   "isGlobalForChampions": false,
   "isGlobalForMaps": true,
   "map": "any",
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.7",
+  "title": "Support 5.7",
   "type": "custom"
 }

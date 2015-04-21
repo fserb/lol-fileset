@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51.96% win - 20379 games)"
+      "type": "Most Frequent Starters (51.62% win - 32977 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1029"
+          "id": "1054"
         },
         {
-          "count": 5,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -50,42 +50,13 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54.92% win - 1522 games)"
+      "type": "Highest Win Rate Starters (54.49% win - 2171 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        }
-      ],
-      "type": "Most Frequent Build (50.82% win - 1271 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3285"
         },
         {
           "count": 1,
@@ -105,10 +76,39 @@
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (53.44% win - 922 games)"
+      "type": "Most Frequent Build (50.85% win - 2193 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3285"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        }
+      ],
+      "type": "Highest Win Rate Build (52.50% win - 1512 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (51.72% win - 10853 games)"
+      "type": "QWE -> QWE (51.51% win - 17534 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> WQE (53.02% win - 1935 games)"
+      "type": "QWE -> WQE (53.06% win - 2968 games)"
     }
   ],
   "champion": "Katarina",
