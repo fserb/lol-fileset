@@ -100,7 +100,7 @@ def buildSet(champ, role, outdir):
 
     if obj['firstItems']['mostGames']['items']:
       out['blocks'].append({
-        "type": "Most Frequent Starters (%.2f%% win - %d games)" % (
+        "type": "Most Frequent Starters (%d%% win - %d games)" % (
           obj["firstItems"]["mostGames"]['winPercent'],
           obj["firstItems"]["mostGames"]['games']),
         "items": getItems(obj["firstItems"]["mostGames"]) + trinketItems
@@ -108,7 +108,7 @@ def buildSet(champ, role, outdir):
 
     if obj['firstItems']['highestWinPercent']['items']:
       out['blocks'].append({
-        "type": "Highest Win Rate Starters (%.2f%% win - %d games)" % (
+        "type": "Highest Win Rate Starters (%d%% win - %d games)" % (
           obj["firstItems"]["highestWinPercent"]['winPercent'],
           obj["firstItems"]["highestWinPercent"]['games']),
         "items": getItems(obj["firstItems"]["highestWinPercent"]) + trinketItems
@@ -116,7 +116,7 @@ def buildSet(champ, role, outdir):
 
     if obj['items']['mostGames']['items']:
       out['blocks'].append({
-        "type": "Most Frequent Build (%.2f%% win - %d games)" % (
+        "type": "Most Frequent Build (%d%% win - %d games)" % (
           obj["items"]["mostGames"]['winPercent'],
           obj["items"]["mostGames"]['games']),
         "items": getItems(obj["items"]["mostGames"])
@@ -124,7 +124,7 @@ def buildSet(champ, role, outdir):
 
     if obj['items']['highestWinPercent']['items']:
       out['blocks'].append({
-        "type": "Highest Win Rate Build (%.2f%% win - %d games)" % (
+        "type": "Highest Win Rate Build (%d%% win - %d games)" % (
           obj["items"]["highestWinPercent"]['winPercent'],
           obj["items"]["highestWinPercent"]['games']),
         "items": getItems(obj["items"]["highestWinPercent"])
@@ -133,7 +133,7 @@ def buildSet(champ, role, outdir):
     out['blocks'].append({ "type": "Consumables", "items": consumeItems})
 
     out['blocks'].append({
-      "type": "%s (%.2f%% win - %d games)" % (
+      "type": "%s (%d%% win - %d games)" % (
         getSkills(obj["skills"]["mostGames"]),
         obj["skills"]["mostGames"]['winPercent'],
         obj["skills"]["mostGames"]['games']),
@@ -141,7 +141,7 @@ def buildSet(champ, role, outdir):
       })
 
     out['blocks'].append({
-      "type": "%s (%.2f%% win - %d games)" % (
+      "type": "%s (%d%% win - %d games)" % (
         getSkills(obj["skills"]["highestWinPercent"]),
         obj["skills"]["highestWinPercent"]['winPercent'],
         obj["skills"]["highestWinPercent"]['games']),
