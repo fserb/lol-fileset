@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 42514 games)"
+      "type": "Most Frequent Starters (54% win - 8532 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 42514 games)"
+      "type": "Highest Win Rate Starters (54% win - 8532 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3110"
         }
       ],
-      "type": "Most Frequent Build (52% win - 1312 games)"
+      "type": "Most Frequent Build (53% win - 231 games)"
     },
     {
       "items": [
@@ -89,7 +89,11 @@
         },
         {
           "count": 1,
-          "id": "3117"
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3111"
         },
         {
           "count": 1,
@@ -97,18 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3083"
         },
         {
           "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3001"
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 1200 games)"
+      "type": "Highest Win Rate Build (55% win - 155 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (53% win - 13105 games)"
+      "type": "WEQ -> WEQ (55% win - 2678 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQWE -> WEQ (57% win - 483 games)"
+      "type": "WQE -> WEQ (55% win - 1195 games)"
     }
   ],
   "champion": "Sejuani",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.7",
+  "title": "Jungle 5.8",
   "type": "custom"
 }

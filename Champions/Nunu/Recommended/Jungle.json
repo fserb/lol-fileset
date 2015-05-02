@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (57% win - 19598 games)"
+      "type": "Most Frequent Starters (57% win - 6449 games)"
     },
     {
       "items": [
@@ -50,13 +50,13 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 1376 games)"
+      "type": "Highest Win Rate Starters (58% win - 285 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3725"
+          "id": "3709"
         },
         {
           "count": 1,
@@ -64,22 +64,22 @@
         },
         {
           "count": 1,
+          "id": "3800"
+        },
+        {
+          "count": 1,
           "id": "3110"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3102"
+          "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (56% win - 266 games)"
+      "type": "Most Frequent Build (55% win - 86 games)"
     },
     {
       "items": [
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
           "id": "3190"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (58% win - 225 games)"
+      "type": "Highest Win Rate Build (58% win - 33 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (58% win - 1846 games)"
+      "type": "QEW -> QEW (56% win - 598 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> EQW (61% win - 158 games)"
+      "type": "QWQE -> QEW (60% win - 248 games)"
     }
   ],
   "champion": "Nunu",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.7",
+  "title": "Jungle 5.8",
   "type": "custom"
 }

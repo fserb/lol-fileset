@@ -29,16 +29,12 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 5876 games)"
+      "type": "Most Frequent Starters (50% win - 1426 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 4,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -58,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 374 games)"
+      "type": "Highest Win Rate Starters (53% win - 440 games)"
     },
     {
       "items": [
@@ -80,24 +76,24 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3285"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3800"
         }
       ],
-      "type": "Most Frequent Build (46% win - 1810 games)"
+      "type": "Most Frequent Build (47% win - 371 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
+          "id": "2049"
         },
         {
           "count": 1,
-          "id": "2049"
+          "id": "3117"
         },
         {
           "count": 1,
@@ -105,18 +101,18 @@
         },
         {
           "count": 1,
-          "id": "3069"
+          "id": "3092"
         },
         {
           "count": 1,
-          "id": "3222"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3165"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 524 games)"
+      "type": "Highest Win Rate Build (49% win - 305 games)"
     },
     {
       "items": [
@@ -182,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (47% win - 5765 games)"
+      "type": "WQE -> QWE (49% win - 1343 games)"
     },
     {
       "items": [
@@ -207,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQWE -> WQE (51% win - 568 games)"
+      "type": "WQQE -> QWE (52% win - 478 games)"
     }
   ],
   "champion": "Annie",
@@ -217,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.7",
+  "title": "Support 5.8",
   "type": "custom"
 }

@@ -25,13 +25,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 5578 games)"
+      "type": "Most Frequent Starters (51% win - 1484 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "1039"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -46,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 778 games)"
+      "type": "Highest Win Rate Starters (56% win - 585 games)"
     },
     {
       "items": [
@@ -75,7 +83,7 @@
           "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (52% win - 1572 games)"
+      "type": "Most Frequent Build (51% win - 473 games)"
     },
     {
       "items": [
@@ -101,10 +109,10 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3001"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 1055 games)"
+      "type": "Highest Win Rate Build (58% win - 159 games)"
     },
     {
       "items": [
@@ -170,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEWQ -> WQE (55% win - 5233 games)"
+      "type": "WEWQ -> WQE (55% win - 1439 games)"
     },
     {
       "items": [
@@ -195,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWWQ -> WQE (57% win - 187 games)"
+      "type": "WEWQ -> WQE (55% win - 1439 games)"
     }
   ],
   "champion": "FiddleSticks",
@@ -205,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.7",
+  "title": "Jungle 5.8",
   "type": "custom"
 }

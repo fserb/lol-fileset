@@ -25,17 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 21707 games)"
+      "type": "Most Frequent Starters (49% win - 5372 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "1056"
         },
         {
-          "count": 1,
-          "id": "2041"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 4015 games)"
+      "type": "Highest Win Rate Starters (49% win - 5372 games)"
     },
     {
       "items": [
@@ -76,24 +76,24 @@
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (46% win - 2144 games)"
+      "type": "Most Frequent Build (46% win - 480 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3110"
+          "id": "3800"
         },
         {
           "count": 1,
           "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3110"
         },
         {
           "count": 1,
@@ -108,7 +108,7 @@
           "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 1264 games)"
+      "type": "Highest Win Rate Build (48% win - 286 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> QWE (48% win - 8816 games)"
+      "type": "EQW -> QWE (48% win - 2177 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQQW -> QEW (50% win - 414 games)"
+      "type": "QWE -> QWE (50% win - 769 games)"
     }
   ],
   "champion": "Maokai",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.7",
+  "title": "Top 5.8",
   "type": "custom"
 }

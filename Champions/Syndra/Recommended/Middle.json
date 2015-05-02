@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 8830 games)"
+      "type": "Most Frequent Starters (45% win - 2393 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 4439 games)"
+      "type": "Highest Win Rate Starters (48% win - 1129 games)"
     },
     {
       "items": [
@@ -64,6 +64,10 @@
         },
         {
           "count": 1,
+          "id": "3285"
+        },
+        {
+          "count": 1,
           "id": "3089"
         },
         {
@@ -73,13 +77,9 @@
         {
           "count": 1,
           "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3285"
         }
       ],
-      "type": "Most Frequent Build (45% win - 1193 games)"
+      "type": "Most Frequent Build (44% win - 283 games)"
     },
     {
       "items": [
@@ -89,11 +89,15 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3020"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3285"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         },
         {
           "count": 1,
@@ -102,13 +106,9 @@
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 234 games)"
+      "type": "Highest Win Rate Build (46% win - 158 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (47% win - 4931 games)"
+      "type": "QEW -> QEW (47% win - 1299 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QEW (56% win - 182 games)"
+      "type": "QEW -> QEW (47% win - 1299 games)"
     }
   ],
   "champion": "Syndra",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.7",
+  "title": "Middle 5.8",
   "type": "custom"
 }

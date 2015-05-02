@@ -29,16 +29,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 6202 games)"
+      "type": "Most Frequent Starters (49% win - 1264 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 1,
           "id": "2004"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 279 games)"
+      "type": "Highest Win Rate Starters (55% win - 149 games)"
     },
     {
       "items": [
@@ -87,7 +87,7 @@
           "id": "3190"
         }
       ],
-      "type": "Most Frequent Build (51% win - 4455 games)"
+      "type": "Most Frequent Build (46% win - 847 games)"
     },
     {
       "items": [
@@ -113,10 +113,10 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 4455 games)"
+      "type": "Highest Win Rate Build (47% win - 847 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (50% win - 7469 games)"
+      "type": "QWE -> QWE (47% win - 1360 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (50% win - 7469 games)"
+      "type": "QWE -> WQE (55% win - 128 games)"
     }
   ],
   "champion": "Alistar",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.7",
+  "title": "Support 5.8",
   "type": "custom"
 }

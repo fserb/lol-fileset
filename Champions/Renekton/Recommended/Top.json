@@ -25,38 +25,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 7197 games)"
+      "type": "Most Frequent Starters (50% win - 2061 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1028"
-        },
-        {
-          "count": 2,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Highest Win Rate Starters (50% win - 280 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3068"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -64,7 +39,7 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3068"
         },
         {
           "count": 1,
@@ -76,20 +51,16 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (47% win - 1032 games)"
+      "type": "Most Frequent Build (50% win - 211 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3074"
-        },
-        {
-          "count": 1,
-          "id": "3068"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -97,18 +68,22 @@
         },
         {
           "count": 1,
+          "id": "3068"
+        },
+        {
+          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 494 games)"
+      "type": "Highest Win Rate Build (50% win - 211 games)"
     },
     {
       "items": [
@@ -174,7 +149,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (49% win - 5034 games)"
+      "type": "QEW -> QEW (48% win - 1528 games)"
     },
     {
       "items": [
@@ -199,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (51% win - 638 games)"
+      "type": "QEW -> QWE (50% win - 466 games)"
     }
   ],
   "champion": "Renekton",
@@ -209,6 +184,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.7",
+  "title": "Top 5.8",
   "type": "custom"
 }

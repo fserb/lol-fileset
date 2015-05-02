@@ -6,10 +6,10 @@
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1055"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 4145 games)"
+      "type": "Most Frequent Starters (48% win - 606 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (47% win - 863 games)"
+      "type": "Highest Win Rate Starters (55% win - 147 games)"
     },
     {
       "items": [
@@ -61,35 +61,10 @@
         {
           "count": 1,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         },
         {
           "count": 1,
           "id": "3285"
-        }
-      ],
-      "type": "Most Frequent Build (45% win - 569 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3020"
         },
         {
           "count": 1,
@@ -102,13 +77,38 @@
         {
           "count": 1,
           "id": "3157"
+        }
+      ],
+      "type": "Most Frequent Build (48% win - 52 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3078"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 566 games)"
+      "type": "Highest Win Rate Build (50% win - 49 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (49% win - 2888 games)"
+      "type": "QEW -> QEW (47% win - 287 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> EQW (52% win - 253 games)"
+      "type": "WQE -> QEW (52% win - 267 games)"
     }
   ],
   "champion": "Nidalee",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.7",
+  "title": "Top 5.8",
   "type": "custom"
 }

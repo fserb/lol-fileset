@@ -29,10 +29,14 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 17686 games)"
+      "type": "Most Frequent Starters (56% win - 5127 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "2004"
+        },
         {
           "count": 4,
           "id": "2003"
@@ -54,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 6834 games)"
+      "type": "Highest Win Rate Starters (59% win - 273 games)"
     },
     {
       "items": [
@@ -83,7 +87,7 @@
           "id": "3110"
         }
       ],
-      "type": "Most Frequent Build (52% win - 7781 games)"
+      "type": "Most Frequent Build (52% win - 2142 games)"
     },
     {
       "items": [
@@ -112,7 +116,7 @@
           "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 1399 games)"
+      "type": "Highest Win Rate Build (55% win - 416 games)"
     },
     {
       "items": [
@@ -178,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EWQ (54% win - 23789 games)"
+      "type": "EQW -> EWQ (55% win - 7205 games)"
     },
     {
       "items": [
@@ -203,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EWQ (54% win - 23789 games)"
+      "type": "QEW -> EWQ (55% win - 376 games)"
     }
   ],
   "champion": "Janna",
@@ -213,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.7",
+  "title": "Support 5.8",
   "type": "custom"
 }

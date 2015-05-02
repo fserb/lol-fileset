@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 2099 games)"
+      "type": "Most Frequent Starters (53% win - 605 games)"
     },
     {
       "items": [
@@ -50,21 +50,17 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 2099 games)"
+      "type": "Highest Win Rate Starters (53% win - 605 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3006"
-        },
         {
           "count": 1,
           "id": "3153"
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3006"
         },
         {
           "count": 1,
@@ -72,14 +68,18 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3035"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (50% win - 161 games)"
+      "type": "Most Frequent Build (54% win - 38 games)"
     },
     {
       "items": [
@@ -93,7 +93,7 @@
         },
         {
           "count": 1,
-          "id": "3142"
+          "id": "3087"
         },
         {
           "count": 1,
@@ -101,14 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 89 games)"
+      "type": "Highest Win Rate Build (54% win - 38 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (49% win - 390 games)"
+      "type": "QEW -> QEW (45% win - 119 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQQW -> QEW (57% win - 301 games)"
+      "type": "EQQW -> QWE (66% win - 42 games)"
     }
   ],
   "champion": "Quinn",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.7",
+  "title": "Top 5.8",
   "type": "custom"
 }

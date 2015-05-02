@@ -25,12 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 909 games)"
+      "type": "Most Frequent Starters (44% win - 275 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 2,
+          "id": "2003"
+        },
+        {
+          "count": 1,
           "id": "2004"
         },
         {
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 148 games)"
+      "type": "Highest Win Rate Starters (49% win - 189 games)"
     },
     {
       "items": [
@@ -68,18 +72,18 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3025"
         },
         {
           "count": 1,
-          "id": "3025"
+          "id": "3508"
         },
         {
           "count": 1,
           "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (51% win - 193 games)"
+      "type": "Most Frequent Build (49% win - 53 games)"
     },
     {
       "items": [
@@ -97,18 +101,18 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3025"
         },
         {
           "count": 1,
-          "id": "3025"
+          "id": "3508"
         },
         {
           "count": 1,
           "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 193 games)"
+      "type": "Highest Win Rate Build (49% win - 53 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (52% win - 498 games)"
+      "type": "EWQ -> EWQ (50% win - 163 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (52% win - 498 games)"
+      "type": "EWQ -> EWQ (50% win - 163 games)"
     }
   ],
   "champion": "Yorick",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.7",
+  "title": "Top 5.8",
   "type": "custom"
 }
