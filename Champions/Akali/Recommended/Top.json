@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 247 games)"
+      "type": "Most Frequent Starters (47% win - 574 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1029"
+          "id": "1054"
         },
         {
-          "count": 5,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (47% win - 247 games)"
+      "type": "Highest Win Rate Starters (52% win - 125 games)"
     },
     {
       "items": [
@@ -69,42 +69,46 @@
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         },
         {
           "count": 1,
           "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (47% win - 67 games)"
+      "type": "Most Frequent Build (49% win - 139 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3020"
-        },
         {
           "count": 1,
           "id": "3146"
         },
         {
           "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 31 games)"
+      "type": "Highest Win Rate Build (49% win - 139 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (43% win - 250 games)"
+      "type": "QEW -> QEW (43% win - 523 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (52% win - 123 games)"
+      "type": "QWQE -> QEW (54% win - 194 games)"
     }
   ],
   "champion": "Akali",

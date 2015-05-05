@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 6894 games)"
+      "type": "Most Frequent Starters (51% win - 14942 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 6894 games)"
+      "type": "Highest Win Rate Starters (51% win - 14942 games)"
     },
     {
       "items": [
@@ -79,13 +79,17 @@
           "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (50% win - 162 games)"
+      "type": "Most Frequent Build (50% win - 384 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3725"
+          "id": "3709"
+        },
+        {
+          "count": 1,
+          "id": "3117"
         },
         {
           "count": 1,
@@ -93,22 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
           "id": "3110"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 62 games)"
+      "type": "Highest Win Rate Build (53% win - 157 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (49% win - 2515 games)"
+      "type": "WEQ -> WEQ (49% win - 5375 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEEQ -> EWQ (58% win - 248 games)"
+      "type": "WEQ -> EWQ (57% win - 196 games)"
     }
   ],
   "champion": "Nautilus",
