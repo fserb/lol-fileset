@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 16888 games)"
+      "type": "Most Frequent Starters (52% win - 28144 games)"
     },
     {
       "items": [
@@ -54,7 +54,36 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 5453 games)"
+      "type": "Highest Win Rate Starters (53% win - 9198 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3401"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3068"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        }
+      ],
+      "type": "Most Frequent Build (51% win - 8537 games)"
     },
     {
       "items": [
@@ -80,39 +109,10 @@
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (51% win - 5022 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3401"
-        },
-        {
-          "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3143"
-        }
-      ],
-      "type": "Highest Win Rate Build (53% win - 5021 games)"
+      "type": "Highest Win Rate Build (52% win - 8439 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> WQE (52% win - 22389 games)"
+      "type": "QEW -> WQE (51% win - 37812 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> WQE (52% win - 22389 games)"
+      "type": "QEW -> WQE (51% win - 37812 games)"
     }
   ],
   "champion": "Leona",
