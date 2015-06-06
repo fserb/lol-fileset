@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 10243 games)"
+      "type": "Most Frequent Starters (50% win - 8648 games)"
     },
     {
       "items": [
@@ -34,12 +34,8 @@
           "id": "1056"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2004"
         },
         {
           "count": 1,
@@ -54,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 404 games)"
+      "type": "Highest Win Rate Starters (50% win - 8648 games)"
     },
     {
       "items": [
@@ -68,11 +64,11 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3198"
         },
         {
           "count": 1,
-          "id": "3198"
+          "id": "3089"
         },
         {
           "count": 1,
@@ -83,7 +79,7 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (48% win - 810 games)"
+      "type": "Most Frequent Build (48% win - 904 games)"
     },
     {
       "items": [
@@ -105,14 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3198"
         },
         {
           "count": 1,
-          "id": "3198"
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 536 games)"
+      "type": "Highest Win Rate Build (51% win - 704 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEW -> EQW (48% win - 5932 games)"
+      "type": "EQEW -> EQW (49% win - 5965 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEQ -> EQW (54% win - 251 games)"
+      "type": "QEEW -> EQW (50% win - 3707 games)"
     }
   ],
   "champion": "Viktor",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.8",
+  "title": "Middle 5.10",
   "type": "custom"
 }

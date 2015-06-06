@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 9891 games)"
+      "type": "Most Frequent Starters (47% win - 6483 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1029"
+          "id": "1001"
         },
         {
-          "count": 5,
+          "count": 4,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 3577 games)"
+      "type": "Highest Win Rate Starters (53% win - 686 games)"
     },
     {
       "items": [
@@ -72,14 +72,14 @@
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3035"
         }
       ],
-      "type": "Most Frequent Build (47% win - 543 games)"
+      "type": "Most Frequent Build (48% win - 458 games)"
     },
     {
       "items": [
@@ -93,7 +93,11 @@
         },
         {
           "count": 1,
-          "id": "3009"
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3143"
         },
         {
           "count": 1,
@@ -101,14 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
           "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 417 games)"
+      "type": "Highest Win Rate Build (50% win - 349 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> EQW (51% win - 5705 games)"
+      "type": "QEW -> EQW (49% win - 3955 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEEW -> EQW (52% win - 4907 games)"
+      "type": "QEEW -> EQW (52% win - 3529 games)"
     }
   ],
   "champion": "Garen",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.8",
+  "title": "Top 5.10",
   "type": "custom"
 }

@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 32182 games)"
+      "type": "Most Frequent Starters (51% win - 17406 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 2450 games)"
+      "type": "Highest Win Rate Starters (52% win - 1461 games)"
     },
     {
       "items": [
@@ -76,16 +76,16 @@
         },
         {
           "count": 1,
-          "id": "3091"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (50% win - 840 games)"
+      "type": "Most Frequent Build (50% win - 578 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3707"
+          "id": "3709"
         },
         {
           "count": 1,
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3153"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 182 games)"
+      "type": "Highest Win Rate Build (52% win - 262 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "RWER -> WEQ (49% win - 3509 games)"
+      "type": "RWER -> WEQ (49% win - 2002 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "RWRE -> WEQ (54% win - 162 games)"
+      "type": "RWRE -> EWQ (58% win - 305 games)"
     }
   ],
   "champion": "Udyr",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.8",
+  "title": "Jungle 5.10",
   "type": "custom"
 }

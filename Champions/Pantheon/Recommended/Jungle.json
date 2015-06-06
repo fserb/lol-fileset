@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 15191 games)"
+      "type": "Most Frequent Starters (51% win - 11265 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 15191 games)"
+      "type": "Highest Win Rate Starters (51% win - 11265 games)"
     },
     {
       "items": [
@@ -73,31 +73,31 @@
         {
           "count": 1,
           "id": "3102"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        }
+      ],
+      "type": "Most Frequent Build (50% win - 532 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3723"
+        },
+        {
+          "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3071"
         },
         {
           "count": 1,
           "id": "3035"
-        }
-      ],
-      "type": "Most Frequent Build (48% win - 785 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3707"
-        },
-        {
-          "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
-          "id": "3143"
         },
         {
           "count": 1,
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 397 games)"
+      "type": "Highest Win Rate Build (52% win - 153 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (50% win - 5171 games)"
+      "type": "QWE -> QEW (51% win - 3952 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (54% win - 1590 games)"
+      "type": "WQE -> QEW (54% win - 504 games)"
     }
   ],
   "champion": "Pantheon",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.8",
+  "title": "Jungle 5.10",
   "type": "custom"
 }

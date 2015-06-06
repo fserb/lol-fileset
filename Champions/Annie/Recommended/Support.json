@@ -29,17 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 5369 games)"
+      "type": "Most Frequent Starters (49% win - 3617 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 4,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "3303"
+          "id": "3301"
         },
         {
           "count": 1,
@@ -54,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 1612 games)"
+      "type": "Highest Win Rate Starters (56% win - 218 games)"
     },
     {
       "items": [
@@ -80,10 +80,10 @@
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3116"
         }
       ],
-      "type": "Most Frequent Build (47% win - 1453 games)"
+      "type": "Most Frequent Build (48% win - 1064 games)"
     },
     {
       "items": [
@@ -104,15 +104,11 @@
           "id": "3069"
         },
         {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3135"
+          "count": 2,
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 354 games)"
+      "type": "Highest Win Rate Build (50% win - 295 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (47% win - 5000 games)"
+      "type": "WQE -> QWE (48% win - 3717 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (51% win - 2736 games)"
+      "type": "WQQE -> QWE (51% win - 1341 games)"
     }
   ],
   "champion": "Annie",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.8",
+  "title": "Support 5.10",
   "type": "custom"
 }

@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 7246 games)"
+      "type": "Most Frequent Starters (51% win - 4433 games)"
     },
     {
       "items": [
@@ -54,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 666 games)"
+      "type": "Highest Win Rate Starters (53% win - 443 games)"
     },
     {
       "items": [
@@ -64,15 +64,11 @@
         },
         {
           "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
           "id": "3285"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3151"
         },
         {
           "count": 1,
@@ -81,9 +77,13 @@
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (49% win - 340 games)"
+      "type": "Most Frequent Build (50% win - 209 games)"
     },
     {
       "items": [
@@ -105,14 +105,14 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 212 games)"
+      "type": "Highest Win Rate Build (52% win - 175 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (52% win - 2659 games)"
+      "type": "WQE -> WQE (52% win - 1691 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WEQ (58% win - 170 games)"
+      "type": "WQWE -> WQE (56% win - 258 games)"
     }
   ],
   "champion": "Brand",
@@ -213,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.8",
+  "title": "Middle 5.10",
   "type": "custom"
 }

@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 8637 games)"
+      "type": "Most Frequent Starters (51% win - 4601 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 8637 games)"
+      "type": "Highest Win Rate Starters (51% win - 4601 games)"
     },
     {
       "items": [
@@ -68,18 +68,18 @@
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3072"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3035"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (50% win - 733 games)"
+      "type": "Most Frequent Build (51% win - 431 games)"
     },
     {
       "items": [
@@ -89,11 +89,11 @@
         },
         {
           "count": 1,
-          "id": "3087"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3046"
         },
         {
           "count": 1,
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 243 games)"
+      "type": "Highest Win Rate Build (53% win - 409 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (51% win - 2064 games)"
+      "type": "QWE -> QWE (54% win - 1149 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQW -> QWE (58% win - 211 games)"
+      "type": "QWE -> QWE (54% win - 1149 games)"
     }
   ],
   "champion": "MissFortune",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.8",
+  "title": "ADC 5.10",
   "type": "custom"
 }

@@ -25,32 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 2736 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Highest Win Rate Starters (48% win - 2736 games)"
+      "type": "Most Frequent Starters (49% win - 1901 games)"
     },
     {
       "items": [
@@ -76,10 +51,10 @@
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3056"
         }
       ],
-      "type": "Most Frequent Build (46% win - 309 games)"
+      "type": "Most Frequent Build (47% win - 229 games)"
     },
     {
       "items": [
@@ -93,22 +68,22 @@
         },
         {
           "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3091"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 308 games)"
+      "type": "Highest Win Rate Build (49% win - 206 games)"
     },
     {
       "items": [
@@ -174,7 +149,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (48% win - 3065 games)"
+      "type": "QWE -> QWE (48% win - 2114 games)"
     },
     {
       "items": [
@@ -199,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (48% win - 3065 games)"
+      "type": "QWQE -> QWE (50% win - 923 games)"
     }
   ],
   "champion": "Trundle",
@@ -209,6 +184,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.8",
+  "title": "Top 5.10",
   "type": "custom"
 }

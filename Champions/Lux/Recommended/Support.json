@@ -29,16 +29,12 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 507 games)"
+      "type": "Most Frequent Starters (46% win - 508 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 2,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -58,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 179 games)"
+      "type": "Highest Win Rate Starters (53% win - 221 games)"
     },
     {
       "items": [
@@ -76,21 +72,21 @@
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3285"
         },
         {
-          "count": 2,
-          "id": "3089"
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3023"
         }
       ],
-      "type": "Most Frequent Build (46% win - 152 games)"
+      "type": "Most Frequent Build (46% win - 126 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
         {
           "count": 1,
           "id": "3041"
@@ -101,18 +97,22 @@
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
           "id": "3285"
         },
         {
           "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "2049"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 103 games)"
+      "type": "Highest Win Rate Build (48% win - 56 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EQW (48% win - 898 games)"
+      "type": "EQW -> EQW (46% win - 914 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEEW -> EQW (52% win - 183 games)"
+      "type": "EQEW -> EQW (50% win - 401 games)"
     }
   ],
   "champion": "Lux",
@@ -213,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.8",
+  "title": "Support 5.10",
   "type": "custom"
 }

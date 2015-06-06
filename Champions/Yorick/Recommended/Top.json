@@ -25,16 +25,12 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 962 games)"
+      "type": "Most Frequent Starters (51% win - 716 games)"
     },
     {
       "items": [
         {
-          "count": 2,
-          "id": "2003"
-        },
-        {
-          "count": 1,
+          "count": 3,
           "id": "2004"
         },
         {
@@ -54,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 698 games)"
+      "type": "Highest Win Rate Starters (54% win - 172 games)"
     },
     {
       "items": [
@@ -76,20 +72,20 @@
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3083"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3156"
         }
       ],
-      "type": "Most Frequent Build (49% win - 210 games)"
+      "type": "Most Frequent Build (49% win - 166 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3004"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -97,22 +93,22 @@
         },
         {
           "count": 1,
+          "id": "3004"
+        },
+        {
+          "count": 1,
+          "id": "3156"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
           "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3025"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 205 games)"
+      "type": "Highest Win Rate Build (51% win - 52 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (47% win - 584 games)"
+      "type": "EQW -> EQW (55% win - 391 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEW -> EQW (51% win - 230 games)"
+      "type": "EQW -> EQW (55% win - 391 games)"
     }
   ],
   "champion": "Yorick",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.8",
+  "title": "Top 5.10",
   "type": "custom"
 }

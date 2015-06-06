@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 2444 games)"
+      "type": "Most Frequent Starters (50% win - 1467 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1036"
         },
         {
-          "count": 1,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 2444 games)"
+      "type": "Highest Win Rate Starters (52% win - 324 games)"
     },
     {
       "items": [
@@ -72,20 +72,24 @@
         },
         {
           "count": 1,
-          "id": "3087"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (51% win - 153 games)"
+      "type": "Most Frequent Build (49% win - 87 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3031"
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3142"
         },
         {
           "count": 1,
@@ -93,19 +97,15 @@
         },
         {
           "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
           "id": "3035"
         },
         {
           "count": 1,
-          "id": "3153"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3102"
         }
       ],
       "type": "Highest Win Rate Build (52% win - 56 games)"
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (47% win - 461 games)"
+      "type": "EQW -> QEW (51% win - 288 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQQW -> QWE (60% win - 139 games)"
+      "type": "EQW -> EQW (54% win - 163 games)"
     }
   ],
   "champion": "Quinn",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.8",
+  "title": "Top 5.10",
   "type": "custom"
 }

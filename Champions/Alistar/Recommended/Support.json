@@ -29,25 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 4881 games)"
+      "type": "Most Frequent Starters (49% win - 9971 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 1,
+          "count": 4,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "2044"
-        },
-        {
-          "count": 1,
-          "id": "3302"
+          "id": "3301"
         },
         {
           "count": 1,
@@ -62,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 309 games)"
+      "type": "Highest Win Rate Starters (55% win - 458 games)"
     },
     {
       "items": [
@@ -91,7 +83,7 @@
           "id": "3190"
         }
       ],
-      "type": "Most Frequent Build (45% win - 3260 games)"
+      "type": "Most Frequent Build (46% win - 5949 games)"
     },
     {
       "items": [
@@ -105,11 +97,11 @@
         },
         {
           "count": 1,
-          "id": "3401"
+          "id": "3800"
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3401"
         },
         {
           "count": 1,
@@ -117,10 +109,10 @@
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3190"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 514 games)"
+      "type": "Highest Win Rate Build (48% win - 828 games)"
     },
     {
       "items": [
@@ -186,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (48% win - 5069 games)"
+      "type": "QWE -> QWE (48% win - 8839 games)"
     },
     {
       "items": [
@@ -211,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (50% win - 261 games)"
+      "type": "QWQE -> QWE (50% win - 406 games)"
     }
   ],
   "champion": "Alistar",
@@ -221,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.8",
+  "title": "Support 5.10",
   "type": "custom"
 }
