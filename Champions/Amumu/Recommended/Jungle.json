@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 36987 games)"
+      "type": "Most Frequent Starters (52% win - 33312 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 36987 games)"
+      "type": "Highest Win Rate Starters (52% win - 33312 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (52% win - 1238 games)"
+      "type": "Most Frequent Build (51% win - 1138 games)"
     },
     {
       "items": [
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
           "id": "3110"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3102"
+        },
+        {
+          "count": 1,
+          "id": "3151"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 710 games)"
+      "type": "Highest Win Rate Build (54% win - 788 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (52% win - 6043 games)"
+      "type": "EWQ -> EWQ (54% win - 5350 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (55% win - 2226 games)"
+      "type": "WEQ -> QEW (54% win - 409 games)"
     }
   ],
   "champion": "Amumu",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.10",
+  "title": "Jungle 5.11",
   "type": "custom"
 }

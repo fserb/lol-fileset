@@ -29,16 +29,12 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 3352 games)"
+      "type": "Most Frequent Starters (54% win - 4117 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -47,7 +43,7 @@
         },
         {
           "count": 1,
-          "id": "3301"
+          "id": "3303"
         },
         {
           "count": 1,
@@ -62,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 196 games)"
+      "type": "Highest Win Rate Starters (56% win - 154 games)"
     },
     {
       "items": [
@@ -72,26 +68,26 @@
         },
         {
           "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
           "id": "3069"
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3110"
         },
         {
           "count": 1,
           "id": "3504"
-        },
-        {
-          "count": 1,
-          "id": "3222"
-        },
-        {
-          "count": 1,
-          "id": "3190"
         }
       ],
-      "type": "Most Frequent Build (53% win - 842 games)"
+      "type": "Most Frequent Build (51% win - 928 games)"
     },
     {
       "items": [
@@ -120,7 +116,7 @@
           "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 840 games)"
+      "type": "Highest Win Rate Build (54% win - 922 games)"
     },
     {
       "items": [
@@ -186,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (53% win - 3288 games)"
+      "type": "WQE -> WQE (52% win - 3721 games)"
     },
     {
       "items": [
@@ -211,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (58% win - 122 games)"
+      "type": "WEWQ -> WEQ (57% win - 132 games)"
     }
   ],
   "champion": "Soraka",
@@ -221,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.10",
+  "title": "Support 5.11",
   "type": "custom"
 }

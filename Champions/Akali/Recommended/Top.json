@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 1634 games)"
+      "type": "Most Frequent Starters (50% win - 1254 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1001"
         },
         {
-          "count": 1,
+          "count": 4,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 201 games)"
+      "type": "Highest Win Rate Starters (54% win - 674 games)"
     },
     {
       "items": [
@@ -68,7 +68,7 @@
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "3089"
         },
         {
           "count": 1,
@@ -79,7 +79,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (50% win - 357 games)"
+      "type": "Most Frequent Build (52% win - 316 games)"
     },
     {
       "items": [
@@ -89,15 +89,11 @@
         },
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
           "id": "3020"
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "3157"
         },
         {
           "count": 1,
@@ -106,9 +102,13 @@
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 205 games)"
+      "type": "Highest Win Rate Build (52% win - 316 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 1305 games)"
+      "type": "QEW -> QEW (49% win - 966 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (57% win - 423 games)"
+      "type": "EQW -> QEW (57% win - 121 games)"
     }
   ],
   "champion": "Akali",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.10",
+  "title": "Top 5.11",
   "type": "custom"
 }

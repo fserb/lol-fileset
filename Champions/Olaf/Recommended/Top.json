@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1342 games)"
+      "type": "Most Frequent Starters (50% win - 1242 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 1342 games)"
+      "type": "Highest Win Rate Starters (50% win - 1242 games)"
     },
     {
       "items": [
@@ -60,7 +60,7 @@
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3153"
         },
         {
           "count": 1,
@@ -72,14 +72,14 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3022"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3142"
         }
       ],
-      "type": "Most Frequent Build (44% win - 112 games)"
+      "type": "Most Frequent Build (43% win - 105 games)"
     },
     {
       "items": [
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3156"
+          "id": "3075"
         },
         {
           "count": 1,
           "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3156"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 78 games)"
+      "type": "Highest Win Rate Build (49% win - 73 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (46% win - 620 games)"
+      "type": "QEQW -> QEW (52% win - 608 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEEW -> EQW (51% win - 304 games)"
+      "type": "QEQW -> QEW (52% win - 608 games)"
     }
   ],
   "champion": "Olaf",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.10",
+  "title": "Top 5.11",
   "type": "custom"
 }

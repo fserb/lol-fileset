@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 381 games)"
+      "type": "Most Frequent Starters (51% win - 384 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 381 games)"
+      "type": "Highest Win Rate Starters (51% win - 384 games)"
     },
     {
       "items": [
@@ -72,39 +72,43 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3089"
         },
         {
           "count": 1,
           "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (53% win - 53 games)"
+      "type": "Most Frequent Build (49% win - 50 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3174"
-        },
         {
           "count": 1,
           "id": "3111"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3174"
         },
         {
-          "count": 2,
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
           "id": "3001"
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3068"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 29 games)"
+      "type": "Highest Win Rate Build (52% win - 31 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (56% win - 183 games)"
+      "type": "QEW -> QEW (54% win - 158 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (56% win - 183 games)"
+      "type": "QEW -> QEW (54% win - 158 games)"
     }
   ],
   "champion": "Galio",
@@ -205,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.10",
+  "title": "Top 5.11",
   "type": "custom"
 }

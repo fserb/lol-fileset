@@ -25,32 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 2284 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1029"
-        },
-        {
-          "count": 5,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Highest Win Rate Starters (56% win - 125 games)"
+      "type": "Most Frequent Starters (51% win - 3559 games)"
     },
     {
       "items": [
@@ -76,10 +51,10 @@
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3035"
         }
       ],
-      "type": "Most Frequent Build (49% win - 164 games)"
+      "type": "Most Frequent Build (51% win - 265 games)"
     },
     {
       "items": [
@@ -93,7 +68,7 @@
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3143"
         },
         {
           "count": 1,
@@ -101,14 +76,14 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 135 games)"
+      "type": "Highest Win Rate Build (51% win - 265 games)"
     },
     {
       "items": [
@@ -174,7 +149,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (51% win - 639 games)"
+      "type": "EWQ -> EWQ (54% win - 1044 games)"
     },
     {
       "items": [
@@ -199,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WEQ (57% win - 126 games)"
+      "type": "EWQ -> EQW (66% win - 159 games)"
     }
   ],
   "champion": "Aatrox",
@@ -209,6 +184,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.10",
+  "title": "Top 5.11",
   "type": "custom"
 }

@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 1326 games)"
+      "type": "Most Frequent Starters (50% win - 1411 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1052"
+          "id": "1001"
         },
         {
-          "count": 1,
+          "count": 4,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 178 games)"
+      "type": "Highest Win Rate Starters (52% win - 476 games)"
     },
     {
       "items": [
@@ -76,20 +76,16 @@
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3152"
         }
       ],
-      "type": "Most Frequent Build (47% win - 174 games)"
+      "type": "Most Frequent Build (49% win - 194 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3020"
+          "id": "3001"
         },
         {
           "count": 1,
@@ -97,18 +93,22 @@
         },
         {
           "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
           "id": "3089"
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3151"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 61 games)"
+      "type": "Highest Win Rate Build (52% win - 84 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (50% win - 971 games)"
+      "type": "QWE -> QWE (52% win - 1004 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (50% win - 971 games)"
+      "type": "WQE -> WQE (59% win - 148 games)"
     }
   ],
   "champion": "Kennen",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.10",
+  "title": "Middle 5.11",
   "type": "custom"
 }

@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 15986 games)"
+      "type": "Most Frequent Starters (49% win - 19798 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 15986 games)"
+      "type": "Highest Win Rate Starters (49% win - 19798 games)"
     },
     {
       "items": [
@@ -72,20 +72,24 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3071"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (47% win - 774 games)"
+      "type": "Most Frequent Build (49% win - 974 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3707"
+          "id": "3723"
+        },
+        {
+          "count": 1,
+          "id": "3117"
         },
         {
           "count": 1,
@@ -97,18 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3071"
         },
         {
           "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3102"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 394 games)"
+      "type": "Highest Win Rate Build (50% win - 602 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (R:QEW) (46% win - 5654 games)"
+      "type": "QWE -> QWE (R:QEW) (47% win - 7069 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (R:QEW) (48% win - 219 games)"
+      "type": "QEW -> QWE (R:QEW) (52% win - 323 games)"
     }
   ],
   "champion": "Khazix",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.10",
+  "title": "Jungle 5.11",
   "type": "custom"
 }

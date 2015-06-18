@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (43% win - 4536 games)"
+      "type": "Most Frequent Starters (45% win - 4267 games)"
     },
     {
       "items": [
@@ -34,8 +34,12 @@
           "id": "1056"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 2255 games)"
+      "type": "Highest Win Rate Starters (49% win - 319 games)"
     },
     {
       "items": [
@@ -79,13 +83,13 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (43% win - 573 games)"
+      "type": "Most Frequent Build (44% win - 558 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3165"
+          "id": "3174"
         },
         {
           "count": 1,
@@ -105,10 +109,10 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 164 games)"
+      "type": "Highest Win Rate Build (48% win - 236 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (45% win - 2563 games)"
+      "type": "QEW -> QEW (48% win - 2510 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (48% win - 700 games)"
+      "type": "QEW -> QEW (48% win - 2510 games)"
     }
   ],
   "champion": "Syndra",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.10",
+  "title": "Middle 5.11",
   "type": "custom"
 }

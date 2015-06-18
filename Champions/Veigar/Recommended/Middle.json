@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1877 games)"
+      "type": "Most Frequent Starters (49% win - 2061 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 173 games)"
+      "type": "Highest Win Rate Starters (57% win - 224 games)"
     },
     {
       "items": [
@@ -79,13 +79,13 @@
           "id": "3285"
         }
       ],
-      "type": "Most Frequent Build (49% win - 170 games)"
+      "type": "Most Frequent Build (50% win - 204 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3285"
+          "id": "3165"
         },
         {
           "count": 1,
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3003"
-        },
-        {
-          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
           "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 64 games)"
+      "type": "Highest Win Rate Build (50% win - 201 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (52% win - 660 games)"
+      "type": "QEQW -> QEW (55% win - 849 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (53% win - 203 games)"
+      "type": "QWQE -> QEW (55% win - 131 games)"
     }
   ],
   "champion": "Veigar",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.10",
+  "title": "Middle 5.11",
   "type": "custom"
 }

@@ -29,17 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 5450 games)"
+      "type": "Most Frequent Starters (50% win - 5066 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
+          "count": 2,
+          "id": "2003"
         },
         {
-          "count": 4,
-          "id": "2003"
+          "count": 2,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 267 games)"
+      "type": "Highest Win Rate Starters (53% win - 487 games)"
     },
     {
       "items": [
@@ -87,7 +87,7 @@
           "id": "3110"
         }
       ],
-      "type": "Most Frequent Build (49% win - 2258 games)"
+      "type": "Most Frequent Build (50% win - 2099 games)"
     },
     {
       "items": [
@@ -116,7 +116,7 @@
           "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 999 games)"
+      "type": "Highest Win Rate Build (50% win - 953 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WEQ (50% win - 5132 games)"
+      "type": "WQE -> WEQ (50% win - 4991 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEWQ -> WEQ (52% win - 224 games)"
+      "type": "EWQ -> WEQ (54% win - 200 games)"
     }
   ],
   "champion": "Nami",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.10",
+  "title": "Support 5.11",
   "type": "custom"
 }

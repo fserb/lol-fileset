@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (42% win - 1626 games)"
+      "type": "Most Frequent Starters (45% win - 2784 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (46% win - 243 games)"
+      "type": "Highest Win Rate Starters (48% win - 434 games)"
     },
     {
       "items": [
@@ -72,17 +72,21 @@
         },
         {
           "count": 1,
-          "id": "3153"
+          "id": "3102"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3153"
         }
       ],
-      "type": "Most Frequent Build (40% win - 198 games)"
+      "type": "Most Frequent Build (42% win - 190 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3153"
+        },
         {
           "count": 1,
           "id": "3068"
@@ -90,10 +94,6 @@
         {
           "count": 1,
           "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3153"
         },
         {
           "count": 1,
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3091"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 100 games)"
+      "type": "Highest Win Rate Build (49% win - 88 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (42% win - 1450 games)"
+      "type": "WEQ -> WEQ (47% win - 2327 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WQE (44% win - 350 games)"
+      "type": "WEWQ -> WEQ (51% win - 146 games)"
     }
   ],
   "champion": "Shyvana",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.10",
+  "title": "Top 5.11",
   "type": "custom"
 }

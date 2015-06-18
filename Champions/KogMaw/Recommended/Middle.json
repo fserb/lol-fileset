@@ -25,17 +25,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 2341 games)"
+      "type": "Most Frequent Starters (52% win - 2770 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "1056"
-        },
-        {
           "count": 2,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
+        },
+        {
+          "count": 1,
+          "id": "2041"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 2341 games)"
+      "type": "Highest Win Rate Starters (57% win - 361 games)"
     },
     {
       "items": [
@@ -79,7 +83,7 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (50% win - 974 games)"
+      "type": "Most Frequent Build (51% win - 1226 games)"
     },
     {
       "items": [
@@ -89,11 +93,11 @@
         },
         {
           "count": 1,
-          "id": "3003"
+          "id": "3020"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3003"
         },
         {
           "count": 1,
@@ -105,10 +109,10 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 504 games)"
+      "type": "Highest Win Rate Build (51% win - 1226 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EQW (50% win - 1155 games)"
+      "type": "EWQ -> EQW (52% win - 1442 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEEQ -> EQW (57% win - 555 games)"
+      "type": "QEW -> EQW (58% win - 124 games)"
     }
   ],
   "champion": "KogMaw",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.10",
+  "title": "Middle 5.11",
   "type": "custom"
 }
