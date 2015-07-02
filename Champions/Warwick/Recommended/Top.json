@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 495 games)"
+      "type": "Most Frequent Starters (48% win - 351 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1054"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -50,36 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 495 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3022"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        }
-      ],
-      "type": "Most Frequent Build (44% win - 57 games)"
+      "type": "Highest Win Rate Starters (51% win - 228 games)"
     },
     {
       "items": [
@@ -97,7 +68,7 @@
         },
         {
           "count": 1,
-          "id": "3022"
+          "id": "3065"
         },
         {
           "count": 1,
@@ -108,7 +79,36 @@
           "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 56 games)"
+      "type": "Most Frequent Build (45% win - 45 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3068"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3091"
+        }
+      ],
+      "type": "Highest Win Rate Build (50% win - 29 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (45% win - 329 games)"
+      "type": "QWQE -> QWE (46% win - 281 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (58% win - 133 games)"
+      "type": "QWQE -> QWE (46% win - 281 games)"
     }
   ],
   "champion": "Warwick",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.11",
+  "title": "Top 5.12",
   "type": "custom"
 }

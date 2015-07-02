@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (44% win - 3362 games)"
+      "type": "Most Frequent Starters (44% win - 2118 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (45% win - 1478 games)"
+      "type": "Highest Win Rate Starters (44% win - 2118 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3100"
         }
       ],
-      "type": "Most Frequent Build (42% win - 958 games)"
+      "type": "Most Frequent Build (41% win - 597 games)"
     },
     {
       "items": [
@@ -108,7 +108,7 @@
           "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 478 games)"
+      "type": "Highest Win Rate Build (45% win - 301 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (44% win - 2248 games)"
+      "type": "QWE -> QEW (44% win - 1312 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (46% win - 1330 games)"
+      "type": "QWE -> EQW (46% win - 164 games)"
     }
   ],
   "champion": "Kassadin",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.11",
+  "title": "Middle 5.12",
   "type": "custom"
 }

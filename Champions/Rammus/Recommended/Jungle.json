@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 6758 games)"
+      "type": "Most Frequent Starters (51% win - 5295 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 6758 games)"
+      "type": "Highest Win Rate Starters (51% win - 5295 games)"
     },
     {
       "items": [
@@ -72,14 +72,14 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3110"
         }
       ],
-      "type": "Most Frequent Build (46% win - 329 games)"
+      "type": "Most Frequent Build (49% win - 263 games)"
     },
     {
       "items": [
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3111"
+          "id": "3143"
         },
         {
           "count": 1,
           "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3111"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 176 games)"
+      "type": "Highest Win Rate Build (53% win - 150 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> EWQ (50% win - 1739 games)"
+      "type": "WQE -> EWQ (52% win - 1307 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> EWQ (55% win - 228 games)"
+      "type": "WQE -> EWQ (60% win - 176 games)"
     }
   ],
   "champion": "Rammus",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.11",
+  "title": "Jungle 5.12",
   "type": "custom"
 }

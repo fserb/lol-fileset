@@ -29,21 +29,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 12408 games)"
+      "type": "Most Frequent Starters (48% win - 9601 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 3,
+          "count": 2,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "3301"
+          "id": "2044"
+        },
+        {
+          "count": 1,
+          "id": "3302"
         },
         {
           "count": 1,
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 932 games)"
+      "type": "Highest Win Rate Starters (49% win - 1882 games)"
     },
     {
       "items": [
@@ -87,17 +87,17 @@
           "id": "3190"
         }
       ],
-      "type": "Most Frequent Build (47% win - 7481 games)"
+      "type": "Most Frequent Build (47% win - 5981 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
+          "id": "2049"
         },
         {
           "count": 1,
-          "id": "2049"
+          "id": "3117"
         },
         {
           "count": 1,
@@ -109,14 +109,14 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 1370 games)"
+      "type": "Highest Win Rate Build (47% win - 5918 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (48% win - 11074 games)"
+      "type": "QWE -> QWE (47% win - 9213 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (52% win - 528 games)"
+      "type": "QWQE -> QWE (50% win - 454 games)"
     }
   ],
   "champion": "Alistar",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.11",
+  "title": "Support 5.12",
   "type": "custom"
 }

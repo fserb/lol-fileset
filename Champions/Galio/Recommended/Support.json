@@ -29,21 +29,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (41% win - 29 games)"
+      "type": "Most Frequent Starters (42% win - 35 games)"
     },
     {
       "items": [
-        {
-          "count": 2,
-          "id": "2004"
-        },
         {
           "count": 2,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "3301"
+          "id": "2004"
+        },
+        {
+          "count": 1,
+          "id": "3302"
         },
         {
           "count": 1,
@@ -58,7 +58,65 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (47% win - 21 games)"
+      "type": "Highest Win Rate Starters (46% win - 32 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3069"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        }
+      ],
+      "type": "Most Frequent Build (48% win - 28 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3069"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        }
+      ],
+      "type": "Highest Win Rate Build (48% win - 27 games)"
     },
     {
       "items": [
@@ -124,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (49% win - 55 games)"
+      "type": "QEW -> QEW (50% win - 63 games)"
     },
     {
       "items": [
@@ -149,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (71% win - 21 games)"
+      "type": "QEW -> QWE (60% win - 25 games)"
     }
   ],
   "champion": "Galio",

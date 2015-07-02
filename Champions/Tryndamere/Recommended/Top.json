@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 8881 games)"
+      "type": "Most Frequent Starters (53% win - 8234 games)"
     },
     {
       "items": [
@@ -34,11 +34,7 @@
           "id": "1036"
         },
         {
-          "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 4,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -54,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 373 games)"
+      "type": "Highest Win Rate Starters (54% win - 5452 games)"
     },
     {
       "items": [
@@ -80,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3072"
         }
       ],
-      "type": "Most Frequent Build (51% win - 1179 games)"
+      "type": "Most Frequent Build (52% win - 1080 games)"
     },
     {
       "items": [
@@ -93,11 +89,11 @@
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3087"
         },
         {
           "count": 1,
-          "id": "3087"
+          "id": "3006"
         },
         {
           "count": 1,
@@ -109,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 1167 games)"
+      "type": "Highest Win Rate Build (54% win - 637 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQQW -> QEW (55% win - 3434 games)"
+      "type": "EQQW -> QEW (56% win - 2928 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> QEW (58% win - 167 games)"
+      "type": "EQQW -> QEW (56% win - 2928 games)"
     }
   ],
   "champion": "Tryndamere",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.11",
+  "title": "Top 5.12",
   "type": "custom"
 }

@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 11545 games)"
+      "type": "Most Frequent Starters (49% win - 9018 games)"
     },
     {
       "items": [
@@ -34,8 +34,12 @@
           "id": "1029"
         },
         {
-          "count": 5,
+          "count": 4,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 4885 games)"
+      "type": "Highest Win Rate Starters (52% win - 1140 games)"
     },
     {
       "items": [
@@ -79,7 +83,7 @@
           "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (49% win - 1826 games)"
+      "type": "Most Frequent Build (48% win - 1508 games)"
     },
     {
       "items": [
@@ -89,11 +93,11 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3078"
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -101,14 +105,14 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 1620 games)"
+      "type": "Highest Win Rate Build (52% win - 750 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (51% win - 3873 games)"
+      "type": "QEW -> QEW (49% win - 3146 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQW -> QWE (55% win - 159 games)"
+      "type": "QWQW -> QWE (59% win - 137 games)"
     }
   ],
   "champion": "Nasus",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.11",
+  "title": "Top 5.12",
   "type": "custom"
 }

@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 3640 games)"
+      "type": "Most Frequent Starters (48% win - 2765 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 3640 games)"
+      "type": "Highest Win Rate Starters (48% win - 2765 games)"
     },
     {
       "items": [
@@ -79,7 +79,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (47% win - 314 games)"
+      "type": "Most Frequent Build (46% win - 263 games)"
     },
     {
       "items": [
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 291 games)"
+      "type": "Highest Win Rate Build (50% win - 248 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (47% win - 983 games)"
+      "type": "QEW -> QEW (50% win - 743 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQQW -> QEW (56% win - 204 games)"
+      "type": "EQQW -> QEW (58% win - 137 games)"
     }
   ],
   "champion": "Quinn",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.11",
+  "title": "ADC 5.12",
   "type": "custom"
 }

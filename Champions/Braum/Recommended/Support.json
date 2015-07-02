@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 6178 games)"
+      "type": "Most Frequent Starters (51% win - 7372 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "2004"
         },
         {
-          "count": 2,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -54,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 620 games)"
+      "type": "Highest Win Rate Starters (52% win - 4947 games)"
     },
     {
       "items": [
@@ -83,7 +83,7 @@
           "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (49% win - 3016 games)"
+      "type": "Most Frequent Build (50% win - 3236 games)"
     },
     {
       "items": [
@@ -109,10 +109,10 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 2182 games)"
+      "type": "Highest Win Rate Build (51% win - 2266 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 12172 games)"
+      "type": "QEW -> QEW (51% win - 12959 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 12172 games)"
+      "type": "QWE -> QEW (53% win - 1295 games)"
     }
   ],
   "champion": "Braum",
@@ -213,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.11",
+  "title": "Support 5.12",
   "type": "custom"
 }

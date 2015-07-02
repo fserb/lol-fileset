@@ -25,21 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 10793 games)"
+      "type": "Most Frequent Starters (54% win - 9014 games)"
     },
     {
       "items": [
         {
+          "count": 1,
+          "id": "1056"
+        },
+        {
           "count": 2,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 1,
-          "id": "2041"
         },
         {
           "count": 1,
@@ -54,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 1132 games)"
+      "type": "Highest Win Rate Starters (54% win - 1979 games)"
     },
     {
       "items": [
@@ -80,17 +76,13 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3100"
         }
       ],
-      "type": "Most Frequent Build (51% win - 1415 games)"
+      "type": "Most Frequent Build (51% win - 1253 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3001"
-        },
         {
           "count": 1,
           "id": "3285"
@@ -101,18 +93,22 @@
         },
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
           "id": "3089"
         },
         {
           "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3100"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 549 games)"
+      "type": "Highest Win Rate Build (55% win - 337 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (53% win - 6563 games)"
+      "type": "QWE -> QWE (53% win - 5660 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQW -> QWE (59% win - 301 games)"
+      "type": "WQQE -> QWE (55% win - 1573 games)"
     }
   ],
   "champion": "Diana",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.11",
+  "title": "Middle 5.12",
   "type": "custom"
 }

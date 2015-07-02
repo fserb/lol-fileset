@@ -29,13 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 340 games)"
+      "type": "Most Frequent Starters (52% win - 391 games)"
     },
     {
       "items": [
         {
-          "count": 4,
+          "count": 2,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -54,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 131 games)"
+      "type": "Highest Win Rate Starters (55% win - 156 games)"
     },
     {
       "items": [
@@ -76,14 +80,14 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3023"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (45% win - 131 games)"
+      "type": "Most Frequent Build (50% win - 132 games)"
     },
     {
       "items": [
@@ -97,22 +101,22 @@
         },
         {
           "count": 1,
-          "id": "3222"
+          "id": "3158"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3003"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 41 games)"
+      "type": "Highest Win Rate Build (54% win - 83 games)"
     },
     {
       "items": [
@@ -178,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (45% win - 267 games)"
+      "type": "QWQE -> QWE (50% win - 269 games)"
     },
     {
       "items": [
@@ -203,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (50% win - 247 games)"
+      "type": "QWE -> QWE (55% win - 201 games)"
     }
   ],
   "champion": "Zilean",
@@ -213,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.11",
+  "title": "Support 5.12",
   "type": "custom"
 }

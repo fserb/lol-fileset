@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 7911 games)"
+      "type": "Most Frequent Starters (48% win - 6516 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 7911 games)"
+      "type": "Highest Win Rate Starters (48% win - 6516 games)"
     },
     {
       "items": [
@@ -68,7 +68,7 @@
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3153"
         },
         {
           "count": 1,
@@ -79,7 +79,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (49% win - 1134 games)"
+      "type": "Most Frequent Build (48% win - 892 games)"
     },
     {
       "items": [
@@ -89,15 +89,15 @@
         },
         {
           "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
           "id": "3031"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3153"
         },
         {
           "count": 1,
@@ -108,7 +108,7 @@
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 1134 games)"
+      "type": "Highest Win Rate Build (49% win - 363 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (47% win - 2736 games)"
+      "type": "QEW -> QEW (47% win - 1984 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEEW -> EQW (54% win - 541 games)"
+      "type": "EQEW -> EQW (51% win - 326 games)"
     }
   ],
   "champion": "Yasuo",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.11",
+  "title": "Top 5.12",
   "type": "custom"
 }

@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 696 games)"
+      "type": "Most Frequent Starters (53% win - 791 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 696 games)"
+      "type": "Highest Win Rate Starters (53% win - 791 games)"
     },
     {
       "items": [
@@ -68,18 +68,18 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3091"
+        },
+        {
+          "count": 1,
+          "id": "3172"
         },
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3085"
         }
       ],
-      "type": "Most Frequent Build (51% win - 32 games)"
+      "type": "Most Frequent Build (54% win - 28 games)"
     },
     {
       "items": [
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3091"
+        },
+        {
+          "count": 1,
+          "id": "3172"
         },
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3085"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 32 games)"
+      "type": "Highest Win Rate Build (54% win - 28 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EQW (48% win - 143 games)"
+      "type": "EWQ -> EQW (53% win - 191 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EQW (48% win - 143 games)"
+      "type": "EWQ -> EQW (53% win - 191 games)"
     }
   ],
   "champion": "Kayle",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.11",
+  "title": "Jungle 5.12",
   "type": "custom"
 }

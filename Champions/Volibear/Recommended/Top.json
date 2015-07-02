@@ -25,17 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 1975 games)"
+      "type": "Most Frequent Starters (49% win - 1738 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "1029"
+          "count": 3,
+          "id": "2003"
         },
         {
-          "count": 5,
-          "id": "2003"
+          "count": 1,
+          "id": "2041"
         },
         {
           "count": 1,
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 309 games)"
+      "type": "Highest Win Rate Starters (51% win - 207 games)"
     },
     {
       "items": [
@@ -65,35 +65,10 @@
         {
           "count": 1,
           "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3143"
         },
         {
           "count": 1,
           "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3091"
-        }
-      ],
-      "type": "Most Frequent Build (46% win - 151 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3068"
         },
         {
           "count": 1,
@@ -101,14 +76,39 @@
         },
         {
           "count": 1,
+          "id": "3143"
+        }
+      ],
+      "type": "Most Frequent Build (47% win - 136 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3068"
+        },
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
           "id": "3075"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3022"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 85 games)"
+      "type": "Highest Win Rate Build (49% win - 58 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (47% win - 743 games)"
+      "type": "WEQ -> WEQ (50% win - 585 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> WEQ (53% win - 123 games)"
+      "type": "WEQ -> WEQ (50% win - 585 games)"
     }
   ],
   "champion": "Volibear",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.11",
+  "title": "Top 5.12",
   "type": "custom"
 }

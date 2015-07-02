@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1152 games)"
+      "type": "Most Frequent Starters (52% win - 1137 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1055"
         },
         {
-          "count": 3,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 492 games)"
+      "type": "Highest Win Rate Starters (52% win - 1137 games)"
     },
     {
       "items": [
@@ -79,7 +79,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (49% win - 170 games)"
+      "type": "Most Frequent Build (48% win - 166 games)"
     },
     {
       "items": [
@@ -100,12 +100,8 @@
           "id": "3031"
         },
         {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3035"
+          "count": 2,
+          "id": "3046"
         }
       ],
       "type": "Highest Win Rate Build (51% win - 82 games)"
@@ -174,7 +170,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (51% win - 967 games)"
+      "type": "QEW -> QEW (48% win - 844 games)"
     },
     {
       "items": [
@@ -199,7 +195,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (51% win - 517 games)"
+      "type": "QEQW -> QEW (52% win - 479 games)"
     }
   ],
   "champion": "MasterYi",
@@ -209,6 +205,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.11",
+  "title": "Top 5.12",
   "type": "custom"
 }

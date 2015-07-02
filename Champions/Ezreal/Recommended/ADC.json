@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 51649 games)"
+      "type": "Most Frequent Starters (48% win - 32184 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 51649 games)"
+      "type": "Highest Win Rate Starters (48% win - 32184 games)"
     },
     {
       "items": [
@@ -68,28 +68,32 @@
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3153"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3035"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (46% win - 2778 games)"
+      "type": "Most Frequent Build (46% win - 2174 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3004"
+        },
         {
           "count": 1,
           "id": "3078"
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -102,13 +106,9 @@
         {
           "count": 1,
           "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 2061 games)"
+      "type": "Highest Win Rate Build (49% win - 1638 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (48% win - 25897 games)"
+      "type": "QEQW -> QEW (48% win - 15224 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQE -> QEW (49% win - 3992 games)"
+      "type": "QEQE -> QEW (49% win - 2628 games)"
     }
   ],
   "champion": "Ezreal",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.11",
+  "title": "ADC 5.12",
   "type": "custom"
 }

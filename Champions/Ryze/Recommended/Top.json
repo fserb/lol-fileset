@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 7808 games)"
+      "type": "Most Frequent Starters (48% win - 3913 games)"
     },
     {
       "items": [
@@ -54,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 375 games)"
+      "type": "Highest Win Rate Starters (53% win - 233 games)"
     },
     {
       "items": [
@@ -69,10 +69,6 @@
         {
           "count": 1,
           "id": "3003"
-        },
-        {
-          "count": 1,
-          "id": "3135"
         },
         {
           "count": 1,
@@ -80,10 +76,14 @@
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (47% win - 3402 games)"
+      "type": "Most Frequent Build (48% win - 1344 games)"
     },
     {
       "items": [
@@ -93,11 +93,11 @@
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3003"
         },
         {
           "count": 1,
-          "id": "3003"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -105,14 +105,14 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 3391 games)"
+      "type": "Highest Win Rate Build (50% win - 856 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> WQE (50% win - 5340 games)"
+      "type": "QWE -> QWE (48% win - 3056 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> WQE (57% win - 331 games)"
+      "type": "EQW -> QWE (59% win - 158 games)"
     }
   ],
   "champion": "Ryze",
@@ -213,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.11",
+  "title": "Top 5.12",
   "type": "custom"
 }

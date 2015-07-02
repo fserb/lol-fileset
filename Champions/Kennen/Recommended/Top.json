@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 4117 games)"
+      "type": "Most Frequent Starters (50% win - 3222 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1029"
+          "id": "1001"
         },
         {
-          "count": 5,
+          "count": 4,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 349 games)"
+      "type": "Highest Win Rate Starters (54% win - 344 games)"
     },
     {
       "items": [
@@ -72,20 +72,20 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3151"
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "3285"
         }
       ],
-      "type": "Most Frequent Build (51% win - 475 games)"
+      "type": "Most Frequent Build (51% win - 399 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3001"
+          "id": "3157"
         },
         {
           "count": 1,
@@ -93,7 +93,7 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
         },
         {
           "count": 1,
@@ -101,14 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3151"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 189 games)"
+      "type": "Highest Win Rate Build (51% win - 399 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (50% win - 1810 games)"
+      "type": "QWE -> QWE (50% win - 1440 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> WQE (55% win - 520 games)"
+      "type": "QWE -> WQE (51% win - 349 games)"
     }
   ],
   "champion": "Kennen",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.11",
+  "title": "Top 5.12",
   "type": "custom"
 }

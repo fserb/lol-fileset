@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 22334 games)"
+      "type": "Most Frequent Starters (48% win - 17672 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 22334 games)"
+      "type": "Highest Win Rate Starters (48% win - 17672 games)"
     },
     {
       "items": [
@@ -72,20 +72,24 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (46% win - 547 games)"
+      "type": "Most Frequent Build (46% win - 471 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3709"
+          "id": "3707"
+        },
+        {
+          "count": 1,
+          "id": "3117"
         },
         {
           "count": 1,
@@ -93,22 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
           "id": "3143"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3102"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3035"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 194 games)"
+      "type": "Highest Win Rate Build (50% win - 444 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> QEW (49% win - 9177 games)"
+      "type": "EQW -> QEW (49% win - 7406 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> QEW (49% win - 9177 games)"
+      "type": "QEQW -> QEW (50% win - 318 games)"
     }
   ],
   "champion": "JarvanIV",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.11",
+  "title": "Jungle 5.12",
   "type": "custom"
 }

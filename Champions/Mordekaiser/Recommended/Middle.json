@@ -6,31 +6,6 @@
       "items": [
         {
           "count": 1,
-          "id": "1054"
-        },
-        {
-          "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Most Frequent Starters (51% win - 1202 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
           "id": "1001"
         },
         {
@@ -50,7 +25,32 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 1196 games)"
+      "type": "Most Frequent Starters (52% win - 1045 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "1029"
+        },
+        {
+          "count": 5,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ],
+      "type": "Highest Win Rate Starters (57% win - 140 games)"
     },
     {
       "items": [
@@ -61,10 +61,6 @@
         {
           "count": 1,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3285"
         },
         {
           "count": 1,
@@ -76,35 +72,39 @@
         },
         {
           "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (49% win - 181 games)"
+      "type": "Most Frequent Build (47% win - 129 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3285"
+          "id": "3152"
         },
         {
           "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 2,
           "id": "3020"
         },
         {
           "count": 1,
-          "id": "3152"
-        },
-        {
-          "count": 2,
-          "id": "3135"
+          "id": "3157"
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 49 games)"
+      "type": "Highest Win Rate Build (53% win - 59 games)"
     },
     {
       "items": [
@@ -170,7 +170,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEW -> EQW (53% win - 926 games)"
+      "type": "EQW -> EQW (48% win - 749 games)"
     },
     {
       "items": [
@@ -195,7 +195,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWEQ -> EWQ (57% win - 190 games)"
+      "type": "EWQ -> EWQ (54% win - 159 games)"
     }
   ],
   "champion": "Mordekaiser",
@@ -205,6 +205,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.11",
+  "title": "Middle 5.12",
   "type": "custom"
 }

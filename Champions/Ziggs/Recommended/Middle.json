@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 8796 games)"
+      "type": "Most Frequent Starters (50% win - 6085 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 6030 games)"
+      "type": "Highest Win Rate Starters (51% win - 3796 games)"
     },
     {
       "items": [
@@ -79,13 +79,13 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (48% win - 1733 games)"
+      "type": "Most Frequent Build (48% win - 1096 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3174"
+          "id": "3165"
         },
         {
           "count": 1,
@@ -108,7 +108,7 @@
           "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 1034 games)"
+      "type": "Highest Win Rate Build (53% win - 272 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 6278 games)"
+      "type": "QEW -> QEW (51% win - 4182 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (53% win - 1813 games)"
+      "type": "QWQE -> QEW (52% win - 1255 games)"
     }
   ],
   "champion": "Ziggs",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.11",
+  "title": "Middle 5.12",
   "type": "custom"
 }
