@@ -29,17 +29,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (45% win - 509 games)"
+      "type": "Most Frequent Starters (49% win - 451 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "1056"
         },
         {
           "count": 1,
@@ -58,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 221 games)"
+      "type": "Highest Win Rate Starters (55% win - 145 games)"
     },
     {
       "items": [
@@ -80,17 +76,21 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (44% win - 147 games)"
+      "type": "Most Frequent Build (47% win - 131 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
         {
           "count": 1,
           "id": "3041"
@@ -101,22 +101,18 @@
         },
         {
           "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
           "id": "3089"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3165"
         },
         {
           "count": 1,
-          "id": "3025"
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 64 games)"
+      "type": "Highest Win Rate Build (51% win - 108 games)"
     },
     {
       "items": [
@@ -182,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EQW (45% win - 863 games)"
+      "type": "EQW -> EQW (49% win - 870 games)"
     },
     {
       "items": [
@@ -207,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEEW -> EQW (57% win - 175 games)"
+      "type": "QEW -> EQW (53% win - 447 games)"
     }
   ],
   "champion": "Lux",
@@ -217,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.11",
+  "title": "Support 5.12",
   "type": "custom"
 }

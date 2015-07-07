@@ -6,10 +6,10 @@
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1056"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -25,12 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (45% win - 2474 games)"
+      "type": "Most Frequent Starters (46% win - 5172 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 1,
+          "id": "2004"
+        },
+        {
+          "count": 2,
           "id": "2003"
         },
         {
@@ -50,36 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (47% win - 132 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3004"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3072"
-        }
-      ],
-      "type": "Most Frequent Build (43% win - 298 games)"
+      "type": "Highest Win Rate Starters (50% win - 187 games)"
     },
     {
       "items": [
@@ -108,7 +83,36 @@
           "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 277 games)"
+      "type": "Most Frequent Build (45% win - 979 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3724"
+        },
+        {
+          "count": 1,
+          "id": "3285"
+        },
+        {
+          "count": 1,
+          "id": "3158"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        }
+      ],
+      "type": "Highest Win Rate Build (48% win - 505 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (48% win - 1401 games)"
+      "type": "QEQW -> QEW (47% win - 3034 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (48% win - 1401 games)"
+      "type": "WQE -> WQE (50% win - 204 games)"
     }
   ],
   "champion": "Ezreal",
