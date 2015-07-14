@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 7692 games)"
+      "type": "Most Frequent Starters (50% win - 7567 games)"
     },
     {
       "items": [
@@ -34,8 +34,8 @@
           "id": "1039"
         },
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "1056"
         },
         {
           "count": 1,
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 7692 games)"
+      "type": "Highest Win Rate Starters (52% win - 289 games)"
     },
     {
       "items": [
@@ -79,36 +79,36 @@
           "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (49% win - 159 games)"
+      "type": "Most Frequent Build (48% win - 361 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3724"
+          "id": "3726"
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "3153"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3091"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3110"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 121 games)"
+      "type": "Highest Win Rate Build (52% win - 134 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WEQ (50% win - 1746 games)"
+      "type": "WQE -> WEQ (53% win - 1837 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQWE -> WEQ (59% win - 155 games)"
+      "type": "WQE -> WEQ (53% win - 1837 games)"
     }
   ],
   "champion": "Fizz",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.12",
+  "title": "Jungle 5.13",
   "type": "custom"
 }

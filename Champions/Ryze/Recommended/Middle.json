@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 952 games)"
+      "type": "Most Frequent Starters (45% win - 780 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "1027"
         },
         {
-          "count": 3,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 138 games)"
+      "type": "Highest Win Rate Starters (50% win - 584 games)"
     },
     {
       "items": [
@@ -65,6 +65,10 @@
         {
           "count": 1,
           "id": "3003"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         },
         {
           "count": 1,
@@ -72,14 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3157"
+          "id": "3116"
         }
       ],
-      "type": "Most Frequent Build (48% win - 418 games)"
+      "type": "Most Frequent Build (47% win - 473 games)"
     },
     {
       "items": [
@@ -94,10 +94,6 @@
         {
           "count": 1,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3089"
         },
         {
           "count": 1,
@@ -106,9 +102,13 @@
         {
           "count": 1,
           "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 297 games)"
+      "type": "Highest Win Rate Build (50% win - 297 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (50% win - 921 games)"
+      "type": "QWE -> QWE (48% win - 1069 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (57% win - 246 games)"
+      "type": "QEW -> QWE (51% win - 126 games)"
     }
   ],
   "champion": "Ryze",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.12",
+  "title": "Middle 5.13",
   "type": "custom"
 }

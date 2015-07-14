@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 12529 games)"
+      "type": "Most Frequent Starters (53% win - 4648 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "1039"
         },
         {
-          "count": 3,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 995 games)"
+      "type": "Highest Win Rate Starters (53% win - 4648 games)"
     },
     {
       "items": [
@@ -72,24 +72,24 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (52% win - 239 games)"
+      "type": "Most Frequent Build (50% win - 108 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3725"
+          "id": "3721"
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "2049"
         },
         {
           "count": 1,
@@ -108,7 +108,7 @@
           "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (58% win - 177 games)"
+      "type": "Highest Win Rate Build (57% win - 37 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (55% win - 1355 games)"
+      "type": "QEW -> EQW (56% win - 523 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> EQW (58% win - 131 games)"
+      "type": "QEW -> EWQ (60% win - 256 games)"
     }
   ],
   "champion": "Nunu",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.12",
+  "title": "Jungle 5.13",
   "type": "custom"
 }

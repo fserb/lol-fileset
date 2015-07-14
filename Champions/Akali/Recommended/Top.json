@@ -25,13 +25,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 1631 games)"
+      "type": "Most Frequent Starters (50% win - 942 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1054"
         },
         {
           "count": 1,
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 283 games)"
+      "type": "Highest Win Rate Starters (57% win - 238 games)"
     },
     {
       "items": [
@@ -79,7 +79,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (52% win - 426 games)"
+      "type": "Most Frequent Build (52% win - 252 games)"
     },
     {
       "items": [
@@ -89,11 +89,11 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3020"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3157"
         },
         {
           "count": 1,
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 235 games)"
+      "type": "Highest Win Rate Build (52% win - 252 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 1238 games)"
+      "type": "QEW -> QEW (50% win - 794 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (60% win - 552 games)"
+      "type": "QWQE -> QEW (55% win - 349 games)"
     }
   ],
   "champion": "Akali",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.12",
+  "title": "Top 5.13",
   "type": "custom"
 }

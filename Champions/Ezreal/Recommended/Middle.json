@@ -25,21 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 5172 games)"
+      "type": "Most Frequent Starters (52% win - 15332 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2004"
+          "id": "1056"
         },
         {
           "count": 2,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2041"
         },
         {
           "count": 1,
@@ -54,13 +50,13 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 187 games)"
+      "type": "Highest Win Rate Starters (52% win - 15332 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3716"
+          "id": "3724"
         },
         {
           "count": 1,
@@ -72,18 +68,18 @@
         },
         {
           "count": 1,
-          "id": "3003"
-        },
-        {
-          "count": 1,
           "id": "3089"
         },
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (45% win - 979 games)"
+      "type": "Most Frequent Build (49% win - 3663 games)"
     },
     {
       "items": [
@@ -112,7 +108,7 @@
           "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 505 games)"
+      "type": "Highest Win Rate Build (52% win - 2743 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (47% win - 3034 games)"
+      "type": "QWE -> QWE (51% win - 6161 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (50% win - 204 games)"
+      "type": "QEQW -> QEW (52% win - 3554 games)"
     }
   ],
   "champion": "Ezreal",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.12",
+  "title": "Middle 5.13",
   "type": "custom"
 }

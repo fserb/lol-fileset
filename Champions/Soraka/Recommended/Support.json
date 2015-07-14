@@ -29,16 +29,12 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 5399 games)"
+      "type": "Most Frequent Starters (54% win - 4562 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -62,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 213 games)"
+      "type": "Highest Win Rate Starters (54% win - 515 games)"
     },
     {
       "items": [
@@ -88,20 +84,20 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (52% win - 1196 games)"
+      "type": "Most Frequent Build (51% win - 1069 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2049"
+          "id": "3041"
         },
         {
           "count": 1,
-          "id": "3069"
+          "id": "2049"
         },
         {
           "count": 1,
@@ -109,18 +105,18 @@
         },
         {
           "count": 1,
+          "id": "3069"
+        },
+        {
+          "count": 1,
           "id": "3504"
         },
         {
           "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3190"
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 1188 games)"
+      "type": "Highest Win Rate Build (54% win - 135 games)"
     },
     {
       "items": [
@@ -186,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (52% win - 4825 games)"
+      "type": "WQE -> WQE (52% win - 3917 games)"
     },
     {
       "items": [
@@ -211,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWWE -> WQE (56% win - 215 games)"
+      "type": "WQE -> QWE (56% win - 258 games)"
     }
   ],
   "champion": "Soraka",
@@ -221,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.12",
+  "title": "Support 5.13",
   "type": "custom"
 }

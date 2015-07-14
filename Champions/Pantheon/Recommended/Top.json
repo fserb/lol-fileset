@@ -29,10 +29,14 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2568 games)"
+      "type": "Most Frequent Starters (52% win - 1655 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1036"
+        },
         {
           "count": 1,
           "id": "2003"
@@ -40,10 +44,6 @@
         {
           "count": 2,
           "id": "2004"
-        },
-        {
-          "count": 1,
-          "id": "2041"
         },
         {
           "count": 1,
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 1262 games)"
+      "type": "Highest Win Rate Starters (57% win - 344 games)"
     },
     {
       "items": [
@@ -80,14 +80,14 @@
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (49% win - 328 games)"
+      "type": "Most Frequent Build (51% win - 264 games)"
     },
     {
       "items": [
@@ -101,11 +101,11 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -116,7 +116,7 @@
           "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 242 games)"
+      "type": "Highest Win Rate Build (53% win - 183 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (49% win - 3070 games)"
+      "type": "QWE -> QEW (51% win - 2031 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (57% win - 212 games)"
+      "type": "QWE -> EQW (58% win - 177 games)"
     }
   ],
   "champion": "Pantheon",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.12",
+  "title": "Top 5.13",
   "type": "custom"
 }

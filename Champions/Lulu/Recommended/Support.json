@@ -29,16 +29,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 6191 games)"
+      "type": "Most Frequent Starters (52% win - 3615 games)"
     },
     {
       "items": [
         {
-          "count": 2,
+          "count": 1,
           "id": "2004"
         },
         {
-          "count": 2,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 496 games)"
+      "type": "Highest Win Rate Starters (53% win - 581 games)"
     },
     {
       "items": [
@@ -84,28 +84,24 @@
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3110"
         }
       ],
-      "type": "Most Frequent Build (48% win - 1731 games)"
+      "type": "Most Frequent Build (48% win - 1008 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
-        {
-          "count": 1,
-          "id": "3092"
-        },
         {
           "count": 1,
           "id": "3117"
         },
         {
           "count": 1,
-          "id": "3222"
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3069"
         },
         {
           "count": 1,
@@ -113,10 +109,14 @@
         },
         {
           "count": 1,
-          "id": "3504"
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 948 games)"
+      "type": "Highest Win Rate Build (51% win - 132 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (49% win - 4719 games)"
+      "type": "QEW -> QEW (50% win - 2684 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> EWQ (52% win - 301 games)"
+      "type": "EQQW -> QEW (55% win - 205 games)"
     }
   ],
   "champion": "Lulu",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.12",
+  "title": "Support 5.13",
   "type": "custom"
 }

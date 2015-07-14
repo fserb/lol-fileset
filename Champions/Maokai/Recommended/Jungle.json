@@ -25,13 +25,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 7594 games)"
+      "type": "Most Frequent Starters (47% win - 2934 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
+          "id": "1056"
         },
         {
           "count": 2,
@@ -50,36 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 7594 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3725"
-        },
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        }
-      ],
-      "type": "Most Frequent Build (49% win - 441 games)"
+      "type": "Highest Win Rate Starters (50% win - 170 games)"
     },
     {
       "items": [
@@ -108,7 +79,36 @@
           "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 434 games)"
+      "type": "Most Frequent Build (44% win - 165 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3709"
+        },
+        {
+          "count": 1,
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        }
+      ],
+      "type": "Highest Win Rate Build (50% win - 55 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> QWE (51% win - 3577 games)"
+      "type": "EQW -> QWE (49% win - 1335 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> QWE (51% win - 3577 games)"
+      "type": "EQW -> QWE (49% win - 1335 games)"
     }
   ],
   "champion": "Maokai",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.12",
+  "title": "Jungle 5.13",
   "type": "custom"
 }

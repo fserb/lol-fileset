@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 4749 games)"
+      "type": "Most Frequent Starters (52% win - 3405 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 213 games)"
+      "type": "Highest Win Rate Starters (55% win - 158 games)"
     },
     {
       "items": [
@@ -72,14 +72,14 @@
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3072"
         }
       ],
-      "type": "Most Frequent Build (52% win - 751 games)"
+      "type": "Most Frequent Build (51% win - 503 games)"
     },
     {
       "items": [
@@ -89,26 +89,26 @@
         },
         {
           "count": 1,
-          "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
           "id": "3142"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3035"
+        },
+        {
+          "count": 1,
+          "id": "3071"
         },
         {
           "count": 1,
           "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 557 games)"
+      "type": "Highest Win Rate Build (54% win - 320 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WEQ (54% win - 1534 games)"
+      "type": "WQE -> WEQ (55% win - 1021 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (60% win - 486 games)"
+      "type": "QWE -> WQE (58% win - 128 games)"
     }
   ],
   "champion": "Fiora",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.12",
+  "title": "Top 5.13",
   "type": "custom"
 }

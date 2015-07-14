@@ -25,17 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1040 games)"
+      "type": "Most Frequent Starters (50% win - 539 games)"
     },
     {
       "items": [
         {
-          "count": 2,
-          "id": "2003"
-        },
-        {
           "count": 1,
           "id": "2004"
+        },
+        {
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -76,14 +76,14 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (50% win - 495 games)"
+      "type": "Most Frequent Build (52% win - 333 games)"
     },
     {
       "items": [
@@ -93,11 +93,11 @@
         },
         {
           "count": 1,
-          "id": "3401"
+          "id": "3047"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3401"
         },
         {
           "count": 1,
@@ -105,14 +105,14 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 426 games)"
+      "type": "Highest Win Rate Build (53% win - 293 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> WQE (50% win - 443 games)"
+      "type": "EWQ -> WQE (55% win - 262 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WQE (53% win - 410 games)"
+      "type": "EWQ -> WQE (55% win - 262 games)"
     }
   ],
   "champion": "Taric",
@@ -213,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.12",
+  "title": "Support 5.13",
   "type": "custom"
 }

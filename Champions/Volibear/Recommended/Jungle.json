@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 18793 games)"
+      "type": "Most Frequent Starters (49% win - 7306 games)"
     },
     {
       "items": [
@@ -50,13 +50,42 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 18793 games)"
+      "type": "Highest Win Rate Starters (49% win - 7306 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "3709"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3083"
+        }
+      ],
+      "type": "Most Frequent Build (47% win - 229 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3717"
         },
         {
           "count": 1,
@@ -79,36 +108,7 @@
           "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (51% win - 583 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3709"
-        },
-        {
-          "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        }
-      ],
-      "type": "Highest Win Rate Build (51% win - 583 games)"
+      "type": "Highest Win Rate Build (51% win - 144 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (52% win - 5660 games)"
+      "type": "WEQ -> WEQ (50% win - 2093 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (53% win - 217 games)"
+      "type": "WEQ -> WEQ (50% win - 2093 games)"
     }
   ],
   "champion": "Volibear",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.12",
+  "title": "Jungle 5.13",
   "type": "custom"
 }

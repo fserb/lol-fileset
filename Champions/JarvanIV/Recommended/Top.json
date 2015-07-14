@@ -25,21 +25,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 3885 games)"
+      "type": "Most Frequent Starters (50% win - 2820 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 1,
+          "id": "1036"
+        },
+        {
+          "count": 2,
           "id": "2003"
         },
         {
           "count": 1,
           "id": "2004"
-        },
-        {
-          "count": 1,
-          "id": "2041"
         },
         {
           "count": 1,
@@ -54,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 175 games)"
+      "type": "Highest Win Rate Starters (55% win - 234 games)"
     },
     {
       "items": [
@@ -76,14 +76,14 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3035"
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (49% win - 462 games)"
+      "type": "Most Frequent Build (51% win - 360 games)"
     },
     {
       "items": [
@@ -93,11 +93,15 @@
         },
         {
           "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
           "id": "3071"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3156"
         },
         {
           "count": 1,
@@ -105,14 +109,10 @@
         },
         {
           "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3072"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 313 games)"
+      "type": "Highest Win Rate Build (51% win - 343 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (48% win - 3013 games)"
+      "type": "QEW -> QEW (50% win - 2372 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QWE (52% win - 504 games)"
+      "type": "QEQW -> QWE (56% win - 366 games)"
     }
   ],
   "champion": "JarvanIV",
@@ -213,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.12",
+  "title": "Top 5.13",
   "type": "custom"
 }

@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 3500 games)"
+      "type": "Most Frequent Starters (50% win - 2686 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1001"
+          "id": "1055"
         },
         {
-          "count": 4,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (64% win - 248 games)"
+      "type": "Highest Win Rate Starters (50% win - 2686 games)"
     },
     {
       "items": [
@@ -72,14 +72,14 @@
         },
         {
           "count": 1,
-          "id": "3068"
+          "id": "3156"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3142"
         }
       ],
-      "type": "Most Frequent Build (50% win - 383 games)"
+      "type": "Most Frequent Build (47% win - 393 games)"
     },
     {
       "items": [
@@ -101,14 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3156"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3190"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 351 games)"
+      "type": "Highest Win Rate Build (50% win - 342 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (51% win - 5356 games)"
+      "type": "QWE -> QWE (49% win - 4131 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QWE (56% win - 761 games)"
+      "type": "QWQE -> QWE (52% win - 1000 games)"
     }
   ],
   "champion": "Darius",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.12",
+  "title": "Top 5.13",
   "type": "custom"
 }

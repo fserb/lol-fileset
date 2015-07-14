@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 9000 games)"
+      "type": "Most Frequent Starters (51% win - 7549 games)"
     },
     {
       "items": [
@@ -50,36 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 957 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3100"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        }
-      ],
-      "type": "Most Frequent Build (51% win - 915 games)"
+      "type": "Highest Win Rate Starters (53% win - 638 games)"
     },
     {
       "items": [
@@ -108,7 +79,36 @@
           "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 897 games)"
+      "type": "Most Frequent Build (52% win - 990 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3158"
+        },
+        {
+          "count": 1,
+          "id": "3100"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3285"
+        }
+      ],
+      "type": "Highest Win Rate Build (52% win - 990 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (53% win - 8744 games)"
+      "type": "WQE -> QWE (52% win - 7786 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> QWE (55% win - 1288 games)"
+      "type": "WEQ -> QWE (57% win - 1086 games)"
     }
   ],
   "champion": "TwistedFate",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.12",
+  "title": "Middle 5.13",
   "type": "custom"
 }

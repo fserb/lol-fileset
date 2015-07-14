@@ -29,21 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 5782 games)"
+      "type": "Most Frequent Starters (50% win - 3063 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "2004"
-        },
-        {
-          "count": 1,
-          "id": "2044"
         },
         {
           "count": 1,
@@ -62,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 203 games)"
+      "type": "Highest Win Rate Starters (56% win - 347 games)"
     },
     {
       "items": [
@@ -88,20 +84,20 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3023"
         }
       ],
-      "type": "Most Frequent Build (48% win - 2236 games)"
+      "type": "Most Frequent Build (48% win - 1283 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2049"
+          "id": "3092"
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "2049"
         },
         {
           "count": 1,
@@ -113,14 +109,14 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3023"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 1066 games)"
+      "type": "Highest Win Rate Build (52% win - 150 games)"
     },
     {
       "items": [
@@ -186,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WEQ (49% win - 5269 games)"
+      "type": "WQE -> WEQ (50% win - 2874 games)"
     },
     {
       "items": [
@@ -211,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> EWQ (55% win - 194 games)"
+      "type": "WQE -> EWQ (55% win - 129 games)"
     }
   ],
   "champion": "Nami",
@@ -221,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.12",
+  "title": "Support 5.13",
   "type": "custom"
 }

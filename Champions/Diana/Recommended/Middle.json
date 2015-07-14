@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 12577 games)"
+      "type": "Most Frequent Starters (52% win - 9785 games)"
     },
     {
       "items": [
@@ -34,8 +34,12 @@
           "id": "1056"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 2732 games)"
+      "type": "Highest Win Rate Starters (54% win - 482 games)"
     },
     {
       "items": [
@@ -79,7 +83,7 @@
           "id": "3100"
         }
       ],
-      "type": "Most Frequent Build (51% win - 1775 games)"
+      "type": "Most Frequent Build (49% win - 1302 games)"
     },
     {
       "items": [
@@ -108,7 +112,7 @@
           "id": "3100"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 486 games)"
+      "type": "Highest Win Rate Build (53% win - 499 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (52% win - 7861 games)"
+      "type": "QWE -> QWE (51% win - 6743 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQQE -> QWE (55% win - 2167 games)"
+      "type": "QWQE -> QWE (53% win - 5596 games)"
     }
   ],
   "champion": "Diana",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.12",
+  "title": "Middle 5.13",
   "type": "custom"
 }

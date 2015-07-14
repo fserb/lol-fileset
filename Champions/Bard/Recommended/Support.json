@@ -29,12 +29,12 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 8251 games)"
+      "type": "Most Frequent Starters (49% win - 3646 games)"
     },
     {
       "items": [
         {
-          "count": 4,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -54,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 1751 games)"
+      "type": "Highest Win Rate Starters (57% win - 130 games)"
     },
     {
       "items": [
@@ -83,17 +83,21 @@
           "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (46% win - 2448 games)"
+      "type": "Most Frequent Build (45% win - 1309 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2049"
+          "id": "3117"
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "3092"
+        },
+        {
+          "count": 1,
+          "id": "2049"
         },
         {
           "count": 1,
@@ -101,18 +105,14 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3110"
         },
         {
           "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3092"
+          "id": "3001"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 714 games)"
+      "type": "Highest Win Rate Build (50% win - 148 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (48% win - 7662 games)"
+      "type": "QWE -> QWE (46% win - 3601 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (49% win - 5120 games)"
+      "type": "QWQE -> QEW (52% win - 884 games)"
     }
   ],
   "champion": "Bard",
@@ -213,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.12",
+  "title": "Support 5.13",
   "type": "custom"
 }

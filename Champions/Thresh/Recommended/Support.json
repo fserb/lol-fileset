@@ -25,16 +25,12 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 35410 games)"
+      "type": "Most Frequent Starters (51% win - 22653 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 3,
+          "count": 4,
           "id": "2003"
         },
         {
@@ -54,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 33158 games)"
+      "type": "Highest Win Rate Starters (51% win - 22653 games)"
     },
     {
       "items": [
@@ -83,10 +79,14 @@
           "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (49% win - 21152 games)"
+      "type": "Most Frequent Build (50% win - 14317 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3117"
+        },
         {
           "count": 1,
           "id": "2049"
@@ -97,22 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
           "id": "3190"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3222"
+        },
+        {
+          "count": 1,
+          "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 7107 games)"
+      "type": "Highest Win Rate Build (50% win - 2319 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EQW (50% win - 26697 games)"
+      "type": "EQW -> EQW (50% win - 17909 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEW -> EQW (51% win - 1377 games)"
+      "type": "QEW -> EQW (51% win - 5475 games)"
     }
   ],
   "champion": "Thresh",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.12",
+  "title": "Support 5.13",
   "type": "custom"
 }

@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 4656 games)"
+      "type": "Most Frequent Starters (51% win - 3321 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1001"
+          "id": "1029"
         },
         {
-          "count": 4,
+          "count": 5,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 475 games)"
+      "type": "Highest Win Rate Starters (52% win - 278 games)"
     },
     {
       "items": [
@@ -72,24 +72,28 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (51% win - 568 games)"
+      "type": "Most Frequent Build (50% win - 396 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3157"
+          "id": "3001"
         },
         {
           "count": 1,
           "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         },
         {
           "count": 1,
@@ -101,14 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3026"
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 565 games)"
+      "type": "Highest Win Rate Build (52% win - 148 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (51% win - 2078 games)"
+      "type": "QWE -> QWE (51% win - 1512 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (51% win - 2078 games)"
+      "type": "QWE -> WQE (54% win - 373 games)"
     }
   ],
   "champion": "Kennen",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.12",
+  "title": "Top 5.13",
   "type": "custom"
 }

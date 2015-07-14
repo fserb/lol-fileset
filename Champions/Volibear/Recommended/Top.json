@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 2461 games)"
+      "type": "Most Frequent Starters (50% win - 1736 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1029"
         },
         {
-          "count": 1,
+          "count": 5,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 441 games)"
+      "type": "Highest Win Rate Starters (51% win - 286 games)"
     },
     {
       "items": [
@@ -76,16 +76,16 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (47% win - 200 games)"
+      "type": "Most Frequent Build (46% win - 162 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3068"
+          "id": "3153"
         },
         {
           "count": 1,
@@ -93,22 +93,22 @@
         },
         {
           "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3075"
         },
         {
           "count": 1,
           "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 187 games)"
+      "type": "Highest Win Rate Build (51% win - 43 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (49% win - 832 games)"
+      "type": "WQE -> WQE (44% win - 578 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> WQE (50% win - 161 games)"
+      "type": "EWQ -> WEQ (52% win - 140 games)"
     }
   ],
   "champion": "Volibear",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.12",
+  "title": "Top 5.13",
   "type": "custom"
 }

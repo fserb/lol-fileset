@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 4359 games)"
+      "type": "Most Frequent Starters (43% win - 2945 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1029"
         },
         {
-          "count": 1,
+          "count": 5,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (47% win - 4359 games)"
+      "type": "Highest Win Rate Starters (46% win - 705 games)"
     },
     {
       "items": [
@@ -72,21 +72,17 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (45% win - 291 games)"
+      "type": "Most Frequent Build (41% win - 209 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3068"
-        },
         {
           "count": 1,
           "id": "3153"
@@ -97,18 +93,22 @@
         },
         {
           "count": 1,
+          "id": "3068"
+        },
+        {
+          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 180 games)"
+      "type": "Highest Win Rate Build (45% win - 184 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (49% win - 2927 games)"
+      "type": "WEQ -> WEQ (45% win - 1605 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WEQ (50% win - 280 games)"
+      "type": "WQE -> WEQ (46% win - 325 games)"
     }
   ],
   "champion": "Shyvana",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.12",
+  "title": "Top 5.13",
   "type": "custom"
 }

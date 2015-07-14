@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 4220 games)"
+      "type": "Most Frequent Starters (49% win - 2834 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 4220 games)"
+      "type": "Highest Win Rate Starters (49% win - 2834 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3046"
         }
       ],
-      "type": "Most Frequent Build (51% win - 776 games)"
+      "type": "Most Frequent Build (49% win - 535 games)"
     },
     {
       "items": [
@@ -89,15 +89,11 @@
         },
         {
           "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
           "id": "3153"
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3006"
         },
         {
           "count": 1,
@@ -105,10 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3035"
+        },
+        {
+          "count": 1,
+          "id": "3046"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 776 games)"
+      "type": "Highest Win Rate Build (49% win - 169 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (50% win - 689 games)"
+      "type": "WQE -> WQE (46% win - 407 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEWQ -> WQE (54% win - 218 games)"
+      "type": "WEWQ -> WEQ (52% win - 322 games)"
     }
   ],
   "champion": "KogMaw",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.12",
+  "title": "ADC 5.13",
   "type": "custom"
 }

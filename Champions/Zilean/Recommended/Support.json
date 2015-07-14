@@ -29,7 +29,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 594 games)"
+      "type": "Most Frequent Starters (51% win - 341 games)"
     },
     {
       "items": [
@@ -43,7 +43,7 @@
         },
         {
           "count": 1,
-          "id": "3301"
+          "id": "3303"
         },
         {
           "count": 1,
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 158 games)"
+      "type": "Highest Win Rate Starters (51% win - 341 games)"
     },
     {
       "items": [
@@ -84,10 +84,10 @@
         },
         {
           "count": 1,
-          "id": "3512"
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (52% win - 195 games)"
+      "type": "Most Frequent Build (50% win - 120 games)"
     },
     {
       "items": [
@@ -97,11 +97,11 @@
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "3158"
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "3092"
         },
         {
           "count": 1,
@@ -109,14 +109,14 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3023"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 117 games)"
+      "type": "Highest Win Rate Build (50% win - 120 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (50% win - 394 games)"
+      "type": "QWE -> QEW (52% win - 243 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (55% win - 301 games)"
+      "type": "QWE -> QEW (52% win - 243 games)"
     }
   ],
   "champion": "Zilean",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.12",
+  "title": "Support 5.13",
   "type": "custom"
 }
