@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 1129 games)"
+      "type": "Most Frequent Starters (51% win - 1345 games)"
     },
     {
       "items": [
@@ -50,7 +50,36 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 1129 games)"
+      "type": "Highest Win Rate Starters (51% win - 1345 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3710"
+        },
+        {
+          "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3158"
+        },
+        {
+          "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3142"
+        }
+      ],
+      "type": "Most Frequent Build (51% win - 39 games)"
     },
     {
       "items": [
@@ -79,36 +108,7 @@
           "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (54% win - 34 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3710"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3009"
-        },
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3102"
-        }
-      ],
-      "type": "Highest Win Rate Build (54% win - 34 games)"
+      "type": "Highest Win Rate Build (53% win - 38 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (50% win - 285 games)"
+      "type": "QWE -> QWE (50% win - 321 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 144 games)"
+      "type": "QWE -> QWE (50% win - 321 games)"
     }
   ],
   "champion": "Poppy",

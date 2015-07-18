@@ -40,6 +40,32 @@ def getItems(obj):
   return out
 
 
+def getRunes(champ, role, obj):
+  r = obj['mostGames']['runes']
+  if os.path.isfile('runes.json'):
+    js = json.load(open("runes.json", 'rt'))
+  else:
+    js = {}
+  js['%s/%s' % (champ, role)] = [ x['name'] for x in r ]
+  json.dump(js, open(os.path.join('runes.json'), 'wt'), 
+    sort_keys=True, indent=2)
+
+
+def getMasteries(champ, role, obj):
+  points = {}
+  for row in obj['mostGames']['masteries']:
+    for d in row['data'].values():
+      for m in d:
+        if m['mastery']:
+          points[m['mastery']] = m['points']
+  if os.path.isfile('masteries.json'):
+    js = json.load(open("masteries.json", 'rt'))
+  else:
+    js = {}
+  js['%s/%s' % (champ, role)] = [ points[x] for x in sorted(points) ]
+  json.dump(js, open(os.path.join('masteries.json'), 'wt'), 
+    sort_keys=True, indent=2)
+
 def getSkills(obj):
 
   seq = "".join(" QWER"[int(x[0])] for x in obj["order"])
@@ -77,6 +103,9 @@ def buildSet(champ, role, outdir):
     content = re.findall('matchupData.championData = (.*?);\n',
                          s.text, re.DOTALL)[0]
     obj = json.loads(content)
+
+    getRunes(champ, role, obj['runes'])
+    getMasteries(champ, role, obj['masteries'])
 
     out = {
       "map" : "any",
@@ -160,7 +189,7 @@ def buildSet(champ, role, outdir):
 
 
 def main(args):
-  # buildSet("Galio", "Support", "tmp")
+  # buildSet("Swain", "Middle", "tmp")
   # return 0
 
   if len(args) < 2:
