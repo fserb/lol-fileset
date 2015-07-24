@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 2086 games)"
+      "type": "Most Frequent Starters (47% win - 2389 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 250 games)"
+      "type": "Highest Win Rate Starters (53% win - 294 games)"
     },
     {
       "items": [
@@ -65,6 +65,35 @@
         {
           "count": 1,
           "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3100"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        }
+      ],
+      "type": "Most Frequent Build (45% win - 682 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3146"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3020"
         },
         {
           "count": 1,
@@ -79,36 +108,7 @@
           "id": "3100"
         }
       ],
-      "type": "Most Frequent Build (45% win - 604 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3146"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Highest Win Rate Build (48% win - 320 games)"
+      "type": "Highest Win Rate Build (48% win - 361 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (46% win - 2075 games)"
+      "type": "QEW -> QEW (46% win - 2352 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (50% win - 591 games)"
+      "type": "QEQW -> QEW (50% win - 685 games)"
     }
   ],
   "champion": "Akali",
