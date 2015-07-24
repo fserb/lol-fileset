@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 32938 games)"
+      "type": "Most Frequent Starters (50% win - 8086 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "2004"
         },
         {
-          "count": 3,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -54,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 30824 games)"
+      "type": "Highest Win Rate Starters (53% win - 381 games)"
     },
     {
       "items": [
@@ -80,39 +80,39 @@
         },
         {
           "count": 1,
-          "id": "3222"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (50% win - 20475 games)"
+      "type": "Most Frequent Build (46% win - 6336 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3401"
-        },
-        {
-          "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
         {
           "count": 1,
           "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3069"
+        },
+        {
+          "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3068"
+        },
+        {
+          "count": 1,
+          "id": "3504"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 20464 games)"
+      "type": "Highest Win Rate Build (51% win - 1587 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EQW (50% win - 25351 games)"
+      "type": "EQW -> EQW (49% win - 6272 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (50% win - 5583 games)"
+      "type": "EQW -> EWQ (49% win - 1896 games)"
     }
   ],
   "champion": "Thresh",
@@ -213,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.13",
+  "title": "Support 5.14",
   "type": "custom"
 }

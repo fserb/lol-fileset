@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (44% win - 897 games)"
+      "type": "Most Frequent Starters (44% win - 176 games)"
     },
     {
       "items": [
@@ -50,21 +50,25 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 757 games)"
+      "type": "Highest Win Rate Starters (51% win - 158 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3020"
-        },
         {
           "count": 1,
           "id": "3116"
         },
         {
           "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
           "id": "3003"
+        },
+        {
+          "count": 1,
+          "id": "3285"
         },
         {
           "count": 1,
@@ -72,14 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3102"
-        },
-        {
-          "count": 1,
-          "id": "3285"
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (43% win - 92 games)"
+      "type": "Most Frequent Build (48% win - 39 games)"
     },
     {
       "items": [
@@ -97,14 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3135"
         },
         {
-          "count": 2,
-          "id": "3135"
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 69 games)"
+      "type": "Highest Win Rate Build (49% win - 36 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEEW -> EQW (50% win - 692 games)"
+      "type": "QEEW -> EQW (53% win - 141 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEEW -> EQW (50% win - 692 games)"
+      "type": "QEEW -> EQW (53% win - 141 games)"
     }
   ],
   "champion": "Cassiopeia",
@@ -205,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.13",
+  "title": "Top 5.14",
   "type": "custom"
 }

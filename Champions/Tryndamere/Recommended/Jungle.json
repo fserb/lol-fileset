@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2814 games)"
+      "type": "Most Frequent Starters (47% win - 599 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 2814 games)"
+      "type": "Highest Win Rate Starters (47% win - 599 games)"
     },
     {
       "items": [
@@ -69,23 +69,31 @@
         {
           "count": 1,
           "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3046"
         },
         {
           "count": 1,
           "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3046"
         }
       ],
-      "type": "Most Frequent Build (47% win - 254 games)"
+      "type": "Most Frequent Build (46% win - 88 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3710"
+          "id": "3718"
+        },
+        {
+          "count": 1,
+          "id": "3046"
+        },
+        {
+          "count": 1,
+          "id": "3009"
         },
         {
           "count": 1,
@@ -93,22 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3071"
         },
         {
           "count": 1,
           "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3046"
-        },
-        {
-          "count": 1,
-          "id": "3139"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 130 games)"
+      "type": "Highest Win Rate Build (52% win - 31 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (53% win - 670 games)"
+      "type": "QEQW -> QEW (47% win - 151 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (53% win - 670 games)"
+      "type": "QEQW -> QEW (47% win - 151 games)"
     }
   ],
   "champion": "Tryndamere",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.13",
+  "title": "Jungle 5.14",
   "type": "custom"
 }

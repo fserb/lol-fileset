@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 8343 games)"
+      "type": "Most Frequent Starters (55% win - 1807 games)"
     },
     {
       "items": [
@@ -34,8 +34,12 @@
           "id": "1036"
         },
         {
-          "count": 3,
+          "count": 2,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 2792 games)"
+      "type": "Highest Win Rate Starters (59% win - 129 games)"
     },
     {
       "items": [
@@ -68,28 +72,32 @@
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3102"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (53% win - 1134 games)"
+      "type": "Most Frequent Build (54% win - 409 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3117"
+        },
         {
           "count": 1,
           "id": "3074"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3035"
         },
         {
           "count": 1,
@@ -97,18 +105,14 @@
         },
         {
           "count": 1,
-          "id": "3035"
-        },
-        {
-          "count": 1,
           "id": "3143"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3068"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 1134 games)"
+      "type": "Highest Win Rate Build (57% win - 219 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EQW (54% win - 7372 games)"
+      "type": "EQW -> EQW (57% win - 1730 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEW -> EQW (58% win - 1743 games)"
+      "type": "QEW -> EQW (63% win - 246 games)"
     }
   ],
   "champion": "MonkeyKing",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.13",
+  "title": "Top 5.14",
   "type": "custom"
 }

@@ -168,8 +168,9 @@
     "Greater Quintessence of Attack Speed"
   ],
   "Ekko/Jungle": [
-    "Greater Mark of Magic Penetration",
+    "Greater Mark of Attack Speed",
     "Greater Glyph of Magic Resist",
+    "Greater Glyph of Cooldown Reduction",
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
@@ -426,8 +427,8 @@
     "Greater Quintessence of Ability Power"
   ],
   "Kayle/Jungle": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Ability Power",
+    "Greater Mark of Magic Penetration",
+    "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
@@ -573,7 +574,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Quintessence of Attack Speed"
   ],
   "MonkeyKing/Jungle": [
     "Greater Mark of Attack Damage",
@@ -624,10 +625,10 @@
     "Greater Quintessence of Attack Damage"
   ],
   "Nautilus/Jungle": [
-    "Greater Mark of Magic Penetration",
+    "Greater Mark of Attack Speed",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
+    "Greater Quintessence of Movement Speed"
   ],
   "Nautilus/Support": [
     "Greater Mark of Armor",
@@ -705,7 +706,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Quintessence of Attack Speed"
   ],
   "Poppy/Top": [
     "Greater Mark of Attack Damage",
@@ -896,7 +897,7 @@
   "Taric/Support": [
     "Greater Mark of Armor",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Health",
+    "Greater Seal of Armor",
     "Greater Quintessence of Armor"
   ],
   "Teemo/Middle": [
@@ -927,7 +928,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Quintessence of Attack Speed"
   ],
   "Trundle/Top": [
     "Greater Mark of Attack Damage",
@@ -961,7 +962,7 @@
   ],
   "Udyr/Jungle": [
     "Greater Mark of Attack Speed",
-    "Greater Glyph of Magic Resist",
+    "Greater Glyph of Scaling Magic Resist",
     "Greater Glyph of Cooldown Reduction",
     "Greater Seal of Armor",
     "Greater Quintessence of Movement Speed"
@@ -1028,8 +1029,8 @@
   ],
   "Viktor/Middle": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Vladimir/Middle": [
@@ -1060,7 +1061,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Attack Damage"
   ],
   "Xerath/Middle": [
     "Greater Mark of Magic Penetration",

@@ -25,17 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (43% win - 2210 games)"
+      "type": "Most Frequent Starters (42% win - 464 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "1056"
+          "count": 3,
+          "id": "2003"
         },
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "2041"
         },
         {
           "count": 1,
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (43% win - 137 games)"
+      "type": "Highest Win Rate Starters (42% win - 464 games)"
     },
     {
       "items": [
@@ -72,28 +72,32 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (39% win - 585 games)"
+      "type": "Most Frequent Build (39% win - 171 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3027"
-        },
         {
           "count": 1,
           "id": "3285"
         },
         {
           "count": 1,
+          "id": "3100"
+        },
+        {
+          "count": 1,
           "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         },
         {
           "count": 1,
@@ -102,13 +106,9 @@
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 345 games)"
+      "type": "Highest Win Rate Build (45% win - 52 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (42% win - 1505 games)"
+      "type": "QWE -> QEW (40% win - 307 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> EQW (42% win - 203 games)"
+      "type": "QWQE -> QEW (46% win - 189 games)"
     }
   ],
   "champion": "Kassadin",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.13",
+  "title": "Middle 5.14",
   "type": "custom"
 }

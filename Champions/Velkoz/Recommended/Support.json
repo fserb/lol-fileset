@@ -29,17 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 889 games)"
+      "type": "Most Frequent Starters (50% win - 194 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2003"
+          "id": "2004"
         },
         {
-          "count": 1,
-          "id": "2044"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 145 games)"
+      "type": "Highest Win Rate Starters (50% win - 194 games)"
     },
     {
       "items": [
@@ -80,21 +80,17 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3285"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (49% win - 274 games)"
+      "type": "Most Frequent Build (47% win - 109 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
         {
           "count": 1,
           "id": "3020"
@@ -109,14 +105,18 @@
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3174"
+        },
+        {
+          "count": 1,
+          "id": "3092"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 266 games)"
+      "type": "Highest Win Rate Build (52% win - 51 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (50% win - 1258 games)"
+      "type": "QEW -> QWE (50% win - 305 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (51% win - 127 games)"
+      "type": "QWE -> QWE (50% win - 204 games)"
     }
   ],
   "champion": "Velkoz",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.13",
+  "title": "Support 5.14",
   "type": "custom"
 }

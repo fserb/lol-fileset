@@ -25,13 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 10049 games)"
+      "type": "Most Frequent Starters (51% win - 2681 games)"
     },
     {
       "items": [
         {
-          "count": 4,
+          "count": 2,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2044"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 462 games)"
+      "type": "Highest Win Rate Starters (56% win - 923 games)"
     },
     {
       "items": [
@@ -74,15 +78,19 @@
           "count": 1,
           "id": "3110"
         },
+        {
+          "count": 1,
+          "id": "3102"
+        }
+      ],
+      "type": "Most Frequent Build (48% win - 1522 games)"
+    },
+    {
+      "items": [
         {
           "count": 1,
           "id": "3800"
-        }
-      ],
-      "type": "Most Frequent Build (52% win - 4474 games)"
-    },
-    {
-      "items": [
+        },
         {
           "count": 1,
           "id": "2049"
@@ -93,22 +101,18 @@
         },
         {
           "count": 1,
-          "id": "3401"
-        },
-        {
-          "count": 1,
           "id": "3190"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3401"
         },
         {
           "count": 1,
-          "id": "3222"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 4472 games)"
+      "type": "Highest Win Rate Build (53% win - 408 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (52% win - 17588 games)"
+      "type": "QEW -> QEW (52% win - 4597 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (54% win - 1681 games)"
+      "type": "QEQW -> QEW (53% win - 424 games)"
     }
   ],
   "champion": "Braum",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.13",
+  "title": "Support 5.14",
   "type": "custom"
 }

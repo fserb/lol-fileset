@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 1581 games)"
+      "type": "Most Frequent Starters (52% win - 441 games)"
     },
     {
       "items": [
@@ -50,46 +50,13 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 1581 games)"
+      "type": "Highest Win Rate Starters (52% win - 441 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "3710"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3142"
-        }
-      ],
-      "type": "Most Frequent Build (54% win - 48 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3710"
-        },
-        {
-          "count": 1,
-          "id": "3078"
         },
         {
           "count": 1,
@@ -97,18 +64,51 @@
         },
         {
           "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3142"
+        },
+        {
+          "count": 1,
           "id": "3153"
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3172"
+        }
+      ],
+      "type": "Most Frequent Build (54% win - 39 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3717"
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3074"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 41 games)"
+      "type": "Highest Win Rate Build (54% win - 26 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (51% win - 368 games)"
+      "type": "QWE -> QWE (55% win - 95 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (51% win - 227 games)"
+      "type": "QWE -> QEW (76% win - 26 games)"
     }
   ],
   "champion": "Poppy",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.13",
+  "title": "Jungle 5.14",
   "type": "custom"
 }
