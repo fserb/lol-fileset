@@ -5,6 +5,31 @@
     {
       "items": [
         {
+          "count": 1,
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ],
+      "type": "Most Frequent Starters (47% win - 2737 games)"
+    },
+    {
+      "items": [
+        {
           "count": 3,
           "id": "2003"
         },
@@ -25,36 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 2091 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 2,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 1,
-          "id": "2041"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Highest Win Rate Starters (52% win - 493 games)"
+      "type": "Highest Win Rate Starters (50% win - 2506 games)"
     },
     {
       "items": [
@@ -83,7 +79,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (48% win - 950 games)"
+      "type": "Most Frequent Build (48% win - 786 games)"
     },
     {
       "items": [
@@ -112,7 +108,7 @@
           "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 587 games)"
+      "type": "Highest Win Rate Build (48% win - 406 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (56% win - 971 games)"
+      "type": "EWQ -> EWQ (50% win - 1340 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (56% win - 971 games)"
+      "type": "WQE -> EWQ (51% win - 237 games)"
     }
   ],
   "champion": "Fizz",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.14",
+  "title": "Middle 5.15",
   "type": "custom"
 }

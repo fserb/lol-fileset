@@ -25,17 +25,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 3194 games)"
+      "type": "Most Frequent Starters (52% win - 4548 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 1,
+          "id": "1056"
+        },
+        {
+          "count": 1,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "2041"
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 331 games)"
+      "type": "Highest Win Rate Starters (54% win - 177 games)"
     },
     {
       "items": [
@@ -76,10 +80,10 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3100"
         }
       ],
-      "type": "Most Frequent Build (49% win - 699 games)"
+      "type": "Most Frequent Build (49% win - 613 games)"
     },
     {
       "items": [
@@ -89,15 +93,15 @@
         },
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
           "id": "3020"
         },
         {
           "count": 1,
           "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         },
         {
           "count": 1,
@@ -108,7 +112,7 @@
           "id": "3001"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 354 games)"
+      "type": "Highest Win Rate Build (53% win - 191 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (49% win - 2100 games)"
+      "type": "QWE -> QWE (51% win - 2870 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQQE -> QWE (56% win - 633 games)"
+      "type": "QWQW -> QWE (58% win - 122 games)"
     }
   ],
   "champion": "Diana",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.14",
+  "title": "Middle 5.15",
   "type": "custom"
 }

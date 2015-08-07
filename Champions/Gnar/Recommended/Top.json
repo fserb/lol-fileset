@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 6515 games)"
+      "type": "Most Frequent Starters (48% win - 8582 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 1646 games)"
+      "type": "Highest Win Rate Starters (48% win - 1838 games)"
     },
     {
       "items": [
@@ -76,16 +76,16 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3156"
         }
       ],
-      "type": "Most Frequent Build (47% win - 834 games)"
+      "type": "Most Frequent Build (47% win - 534 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3078"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -93,22 +93,22 @@
         },
         {
           "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3035"
+          "id": "3022"
         },
         {
           "count": 1,
           "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 536 games)"
+      "type": "Highest Win Rate Build (48% win - 416 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (50% win - 6360 games)"
+      "type": "QWE -> QWE (48% win - 7957 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (50% win - 6360 games)"
+      "type": "QWQE -> QWE (52% win - 299 games)"
     }
   ],
   "champion": "Gnar",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.14",
+  "title": "Top 5.15",
   "type": "custom"
 }

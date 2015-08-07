@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 7465 games)"
+      "type": "Most Frequent Starters (49% win - 13918 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 7465 games)"
+      "type": "Highest Win Rate Starters (49% win - 13918 games)"
     },
     {
       "items": [
@@ -68,24 +68,24 @@
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3153"
         },
         {
           "count": 1,
-          "id": "3153"
+          "id": "3035"
         },
         {
           "count": 1,
           "id": "3031"
         }
       ],
-      "type": "Most Frequent Build (45% win - 805 games)"
+      "type": "Most Frequent Build (47% win - 957 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3508"
+          "id": "3004"
         },
         {
           "count": 1,
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
           "id": "3035"
         },
         {
           "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3074"
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 334 games)"
+      "type": "Highest Win Rate Build (50% win - 675 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (48% win - 3437 games)"
+      "type": "QEQW -> QEW (49% win - 6078 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQE -> QEW (51% win - 540 games)"
+      "type": "QEQE -> QEW (51% win - 1086 games)"
     }
   ],
   "champion": "Ezreal",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.14",
+  "title": "ADC 5.15",
   "type": "custom"
 }

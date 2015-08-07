@@ -25,17 +25,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 1669 games)"
+      "type": "Most Frequent Starters (50% win - 2300 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 1,
-          "id": "2003"
+          "id": "2041"
         },
         {
           "count": 1,
@@ -50,7 +46,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 1373 games)"
+      "type": "Highest Win Rate Starters (57% win - 162 games)"
     },
     {
       "items": [
@@ -60,7 +56,7 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -79,7 +75,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (50% win - 575 games)"
+      "type": "Most Frequent Build (51% win - 554 games)"
     },
     {
       "items": [
@@ -105,10 +101,10 @@
         },
         {
           "count": 1,
-          "id": "3142"
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 483 games)"
+      "type": "Highest Win Rate Build (53% win - 439 games)"
     },
     {
       "items": [
@@ -174,7 +170,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (52% win - 1154 games)"
+      "type": "WEQ -> WEQ (54% win - 1740 games)"
     },
     {
       "items": [
@@ -199,7 +195,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WEQ (55% win - 811 games)"
+      "type": "WQE -> WEQ (55% win - 1251 games)"
     }
   ],
   "champion": "Fizz",
@@ -209,6 +205,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.14",
+  "title": "Top 5.15",
   "type": "custom"
 }

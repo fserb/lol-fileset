@@ -25,17 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 4287 games)"
+      "type": "Most Frequent Starters (51% win - 4907 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "1001"
         },
         {
-          "count": 1,
-          "id": "2041"
+          "count": 4,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 254 games)"
+      "type": "Highest Win Rate Starters (52% win - 500 games)"
     },
     {
       "items": [
@@ -79,13 +79,13 @@
           "id": "3285"
         }
       ],
-      "type": "Most Frequent Build (50% win - 939 games)"
+      "type": "Most Frequent Build (49% win - 702 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3285"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -93,11 +93,7 @@
         },
         {
           "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3089"
+          "id": "3285"
         },
         {
           "count": 1,
@@ -105,10 +101,14 @@
         },
         {
           "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
           "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 542 games)"
+      "type": "Highest Win Rate Build (52% win - 499 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (51% win - 4207 games)"
+      "type": "WQE -> QWE (51% win - 4978 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> QWE (57% win - 559 games)"
+      "type": "WEQ -> QWE (53% win - 607 games)"
     }
   ],
   "champion": "TwistedFate",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.14",
+  "title": "Middle 5.15",
   "type": "custom"
 }

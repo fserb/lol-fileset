@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 1157 games)"
+      "type": "Most Frequent Starters (50% win - 1619 games)"
     },
     {
       "items": [
@@ -50,17 +50,17 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 1157 games)"
+      "type": "Highest Win Rate Starters (50% win - 1619 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
+          "id": "3725"
         },
         {
           "count": 1,
-          "id": "3725"
+          "id": "3117"
         },
         {
           "count": 1,
@@ -79,13 +79,17 @@
           "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (47% win - 94 games)"
+      "type": "Most Frequent Build (47% win - 84 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3709"
+          "id": "3725"
+        },
+        {
+          "count": 1,
+          "id": "3800"
         },
         {
           "count": 1,
@@ -93,22 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3143"
+          "id": "3102"
         },
         {
           "count": 1,
           "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 58 games)"
+      "type": "Highest Win Rate Build (52% win - 48 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> EWQ (50% win - 292 games)"
+      "type": "WQE -> EWQ (52% win - 393 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WEQ (51% win - 137 games)"
+      "type": "WQE -> EWQ (52% win - 393 games)"
     }
   ],
   "champion": "Rammus",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.14",
+  "title": "Jungle 5.15",
   "type": "custom"
 }

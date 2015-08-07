@@ -164,16 +164,16 @@ def buildSet(champ, role, outdir):
     out['blocks'].append({
       "type": "%s (%d%% win - %d games)" % (
         getSkills(obj["skills"]["mostGames"]),
-        obj["skills"]["mostGames"]['winPercent'],
-        obj["skills"]["mostGames"]['games']),
+        obj["skills"]["mostGames"].get('winPercent', 0),
+        obj["skills"]["mostGames"].get('games', 0)),
       "items": skillItems
       })
 
     out['blocks'].append({
       "type": "%s (%d%% win - %d games)" % (
         getSkills(obj["skills"]["highestWinPercent"]),
-        obj["skills"]["highestWinPercent"]['winPercent'],
-        obj["skills"]["highestWinPercent"]['games']),
+        obj["skills"]["highestWinPercent"].get('winPercent', 0),
+        obj["skills"]["highestWinPercent"].get('games', 0)),
       "items": skillItems
       })
 

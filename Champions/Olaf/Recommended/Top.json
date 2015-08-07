@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 438 games)"
+      "type": "Most Frequent Starters (49% win - 1055 games)"
     },
     {
       "items": [
@@ -50,36 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 438 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3074"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3156"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Most Frequent Build (45% win - 100 games)"
+      "type": "Highest Win Rate Starters (49% win - 1055 games)"
     },
     {
       "items": [
@@ -101,14 +72,43 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3022"
         },
         {
           "count": 1,
-          "id": "3153"
+          "id": "3800"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 85 games)"
+      "type": "Most Frequent Build (48% win - 80 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        }
+      ],
+      "type": "Highest Win Rate Build (50% win - 71 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (54% win - 197 games)"
+      "type": "QEW -> QEW (48% win - 471 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (54% win - 197 games)"
+      "type": "QEW -> EQW (51% win - 196 games)"
     }
   ],
   "champion": "Olaf",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.14",
+  "title": "Top 5.15",
   "type": "custom"
 }

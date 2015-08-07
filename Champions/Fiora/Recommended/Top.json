@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 1413 games)"
+      "type": "Most Frequent Starters (37% win - 2347 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1055"
         },
         {
-          "count": 3,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 1088 games)"
+      "type": "Highest Win Rate Starters (37% win - 2347 games)"
     },
     {
       "items": [
@@ -60,55 +60,55 @@
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3078"
         },
         {
           "count": 1,
-          "id": "3142"
-        },
-        {
-          "count": 1,
-          "id": "3031"
+          "id": "3072"
         },
         {
           "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (51% win - 335 games)"
+      "type": "Most Frequent Build (37% win - 403 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3035"
-        },
         {
           "count": 1,
           "id": "3074"
         },
         {
           "count": 1,
-          "id": "3142"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3009"
+          "id": "3078"
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3072"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (56% win - 155 games)"
+      "type": "Highest Win Rate Build (37% win - 403 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WEQ (57% win - 414 games)"
+      "type": "QEW -> QEW (40% win - 737 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QEW (57% win - 164 games)"
+      "type": "QEW -> QEW (40% win - 737 games)"
     }
   ],
   "champion": "Fiora",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.14",
+  "title": "Top 5.15",
   "type": "custom"
 }

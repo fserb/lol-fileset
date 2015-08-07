@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 2387 games)"
+      "type": "Most Frequent Starters (53% win - 3050 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1055"
         },
         {
-          "count": 3,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 1648 games)"
+      "type": "Highest Win Rate Starters (53% win - 3050 games)"
     },
     {
       "items": [
@@ -76,20 +76,20 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3142"
         }
       ],
-      "type": "Most Frequent Build (50% win - 498 games)"
+      "type": "Most Frequent Build (49% win - 275 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3071"
+          "id": "3074"
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
           "id": "3075"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 408 games)"
+      "type": "Highest Win Rate Build (54% win - 187 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (49% win - 1466 games)"
+      "type": "QWE -> QWE (51% win - 1915 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (57% win - 196 games)"
+      "type": "WQE -> QWE (53% win - 241 games)"
     }
   ],
   "champion": "Renekton",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.14",
+  "title": "Top 5.15",
   "type": "custom"
 }

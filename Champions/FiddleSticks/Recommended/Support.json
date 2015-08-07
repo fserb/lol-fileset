@@ -6,11 +6,11 @@
       "items": [
         {
           "count": 1,
-          "id": "2004"
+          "id": "2003"
         },
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2044"
         },
         {
           "count": 1,
@@ -29,21 +29,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 115 games)"
+      "type": "Most Frequent Starters (57% win - 26 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1056"
-        },
         {
           "count": 1,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "2004"
+          "id": "2044"
+        },
+        {
+          "count": 1,
+          "id": "3303"
         },
         {
           "count": 1,
@@ -58,65 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 22 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3092"
-        },
-        {
-          "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        }
-      ],
-      "type": "Most Frequent Build (50% win - 77 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3092"
-        },
-        {
-          "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        }
-      ],
-      "type": "Highest Win Rate Build (50% win - 77 games)"
+      "type": "Highest Win Rate Starters (57% win - 26 games)"
     },
     {
       "items": [
@@ -182,7 +124,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WQE (46% win - 66 games)"
+      "type": " -> QWE (0% win - 0 games)"
     },
     {
       "items": [
@@ -207,7 +149,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> WQE (57% win - 45 games)"
+      "type": " -> QWE (0% win - 0 games)"
     }
   ],
   "champion": "FiddleSticks",
@@ -217,6 +159,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.13",
+  "title": "Support 5.15",
   "type": "custom"
 }

@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 7117 games)"
+      "type": "Most Frequent Starters (52% win - 9332 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 7117 games)"
+      "type": "Highest Win Rate Starters (52% win - 9332 games)"
     },
     {
       "items": [
@@ -79,32 +79,36 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (52% win - 929 games)"
+      "type": "Most Frequent Build (52% win - 811 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3141"
-        },
-        {
-          "count": 1,
-          "id": "3508"
+          "id": "3031"
         },
         {
           "count": 1,
           "id": "3006"
         },
         {
-          "count": 2,
+          "count": 1,
+          "id": "3046"
+        },
+        {
+          "count": 1,
+          "id": "3072"
+        },
+        {
+          "count": 1,
           "id": "3035"
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 351 games)"
+      "type": "Highest Win Rate Build (52% win - 811 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (54% win - 3199 games)"
+      "type": "QWE -> QWE (52% win - 3994 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QWE (54% win - 275 games)"
+      "type": "QWQE -> QWE (53% win - 1167 games)"
     }
   ],
   "champion": "Draven",
@@ -205,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.14",
+  "title": "ADC 5.15",
   "type": "custom"
 }

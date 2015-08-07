@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 2650 games)"
+      "type": "Most Frequent Starters (50% win - 3407 games)"
     },
     {
       "items": [
@@ -50,7 +50,36 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 293 games)"
+      "type": "Highest Win Rate Starters (54% win - 336 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3102"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        }
+      ],
+      "type": "Most Frequent Build (50% win - 429 games)"
     },
     {
       "items": [
@@ -76,39 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3143"
-        }
-      ],
-      "type": "Most Frequent Build (49% win - 502 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
           "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 358 games)"
+      "type": "Highest Win Rate Build (50% win - 428 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WQE (51% win - 829 games)"
+      "type": "EWQ -> WQE (52% win - 969 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> WQE (59% win - 165 games)"
+      "type": "QWE -> QWE (54% win - 227 games)"
     }
   ],
   "champion": "Chogath",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.14",
+  "title": "Top 5.15",
   "type": "custom"
 }

@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 3477 games)"
+      "type": "Most Frequent Starters (47% win - 3745 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (46% win - 3477 games)"
+      "type": "Highest Win Rate Starters (47% win - 3745 games)"
     },
     {
       "items": [
@@ -79,13 +79,13 @@
           "id": "3116"
         }
       ],
-      "type": "Most Frequent Build (41% win - 1098 games)"
+      "type": "Most Frequent Build (45% win - 631 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3285"
+          "id": "3165"
         },
         {
           "count": 1,
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 333 games)"
+      "type": "Highest Win Rate Build (46% win - 629 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (46% win - 3137 games)"
+      "type": "WQE -> QWE (48% win - 3426 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQQE -> QEW (46% win - 140 games)"
+      "type": "WQE -> QWE (48% win - 3426 games)"
     }
   ],
   "champion": "Azir",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.14",
+  "title": "Middle 5.15",
   "type": "custom"
 }

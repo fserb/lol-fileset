@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 6642 games)"
+      "type": "Most Frequent Starters (49% win - 7475 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 6642 games)"
+      "type": "Highest Win Rate Starters (49% win - 7475 games)"
     },
     {
       "items": [
@@ -64,7 +64,28 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        }
+      ],
+      "type": "Most Frequent Build (46% win - 183 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3724"
         },
         {
           "count": 1,
@@ -72,43 +93,22 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         },
         {
           "count": 1,
           "id": "3157"
-        }
-      ],
-      "type": "Most Frequent Build (47% win - 393 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3714"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3190"
         },
         {
           "count": 1,
           "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 293 games)"
+      "type": "Highest Win Rate Build (51% win - 63 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 4250 games)"
+      "type": "QEW -> QEW (49% win - 4799 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 4250 games)"
+      "type": "QEQW -> QEW (49% win - 1354 games)"
     }
   ],
   "champion": "Evelynn",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.14",
+  "title": "Jungle 5.15",
   "type": "custom"
 }

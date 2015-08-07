@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (44% win - 2244 games)"
+      "type": "Most Frequent Starters (42% win - 2796 games)"
     },
     {
       "items": [
@@ -34,12 +34,8 @@
           "id": "1056"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2004"
         },
         {
           "count": 1,
@@ -54,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 124 games)"
+      "type": "Highest Win Rate Starters (45% win - 2181 games)"
     },
     {
       "items": [
@@ -68,6 +64,10 @@
         },
         {
           "count": 1,
+          "id": "3285"
+        },
+        {
+          "count": 1,
           "id": "3089"
         },
         {
@@ -77,13 +77,9 @@
         {
           "count": 1,
           "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3285"
         }
       ],
-      "type": "Most Frequent Build (42% win - 729 games)"
+      "type": "Most Frequent Build (42% win - 628 games)"
     },
     {
       "items": [
@@ -101,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3041"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 311 games)"
+      "type": "Highest Win Rate Build (45% win - 164 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (45% win - 1832 games)"
+      "type": "WQE -> WQE (45% win - 2216 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQWE -> WQE (46% win - 292 games)"
+      "type": "WQE -> WQE (45% win - 2216 games)"
     }
   ],
   "champion": "Leblanc",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.14",
+  "title": "Middle 5.15",
   "type": "custom"
 }

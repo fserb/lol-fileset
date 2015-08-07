@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 1680 games)"
+      "type": "Most Frequent Starters (50% win - 1926 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 181 games)"
+      "type": "Highest Win Rate Starters (53% win - 193 games)"
     },
     {
       "items": [
@@ -79,13 +79,13 @@
           "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (45% win - 352 games)"
+      "type": "Most Frequent Build (49% win - 228 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3285"
+          "id": "3152"
         },
         {
           "count": 1,
@@ -93,7 +93,7 @@
         },
         {
           "count": 1,
-          "id": "3152"
+          "id": "3157"
         },
         {
           "count": 1,
@@ -101,14 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 154 games)"
+      "type": "Highest Win Rate Build (49% win - 228 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (46% win - 1559 games)"
+      "type": "QEW -> QEW (50% win - 1793 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (52% win - 1109 games)"
+      "type": "QEW -> QEW (50% win - 1793 games)"
     }
   ],
   "champion": "Vladimir",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.14",
+  "title": "Middle 5.15",
   "type": "custom"
 }

@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 7300 games)"
+      "type": "Most Frequent Starters (51% win - 9099 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1029"
         },
         {
-          "count": 1,
+          "count": 5,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 1634 games)"
+      "type": "Highest Win Rate Starters (55% win - 378 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (52% win - 1595 games)"
+      "type": "Most Frequent Build (50% win - 1316 games)"
     },
     {
       "items": [
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 1023 games)"
+      "type": "Highest Win Rate Build (53% win - 714 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> WEQ (57% win - 1585 games)"
+      "type": "EQW -> WEQ (55% win - 1955 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> WEQ (57% win - 1585 games)"
+      "type": "QEW -> WEQ (56% win - 1654 games)"
     }
   ],
   "champion": "Irelia",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.14",
+  "title": "Top 5.15",
   "type": "custom"
 }

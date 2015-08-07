@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 248 games)"
+      "type": "Most Frequent Starters (53% win - 392 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 248 games)"
+      "type": "Highest Win Rate Starters (53% win - 392 games)"
     },
     {
       "items": [
@@ -68,47 +68,39 @@
         },
         {
           "count": 1,
-          "id": "3156"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3172"
-        }
-      ],
-      "type": "Most Frequent Build (47% win - 57 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
           "id": "3074"
         },
         {
-          "count": 1,
-          "id": "3009"
-        },
+          "count": 2,
+          "id": "3035"
+        }
+      ],
+      "type": "Most Frequent Build (53% win - 51 games)"
+    },
+    {
+      "items": [
         {
           "count": 1,
           "id": "3078"
         },
         {
           "count": 1,
-          "id": "3142"
+          "id": "3111"
         },
         {
           "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3074"
+        },
+        {
+          "count": 2,
           "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3031"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 27 games)"
+      "type": "Highest Win Rate Build (53% win - 51 games)"
     },
     {
       "items": [
@@ -174,7 +166,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (44% win - 65 games)"
+      "type": "QWE -> QWE (51% win - 121 games)"
     },
     {
       "items": [
@@ -199,7 +191,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 42 games)"
+      "type": "QWE -> QEW (65% win - 23 games)"
     }
   ],
   "champion": "Poppy",
@@ -209,6 +201,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.14",
+  "title": "Top 5.15",
   "type": "custom"
 }
