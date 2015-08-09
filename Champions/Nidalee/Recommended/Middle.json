@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (42% win - 825 games)"
+      "type": "Most Frequent Starters (41% win - 1537 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (42% win - 825 games)"
+      "type": "Highest Win Rate Starters (41% win - 1537 games)"
     },
     {
       "items": [
@@ -71,21 +71,29 @@
           "id": "3089"
         },
         {
-          "count": 2,
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (40% win - 110 games)"
+      "type": "Most Frequent Build (40% win - 213 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3285"
+          "id": "3165"
         },
         {
           "count": 1,
           "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3285"
         },
         {
           "count": 1,
@@ -98,13 +106,9 @@
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3100"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 51 games)"
+      "type": "Highest Win Rate Build (40% win - 209 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (39% win - 438 games)"
+      "type": "QEW -> QEW (39% win - 805 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (43% win - 361 games)"
+      "type": "QWE -> QEW (44% win - 708 games)"
     }
   ],
   "champion": "Nidalee",

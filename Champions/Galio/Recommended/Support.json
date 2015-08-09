@@ -29,17 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (42% win - 35 games)"
+      "type": "Most Frequent Starters (60% win - 30 games)"
     },
     {
       "items": [
         {
-          "count": 2,
-          "id": "2003"
-        },
-        {
           "count": 1,
           "id": "2004"
+        },
+        {
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -58,65 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (46% win - 32 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
-        {
-          "count": 1,
-          "id": "3069"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        }
-      ],
-      "type": "Most Frequent Build (48% win - 28 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
-        {
-          "count": 1,
-          "id": "3069"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Highest Win Rate Build (48% win - 27 games)"
+      "type": "Highest Win Rate Starters (60% win - 30 games)"
     },
     {
       "items": [
@@ -182,7 +124,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 63 games)"
+      "type": "QWE -> QWE (45% win - 42 games)"
     },
     {
       "items": [
@@ -207,7 +149,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (60% win - 25 games)"
+      "type": "QEQW -> QEW (50% win - 26 games)"
     }
   ],
   "champion": "Galio",
@@ -217,6 +159,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.11",
+  "title": "Support 5.15",
   "type": "custom"
 }

@@ -29,17 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (23% win - 30 games)"
+      "type": "Most Frequent Starters (36% win - 58 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
           "count": 3,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -58,7 +58,65 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (23% win - 30 games)"
+      "type": "Highest Win Rate Starters (60% win - 23 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3401"
+        },
+        {
+          "count": 1,
+          "id": "3050"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3800"
+        }
+      ],
+      "type": "Most Frequent Build (42% win - 40 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3401"
+        },
+        {
+          "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3050"
+        }
+      ],
+      "type": "Highest Win Rate Build (47% win - 26 games)"
     },
     {
       "items": [
@@ -124,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (37% win - 24 games)"
+      "type": "EWQ -> EWQ (37% win - 53 games)"
     },
     {
       "items": [
@@ -149,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> EWQ (52% win - 23 games)"
+      "type": "QEW -> EWQ (55% win - 38 games)"
     }
   ],
   "champion": "Nunu",

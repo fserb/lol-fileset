@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 7507 games)"
+      "type": "Most Frequent Starters (50% win - 14821 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1028"
+          "id": "1029"
         },
         {
-          "count": 2,
+          "count": 5,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 1037 games)"
+      "type": "Highest Win Rate Starters (51% win - 4297 games)"
     },
     {
       "items": [
@@ -60,15 +60,7 @@
         },
         {
           "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3075"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -76,10 +68,14 @@
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3143"
+        },
+        {
+          "count": 2,
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (48% win - 655 games)"
+      "type": "Most Frequent Build (50% win - 1338 games)"
     },
     {
       "items": [
@@ -96,19 +92,15 @@
           "id": "3111"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3143"
         },
         {
           "count": 1,
           "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 339 games)"
+      "type": "Highest Win Rate Build (50% win - 682 games)"
     },
     {
       "items": [
@@ -174,7 +166,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (50% win - 2409 games)"
+      "type": "QWE -> QWE (50% win - 4728 games)"
     },
     {
       "items": [
@@ -199,7 +191,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> QWE (56% win - 171 games)"
+      "type": "EQW -> QEW (56% win - 412 games)"
     }
   ],
   "champion": "Shen",

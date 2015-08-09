@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (41% win - 692 games)"
+      "type": "Most Frequent Starters (42% win - 1460 games)"
     },
     {
       "items": [
@@ -34,8 +34,12 @@
           "id": "1056"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (44% win - 548 games)"
+      "type": "Highest Win Rate Starters (44% win - 164 games)"
     },
     {
       "items": [
@@ -76,39 +80,31 @@
         },
         {
           "count": 1,
-          "id": "3508"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (40% win - 79 games)"
+      "type": "Most Frequent Build (41% win - 165 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3724"
+          "id": "3100"
+        },
+        {
+          "count": 1,
+          "id": "3020"
         },
         {
           "count": 1,
           "id": "3285"
         },
         {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
+          "count": 3,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 38 games)"
+      "type": "Highest Win Rate Build (43% win - 136 games)"
     },
     {
       "items": [
@@ -174,7 +170,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (40% win - 340 games)"
+      "type": "QEQW -> QEW (42% win - 744 games)"
     },
     {
       "items": [
@@ -199,7 +195,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (47% win - 134 games)"
+      "type": "QEQW -> QWE (46% win - 147 games)"
     }
   ],
   "champion": "Ezreal",

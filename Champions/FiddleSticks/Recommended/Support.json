@@ -6,6 +6,35 @@
       "items": [
         {
           "count": 1,
+          "id": "2004"
+        },
+        {
+          "count": 3,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3303"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ],
+      "type": "Most Frequent Starters (52% win - 55 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 2,
           "id": "2003"
         },
         {
@@ -29,36 +58,65 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (57% win - 26 games)"
+      "type": "Highest Win Rate Starters (60% win - 25 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2003"
+          "id": "2049"
         },
         {
           "count": 1,
-          "id": "2044"
+          "id": "3157"
         },
         {
           "count": 1,
-          "id": "3303"
+          "id": "3020"
         },
         {
           "count": 1,
-          "id": "3340"
+          "id": "3102"
         },
         {
           "count": 1,
-          "id": "3341"
+          "id": "3092"
         },
         {
           "count": 1,
-          "id": "3342"
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 26 games)"
+      "type": "Most Frequent Build (52% win - 42 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3102"
+        },
+        {
+          "count": 1,
+          "id": "3092"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        }
+      ],
+      "type": "Highest Win Rate Build (52% win - 42 games)"
     },
     {
       "items": [
@@ -124,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": " -> QWE (0% win - 0 games)"
+      "type": "EWQ -> WQE (37% win - 37 games)"
     },
     {
       "items": [
@@ -149,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": " -> QWE (0% win - 0 games)"
+      "type": "EWWQ -> WQE (65% win - 29 games)"
     }
   ],
   "champion": "FiddleSticks",
