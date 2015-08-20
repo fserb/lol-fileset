@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 1797 games)"
+      "type": "Most Frequent Starters (55% win - 3222 games)"
     },
     {
       "items": [
@@ -34,8 +34,12 @@
           "id": "1056"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 1797 games)"
+      "type": "Highest Win Rate Starters (59% win - 232 games)"
     },
     {
       "items": [
@@ -71,11 +75,15 @@
           "id": "3089"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3116"
         }
       ],
-      "type": "Most Frequent Build (53% win - 189 games)"
+      "type": "Most Frequent Build (52% win - 326 games)"
     },
     {
       "items": [
@@ -94,17 +102,17 @@
         {
           "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
         },
         {
           "count": 1,
           "id": "3285"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (57% win - 85 games)"
+      "type": "Highest Win Rate Build (58% win - 134 games)"
     },
     {
       "items": [
@@ -170,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (56% win - 967 games)"
+      "type": "QWE -> QWE (55% win - 1729 games)"
     },
     {
       "items": [
@@ -195,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QWE (58% win - 243 games)"
+      "type": "QEQW -> QWE (57% win - 402 games)"
     }
   ],
   "champion": "Heimerdinger",

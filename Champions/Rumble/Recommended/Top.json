@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 5400 games)"
+      "type": "Most Frequent Starters (50% win - 9072 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1052"
+          "id": "1029"
         },
         {
-          "count": 1,
+          "count": 5,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 711 games)"
+      "type": "Highest Win Rate Starters (51% win - 4275 games)"
     },
     {
       "items": [
@@ -79,7 +79,7 @@
           "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (48% win - 1217 games)"
+      "type": "Most Frequent Build (48% win - 2055 games)"
     },
     {
       "items": [
@@ -96,15 +96,19 @@
           "id": "3157"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3116"
         },
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 1003 games)"
+      "type": "Highest Win Rate Build (51% win - 1689 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 4273 games)"
+      "type": "QEW -> QEW (50% win - 7257 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> QEW (54% win - 953 games)"
+      "type": "QWQE -> QEW (55% win - 256 games)"
     }
   ],
   "champion": "Rumble",

@@ -29,16 +29,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (60% win - 30 games)"
+      "type": "Most Frequent Starters (62% win - 45 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 2,
           "id": "2004"
         },
         {
-          "count": 3,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -58,7 +58,65 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 30 games)"
+      "type": "Highest Win Rate Starters (65% win - 29 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3174"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3069"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        }
+      ],
+      "type": "Most Frequent Build (52% win - 40 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3174"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3069"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        }
+      ],
+      "type": "Highest Win Rate Build (52% win - 40 games)"
     },
     {
       "items": [
@@ -124,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (45% win - 42 games)"
+      "type": "QEW -> QEW (59% win - 77 games)"
     },
     {
       "items": [
@@ -149,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (50% win - 26 games)"
+      "type": "QEW -> QEW (59% win - 77 games)"
     }
   ],
   "champion": "Galio",

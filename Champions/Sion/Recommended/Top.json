@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1074 games)"
+      "type": "Most Frequent Starters (50% win - 1880 games)"
     },
     {
       "items": [
@@ -46,7 +46,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 249 games)"
+      "type": "Highest Win Rate Starters (54% win - 466 games)"
     },
     {
       "items": [
@@ -71,13 +71,21 @@
           "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (49% win - 106 games)"
+      "type": "Most Frequent Build (48% win - 187 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3047"
+          "id": "3068"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3065"
         },
         {
           "count": 1,
@@ -85,22 +93,14 @@
         },
         {
           "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
           "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 50 games)"
+      "type": "Highest Win Rate Build (53% win - 82 games)"
     },
     {
       "items": [
@@ -166,7 +166,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (49% win - 474 games)"
+      "type": "QWE -> QWE (50% win - 844 games)"
     },
     {
       "items": [
@@ -191,7 +191,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> EWQ (57% win - 130 games)"
+      "type": "QEW -> QEW (57% win - 299 games)"
     }
   ],
   "champion": "Sion",
