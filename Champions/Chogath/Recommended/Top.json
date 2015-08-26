@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 11042 games)"
+      "type": "Most Frequent Starters (49% win - 7714 games)"
     },
     {
       "items": [
@@ -34,8 +34,12 @@
           "id": "1056"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 1142 games)"
+      "type": "Highest Win Rate Starters (49% win - 587 games)"
     },
     {
       "items": [
@@ -72,14 +76,14 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (49% win - 1310 games)"
+      "type": "Most Frequent Build (47% win - 1035 games)"
     },
     {
       "items": [
@@ -89,11 +93,11 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3110"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -108,7 +112,7 @@
           "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 1297 games)"
+      "type": "Highest Win Rate Build (50% win - 595 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WQE (50% win - 3172 games)"
+      "type": "EWQ -> WQE (50% win - 2179 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEWQ -> WQE (58% win - 133 games)"
+      "type": "EWWQ -> WQE (54% win - 245 games)"
     }
   ],
   "champion": "Chogath",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.15",
+  "title": "Top 5.16",
   "type": "custom"
 }

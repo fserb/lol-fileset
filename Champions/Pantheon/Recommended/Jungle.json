@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 8178 games)"
+      "type": "Most Frequent Starters (48% win - 6210 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 8178 games)"
+      "type": "Highest Win Rate Starters (48% win - 6210 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (50% win - 461 games)"
+      "type": "Most Frequent Build (49% win - 344 games)"
     },
     {
       "items": [
@@ -98,17 +98,17 @@
         {
           "count": 1,
           "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3102"
         },
         {
           "count": 1,
           "id": "3156"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 461 games)"
+      "type": "Highest Win Rate Build (49% win - 342 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (51% win - 3074 games)"
+      "type": "QWE -> QEW (50% win - 2186 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QEW (51% win - 367 games)"
+      "type": "QWQE -> QEW (53% win - 613 games)"
     }
   ],
   "champion": "Pantheon",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.15",
+  "title": "Jungle 5.16",
   "type": "custom"
 }

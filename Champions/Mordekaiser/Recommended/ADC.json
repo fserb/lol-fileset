@@ -5,37 +5,12 @@
     {
       "items": [
         {
-          "count": 1,
-          "id": "1039"
-        },
-        {
-          "count": 2,
+          "count": 3,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Most Frequent Starters (48% win - 1814 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1039"
-        },
-        {
-          "count": 2,
-          "id": "2004"
+          "id": "3302"
         },
         {
           "count": 1,
@@ -50,13 +25,38 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 876 games)"
+      "type": "Most Frequent Starters (58% win - 3150 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 3,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3302"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ],
+      "type": "Highest Win Rate Starters (58% win - 3150 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3157"
+          "id": "3146"
         },
         {
           "count": 1,
@@ -64,51 +64,51 @@
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3001"
+          "id": "3078"
         },
         {
           "count": 1,
           "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3401"
         }
       ],
-      "type": "Most Frequent Build (49% win - 389 games)"
+      "type": "Most Frequent Build (54% win - 224 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3708"
+          "id": "3078"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3053"
         },
         {
           "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
+          "id": "3047"
         },
         {
           "count": 1,
           "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 241 games)"
+      "type": "Highest Win Rate Build (58% win - 131 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEWQ -> WQE (52% win - 1847 games)"
+      "type": "WEQ -> EQW (55% win - 681 games)"
     },
     {
       "items": [
@@ -199,16 +199,16 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WQE (55% win - 1080 games)"
+      "type": "WEQ -> WQE (67% win - 218 games)"
     }
   ],
-  "champion": "FiddleSticks",
+  "champion": "Mordekaiser",
   "isGlobalForChampions": false,
   "isGlobalForMaps": true,
   "map": "any",
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.16",
+  "title": "ADC 5.16",
   "type": "custom"
 }

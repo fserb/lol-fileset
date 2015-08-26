@@ -29,17 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (45% win - 105 games)"
+      "type": "Most Frequent Starters (50% win - 83 games)"
     },
     {
       "items": [
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "2004"
         },
         {
-          "count": 2,
-          "id": "2004"
+          "count": 1,
+          "id": "2044"
         },
         {
           "count": 1,
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (61% win - 26 games)"
+      "type": "Highest Win Rate Starters (62% win - 24 games)"
     },
     {
       "items": [
@@ -68,22 +68,26 @@
         },
         {
           "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3092"
         },
         {
-          "count": 2,
-          "id": "3135"
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (48% win - 76 games)"
+      "type": "Most Frequent Build (50% win - 57 games)"
     },
     {
       "items": [
@@ -101,7 +105,7 @@
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3116"
         },
         {
           "count": 1,
@@ -109,10 +113,10 @@
         },
         {
           "count": 1,
-          "id": "3050"
+          "id": "3023"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 73 games)"
+      "type": "Highest Win Rate Build (51% win - 56 games)"
     },
     {
       "items": [
@@ -178,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WQE (35% win - 60 games)"
+      "type": "EWQ -> WQE (43% win - 53 games)"
     },
     {
       "items": [
@@ -203,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWWQ -> WQE (62% win - 51 games)"
+      "type": "EQW -> EQW (56% win - 44 games)"
     }
   ],
   "champion": "FiddleSticks",
@@ -213,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.15",
+  "title": "Support 5.16",
   "type": "custom"
 }

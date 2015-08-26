@@ -25,17 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (44% win - 2199 games)"
+      "type": "Most Frequent Starters (47% win - 3863 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "1056"
+          "count": 3,
+          "id": "2003"
         },
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "2041"
         },
         {
           "count": 1,
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (44% win - 424 games)"
+      "type": "Highest Win Rate Starters (47% win - 3863 games)"
     },
     {
       "items": [
@@ -72,14 +72,14 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (42% win - 596 games)"
+      "type": "Most Frequent Build (44% win - 967 games)"
     },
     {
       "items": [
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3157"
         },
         {
           "count": 1,
           "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 306 games)"
+      "type": "Highest Win Rate Build (47% win - 502 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (44% win - 1517 games)"
+      "type": "QWE -> QEW (46% win - 2562 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (46% win - 1003 games)"
+      "type": "WQE -> QEW (56% win - 124 games)"
     }
   ],
   "champion": "Kassadin",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.15",
+  "title": "Middle 5.16",
   "type": "custom"
 }

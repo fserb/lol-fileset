@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 6914 games)"
+      "type": "Most Frequent Starters (48% win - 5567 games)"
     },
     {
       "items": [
@@ -50,13 +50,13 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 6914 games)"
+      "type": "Highest Win Rate Starters (48% win - 5567 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3725"
+          "id": "3717"
         },
         {
           "count": 1,
@@ -64,36 +64,28 @@
         },
         {
           "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
           "id": "3110"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         },
         {
           "count": 1,
           "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (50% win - 189 games)"
+      "type": "Most Frequent Build (46% win - 163 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3725"
-        },
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3800"
+          "id": "3709"
         },
         {
           "count": 1,
@@ -101,14 +93,22 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 189 games)"
+      "type": "Highest Win Rate Build (50% win - 67 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (49% win - 2014 games)"
+      "type": "WEQ -> WEQ (46% win - 1574 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEEQ -> EWQ (56% win - 229 games)"
+      "type": "WEEQ -> EWQ (56% win - 201 games)"
     }
   ],
   "champion": "Nautilus",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.15",
+  "title": "Jungle 5.16",
   "type": "custom"
 }

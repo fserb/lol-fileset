@@ -29,17 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 13015 games)"
+      "type": "Most Frequent Starters (49% win - 10058 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
+          "count": 2,
+          "id": "2003"
         },
         {
-          "count": 3,
-          "id": "2003"
+          "count": 2,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 13015 games)"
+      "type": "Highest Win Rate Starters (50% win - 415 games)"
     },
     {
       "items": [
@@ -87,17 +87,17 @@
           "id": "3190"
         }
       ],
-      "type": "Most Frequent Build (47% win - 7491 games)"
+      "type": "Most Frequent Build (47% win - 5836 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
+          "id": "2049"
         },
         {
           "count": 1,
-          "id": "2049"
+          "id": "3117"
         },
         {
           "count": 1,
@@ -109,14 +109,14 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3110"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3190"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 1242 games)"
+      "type": "Highest Win Rate Build (47% win - 5836 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (49% win - 12717 games)"
+      "type": "QWE -> QWE (47% win - 9451 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (50% win - 596 games)"
+      "type": "WQE -> QWE (50% win - 506 games)"
     }
   ],
   "champion": "Alistar",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.15",
+  "title": "Support 5.16",
   "type": "custom"
 }

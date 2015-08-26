@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 3114 games)"
+      "type": "Most Frequent Starters (45% win - 2849 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (47% win - 934 games)"
+      "type": "Highest Win Rate Starters (48% win - 731 games)"
     },
     {
       "items": [
@@ -68,35 +68,35 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3083"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3075"
         },
         {
           "count": 1,
           "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (45% win - 219 games)"
+      "type": "Most Frequent Build (47% win - 219 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
         {
           "count": 1,
           "id": "3068"
         },
         {
           "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
           "id": "3083"
         },
         {
@@ -108,7 +108,7 @@
           "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 150 games)"
+      "type": "Highest Win Rate Build (47% win - 219 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (46% win - 682 games)"
+      "type": "QWE -> QWE (46% win - 544 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (50% win - 300 games)"
+      "type": "QEW -> QWE (47% win - 386 games)"
     }
   ],
   "champion": "DrMundo",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.15",
+  "title": "Top 5.16",
   "type": "custom"
 }

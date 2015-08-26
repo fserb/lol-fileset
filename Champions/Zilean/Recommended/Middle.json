@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 328 games)"
+      "type": "Most Frequent Starters (51% win - 256 games)"
     },
     {
       "items": [
@@ -50,61 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 328 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3003"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3116"
-        }
-      ],
-      "type": "Most Frequent Build (45% win - 36 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3174"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3003"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 2,
-          "id": "3285"
-        }
-      ],
-      "type": "Highest Win Rate Build (50% win - 31 games)"
+      "type": "Highest Win Rate Starters (52% win - 198 games)"
     },
     {
       "items": [
@@ -170,7 +116,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (51% win - 203 games)"
+      "type": "QWQE -> QWE (55% win - 198 games)"
     },
     {
       "items": [
@@ -195,7 +141,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (53% win - 154 games)"
+      "type": "QWQE -> QWE (55% win - 198 games)"
     }
   ],
   "champion": "Zilean",
@@ -205,6 +151,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.15",
+  "title": "Middle 5.16",
   "type": "custom"
 }

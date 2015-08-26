@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 18414 games)"
+      "type": "Most Frequent Starters (51% win - 11467 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 2371 games)"
+      "type": "Highest Win Rate Starters (54% win - 1964 games)"
     },
     {
       "items": [
@@ -68,14 +68,18 @@
         },
         {
           "count": 1,
+          "id": "3035"
+        },
+        {
+          "count": 1,
           "id": "3072"
         },
         {
-          "count": 2,
-          "id": "3035"
+          "count": 1,
+          "id": "3046"
         }
       ],
-      "type": "Most Frequent Build (49% win - 2721 games)"
+      "type": "Most Frequent Build (52% win - 2560 games)"
     },
     {
       "items": [
@@ -93,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 1,
           "id": "3035"
         },
         {
           "count": 1,
-          "id": "3142"
+          "id": "3072"
+        },
+        {
+          "count": 1,
+          "id": "3087"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 2720 games)"
+      "type": "Highest Win Rate Build (52% win - 2559 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (51% win - 11066 games)"
+      "type": "QEW -> QEW (53% win - 7808 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQQW -> QEW (54% win - 684 games)"
+      "type": "EQQW -> QEW (56% win - 827 games)"
     }
   ],
   "champion": "Gangplank",
@@ -205,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.15",
+  "title": "Top 5.16",
   "type": "custom"
 }

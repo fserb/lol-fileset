@@ -29,16 +29,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 30779 games)"
+      "type": "Most Frequent Starters (54% win - 22524 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 2,
           "id": "2004"
         },
         {
-          "count": 3,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 4786 games)"
+      "type": "Highest Win Rate Starters (56% win - 1082 games)"
     },
     {
       "items": [
@@ -77,17 +77,17 @@
         {
           "count": 1,
           "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3110"
         },
         {
           "count": 1,
           "id": "3222"
-        },
-        {
-          "count": 1,
-          "id": "3110"
         }
       ],
-      "type": "Most Frequent Build (53% win - 10399 games)"
+      "type": "Most Frequent Build (52% win - 7465 games)"
     },
     {
       "items": [
@@ -97,7 +97,7 @@
         },
         {
           "count": 1,
-          "id": "3069"
+          "id": "3041"
         },
         {
           "count": 1,
@@ -105,18 +105,18 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3069"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3050"
         },
         {
           "count": 1,
-          "id": "3023"
+          "id": "3060"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 6400 games)"
+      "type": "Highest Win Rate Build (55% win - 1194 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EWQ (54% win - 26888 games)"
+      "type": "EQW -> EWQ (54% win - 19941 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWEQ -> EWQ (55% win - 2446 games)"
+      "type": "QEW -> EWQ (56% win - 1059 games)"
     }
   ],
   "champion": "Janna",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.15",
+  "title": "Support 5.16",
   "type": "custom"
 }

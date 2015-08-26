@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 10291 games)"
+      "type": "Most Frequent Starters (53% win - 6842 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1029"
         },
         {
-          "count": 1,
+          "count": 5,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 2559 games)"
+      "type": "Highest Win Rate Starters (58% win - 267 games)"
     },
     {
       "items": [
@@ -79,7 +79,7 @@
           "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (54% win - 1358 games)"
+      "type": "Most Frequent Build (54% win - 910 games)"
     },
     {
       "items": [
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (56% win - 929 games)"
+      "type": "Highest Win Rate Build (54% win - 620 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EQW (56% win - 8984 games)"
+      "type": "EQW -> EQW (55% win - 6217 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEW -> EQW (58% win - 1932 games)"
+      "type": "EWQ -> EQW (58% win - 539 games)"
     }
   ],
   "champion": "MonkeyKing",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.15",
+  "title": "Top 5.16",
   "type": "custom"
 }

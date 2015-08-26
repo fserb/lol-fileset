@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (44% win - 2365 games)"
+      "type": "Most Frequent Starters (44% win - 1608 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "1027"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -54,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 131 games)"
+      "type": "Highest Win Rate Starters (50% win - 182 games)"
     },
     {
       "items": [
@@ -72,18 +72,18 @@
         },
         {
           "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3110"
         }
       ],
-      "type": "Most Frequent Build (44% win - 1032 games)"
+      "type": "Most Frequent Build (43% win - 713 games)"
     },
     {
       "items": [
@@ -101,18 +101,18 @@
         },
         {
           "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 683 games)"
+      "type": "Highest Win Rate Build (48% win - 423 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (43% win - 2220 games)"
+      "type": "QWE -> QWE (42% win - 1397 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (55% win - 1257 games)"
+      "type": "QWE -> QWE (53% win - 964 games)"
     }
   ],
   "champion": "Ryze",
@@ -213,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.15",
+  "title": "Top 5.16",
   "type": "custom"
 }

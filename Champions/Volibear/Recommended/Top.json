@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 2436 games)"
+      "type": "Most Frequent Starters (48% win - 2603 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1028"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 435 games)"
+      "type": "Highest Win Rate Starters (51% win - 708 games)"
     },
     {
       "items": [
@@ -68,7 +68,7 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3083"
         },
         {
           "count": 1,
@@ -76,17 +76,13 @@
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (47% win - 195 games)"
+      "type": "Most Frequent Build (46% win - 193 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3068"
-        },
         {
           "count": 1,
           "id": "3065"
@@ -100,11 +96,19 @@
           "id": "3083"
         },
         {
-          "count": 2,
+          "count": 1,
+          "id": "3087"
+        },
+        {
+          "count": 1,
           "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 92 games)"
+      "type": "Highest Win Rate Build (51% win - 89 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (49% win - 768 games)"
+      "type": "WEQ -> WEQ (46% win - 817 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> WEQ (57% win - 135 games)"
+      "type": "QWE -> WQE (53% win - 151 games)"
     }
   ],
   "champion": "Volibear",
@@ -205,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.15",
+  "title": "Top 5.16",
   "type": "custom"
 }

@@ -29,17 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 1475 games)"
+      "type": "Most Frequent Starters (52% win - 1351 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2003"
+          "count": 2,
+          "id": "2004"
         },
         {
           "count": 2,
-          "id": "2004"
+          "id": "2003"
         },
         {
           "count": 1,
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 146 games)"
+      "type": "Highest Win Rate Starters (57% win - 767 games)"
     },
     {
       "items": [
@@ -80,14 +80,14 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (52% win - 697 games)"
+      "type": "Most Frequent Build (51% win - 516 games)"
     },
     {
       "items": [
@@ -97,11 +97,11 @@
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3151"
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -109,14 +109,14 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 697 games)"
+      "type": "Highest Win Rate Build (53% win - 251 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (51% win - 1317 games)"
+      "type": "QWE -> QEW (54% win - 1250 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> EQW (55% win - 319 games)"
+      "type": "EWQ -> QEW (56% win - 512 games)"
     }
   ],
   "champion": "Zyra",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.15",
+  "title": "Support 5.16",
   "type": "custom"
 }

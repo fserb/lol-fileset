@@ -29,17 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 9244 games)"
+      "type": "Most Frequent Starters (52% win - 7794 games)"
     },
     {
       "items": [
         {
           "count": 2,
-          "id": "2003"
+          "id": "2004"
         },
         {
-          "count": 1,
-          "id": "2044"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 829 games)"
+      "type": "Highest Win Rate Starters (53% win - 2801 games)"
     },
     {
       "items": [
@@ -87,17 +87,17 @@
           "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (52% win - 1854 games)"
+      "type": "Most Frequent Build (51% win - 1630 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2049"
+          "id": "3041"
         },
         {
           "count": 1,
-          "id": "3069"
+          "id": "2049"
         },
         {
           "count": 1,
@@ -105,18 +105,18 @@
         },
         {
           "count": 1,
-          "id": "3504"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3222"
+          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 1854 games)"
+      "type": "Highest Win Rate Build (53% win - 161 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (52% win - 7964 games)"
+      "type": "WQE -> WQE (52% win - 6359 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQWE -> WEQ (54% win - 1009 games)"
+      "type": "WQWE -> WEQ (55% win - 841 games)"
     }
   ],
   "champion": "Soraka",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.15",
+  "title": "Support 5.16",
   "type": "custom"
 }
