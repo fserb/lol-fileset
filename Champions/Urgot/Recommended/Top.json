@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (40% win - 179 games)"
+      "type": "Most Frequent Starters (41% win - 216 games)"
     },
     {
       "items": [
@@ -50,7 +50,36 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (40% win - 179 games)"
+      "type": "Highest Win Rate Starters (41% win - 216 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3004"
+        },
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3035"
+        },
+        {
+          "count": 1,
+          "id": "3156"
+        }
+      ],
+      "type": "Most Frequent Build (43% win - 34 games)"
     },
     {
       "items": [
@@ -79,36 +108,7 @@
           "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (50% win - 29 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3004"
-        },
-        {
-          "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3102"
-        }
-      ],
-      "type": "Highest Win Rate Build (50% win - 29 games)"
+      "type": "Highest Win Rate Build (51% win - 34 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (39% win - 82 games)"
+      "type": "QEW -> QEW (37% win - 96 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QWE (54% win - 70 games)"
+      "type": "QWE -> QWE (54% win - 57 games)"
     }
   ],
   "champion": "Urgot",

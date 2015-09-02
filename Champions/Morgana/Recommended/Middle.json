@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 4490 games)"
+      "type": "Most Frequent Starters (53% win - 5545 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 2518 games)"
+      "type": "Highest Win Rate Starters (55% win - 3128 games)"
     },
     {
       "items": [
@@ -73,42 +73,42 @@
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        }
+      ],
+      "type": "Most Frequent Build (52% win - 649 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         },
         {
           "count": 1,
           "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3174"
         }
       ],
-      "type": "Most Frequent Build (52% win - 518 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        }
-      ],
-      "type": "Highest Win Rate Build (54% win - 340 games)"
+      "type": "Highest Win Rate Build (54% win - 406 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (51% win - 1561 games)"
+      "type": "WQE -> WQE (52% win - 1904 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWWE -> WQE (56% win - 634 games)"
+      "type": "WQWE -> QWE (56% win - 155 games)"
     }
   ],
   "champion": "Morgana",

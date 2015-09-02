@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 1269 games)"
+      "type": "Most Frequent Starters (47% win - 1571 games)"
     },
     {
       "items": [
@@ -46,7 +46,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 129 games)"
+      "type": "Highest Win Rate Starters (57% win - 167 games)"
     },
     {
       "items": [
@@ -61,6 +61,10 @@
         {
           "count": 1,
           "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3083"
         },
         {
           "count": 1,
@@ -68,14 +72,10 @@
         },
         {
           "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3075"
+          "id": "3748"
         }
       ],
-      "type": "Most Frequent Build (45% win - 132 games)"
+      "type": "Most Frequent Build (46% win - 160 games)"
     },
     {
       "items": [
@@ -85,11 +85,15 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3065"
         },
         {
           "count": 1,
@@ -98,13 +102,9 @@
         {
           "count": 1,
           "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3025"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 73 games)"
+      "type": "Highest Win Rate Build (48% win - 123 games)"
     },
     {
       "items": [
@@ -170,7 +170,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (46% win - 1060 games)"
+      "type": "QWE -> QWE (46% win - 1310 games)"
     },
     {
       "items": [
@@ -195,7 +195,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (54% win - 151 games)"
+      "type": "QWE -> WQE (54% win - 190 games)"
     }
   ],
   "champion": "TahmKench",
