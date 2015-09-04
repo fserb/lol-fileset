@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 154127 games)"
+      "type": "Most Frequent Starters (51% win - 46388 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 154127 games)"
+      "type": "Highest Win Rate Starters (51% win - 46388 games)"
     },
     {
       "items": [
@@ -73,42 +73,42 @@
         {
           "count": 1,
           "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Most Frequent Build (50% win - 33691 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3046"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3035"
         },
         {
           "count": 1,
           "id": "3139"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 5472 games)"
+      "type": "Most Frequent Build (49% win - 9642 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3046"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3035"
+        },
+        {
+          "count": 1,
+          "id": "3072"
+        }
+      ],
+      "type": "Highest Win Rate Build (54% win - 1530 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> WQE (52% win - 56730 games)"
+      "type": "QWE -> WQE (52% win - 17525 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (53% win - 3972 games)"
+      "type": "QWE -> WQE (52% win - 17525 games)"
     }
   ],
   "champion": "Vayne",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.16",
+  "title": "ADC 5.17",
   "type": "custom"
 }

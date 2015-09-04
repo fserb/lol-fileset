@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 4001 games)"
+      "type": "Most Frequent Starters (55% win - 1068 games)"
     },
     {
       "items": [
@@ -34,12 +34,8 @@
           "id": "1056"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2004"
         },
         {
           "count": 1,
@@ -54,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 349 games)"
+      "type": "Highest Win Rate Starters (55% win - 1068 games)"
     },
     {
       "items": [
@@ -80,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3151"
         }
       ],
-      "type": "Most Frequent Build (54% win - 403 games)"
+      "type": "Most Frequent Build (53% win - 108 games)"
     },
     {
       "items": [
@@ -101,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3116"
-        },
-        {
-          "count": 1,
           "id": "3089"
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (57% win - 206 games)"
+      "type": "Highest Win Rate Build (56% win - 56 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (56% win - 2382 games)"
+      "type": "QWE -> QWE (56% win - 699 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (58% win - 470 games)"
+      "type": "QWQE -> QWE (56% win - 290 games)"
     }
   ],
   "champion": "Heimerdinger",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.16",
+  "title": "Middle 5.17",
   "type": "custom"
 }

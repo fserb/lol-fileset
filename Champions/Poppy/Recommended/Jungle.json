@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 2063 games)"
+      "type": "Most Frequent Starters (53% win - 642 games)"
     },
     {
       "items": [
@@ -50,65 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 2063 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3710"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3074"
-        },
-        {
-          "count": 1,
-          "id": "3146"
-        }
-      ],
-      "type": "Most Frequent Build (51% win - 75 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3710"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3074"
-        },
-        {
-          "count": 1,
-          "id": "3146"
-        }
-      ],
-      "type": "Highest Win Rate Build (51% win - 75 games)"
+      "type": "Highest Win Rate Starters (53% win - 642 games)"
     },
     {
       "items": [
@@ -174,7 +116,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (49% win - 427 games)"
+      "type": "QWE -> QWE (56% win - 141 games)"
     },
     {
       "items": [
@@ -199,7 +141,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (54% win - 304 games)"
+      "type": "QEW -> QWE (57% win - 121 games)"
     }
   ],
   "champion": "Poppy",
@@ -209,6 +151,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.16",
+  "title": "Jungle 5.17",
   "type": "custom"
 }

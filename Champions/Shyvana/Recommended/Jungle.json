@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 42813 games)"
+      "type": "Most Frequent Starters (50% win - 13260 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 42813 games)"
+      "type": "Highest Win Rate Starters (50% win - 13260 games)"
     },
     {
       "items": [
@@ -79,13 +79,13 @@
           "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (50% win - 1736 games)"
+      "type": "Most Frequent Build (49% win - 516 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3718"
+          "id": "3710"
         },
         {
           "count": 1,
@@ -97,7 +97,7 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3742"
         },
         {
           "count": 1,
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 1529 games)"
+      "type": "Highest Win Rate Build (51% win - 491 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (50% win - 10317 games)"
+      "type": "WQE -> WQE (48% win - 3400 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WEQ (58% win - 386 games)"
+      "type": "WEWQ -> WEQ (55% win - 175 games)"
     }
   ],
   "champion": "Shyvana",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.16",
+  "title": "Jungle 5.17",
   "type": "custom"
 }

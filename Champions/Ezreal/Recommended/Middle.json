@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (45% win - 2306 games)"
+      "type": "Most Frequent Starters (43% win - 621 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (45% win - 1485 games)"
+      "type": "Highest Win Rate Starters (45% win - 331 games)"
     },
     {
       "items": [
@@ -76,20 +76,16 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (43% win - 269 games)"
+      "type": "Most Frequent Build (46% win - 77 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3724"
-        },
-        {
-          "count": 1,
-          "id": "3285"
+          "id": "3004"
         },
         {
           "count": 1,
@@ -97,18 +93,22 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3078"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3035"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 142 games)"
+      "type": "Highest Win Rate Build (46% win - 77 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (47% win - 1040 games)"
+      "type": "QEQW -> QEW (48% win - 311 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (47% win - 1040 games)"
+      "type": "QEQW -> QEW (48% win - 311 games)"
     }
   ],
   "champion": "Ezreal",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.16",
+  "title": "Middle 5.17",
   "type": "custom"
 }

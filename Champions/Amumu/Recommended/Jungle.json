@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 25227 games)"
+      "type": "Most Frequent Starters (54% win - 8410 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 25227 games)"
+      "type": "Highest Win Rate Starters (54% win - 8410 games)"
     },
     {
       "items": [
@@ -72,20 +72,24 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3001"
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (50% win - 844 games)"
+      "type": "Most Frequent Build (52% win - 261 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3716"
+          "id": "3725"
+        },
+        {
+          "count": 1,
+          "id": "3047"
         },
         {
           "count": 1,
@@ -93,22 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3146"
+          "id": "3001"
         }
       ],
-      "type": "Highest Win Rate Build (56% win - 127 games)"
+      "type": "Highest Win Rate Build (55% win - 198 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (53% win - 3712 games)"
+      "type": "EWQ -> EWQ (54% win - 1230 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (55% win - 1836 games)"
+      "type": "EWEQ -> EQW (60% win - 193 games)"
     }
   ],
   "champion": "Amumu",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.16",
+  "title": "Jungle 5.17",
   "type": "custom"
 }

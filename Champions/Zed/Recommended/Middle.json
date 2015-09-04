@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 43888 games)"
+      "type": "Most Frequent Starters (48% win - 12674 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 43888 games)"
+      "type": "Highest Win Rate Starters (48% win - 12674 games)"
     },
     {
       "items": [
@@ -79,7 +79,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (47% win - 3468 games)"
+      "type": "Most Frequent Build (45% win - 913 games)"
     },
     {
       "items": [
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3139"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 3261 games)"
+      "type": "Highest Win Rate Build (50% win - 889 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (49% win - 31479 games)"
+      "type": "QWE -> QEW (48% win - 9042 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (49% win - 31479 games)"
+      "type": "QEW -> QEW (50% win - 2284 games)"
     }
   ],
   "champion": "Zed",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.16",
+  "title": "Middle 5.17",
   "type": "custom"
 }
