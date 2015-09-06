@@ -29,13 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 3258 games)"
+      "type": "Most Frequent Starters (53% win - 5895 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 2,
           "id": "2003"
+        },
+        {
+          "count": 2,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -54,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 203 games)"
+      "type": "Highest Win Rate Starters (55% win - 380 games)"
     },
     {
       "items": [
@@ -76,17 +80,21 @@
         },
         {
           "count": 1,
-          "id": "3504"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3060"
         }
       ],
-      "type": "Most Frequent Build (51% win - 637 games)"
+      "type": "Most Frequent Build (51% win - 1149 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3069"
+        },
         {
           "count": 1,
           "id": "2049"
@@ -97,22 +105,18 @@
         },
         {
           "count": 1,
-          "id": "3069"
-        },
-        {
-          "count": 1,
           "id": "3504"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3060"
         },
         {
           "count": 1,
-          "id": "3222"
+          "id": "3050"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 523 games)"
+      "type": "Highest Win Rate Build (54% win - 156 games)"
     },
     {
       "items": [
@@ -178,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (51% win - 2624 games)"
+      "type": "WQE -> WQE (53% win - 4886 games)"
     },
     {
       "items": [
@@ -203,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (56% win - 163 games)"
+      "type": "WEQ -> WEQ (54% win - 591 games)"
     }
   ],
   "champion": "Soraka",

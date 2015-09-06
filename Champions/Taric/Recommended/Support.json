@@ -29,13 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 249 games)"
+      "type": "Most Frequent Starters (50% win - 428 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 2,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2044"
         },
         {
           "count": 1,
@@ -54,13 +58,17 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 153 games)"
+      "type": "Highest Win Rate Starters (56% win - 125 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3401"
         },
         {
           "count": 1,
@@ -68,36 +76,32 @@
         },
         {
           "count": 1,
-          "id": "3401"
-        },
-        {
-          "count": 1,
           "id": "3190"
         },
         {
           "count": 1,
-          "id": "3068"
+          "id": "3110"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3025"
         }
       ],
-      "type": "Most Frequent Build (50% win - 103 games)"
+      "type": "Most Frequent Build (51% win - 183 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3401"
+        },
         {
           "count": 1,
           "id": "2049"
         },
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3401"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -109,10 +113,10 @@
         },
         {
           "count": 1,
-          "id": "3068"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 80 games)"
+      "type": "Highest Win Rate Build (54% win - 34 games)"
     },
     {
       "items": [
@@ -178,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WQE (55% win - 90 games)"
+      "type": "EWQ -> WQE (52% win - 162 games)"
     },
     {
       "items": [
@@ -203,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (71% win - 21 games)"
+      "type": "EWQ -> WQE (52% win - 162 games)"
     }
   ],
   "champion": "Taric",
