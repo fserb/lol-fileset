@@ -29,7 +29,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 5562 games)"
+      "type": "Most Frequent Starters (50% win - 14481 games)"
     },
     {
       "items": [
@@ -38,12 +38,8 @@
           "id": "1056"
         },
         {
-          "count": 2,
+          "count": 3,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3303"
         },
         {
           "count": 1,
@@ -58,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 199 games)"
+      "type": "Highest Win Rate Starters (51% win - 520 games)"
     },
     {
       "items": [
@@ -80,14 +76,14 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3050"
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (48% win - 1559 games)"
+      "type": "Most Frequent Build (49% win - 3940 games)"
     },
     {
       "items": [
@@ -113,10 +109,10 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3001"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 965 games)"
+      "type": "Highest Win Rate Build (49% win - 2373 games)"
     },
     {
       "items": [
@@ -182,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 3739 games)"
+      "type": "QEW -> QEW (48% win - 9090 games)"
     },
     {
       "items": [
@@ -207,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (51% win - 203 games)"
+      "type": "QWQE -> QEW (53% win - 412 games)"
     }
   ],
   "champion": "Morgana",
@@ -217,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.17",
+  "title": "Support 5.18",
   "type": "custom"
 }

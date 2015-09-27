@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 7027 games)"
+      "type": "Most Frequent Starters (52% win - 18875 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 7027 games)"
+      "type": "Highest Win Rate Starters (52% win - 18875 games)"
     },
     {
       "items": [
@@ -72,14 +72,14 @@
         },
         {
           "count": 1,
-          "id": "3068"
+          "id": "3102"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3035"
         }
       ],
-      "type": "Most Frequent Build (49% win - 240 games)"
+      "type": "Most Frequent Build (51% win - 649 games)"
     },
     {
       "items": [
@@ -89,26 +89,26 @@
         },
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3074"
-        },
-        {
-          "count": 1,
           "id": "3071"
         },
         {
           "count": 1,
-          "id": "3068"
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         },
         {
           "count": 1,
           "id": "3035"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 226 games)"
+      "type": "Highest Win Rate Build (53% win - 463 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EQW (52% win - 2952 games)"
+      "type": "EWQ -> EQW (54% win - 8014 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EQW (52% win - 2952 games)"
+      "type": "WEQ -> EQW (55% win - 358 games)"
     }
   ],
   "champion": "MonkeyKing",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.17",
+  "title": "Jungle 5.18",
   "type": "custom"
 }

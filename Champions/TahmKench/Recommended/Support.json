@@ -25,17 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 1888 games)"
+      "type": "Most Frequent Starters (47% win - 4785 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2003"
+          "id": "2004"
         },
         {
-          "count": 1,
-          "id": "2044"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -54,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 165 games)"
+      "type": "Highest Win Rate Starters (51% win - 365 games)"
     },
     {
       "items": [
@@ -76,14 +76,14 @@
         },
         {
           "count": 1,
-          "id": "3068"
+          "id": "3110"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3068"
         }
       ],
-      "type": "Most Frequent Build (46% win - 465 games)"
+      "type": "Most Frequent Build (47% win - 1126 games)"
     },
     {
       "items": [
@@ -101,18 +101,18 @@
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3068"
+          "id": "3800"
         },
         {
           "count": 1,
           "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 440 games)"
+      "type": "Highest Win Rate Build (47% win - 1126 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (48% win - 2853 games)"
+      "type": "QWE -> QWE (48% win - 6771 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (50% win - 394 games)"
+      "type": "WQE -> QWE (51% win - 1900 games)"
     }
   ],
   "champion": "TahmKench",
@@ -213,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.17",
+  "title": "Support 5.18",
   "type": "custom"
 }

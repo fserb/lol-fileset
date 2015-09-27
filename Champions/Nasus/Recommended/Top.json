@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 4798 games)"
+      "type": "Most Frequent Starters (48% win - 12392 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1028"
+          "id": "1029"
         },
         {
-          "count": 2,
+          "count": 5,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 288 games)"
+      "type": "Highest Win Rate Starters (52% win - 5380 games)"
     },
     {
       "items": [
@@ -79,7 +79,7 @@
           "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (44% win - 866 games)"
+      "type": "Most Frequent Build (47% win - 1907 games)"
     },
     {
       "items": [
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 439 games)"
+      "type": "Highest Win Rate Build (51% win - 1005 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (46% win - 1681 games)"
+      "type": "QEW -> QEW (49% win - 4379 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (51% win - 1078 games)"
+      "type": "EQQW -> QEW (60% win - 195 games)"
     }
   ],
   "champion": "Nasus",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.17",
+  "title": "Top 5.18",
   "type": "custom"
 }

@@ -5,44 +5,15 @@
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 3,
+          "count": 2,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "3302"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Most Frequent Starters (45% win - 35 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
           "id": "2004"
         },
         {
           "count": 1,
-          "id": "2044"
-        },
-        {
-          "count": 1,
           "id": "3302"
         },
         {
@@ -58,36 +29,36 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (71% win - 32 games)"
+      "type": "Most Frequent Starters (62% win - 40 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2049"
+          "count": 2,
+          "id": "2004"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3301"
         },
         {
           "count": 1,
-          "id": "3401"
+          "id": "3340"
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3341"
         },
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3222"
+          "id": "3342"
         }
       ],
-      "type": "Most Frequent Build (49% win - 40 games)"
+      "type": "Highest Win Rate Starters (70% win - 24 games)"
     },
     {
       "items": [
@@ -105,14 +76,47 @@
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "3110"
         },
         {
-          "count": 2,
-          "id": "3102"
+          "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 34 games)"
+      "type": "Most Frequent Build (46% win - 36 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3401"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        }
+      ],
+      "type": "Highest Win Rate Build (50% win - 28 games)"
     },
     {
       "items": [
@@ -178,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (50% win - 77 games)"
+      "type": "QEW -> QEW (53% win - 75 games)"
     },
     {
       "items": [
@@ -203,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (58% win - 39 games)"
+      "type": "QEW -> QEW (53% win - 75 games)"
     }
   ],
   "champion": "Galio",
@@ -213,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.16",
+  "title": "Support 5.18",
   "type": "custom"
 }

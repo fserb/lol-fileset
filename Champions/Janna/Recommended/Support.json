@@ -29,21 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 12731 games)"
+      "type": "Most Frequent Starters (53% win - 25469 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 3,
+          "count": 4,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "3301"
+          "id": "3303"
         },
         {
           "count": 1,
@@ -58,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 12731 games)"
+      "type": "Highest Win Rate Starters (54% win - 1721 games)"
     },
     {
       "items": [
@@ -87,7 +83,7 @@
           "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (49% win - 4264 games)"
+      "type": "Most Frequent Build (51% win - 8407 games)"
     },
     {
       "items": [
@@ -97,7 +93,7 @@
         },
         {
           "count": 1,
-          "id": "3041"
+          "id": "3069"
         },
         {
           "count": 1,
@@ -105,18 +101,18 @@
         },
         {
           "count": 1,
-          "id": "3069"
+          "id": "3050"
         },
         {
           "count": 1,
-          "id": "3050"
+          "id": "3190"
         },
         {
           "count": 1,
           "id": "3222"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 458 games)"
+      "type": "Highest Win Rate Build (52% win - 4916 games)"
     },
     {
       "items": [
@@ -182,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EWQ (51% win - 11274 games)"
+      "type": "EQW -> EWQ (52% win - 21412 games)"
     },
     {
       "items": [
@@ -207,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWEQ -> EWQ (52% win - 988 games)"
+      "type": "QEW -> EWQ (54% win - 1164 games)"
     }
   ],
   "champion": "Janna",
@@ -217,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.17",
+  "title": "Support 5.18",
   "type": "custom"
 }

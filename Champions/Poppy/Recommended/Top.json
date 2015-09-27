@@ -25,17 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 534 games)"
+      "type": "Most Frequent Starters (50% win - 1528 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "1055"
         },
         {
           "count": 1,
-          "id": "2041"
+          "id": "2003"
         },
         {
           "count": 1,
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 534 games)"
+      "type": "Highest Win Rate Starters (58% win - 136 games)"
     },
     {
       "items": [
@@ -63,19 +63,23 @@
           "id": "3047"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3153"
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3053"
+        },
+        {
+          "count": 1,
+          "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (49% win - 68 games)"
+      "type": "Most Frequent Build (46% win - 175 games)"
     },
     {
       "items": [
@@ -85,7 +89,7 @@
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -97,14 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3046"
+          "id": "3035"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3142"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 43 games)"
+      "type": "Highest Win Rate Build (51% win - 148 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (49% win - 156 games)"
+      "type": "QWE -> QWE (50% win - 554 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (49% win - 156 games)"
+      "type": "QEW -> QEW (54% win - 273 games)"
     }
   ],
   "champion": "Poppy",
@@ -205,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.17",
+  "title": "Top 5.18",
   "type": "custom"
 }

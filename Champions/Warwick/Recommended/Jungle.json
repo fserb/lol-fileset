@@ -25,17 +25,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 9059 games)"
+      "type": "Most Frequent Starters (52% win - 18531 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "1039"
-        },
-        {
-          "count": 1,
-          "id": "2003"
         },
         {
           "count": 1,
@@ -50,7 +46,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 486 games)"
+      "type": "Highest Win Rate Starters (56% win - 1037 games)"
     },
     {
       "items": [
@@ -76,10 +72,10 @@
         },
         {
           "count": 1,
-          "id": "3091"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (51% win - 328 games)"
+      "type": "Most Frequent Build (51% win - 726 games)"
     },
     {
       "items": [
@@ -93,11 +89,7 @@
         },
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3091"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -106,9 +98,13 @@
         {
           "count": 1,
           "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3071"
         }
       ],
-      "type": "Highest Win Rate Build (56% win - 219 games)"
+      "type": "Highest Win Rate Build (54% win - 598 games)"
     },
     {
       "items": [
@@ -174,7 +170,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQQE -> QWE (53% win - 1525 games)"
+      "type": "WQQE -> QWE (51% win - 2766 games)"
     },
     {
       "items": [
@@ -199,7 +195,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QEW (57% win - 554 games)"
+      "type": "QWQW -> QWE (60% win - 122 games)"
     }
   ],
   "champion": "Warwick",
@@ -209,6 +205,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.17",
+  "title": "Jungle 5.18",
   "type": "custom"
 }

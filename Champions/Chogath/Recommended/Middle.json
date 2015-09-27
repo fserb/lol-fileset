@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 3598 games)"
+      "type": "Most Frequent Starters (51% win - 8083 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 863 games)"
+      "type": "Highest Win Rate Starters (52% win - 2071 games)"
     },
     {
       "items": [
@@ -64,11 +64,11 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3157"
         },
         {
           "count": 1,
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (48% win - 269 games)"
+      "type": "Most Frequent Build (50% win - 620 games)"
     },
     {
       "items": [
@@ -89,7 +89,7 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3285"
         },
         {
           "count": 1,
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3001"
+          "id": "3089"
         },
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 146 games)"
+      "type": "Highest Win Rate Build (52% win - 367 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WQE (54% win - 1212 games)"
+      "type": "EWQ -> WQE (51% win - 2603 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> WQE (55% win - 181 games)"
+      "type": "EWWQ -> WQE (58% win - 412 games)"
     }
   ],
   "champion": "Chogath",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.17",
+  "title": "Middle 5.18",
   "type": "custom"
 }

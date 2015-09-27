@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 16163 games)"
+      "type": "Most Frequent Starters (47% win - 36774 games)"
     },
     {
       "items": [
@@ -50,7 +50,36 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 2678 games)"
+      "type": "Highest Win Rate Starters (49% win - 6279 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3156"
+        }
+      ],
+      "type": "Most Frequent Build (47% win - 2725 games)"
     },
     {
       "items": [
@@ -79,36 +108,7 @@
           "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (47% win - 1224 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        }
-      ],
-      "type": "Highest Win Rate Build (47% win - 1224 games)"
+      "type": "Highest Win Rate Build (47% win - 2724 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (48% win - 13816 games)"
+      "type": "QWE -> QWE (48% win - 30339 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (51% win - 678 games)"
+      "type": "QWE -> QWE (48% win - 30339 games)"
     }
   ],
   "champion": "Gnar",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.17",
+  "title": "Top 5.18",
   "type": "custom"
 }

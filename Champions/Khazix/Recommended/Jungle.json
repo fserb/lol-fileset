@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 8601 games)"
+      "type": "Most Frequent Starters (48% win - 24726 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (46% win - 8601 games)"
+      "type": "Highest Win Rate Starters (48% win - 24726 games)"
     },
     {
       "items": [
@@ -79,7 +79,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (46% win - 491 games)"
+      "type": "Most Frequent Build (48% win - 1246 games)"
     },
     {
       "items": [
@@ -93,22 +93,22 @@
         },
         {
           "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
           "id": "3035"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3111"
         },
         {
           "count": 1,
           "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3156"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 265 games)"
+      "type": "Highest Win Rate Build (49% win - 601 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (R:QEW) (45% win - 3001 games)"
+      "type": "QWE -> QWE (R:QEW) (47% win - 8854 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (R:QER) (48% win - 219 games)"
+      "type": "QEW -> QWE (R:QEW) (54% win - 376 games)"
     }
   ],
   "champion": "Khazix",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.17",
+  "title": "Jungle 5.18",
   "type": "custom"
 }

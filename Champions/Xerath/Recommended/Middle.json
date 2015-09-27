@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 2860 games)"
+      "type": "Most Frequent Starters (49% win - 6898 games)"
     },
     {
       "items": [
@@ -34,8 +34,12 @@
           "id": "1056"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 2365 games)"
+      "type": "Highest Win Rate Starters (54% win - 333 games)"
     },
     {
       "items": [
@@ -79,7 +83,7 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (45% win - 378 games)"
+      "type": "Most Frequent Build (47% win - 945 games)"
     },
     {
       "items": [
@@ -101,14 +105,14 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 174 games)"
+      "type": "Highest Win Rate Build (52% win - 498 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (49% win - 2835 games)"
+      "type": "QWE -> QWE (50% win - 6877 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QWE (52% win - 200 games)"
+      "type": "EQW -> QWE (53% win - 313 games)"
     }
   ],
   "champion": "Xerath",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.17",
+  "title": "Middle 5.18",
   "type": "custom"
 }

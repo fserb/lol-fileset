@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (40% win - 274 games)"
+      "type": "Most Frequent Starters (42% win - 554 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (40% win - 274 games)"
+      "type": "Highest Win Rate Starters (42% win - 554 games)"
     },
     {
       "items": [
@@ -68,18 +68,18 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3157"
         },
         {
           "count": 1,
           "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (39% win - 77 games)"
+      "type": "Most Frequent Build (40% win - 114 games)"
     },
     {
       "items": [
@@ -89,15 +89,11 @@
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "3285"
         },
         {
           "count": 1,
-          "id": "3100"
-        },
-        {
-          "count": 1,
-          "id": "3157"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -105,10 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3001"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 30 games)"
+      "type": "Highest Win Rate Build (45% win - 60 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (42% win - 175 games)"
+      "type": "QWE -> QEW (44% win - 286 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (42% win - 175 games)"
+      "type": "QWE -> QEW (44% win - 286 games)"
     }
   ],
   "champion": "Kassadin",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.15",
+  "title": "Top 5.18",
   "type": "custom"
 }

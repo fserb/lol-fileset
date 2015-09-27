@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (63% win - 4088 games)"
+      "type": "Most Frequent Starters (57% win - 7017 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 4088 games)"
+      "type": "Highest Win Rate Starters (57% win - 7017 games)"
     },
     {
       "items": [
@@ -71,11 +71,15 @@
           "id": "3116"
         },
         {
-          "count": 2,
-          "id": "3146"
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (60% win - 479 games)"
+      "type": "Most Frequent Build (56% win - 400 games)"
     },
     {
       "items": [
@@ -85,22 +89,26 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3047"
         },
         {
           "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 2,
           "id": "3116"
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3053"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (64% win - 293 games)"
+      "type": "Highest Win Rate Build (57% win - 380 games)"
     },
     {
       "items": [
@@ -166,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> EQW (63% win - 1209 games)"
+      "type": "WEQ -> EQW (56% win - 1426 games)"
     },
     {
       "items": [
@@ -191,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WQE (71% win - 276 games)"
+      "type": "EQW -> EQW (63% win - 144 games)"
     }
   ],
   "champion": "Mordekaiser",
@@ -201,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.17",
+  "title": "ADC 5.18",
   "type": "custom"
 }

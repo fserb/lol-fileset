@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 2846 games)"
+      "type": "Most Frequent Starters (52% win - 7672 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1029"
+          "id": "1052"
         },
         {
-          "count": 5,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 224 games)"
+      "type": "Highest Win Rate Starters (53% win - 314 games)"
     },
     {
       "items": [
@@ -61,6 +61,10 @@
         {
           "count": 1,
           "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3116"
         },
         {
           "count": 1,
@@ -72,17 +76,17 @@
         },
         {
           "count": 1,
-          "id": "3116"
-        },
-        {
-          "count": 1,
           "id": "3151"
         }
       ],
-      "type": "Most Frequent Build (48% win - 381 games)"
+      "type": "Most Frequent Build (50% win - 1019 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3151"
+        },
         {
           "count": 1,
           "id": "3020"
@@ -97,18 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3135"
+          "id": "3285"
         },
         {
           "count": 1,
           "id": "3001"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 233 games)"
+      "type": "Highest Win Rate Build (53% win - 189 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (50% win - 1178 games)"
+      "type": "QWE -> QWE (53% win - 3205 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> WQE (57% win - 306 games)"
+      "type": "WQE -> WEQ (56% win - 167 games)"
     }
   ],
   "champion": "Kennen",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.17",
+  "title": "Top 5.18",
   "type": "custom"
 }

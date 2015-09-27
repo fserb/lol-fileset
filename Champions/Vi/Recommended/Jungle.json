@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 20345 games)"
+      "type": "Most Frequent Starters (50% win - 48414 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 20345 games)"
+      "type": "Highest Win Rate Starters (50% win - 48414 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3071"
         }
       ],
-      "type": "Most Frequent Build (47% win - 844 games)"
+      "type": "Most Frequent Build (47% win - 2245 games)"
     },
     {
       "items": [
@@ -101,14 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3102"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3742"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 520 games)"
+      "type": "Highest Win Rate Build (53% win - 1470 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> QEW (50% win - 4144 games)"
+      "type": "WEQ -> QEW (50% win - 9868 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> QWE (54% win - 951 games)"
+      "type": "QWE -> QWE (55% win - 707 games)"
     }
   ],
   "champion": "Vi",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.17",
+  "title": "Jungle 5.18",
   "type": "custom"
 }

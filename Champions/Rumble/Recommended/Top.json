@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 3503 games)"
+      "type": "Most Frequent Starters (48% win - 7903 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1028"
+          "id": "1001"
         },
         {
-          "count": 2,
+          "count": 4,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 446 games)"
+      "type": "Highest Win Rate Starters (50% win - 1257 games)"
     },
     {
       "items": [
@@ -79,13 +79,13 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (47% win - 726 games)"
+      "type": "Most Frequent Build (47% win - 1579 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "3157"
         },
         {
           "count": 1,
@@ -93,7 +93,7 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -101,14 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3001"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 726 games)"
+      "type": "Highest Win Rate Build (50% win - 443 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (47% win - 2728 games)"
+      "type": "QEW -> QEW (49% win - 5904 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> QEW (48% win - 633 games)"
+      "type": "QEQW -> QEW (52% win - 771 games)"
     }
   ],
   "champion": "Rumble",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.17",
+  "title": "Top 5.18",
   "type": "custom"
 }

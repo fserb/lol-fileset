@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 1426 games)"
+      "type": "Most Frequent Starters (51% win - 3420 games)"
     },
     {
       "items": [
@@ -50,13 +50,13 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (47% win - 1426 games)"
+      "type": "Highest Win Rate Starters (51% win - 3420 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3718"
+          "id": "3710"
         },
         {
           "count": 1,
@@ -68,18 +68,18 @@
         },
         {
           "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3071"
         }
       ],
-      "type": "Most Frequent Build (44% win - 57 games)"
+      "type": "Most Frequent Build (50% win - 121 games)"
     },
     {
       "items": [
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3742"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 47 games)"
+      "type": "Highest Win Rate Build (53% win - 106 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (48% win - 289 games)"
+      "type": "WEQ -> WEQ (47% win - 645 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WEQ (52% win - 145 games)"
+      "type": "QWE -> WEQ (56% win - 137 games)"
     }
   ],
   "champion": "Aatrox",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.17",
+  "title": "Jungle 5.18",
   "type": "custom"
 }

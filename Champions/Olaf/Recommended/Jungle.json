@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 3740 games)"
+      "type": "Most Frequent Starters (47% win - 6785 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
+          "id": "1055"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (46% win - 3740 games)"
+      "type": "Highest Win Rate Starters (54% win - 331 games)"
     },
     {
       "items": [
@@ -72,21 +72,17 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3053"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (48% win - 105 games)"
+      "type": "Most Frequent Build (45% win - 169 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3709"
-        },
         {
           "count": 1,
           "id": "3071"
@@ -105,10 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 45 games)"
+      "type": "Highest Win Rate Build (50% win - 56 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (50% win - 1213 games)"
+      "type": "QWE -> QEW (48% win - 2042 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (50% win - 1213 games)"
+      "type": "QEQW -> QEW (54% win - 229 games)"
     }
   ],
   "champion": "Olaf",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.17",
+  "title": "Jungle 5.18",
   "type": "custom"
 }

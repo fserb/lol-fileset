@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 17675 games)"
+      "type": "Most Frequent Starters (49% win - 60417 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 17675 games)"
+      "type": "Highest Win Rate Starters (49% win - 60417 games)"
     },
     {
       "items": [
@@ -72,14 +72,14 @@
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3035"
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3031"
         }
       ],
-      "type": "Most Frequent Build (50% win - 1253 games)"
+      "type": "Most Frequent Build (46% win - 3707 games)"
     },
     {
       "items": [
@@ -89,11 +89,11 @@
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3153"
         },
         {
           "count": 1,
-          "id": "3153"
+          "id": "3006"
         },
         {
           "count": 1,
@@ -108,7 +108,7 @@
           "id": "3035"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 1253 games)"
+      "type": "Highest Win Rate Build (51% win - 2562 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 8004 games)"
+      "type": "QEW -> QEW (49% win - 29657 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (53% win - 1198 games)"
+      "type": "QEQW -> QEW (50% win - 3874 games)"
     }
   ],
   "champion": "MasterYi",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.17",
+  "title": "Jungle 5.18",
   "type": "custom"
 }

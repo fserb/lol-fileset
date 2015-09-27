@@ -29,17 +29,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 2967 games)"
+      "type": "Most Frequent Starters (50% win - 7239 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 4,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2044"
         },
         {
           "count": 1,
@@ -58,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 122 games)"
+      "type": "Highest Win Rate Starters (51% win - 554 games)"
     },
     {
       "items": [
@@ -84,10 +80,10 @@
         },
         {
           "count": 1,
-          "id": "3050"
+          "id": "3800"
         }
       ],
-      "type": "Most Frequent Build (47% win - 692 games)"
+      "type": "Most Frequent Build (46% win - 1516 games)"
     },
     {
       "items": [
@@ -116,7 +112,7 @@
           "id": "3800"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 377 games)"
+      "type": "Highest Win Rate Build (49% win - 858 games)"
     },
     {
       "items": [
@@ -182,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 2303 games)"
+      "type": "QEW -> QEW (47% win - 5189 games)"
     },
     {
       "items": [
@@ -207,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> QEW (53% win - 603 games)"
+      "type": "EQQW -> QEW (50% win - 293 games)"
     }
   ],
   "champion": "Lulu",
@@ -217,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.17",
+  "title": "Support 5.18",
   "type": "custom"
 }

@@ -5,11 +5,7 @@
     {
       "items": [
         {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 3,
+          "count": 4,
           "id": "2003"
         },
         {
@@ -29,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 428 games)"
+      "type": "Most Frequent Starters (50% win - 893 games)"
     },
     {
       "items": [
@@ -58,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 125 games)"
+      "type": "Highest Win Rate Starters (57% win - 283 games)"
     },
     {
       "items": [
@@ -76,28 +72,28 @@
         },
         {
           "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
           "id": "3110"
         },
         {
           "count": 1,
-          "id": "3025"
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3053"
         }
       ],
-      "type": "Most Frequent Build (51% win - 183 games)"
+      "type": "Most Frequent Build (50% win - 416 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3401"
+          "id": "2049"
         },
         {
           "count": 1,
-          "id": "2049"
+          "id": "3401"
         },
         {
           "count": 1,
@@ -106,17 +102,17 @@
         {
           "count": 1,
           "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3190"
         },
         {
           "count": 1,
           "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 34 games)"
+      "type": "Highest Win Rate Build (51% win - 411 games)"
     },
     {
       "items": [
@@ -182,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WQE (52% win - 162 games)"
+      "type": "EWQ -> WQE (53% win - 310 games)"
     },
     {
       "items": [
@@ -207,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WQE (52% win - 162 games)"
+      "type": "EWQ -> WEQ (53% win - 201 games)"
     }
   ],
   "champion": "Taric",
@@ -217,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.17",
+  "title": "Support 5.18",
   "type": "custom"
 }

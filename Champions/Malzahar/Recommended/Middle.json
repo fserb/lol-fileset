@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 6093 games)"
+      "type": "Most Frequent Starters (54% win - 14235 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 6093 games)"
+      "type": "Highest Win Rate Starters (54% win - 5855 games)"
     },
     {
       "items": [
@@ -67,44 +67,48 @@
           "id": "3089"
         },
         {
-          "count": 2,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        }
-      ],
-      "type": "Most Frequent Build (53% win - 907 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         },
         {
           "count": 1,
           "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 226 games)"
+      "type": "Most Frequent Build (52% win - 2073 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        }
+      ],
+      "type": "Highest Win Rate Build (55% win - 578 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEEW -> EQW (55% win - 2195 games)"
+      "type": "QEEW -> EQW (56% win - 5380 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEQ -> EQW (61% win - 163 games)"
+      "type": "QEEQ -> EQW (59% win - 405 games)"
     }
   ],
   "champion": "Malzahar",
@@ -205,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.17",
+  "title": "Middle 5.18",
   "type": "custom"
 }

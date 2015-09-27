@@ -25,17 +25,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (41% win - 827 games)"
+      "type": "Most Frequent Starters (43% win - 2399 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1027"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 256 games)"
+      "type": "Highest Win Rate Starters (52% win - 242 games)"
     },
     {
       "items": [
@@ -72,14 +76,14 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3110"
         },
         {
           "count": 1,
           "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (43% win - 332 games)"
+      "type": "Most Frequent Build (43% win - 1007 games)"
     },
     {
       "items": [
@@ -101,14 +105,14 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 183 games)"
+      "type": "Highest Win Rate Build (46% win - 603 games)"
     },
     {
       "items": [
@@ -174,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (41% win - 663 games)"
+      "type": "QWE -> QWE (43% win - 2262 games)"
     },
     {
       "items": [
@@ -199,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 146 games)"
+      "type": "WQE -> QWE (55% win - 201 games)"
     }
   ],
   "champion": "Ryze",
@@ -209,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.17",
+  "title": "Top 5.18",
   "type": "custom"
 }

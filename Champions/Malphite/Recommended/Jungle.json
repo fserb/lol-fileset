@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 3244 games)"
+      "type": "Most Frequent Starters (49% win - 7651 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 3244 games)"
+      "type": "Highest Win Rate Starters (49% win - 7651 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3742"
         }
       ],
-      "type": "Most Frequent Build (50% win - 108 games)"
+      "type": "Most Frequent Build (48% win - 227 games)"
     },
     {
       "items": [
@@ -89,11 +89,15 @@
         },
         {
           "count": 1,
-          "id": "3025"
+          "id": "3047"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         },
         {
           "count": 1,
@@ -102,13 +106,9 @@
         {
           "count": 1,
           "id": "3102"
-        },
-        {
-          "count": 1,
-          "id": "3001"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 47 games)"
+      "type": "Highest Win Rate Build (49% win - 225 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EQW (50% win - 347 games)"
+      "type": "EWQ -> EQW (47% win - 822 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> QEW (54% win - 167 games)"
+      "type": "EWEQ -> EQW (53% win - 375 games)"
     }
   ],
   "champion": "Malphite",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.17",
+  "title": "Jungle 5.18",
   "type": "custom"
 }
