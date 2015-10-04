@@ -29,17 +29,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 16113 games)"
+      "type": "Most Frequent Starters (52% win - 3840 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 3,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2044"
         },
         {
           "count": 1,
@@ -58,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 636 games)"
+      "type": "Highest Win Rate Starters (54% win - 261 games)"
     },
     {
       "items": [
@@ -87,7 +83,7 @@
           "id": "3504"
         }
       ],
-      "type": "Most Frequent Build (53% win - 3208 games)"
+      "type": "Most Frequent Build (52% win - 714 games)"
     },
     {
       "items": [
@@ -97,11 +93,11 @@
         },
         {
           "count": 1,
-          "id": "3069"
+          "id": "3117"
         },
         {
           "count": 1,
-          "id": "3117"
+          "id": "3069"
         },
         {
           "count": 1,
@@ -113,10 +109,10 @@
         },
         {
           "count": 1,
-          "id": "3504"
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 2294 games)"
+      "type": "Highest Win Rate Build (52% win - 713 games)"
     },
     {
       "items": [
@@ -182,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (53% win - 13309 games)"
+      "type": "WQE -> WQE (53% win - 3284 games)"
     },
     {
       "items": [
@@ -207,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (57% win - 779 games)"
+      "type": "WQE -> QWE (55% win - 177 games)"
     }
   ],
   "champion": "Soraka",
@@ -217,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.18",
+  "title": "Support 5.19",
   "type": "custom"
 }

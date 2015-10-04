@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 10551 games)"
+      "type": "Most Frequent Starters (50% win - 2044 games)"
     },
     {
       "items": [
@@ -50,17 +50,17 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 10551 games)"
+      "type": "Highest Win Rate Starters (50% win - 2044 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3031"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3031"
         },
         {
           "count": 1,
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3085"
         }
       ],
-      "type": "Most Frequent Build (51% win - 849 games)"
+      "type": "Most Frequent Build (47% win - 172 games)"
     },
     {
       "items": [
@@ -93,22 +93,18 @@
         },
         {
           "count": 1,
-          "id": "3087"
+          "id": "3046"
         },
         {
           "count": 1,
           "id": "3072"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 849 games)"
+      "type": "Highest Win Rate Build (53% win - 150 games)"
     },
     {
       "items": [
@@ -174,7 +170,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 1924 games)"
+      "type": "QEW -> QEW (51% win - 356 games)"
     },
     {
       "items": [
@@ -199,7 +195,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QEW (52% win - 363 games)"
+      "type": "QEQW -> QEW (61% win - 121 games)"
     }
   ],
   "champion": "Varus",
@@ -209,6 +205,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.18",
+  "title": "ADC 5.19",
   "type": "custom"
 }

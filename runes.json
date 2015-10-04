@@ -439,9 +439,9 @@
   ],
   "Kayle/Jungle": [
     "Greater Mark of Attack Speed",
-    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Ability Power"
   ],
   "Kayle/Middle": [
     "Greater Mark of Magic Penetration",
@@ -529,8 +529,8 @@
   ],
   "Lulu/Middle": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Lulu/Support": [
@@ -597,7 +597,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Quintessence of Attack Speed"
   ],
   "MonkeyKing/Jungle": [
     "Greater Mark of Attack Damage",
@@ -612,10 +612,10 @@
     "Greater Quintessence of Attack Damage"
   ],
   "Mordekaiser/ADC": [
-    "Greater Mark of Attack Damage",
+    "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Ability Power"
   ],
   "Mordekaiser/Middle": [
     "Greater Mark of Magic Penetration",
@@ -761,6 +761,7 @@
     "Greater Seal of Armor",
     "Greater Quintessence of Attack Damage"
   ],
+  "Rammus/Top": [],
   "RekSai/Jungle": [
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
@@ -847,9 +848,9 @@
   ],
   "Singed/Top": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Ability Power",
+    "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Movement Speed"
+    "Greater Quintessence of Ability Power"
   ],
   "Sion/Jungle": [
     "Greater Mark of Attack Damage",
@@ -921,7 +922,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Attack Damage"
   ],
   "Talon/Middle": [
     "Greater Mark of Attack Damage",
@@ -981,7 +982,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Attack Damage"
   ],
   "Tryndamere/Top": [
     "Greater Mark of Attack Damage",
@@ -1003,7 +1004,7 @@
   ],
   "Udyr/Jungle": [
     "Greater Mark of Attack Speed",
-    "Greater Glyph of Scaling Magic Resist",
+    "Greater Glyph of Magic Resist",
     "Greater Glyph of Cooldown Reduction",
     "Greater Seal of Armor",
     "Greater Quintessence of Movement Speed"
@@ -1046,8 +1047,8 @@
   ],
   "Veigar/Middle": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Velkoz/Middle": [
@@ -1070,8 +1071,8 @@
   ],
   "Viktor/Middle": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Vladimir/Middle": [
@@ -1102,7 +1103,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Quintessence of Attack Speed"
   ],
   "Xerath/Middle": [
     "Greater Mark of Magic Penetration",
@@ -1160,8 +1161,8 @@
   ],
   "Zilean/Middle": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Zilean/Support": [

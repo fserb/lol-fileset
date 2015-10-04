@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 529 games)"
+      "type": "Most Frequent Starters (59% win - 146 games)"
     },
     {
       "items": [
@@ -50,65 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 529 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3174"
-        },
-        {
-          "count": 1,
-          "id": "3003"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        }
-      ],
-      "type": "Most Frequent Build (50% win - 40 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3174"
-        },
-        {
-          "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3003"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        }
-      ],
-      "type": "Highest Win Rate Build (54% win - 34 games)"
+      "type": "Highest Win Rate Starters (59% win - 146 games)"
     },
     {
       "items": [
@@ -174,7 +116,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (51% win - 391 games)"
+      "type": "QWQE -> QWE (61% win - 127 games)"
     },
     {
       "items": [
@@ -199,7 +141,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (58% win - 174 games)"
+      "type": "QWQE -> QWE (61% win - 127 games)"
     }
   ],
   "champion": "Zilean",
@@ -209,6 +151,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.18",
+  "title": "Middle 5.19",
   "type": "custom"
 }

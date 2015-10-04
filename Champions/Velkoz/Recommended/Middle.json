@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 4888 games)"
+      "type": "Most Frequent Starters (50% win - 991 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 3579 games)"
+      "type": "Highest Win Rate Starters (55% win - 710 games)"
     },
     {
       "items": [
@@ -64,22 +64,22 @@
         },
         {
           "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
           "id": "3089"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3157"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3285"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (49% win - 429 games)"
+      "type": "Most Frequent Build (49% win - 92 games)"
     },
     {
       "items": [
@@ -108,7 +108,7 @@
           "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 207 games)"
+      "type": "Highest Win Rate Build (55% win - 47 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (54% win - 1822 games)"
+      "type": "WQE -> WQE (59% win - 320 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEWQ -> WQE (57% win - 240 games)"
+      "type": "WQE -> WQE (59% win - 320 games)"
     }
   ],
   "champion": "Velkoz",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.18",
+  "title": "Middle 5.19",
   "type": "custom"
 }

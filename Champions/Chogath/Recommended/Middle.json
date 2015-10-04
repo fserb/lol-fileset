@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 8083 games)"
+      "type": "Most Frequent Starters (51% win - 1626 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 2071 games)"
+      "type": "Highest Win Rate Starters (53% win - 407 games)"
     },
     {
       "items": [
@@ -68,18 +68,18 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3143"
         },
         {
           "count": 1,
           "id": "3102"
-        },
-        {
-          "count": 1,
-          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (50% win - 620 games)"
+      "type": "Most Frequent Build (49% win - 121 games)"
     },
     {
       "items": [
@@ -89,26 +89,26 @@
         },
         {
           "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
           "id": "3020"
         },
         {
           "count": 1,
+          "id": "3285"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 367 games)"
+      "type": "Highest Win Rate Build (54% win - 96 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WQE (51% win - 2603 games)"
+      "type": "EWQ -> WQE (50% win - 524 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWWQ -> WQE (58% win - 412 games)"
+      "type": "WEQ -> WQE (58% win - 171 games)"
     }
   ],
   "champion": "Chogath",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.18",
+  "title": "Middle 5.19",
   "type": "custom"
 }

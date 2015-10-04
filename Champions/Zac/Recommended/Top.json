@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 1378 games)"
+      "type": "Most Frequent Starters (49% win - 322 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1029"
+          "id": "1054"
         },
         {
-          "count": 5,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -50,65 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 307 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Most Frequent Build (47% win - 80 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        }
-      ],
-      "type": "Highest Win Rate Build (53% win - 48 games)"
+      "type": "Highest Win Rate Starters (49% win - 322 games)"
     },
     {
       "items": [
@@ -174,7 +116,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (53% win - 354 games)"
+      "type": "QWE -> QEW (53% win - 84 games)"
     },
     {
       "items": [
@@ -199,7 +141,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (53% win - 187 games)"
+      "type": "QEW -> QEW (67% win - 28 games)"
     }
   ],
   "champion": "Zac",
@@ -209,6 +151,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.18",
+  "title": "Top 5.19",
   "type": "custom"
 }

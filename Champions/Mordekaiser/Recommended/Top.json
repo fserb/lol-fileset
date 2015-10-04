@@ -25,13 +25,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (44% win - 2136 games)"
+      "type": "Most Frequent Starters (42% win - 352 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1054"
         },
         {
           "count": 1,
@@ -50,28 +50,32 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 301 games)"
+      "type": "Highest Win Rate Starters (42% win - 352 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3078"
+        },
         {
           "count": 1,
           "id": "3047"
         },
         {
           "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 2,
           "id": "3053"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3116"
+        },
+        {
+          "count": 2,
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (43% win - 258 games)"
+      "type": "Most Frequent Build (45% win - 38 games)"
     },
     {
       "items": [
@@ -81,26 +85,22 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3047"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3053"
         },
         {
           "count": 1,
           "id": "3116"
         },
         {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3072"
+          "count": 2,
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 147 games)"
+      "type": "Highest Win Rate Build (45% win - 38 games)"
     },
     {
       "items": [
@@ -166,7 +166,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EQW (40% win - 566 games)"
+      "type": "EQW -> EQW (38% win - 102 games)"
     },
     {
       "items": [
@@ -191,7 +191,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (48% win - 185 games)"
+      "type": "QEQW -> QEW (52% win - 34 games)"
     }
   ],
   "champion": "Mordekaiser",
@@ -201,6 +201,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.18",
+  "title": "Top 5.19",
   "type": "custom"
 }

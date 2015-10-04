@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 37608 games)"
+      "type": "Most Frequent Starters (53% win - 7185 games)"
     },
     {
       "items": [
@@ -50,36 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 37608 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3046"
-        },
-        {
-          "count": 1,
-          "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Most Frequent Build (51% win - 5581 games)"
+      "type": "Highest Win Rate Starters (53% win - 7185 games)"
     },
     {
       "items": [
@@ -108,7 +79,36 @@
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 5466 games)"
+      "type": "Most Frequent Build (52% win - 1062 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3046"
+        },
+        {
+          "count": 1,
+          "id": "3072"
+        },
+        {
+          "count": 1,
+          "id": "3035"
+        },
+        {
+          "count": 1,
+          "id": "3087"
+        }
+      ],
+      "type": "Highest Win Rate Build (53% win - 1054 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQWE -> WQE (53% win - 13752 games)"
+      "type": "WQWE -> WQE (54% win - 2588 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQWE -> WQE (53% win - 13752 games)"
+      "type": "WQWQ -> WQE (57% win - 228 games)"
     }
   ],
   "champion": "Ashe",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.18",
+  "title": "ADC 5.19",
   "type": "custom"
 }

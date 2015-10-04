@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 3579 games)"
+      "type": "Most Frequent Starters (50% win - 791 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 817 games)"
+      "type": "Highest Win Rate Starters (51% win - 175 games)"
     },
     {
       "items": [
@@ -68,18 +68,18 @@
         },
         {
           "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
           "id": "3075"
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3156"
         }
       ],
-      "type": "Most Frequent Build (49% win - 251 games)"
+      "type": "Most Frequent Build (49% win - 63 games)"
     },
     {
       "items": [
@@ -97,7 +97,7 @@
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3742"
         },
         {
           "count": 1,
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 250 games)"
+      "type": "Highest Win Rate Build (51% win - 59 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (48% win - 1015 games)"
+      "type": "WEQ -> WEQ (53% win - 233 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> WEQ (52% win - 184 games)"
+      "type": "WQE -> WEQ (56% win - 155 games)"
     }
   ],
   "champion": "Volibear",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.18",
+  "title": "Top 5.19",
   "type": "custom"
 }

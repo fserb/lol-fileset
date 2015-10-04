@@ -25,21 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 1179 games)"
+      "type": "Most Frequent Starters (48% win - 200 games)"
     },
     {
       "items": [
         {
+          "count": 1,
+          "id": "1056"
+        },
+        {
           "count": 2,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 1,
-          "id": "2041"
         },
         {
           "count": 1,
@@ -54,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 135 games)"
+      "type": "Highest Win Rate Starters (51% win - 189 games)"
     },
     {
       "items": [
@@ -72,7 +68,7 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3089"
         },
         {
           "count": 1,
@@ -83,7 +79,7 @@
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (51% win - 340 games)"
+      "type": "Most Frequent Build (48% win - 50 games)"
     },
     {
       "items": [
@@ -93,15 +89,15 @@
         },
         {
           "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
           "id": "3003"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         },
         {
           "count": 1,
@@ -109,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 340 games)"
+      "type": "Highest Win Rate Build (52% win - 27 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWEQ -> EQW (54% win - 573 games)"
+      "type": "EWQ -> EQW (44% win - 96 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEEQ -> EQW (54% win - 228 games)"
+      "type": "WEQ -> EQW (56% win - 58 games)"
     }
   ],
   "champion": "KogMaw",
@@ -213,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.18",
+  "title": "Middle 5.19",
   "type": "custom"
 }

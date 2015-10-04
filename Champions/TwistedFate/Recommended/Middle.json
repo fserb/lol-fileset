@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 17203 games)"
+      "type": "Most Frequent Starters (53% win - 3269 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1001"
         },
         {
-          "count": 2,
+          "count": 4,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 17203 games)"
+      "type": "Highest Win Rate Starters (53% win - 346 games)"
     },
     {
       "items": [
@@ -79,7 +79,7 @@
           "id": "3285"
         }
       ],
-      "type": "Most Frequent Build (52% win - 2571 games)"
+      "type": "Most Frequent Build (52% win - 508 games)"
     },
     {
       "items": [
@@ -108,7 +108,7 @@
           "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 2571 games)"
+      "type": "Highest Win Rate Build (52% win - 508 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (52% win - 16337 games)"
+      "type": "WQE -> QWE (51% win - 3022 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> QWE (54% win - 2667 games)"
+      "type": "WEQ -> QWE (56% win - 596 games)"
     }
   ],
   "champion": "TwistedFate",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.18",
+  "title": "Middle 5.19",
   "type": "custom"
 }

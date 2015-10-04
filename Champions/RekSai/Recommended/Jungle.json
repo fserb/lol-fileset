@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 23258 games)"
+      "type": "Most Frequent Starters (48% win - 4974 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (47% win - 23258 games)"
+      "type": "Highest Win Rate Starters (48% win - 4974 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3022"
         }
       ],
-      "type": "Most Frequent Build (45% win - 1016 games)"
+      "type": "Most Frequent Build (46% win - 205 games)"
     },
     {
       "items": [
@@ -97,18 +97,14 @@
         },
         {
           "count": 1,
+          "id": "3742"
+        },
+        {
+          "count": 2,
           "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 818 games)"
+      "type": "Highest Win Rate Build (50% win - 147 games)"
     },
     {
       "items": [
@@ -174,7 +170,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (48% win - 16498 games)"
+      "type": "QWE -> QEW (49% win - 3537 games)"
     },
     {
       "items": [
@@ -199,7 +195,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (48% win - 16498 games)"
+      "type": "QWE -> QEW (49% win - 3537 games)"
     }
   ],
   "champion": "RekSai",
@@ -209,6 +205,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.18",
+  "title": "Jungle 5.19",
   "type": "custom"
 }

@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 28390 games)"
+      "type": "Most Frequent Starters (50% win - 4840 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 28390 games)"
+      "type": "Highest Win Rate Starters (50% win - 4840 games)"
     },
     {
       "items": [
@@ -72,14 +72,14 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3102"
         },
         {
           "count": 1,
           "id": "3025"
         }
       ],
-      "type": "Most Frequent Build (49% win - 1319 games)"
+      "type": "Most Frequent Build (49% win - 226 games)"
     },
     {
       "items": [
@@ -89,11 +89,11 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3078"
         },
         {
           "count": 1,
@@ -101,14 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3025"
+          "id": "3053"
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3800"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 658 games)"
+      "type": "Highest Win Rate Build (51% win - 223 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (51% win - 9374 games)"
+      "type": "QWE -> QWE (51% win - 1772 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> EWQ (58% win - 336 games)"
+      "type": "QWE -> EWQ (53% win - 147 games)"
     }
   ],
   "champion": "Skarner",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.18",
+  "title": "Jungle 5.19",
   "type": "custom"
 }

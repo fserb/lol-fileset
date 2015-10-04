@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 4586 games)"
+      "type": "Most Frequent Starters (50% win - 892 games)"
     },
     {
       "items": [
@@ -50,17 +50,17 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 4586 games)"
+      "type": "Highest Win Rate Starters (50% win - 892 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3006"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3006"
         },
         {
           "count": 1,
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (45% win - 442 games)"
+      "type": "Most Frequent Build (52% win - 89 games)"
     },
     {
       "items": [
@@ -89,15 +89,11 @@
         },
         {
           "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
           "id": "3006"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3046"
         },
         {
           "count": 1,
@@ -105,10 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3072"
+        },
+        {
+          "count": 1,
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 152 games)"
+      "type": "Highest Win Rate Build (53% win - 50 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (48% win - 1305 games)"
+      "type": "QEW -> QEW (49% win - 219 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQQW -> QEW (51% win - 188 games)"
+      "type": "QEQW -> QEW (52% win - 123 games)"
     }
   ],
   "champion": "Quinn",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.18",
+  "title": "ADC 5.19",
   "type": "custom"
 }

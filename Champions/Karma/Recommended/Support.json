@@ -29,13 +29,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 2080 games)"
+      "type": "Most Frequent Starters (47% win - 433 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 2,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -54,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 482 games)"
+      "type": "Highest Win Rate Starters (53% win - 143 games)"
     },
     {
       "items": [
@@ -71,19 +75,15 @@
           "id": "3020"
         },
         {
-          "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "3151"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3174"
         }
       ],
-      "type": "Most Frequent Build (46% win - 461 games)"
+      "type": "Most Frequent Build (47% win - 99 games)"
     },
     {
       "items": [
@@ -101,18 +101,18 @@
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
+          "id": "3151"
         },
         {
           "count": 1,
           "id": "3285"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 217 games)"
+      "type": "Highest Win Rate Build (51% win - 52 games)"
     },
     {
       "items": [
@@ -178,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (47% win - 3112 games)"
+      "type": "QEW -> QEW (47% win - 670 games)"
     },
     {
       "items": [
@@ -203,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (52% win - 125 games)"
+      "type": "QWE -> QEW (53% win - 143 games)"
     }
   ],
   "champion": "Karma",
@@ -213,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.18",
+  "title": "Support 5.19",
   "type": "custom"
 }

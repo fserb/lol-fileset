@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 23156 games)"
+      "type": "Most Frequent Starters (51% win - 5022 games)"
     },
     {
       "items": [
@@ -50,13 +50,13 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 23156 games)"
+      "type": "Highest Win Rate Starters (51% win - 5022 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3710"
+          "id": "3707"
         },
         {
           "count": 1,
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (49% win - 512 games)"
+      "type": "Most Frequent Build (51% win - 113 games)"
     },
     {
       "items": [
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 412 games)"
+      "type": "Highest Win Rate Build (52% win - 68 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (51% win - 6722 games)"
+      "type": "QWE -> QEW (49% win - 1523 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (52% win - 1016 games)"
+      "type": "QWQE -> QEW (58% win - 212 games)"
     }
   ],
   "champion": "Nocturne",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.18",
+  "title": "Jungle 5.19",
   "type": "custom"
 }

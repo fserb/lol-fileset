@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 40016 games)"
+      "type": "Most Frequent Starters (47% win - 10658 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 40016 games)"
+      "type": "Highest Win Rate Starters (47% win - 10658 games)"
     },
     {
       "items": [
@@ -79,7 +79,7 @@
           "id": "3139"
         }
       ],
-      "type": "Most Frequent Build (47% win - 9109 games)"
+      "type": "Most Frequent Build (44% win - 2349 games)"
     },
     {
       "items": [
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 2192 games)"
+      "type": "Highest Win Rate Build (49% win - 524 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> EQW (51% win - 12298 games)"
+      "type": "WEQ -> EQW (48% win - 3280 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWEQ -> EQW (54% win - 588 games)"
+      "type": "WEEQ -> EQW (51% win - 298 games)"
     }
   ],
   "champion": "Kalista",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.18",
+  "title": "ADC 5.19",
   "type": "custom"
 }

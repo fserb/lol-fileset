@@ -29,21 +29,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 6299 games)"
+      "type": "Most Frequent Starters (49% win - 1230 games)"
     },
     {
       "items": [
+        {
+          "count": 2,
+          "id": "2004"
+        },
         {
           "count": 2,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "2044"
-        },
-        {
-          "count": 1,
-          "id": "3301"
+          "id": "3303"
         },
         {
           "count": 1,
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 303 games)"
+      "type": "Highest Win Rate Starters (50% win - 262 games)"
     },
     {
       "items": [
@@ -76,28 +76,24 @@
         },
         {
           "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
           "id": "3190"
         },
         {
           "count": 1,
-          "id": "3023"
+          "id": "3050"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (46% win - 1562 games)"
+      "type": "Most Frequent Build (46% win - 320 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "2049"
-        },
-        {
-          "count": 1,
-          "id": "3069"
         },
         {
           "count": 1,
@@ -113,10 +109,14 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3092"
+        },
+        {
+          "count": 1,
+          "id": "3222"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 404 games)"
+      "type": "Highest Win Rate Build (48% win - 255 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (47% win - 5873 games)"
+      "type": "QWE -> QWE (44% win - 1174 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (50% win - 1637 games)"
+      "type": "QWQE -> QWE (50% win - 675 games)"
     }
   ],
   "champion": "Bard",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.18",
+  "title": "Support 5.19",
   "type": "custom"
 }

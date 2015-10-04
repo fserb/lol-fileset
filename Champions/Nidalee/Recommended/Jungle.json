@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 23166 games)"
+      "type": "Most Frequent Starters (50% win - 4263 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 23166 games)"
+      "type": "Highest Win Rate Starters (50% win - 4263 games)"
     },
     {
       "items": [
@@ -68,31 +68,31 @@
         },
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
           "id": "3089"
         },
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (48% win - 1715 games)"
+      "type": "Most Frequent Build (50% win - 303 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3708"
+          "id": "3724"
         },
         {
           "count": 1,
           "id": "3027"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3020"
         },
         {
@@ -102,9 +102,13 @@
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 384 games)"
+      "type": "Highest Win Rate Build (50% win - 303 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (49% win - 13235 games)"
+      "type": "QEW -> QEW (50% win - 2500 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (53% win - 3914 games)"
+      "type": "QWE -> QEW (51% win - 762 games)"
     }
   ],
   "champion": "Nidalee",
@@ -205,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.18",
+  "title": "Jungle 5.19",
   "type": "custom"
 }

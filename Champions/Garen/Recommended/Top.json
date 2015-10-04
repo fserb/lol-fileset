@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 24351 games)"
+      "type": "Most Frequent Starters (50% win - 4260 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1029"
         },
         {
-          "count": 1,
+          "count": 5,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 6266 games)"
+      "type": "Highest Win Rate Starters (56% win - 840 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (51% win - 2348 games)"
+      "type": "Most Frequent Build (51% win - 432 games)"
     },
     {
       "items": [
@@ -89,11 +89,11 @@
         },
         {
           "count": 1,
-          "id": "3009"
+          "id": "3742"
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 1910 games)"
+      "type": "Highest Win Rate Build (53% win - 286 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> EQW (52% win - 11116 games)"
+      "type": "QEW -> EQW (50% win - 1904 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEEW -> EQW (54% win - 4760 games)"
+      "type": "QEEW -> EQW (56% win - 792 games)"
     }
   ],
   "champion": "Garen",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.18",
+  "title": "Top 5.19",
   "type": "custom"
 }

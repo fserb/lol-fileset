@@ -5,12 +5,12 @@
     {
       "items": [
         {
-          "count": 1,
-          "id": "1055"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
-          "id": "2003"
+          "id": "2041"
         },
         {
           "count": 1,
@@ -25,17 +25,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 5672 games)"
+      "type": "Most Frequent Starters (52% win - 89 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1029"
+        },
+        {
+          "count": 4,
+          "id": "2003"
         },
         {
           "count": 1,
-          "id": "2003"
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,61 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 5672 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 1,
-          "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Most Frequent Build (50% win - 565 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 2,
-          "id": "3046"
-        }
-      ],
-      "type": "Highest Win Rate Build (54% win - 166 games)"
+      "type": "Highest Win Rate Starters (62% win - 29 games)"
     },
     {
       "items": [
@@ -170,7 +120,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (51% win - 1589 games)"
+      "type": "WEQ -> WEQ (54% win - 62 games)"
     },
     {
       "items": [
@@ -195,16 +145,16 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QWE (59% win - 186 games)"
+      "type": "WEWQ -> WEQ (63% win - 30 games)"
     }
   ],
-  "champion": "MissFortune",
+  "champion": "Rammus",
   "isGlobalForChampions": false,
   "isGlobalForMaps": true,
   "map": "any",
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.19",
+  "title": "Top 5.19",
   "type": "custom"
 }
