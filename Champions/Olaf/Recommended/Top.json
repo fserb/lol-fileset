@@ -25,21 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 2187 games)"
+      "type": "Most Frequent Starters (50% win - 5046 games)"
     },
     {
       "items": [
         {
-          "count": 2,
+          "count": 1,
+          "id": "1029"
+        },
+        {
+          "count": 5,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 1,
-          "id": "2041"
         },
         {
           "count": 1,
@@ -54,7 +50,36 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 220 games)"
+      "type": "Highest Win Rate Starters (52% win - 266 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3053"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        }
+      ],
+      "type": "Most Frequent Build (47% win - 674 games)"
     },
     {
       "items": [
@@ -80,39 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3153"
+          "id": "3748"
         }
       ],
-      "type": "Most Frequent Build (50% win - 280 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3153"
-        }
-      ],
-      "type": "Highest Win Rate Build (50% win - 280 games)"
+      "type": "Highest Win Rate Build (49% win - 670 games)"
     },
     {
       "items": [
@@ -178,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (47% win - 1209 games)"
+      "type": "QEW -> QEW (49% win - 2892 games)"
     },
     {
       "items": [
@@ -203,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEEW -> EQW (53% win - 128 games)"
+      "type": "QEQW -> QEW (53% win - 2341 games)"
     }
   ],
   "champion": "Olaf",

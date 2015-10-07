@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2044 games)"
+      "type": "Most Frequent Starters (51% win - 4443 games)"
     },
     {
       "items": [
@@ -50,17 +50,17 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 2044 games)"
+      "type": "Highest Win Rate Starters (51% win - 4443 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3006"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3006"
         },
         {
           "count": 1,
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3085"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (47% win - 172 games)"
+      "type": "Most Frequent Build (52% win - 353 games)"
     },
     {
       "items": [
@@ -100,11 +100,15 @@
           "id": "3072"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3035"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 150 games)"
+      "type": "Highest Win Rate Build (53% win - 311 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (51% win - 356 games)"
+      "type": "QEW -> QEW (53% win - 756 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (61% win - 121 games)"
+      "type": "QWQE -> QWE (53% win - 239 games)"
     }
   ],
   "champion": "Varus",

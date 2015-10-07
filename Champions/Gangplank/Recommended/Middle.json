@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 575 games)"
+      "type": "Most Frequent Starters (52% win - 1521 games)"
     },
     {
       "items": [
@@ -50,49 +50,20 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (46% win - 575 games)"
+      "type": "Highest Win Rate Starters (52% win - 1521 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3087"
         },
         {
           "count": 1,
           "id": "3158"
         },
         {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3153"
-        }
-      ],
-      "type": "Most Frequent Build (42% win - 53 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "3031"
         },
         {
@@ -101,14 +72,35 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3035"
+        }
+      ],
+      "type": "Most Frequent Build (49% win - 392 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3078"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3158"
+        },
+        {
+          "count": 2,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3142"
+        },
+        {
+          "count": 1,
+          "id": "3035"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 44 games)"
+      "type": "Highest Win Rate Build (51% win - 390 games)"
     },
     {
       "items": [
@@ -174,7 +166,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QWE (46% win - 328 games)"
+      "type": "QEW -> QEW (50% win - 953 games)"
     },
     {
       "items": [
@@ -199,7 +191,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWWE -> WQE (47% win - 149 games)"
+      "type": "QWQE -> QEW (55% win - 142 games)"
     }
   ],
   "champion": "Gangplank",
@@ -209,6 +201,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.13",
+  "title": "Middle 5.19",
   "type": "custom"
 }
