@@ -5,12 +5,12 @@
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "1055"
         },
         {
           "count": 1,
-          "id": "2041"
+          "id": "2003"
         },
         {
           "count": 1,
@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 2308 games)"
+      "type": "Most Frequent Starters (46% win - 2739 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1029"
         },
         {
-          "count": 1,
+          "count": 5,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 533 games)"
+      "type": "Highest Win Rate Starters (52% win - 153 games)"
     },
     {
       "items": [
@@ -79,7 +79,7 @@
           "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (50% win - 622 games)"
+      "type": "Most Frequent Build (46% win - 953 games)"
     },
     {
       "items": [
@@ -89,11 +89,11 @@
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3742"
         },
         {
           "count": 1,
@@ -105,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 280 games)"
+      "type": "Highest Win Rate Build (46% win - 952 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (51% win - 2885 games)"
+      "type": "QWE -> QWE (44% win - 3316 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (56% win - 585 games)"
+      "type": "QWE -> QEW (50% win - 796 games)"
     }
   ],
   "champion": "Darius",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.19",
+  "title": "Top 5.20",
   "type": "custom"
 }

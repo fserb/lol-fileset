@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 1830 games)"
+      "type": "Most Frequent Starters (50% win - 1195 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 1234 games)"
+      "type": "Highest Win Rate Starters (53% win - 863 games)"
     },
     {
       "items": [
@@ -76,20 +76,16 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (50% win - 383 games)"
+      "type": "Most Frequent Build (50% win - 246 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3020"
+          "id": "3027"
         },
         {
           "count": 1,
@@ -97,7 +93,7 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -105,10 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 147 games)"
+      "type": "Highest Win Rate Build (51% win - 132 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (49% win - 1824 games)"
+      "type": "QWE -> QWE (51% win - 1267 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (54% win - 167 games)"
+      "type": "QWE -> QEW (56% win - 123 games)"
     }
   ],
   "champion": "Lissandra",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.19",
+  "title": "Top 5.20",
   "type": "custom"
 }

@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 5750 games)"
+      "type": "Most Frequent Starters (52% win - 4250 games)"
     },
     {
       "items": [
@@ -34,8 +34,12 @@
           "id": "1056"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2004"
         },
         {
           "count": 1,
@@ -50,7 +54,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 2521 games)"
+      "type": "Highest Win Rate Starters (56% win - 419 games)"
     },
     {
       "items": [
@@ -76,10 +80,10 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3285"
         }
       ],
-      "type": "Most Frequent Build (51% win - 851 games)"
+      "type": "Most Frequent Build (52% win - 600 games)"
     },
     {
       "items": [
@@ -89,22 +93,26 @@
         },
         {
           "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
           "id": "3089"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3151"
         },
         {
           "count": 1,
           "id": "3116"
         },
         {
-          "count": 2,
-          "id": "3151"
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 258 games)"
+      "type": "Highest Win Rate Build (54% win - 593 games)"
     },
     {
       "items": [
@@ -170,7 +178,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEEW -> EQW (54% win - 2206 games)"
+      "type": "QEEW -> EQW (57% win - 1552 games)"
     },
     {
       "items": [
@@ -195,7 +203,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQEQ -> EQW (57% win - 170 games)"
+      "type": "QEEW -> EQW (57% win - 1552 games)"
     }
   ],
   "champion": "Malzahar",
@@ -205,6 +213,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.19",
+  "title": "Middle 5.20",
   "type": "custom"
 }

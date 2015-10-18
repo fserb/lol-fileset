@@ -29,17 +29,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 6868 games)"
+      "type": "Most Frequent Starters (52% win - 7460 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 2,
+          "id": "2004"
+        },
+        {
+          "count": 2,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "3303"
+          "id": "3301"
         },
         {
           "count": 1,
@@ -54,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 830 games)"
+      "type": "Highest Win Rate Starters (54% win - 347 games)"
     },
     {
       "items": [
@@ -76,14 +80,14 @@
         },
         {
           "count": 1,
-          "id": "3222"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (48% win - 1854 games)"
+      "type": "Most Frequent Build (49% win - 2131 games)"
     },
     {
       "items": [
@@ -105,14 +109,14 @@
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 1098 games)"
+      "type": "Highest Win Rate Build (52% win - 1080 games)"
     },
     {
       "items": [
@@ -178,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (49% win - 4383 games)"
+      "type": "QEW -> QEW (49% win - 4909 games)"
     },
     {
       "items": [
@@ -203,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (55% win - 186 games)"
+      "type": "QEQE -> QEW (59% win - 188 games)"
     }
   ],
   "champion": "Morgana",
@@ -213,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.19",
+  "title": "Support 5.20",
   "type": "custom"
 }

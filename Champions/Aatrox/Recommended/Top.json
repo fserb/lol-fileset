@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 2018 games)"
+      "type": "Most Frequent Starters (53% win - 1168 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 2018 games)"
+      "type": "Highest Win Rate Starters (53% win - 1168 games)"
     },
     {
       "items": [
@@ -61,10 +61,6 @@
         {
           "count": 1,
           "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3074"
         },
         {
           "count": 1,
@@ -77,38 +73,42 @@
         {
           "count": 1,
           "id": "3035"
-        }
-      ],
-      "type": "Most Frequent Build (51% win - 118 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3074"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3143"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 75 games)"
+      "type": "Most Frequent Build (50% win - 69 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3074"
+        },
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3035"
+        },
+        {
+          "count": 1,
+          "id": "3071"
+        }
+      ],
+      "type": "Highest Win Rate Build (55% win - 38 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (57% win - 502 games)"
+      "type": "EWQ -> EWQ (51% win - 270 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> EWQ (57% win - 502 games)"
+      "type": "WEQ -> WEQ (54% win - 127 games)"
     }
   ],
   "champion": "Aatrox",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.19",
+  "title": "Top 5.20",
   "type": "custom"
 }

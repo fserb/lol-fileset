@@ -29,12 +29,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 909 games)"
+      "type": "Most Frequent Starters (53% win - 580 games)"
     },
     {
       "items": [
         {
-          "count": 4,
+          "count": 1,
+          "id": "2004"
+        },
+        {
+          "count": 3,
           "id": "2003"
         },
         {
@@ -54,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 475 games)"
+      "type": "Highest Win Rate Starters (53% win - 580 games)"
     },
     {
       "items": [
@@ -76,14 +80,14 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3157"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (49% win - 226 games)"
+      "type": "Most Frequent Build (50% win - 135 games)"
     },
     {
       "items": [
@@ -101,18 +105,18 @@
         },
         {
           "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
           "id": "3151"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3050"
+        },
+        {
+          "count": 1,
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 226 games)"
+      "type": "Highest Win Rate Build (51% win - 130 games)"
     },
     {
       "items": [
@@ -178,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (49% win - 1419 games)"
+      "type": "QEW -> QEW (49% win - 872 games)"
     },
     {
       "items": [
@@ -203,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (51% win - 296 games)"
+      "type": "QEW -> QEW (49% win - 872 games)"
     }
   ],
   "champion": "Karma",
@@ -213,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.19",
+  "title": "Support 5.20",
   "type": "custom"
 }

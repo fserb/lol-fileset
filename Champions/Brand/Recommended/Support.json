@@ -29,7 +29,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 845 games)"
+      "type": "Most Frequent Starters (54% win - 1297 games)"
     },
     {
       "items": [
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 193 games)"
+      "type": "Highest Win Rate Starters (58% win - 209 games)"
     },
     {
       "items": [
@@ -72,11 +72,11 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3151"
         },
         {
           "count": 1,
@@ -84,10 +84,10 @@
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "3165"
         }
       ],
-      "type": "Most Frequent Build (53% win - 348 games)"
+      "type": "Most Frequent Build (54% win - 495 games)"
     },
     {
       "items": [
@@ -101,22 +101,22 @@
         },
         {
           "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
           "id": "3116"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3151"
         },
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3165"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 344 games)"
+      "type": "Highest Win Rate Build (54% win - 495 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> WQE (53% win - 1375 games)"
+      "type": "WQE -> WQE (53% win - 1819 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> WQE (62% win - 135 games)"
+      "type": "WQWE -> WQE (60% win - 361 games)"
     }
   ],
   "champion": "Brand",
@@ -217,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.19",
+  "title": "Support 5.20",
   "type": "custom"
 }

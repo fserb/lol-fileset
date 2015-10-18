@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 4640 games)"
+      "type": "Most Frequent Starters (50% win - 3101 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 4640 games)"
+      "type": "Highest Win Rate Starters (50% win - 3101 games)"
     },
     {
       "items": [
@@ -79,17 +79,25 @@
           "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (50% win - 128 games)"
+      "type": "Most Frequent Build (47% win - 90 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3725"
+          "id": "3709"
         },
         {
           "count": 1,
-          "id": "3117"
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3065"
         },
         {
           "count": 1,
@@ -97,18 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "3065"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 32 games)"
+      "type": "Highest Win Rate Build (52% win - 47 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (49% win - 1120 games)"
+      "type": "WEQ -> WEQ (51% win - 732 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WQE (52% win - 248 games)"
+      "type": "EWQ -> WQE (52% win - 147 games)"
     }
   ],
   "champion": "Volibear",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.19",
+  "title": "Jungle 5.20",
   "type": "custom"
 }

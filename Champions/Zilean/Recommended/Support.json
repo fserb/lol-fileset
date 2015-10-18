@@ -29,16 +29,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 620 games)"
+      "type": "Most Frequent Starters (54% win - 439 games)"
     },
     {
       "items": [
         {
-          "count": 2,
+          "count": 1,
           "id": "2004"
         },
         {
-          "count": 2,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -58,7 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 352 games)"
+      "type": "Highest Win Rate Starters (54% win - 439 games)"
     },
     {
       "items": [
@@ -67,7 +67,7 @@
           "id": "2049"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3158"
         },
         {
@@ -81,9 +81,13 @@
         {
           "count": 1,
           "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (51% win - 146 games)"
+      "type": "Most Frequent Build (51% win - 120 games)"
     },
     {
       "items": [
@@ -97,10 +101,6 @@
         },
         {
           "count": 1,
-          "id": "3050"
-        },
-        {
-          "count": 1,
           "id": "3092"
         },
         {
@@ -109,10 +109,14 @@
         },
         {
           "count": 1,
-          "id": "3023"
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 116 games)"
+      "type": "Highest Win Rate Build (51% win - 120 games)"
     },
     {
       "items": [
@@ -178,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (47% win - 368 games)"
+      "type": "QWE -> QEW (58% win - 340 games)"
     },
     {
       "items": [
@@ -203,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (53% win - 253 games)"
+      "type": "QWE -> QEW (58% win - 340 games)"
     }
   ],
   "champion": "Zilean",
@@ -213,6 +217,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.19",
+  "title": "Support 5.20",
   "type": "custom"
 }

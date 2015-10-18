@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 29857 games)"
+      "type": "Most Frequent Starters (49% win - 24199 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 1194 games)"
+      "type": "Highest Win Rate Starters (50% win - 1176 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3035"
         }
       ],
-      "type": "Most Frequent Build (47% win - 3868 games)"
+      "type": "Most Frequent Build (47% win - 3435 games)"
     },
     {
       "items": [
@@ -108,7 +108,7 @@
           "id": "3035"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 2915 games)"
+      "type": "Highest Win Rate Build (51% win - 2618 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (47% win - 8449 games)"
+      "type": "QEW -> QEW (48% win - 6665 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> EQW (53% win - 3708 games)"
+      "type": "QEEW -> EQW (55% win - 1411 games)"
     }
   ],
   "champion": "Yasuo",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.19",
+  "title": "Middle 5.20",
   "type": "custom"
 }

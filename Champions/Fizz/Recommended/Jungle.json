@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 4664 games)"
+      "type": "Most Frequent Starters (51% win - 3368 games)"
     },
     {
       "items": [
@@ -34,8 +34,8 @@
           "id": "1039"
         },
         {
-          "count": 1,
-          "id": "1056"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 328 games)"
+      "type": "Highest Win Rate Starters (51% win - 3368 games)"
     },
     {
       "items": [
@@ -76,10 +76,10 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (49% win - 329 games)"
+      "type": "Most Frequent Build (51% win - 286 games)"
     },
     {
       "items": [
@@ -108,7 +108,7 @@
           "id": "3001"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 204 games)"
+      "type": "Highest Win Rate Build (52% win - 157 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> WEQ (49% win - 728 games)"
+      "type": "WEQ -> EWQ (53% win - 574 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> EWQ (54% win - 595 games)"
+      "type": "WQE -> EQW (56% win - 251 games)"
     }
   ],
   "champion": "Fizz",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.19",
+  "title": "Jungle 5.20",
   "type": "custom"
 }

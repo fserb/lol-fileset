@@ -6,7 +6,7 @@
       "items": [
         {
           "count": 1,
-          "id": "1027"
+          "id": "1056"
         },
         {
           "count": 2,
@@ -25,13 +25,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 179 games)"
+      "type": "Most Frequent Starters (45% win - 357 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1027"
+          "id": "1056"
         },
         {
           "count": 2,
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (46% win - 179 games)"
+      "type": "Highest Win Rate Starters (45% win - 357 games)"
     },
     {
       "items": [
@@ -65,39 +65,10 @@
         {
           "count": 1,
           "id": "3003"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         },
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Most Frequent Build (41% win - 101 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3003"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3110"
         },
         {
           "count": 1,
@@ -108,7 +79,36 @@
           "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 66 games)"
+      "type": "Most Frequent Build (39% win - 218 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3003"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        }
+      ],
+      "type": "Highest Win Rate Build (44% win - 131 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (40% win - 222 games)"
+      "type": "QWE -> QWE (42% win - 502 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (40% win - 222 games)"
+      "type": "QWE -> QWE (42% win - 502 games)"
     }
   ],
   "champion": "Ryze",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.19",
+  "title": "Middle 5.20",
   "type": "custom"
 }

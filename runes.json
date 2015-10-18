@@ -3,7 +3,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Attack Damage"
   ],
   "Aatrox/Top": [
     "Greater Mark of Attack Damage",
@@ -155,7 +155,12 @@
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
-  "DrMundo/Jungle": [],
+  "DrMundo/Jungle": [
+    "Greater Mark of Attack Damage",
+    "Greater Glyph of Magic Resist",
+    "Greater Seal of Armor",
+    "Greater Quintessence of Attack Damage"
+  ],
   "DrMundo/Top": [
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
@@ -218,7 +223,7 @@
   ],
   "FiddleSticks/Jungle": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Ability Power",
+    "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
@@ -434,9 +439,9 @@
   ],
   "Kayle/Jungle": [
     "Greater Mark of Attack Speed",
-    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Glyph of Ability Power",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Ability Power"
   ],
   "Kayle/Middle": [
     "Greater Mark of Magic Penetration",
@@ -449,6 +454,12 @@
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
+  ],
+  "Kennen/ADC": [
+    "Greater Mark of Attack Damage",
+    "Greater Glyph of Magic Resist",
+    "Greater Seal of Armor",
+    "Greater Quintessence of Attack Speed"
   ],
   "Kennen/Middle": [
     "Greater Mark of Magic Penetration",
@@ -473,6 +484,18 @@
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
     "Greater Quintessence of Attack Damage"
+  ],
+  "Kindred/ADC": [
+    "Greater Mark of Attack Damage",
+    "Greater Glyph of Magic Resist",
+    "Greater Seal of Armor",
+    "Greater Quintessence of Attack Speed"
+  ],
+  "Kindred/Jungle": [
+    "Greater Mark of Attack Damage",
+    "Greater Glyph of Magic Resist",
+    "Greater Seal of Armor",
+    "Greater Quintessence of Attack Speed"
   ],
   "KogMaw/ADC": [
     "Greater Mark of Attack Damage",
@@ -607,10 +630,10 @@
     "Greater Quintessence of Attack Damage"
   ],
   "Mordekaiser/ADC": [
-    "Greater Mark of Attack Damage",
+    "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Ability Power"
   ],
   "Mordekaiser/Middle": [
     "Greater Mark of Magic Penetration",
@@ -649,10 +672,10 @@
     "Greater Quintessence of Attack Damage"
   ],
   "Nautilus/Jungle": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Scaling Magic Resist",
+    "Greater Mark of Magic Penetration",
+    "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Movement Speed"
+    "Greater Quintessence of Ability Power"
   ],
   "Nautilus/Support": [
     "Greater Mark of Armor",
@@ -730,7 +753,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Quintessence of Attack Speed"
   ],
   "Poppy/Top": [
     "Greater Mark of Attack Damage",
@@ -748,7 +771,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Attack Damage"
   ],
   "Rammus/Jungle": [
     "Greater Mark of Attack Damage",
@@ -843,9 +866,9 @@
   ],
   "Singed/Top": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Ability Power",
+    "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Movement Speed"
+    "Greater Quintessence of Ability Power"
   ],
   "Sion/Jungle": [
     "Greater Mark of Attack Damage",
@@ -869,7 +892,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Attack Damage"
   ],
   "Sona/Support": [
     "Greater Mark of Magic Penetration",
@@ -917,7 +940,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Attack Damage"
   ],
   "Talon/Middle": [
     "Greater Mark of Attack Damage",
@@ -1066,8 +1089,8 @@
   ],
   "Viktor/Middle": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Vladimir/Middle": [
@@ -1086,7 +1109,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Attack Damage"
   ],
   "Volibear/Top": [
     "Greater Mark of Attack Damage",
@@ -1098,7 +1121,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Attack Damage"
   ],
   "Xerath/Middle": [
     "Greater Mark of Magic Penetration",
@@ -1110,7 +1133,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Attack Damage"
   ],
   "Yasuo/Middle": [
     "Greater Mark of Attack Damage",

@@ -25,13 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 6968 games)"
+      "type": "Most Frequent Starters (52% win - 4417 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "1039"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -46,13 +50,13 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 445 games)"
+      "type": "Highest Win Rate Starters (59% win - 203 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3718"
+          "id": "3726"
         },
         {
           "count": 1,
@@ -64,18 +68,18 @@
         },
         {
           "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (49% win - 247 games)"
+      "type": "Most Frequent Build (50% win - 137 games)"
     },
     {
       "items": [
@@ -89,11 +93,11 @@
         },
         {
           "count": 1,
-          "id": "3117"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3091"
+          "id": "3110"
         },
         {
           "count": 1,
@@ -101,10 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 131 games)"
+      "type": "Highest Win Rate Build (54% win - 112 games)"
     },
     {
       "items": [
@@ -170,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (51% win - 932 games)"
+      "type": "WQQE -> QWE (55% win - 590 games)"
     },
     {
       "items": [
@@ -195,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (54% win - 211 games)"
+      "type": "WQE -> QEW (56% win - 271 games)"
     }
   ],
   "champion": "Warwick",
@@ -205,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.19",
+  "title": "Jungle 5.20",
   "type": "custom"
 }
