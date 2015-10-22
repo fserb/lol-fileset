@@ -5,10 +5,6 @@
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
-        },
-        {
           "count": 1,
           "id": "2041"
         },
@@ -25,7 +21,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 1251 games)"
+      "type": "Most Frequent Starters (54% win - 1814 games)"
     },
     {
       "items": [
@@ -46,7 +42,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 1217 games)"
+      "type": "Highest Win Rate Starters (54% win - 1814 games)"
     },
     {
       "items": [
@@ -75,21 +71,17 @@
           "id": "3053"
         }
       ],
-      "type": "Most Frequent Build (49% win - 340 games)"
+      "type": "Most Frequent Build (49% win - 477 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
         {
           "count": 1,
           "id": "3078"
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3110"
         },
         {
           "count": 1,
@@ -101,10 +93,14 @@
         },
         {
           "count": 1,
-          "id": "3022"
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3111"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 253 games)"
+      "type": "Highest Win Rate Build (51% win - 201 games)"
     },
     {
       "items": [
@@ -170,7 +166,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (51% win - 783 games)"
+      "type": "QWE -> QEW (51% win - 1132 games)"
     },
     {
       "items": [
@@ -195,7 +191,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (54% win - 196 games)"
+      "type": "QWQE -> QEW (56% win - 277 games)"
     }
   ],
   "champion": "Hecarim",

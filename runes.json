@@ -439,9 +439,9 @@
   ],
   "Kayle/Jungle": [
     "Greater Mark of Attack Speed",
-    "Greater Glyph of Ability Power",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
+    "Greater Quintessence of Attack Speed"
   ],
   "Kayle/Middle": [
     "Greater Mark of Magic Penetration",
@@ -672,10 +672,10 @@
     "Greater Quintessence of Attack Damage"
   ],
   "Nautilus/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
+    "Greater Mark of Attack Speed",
+    "Greater Glyph of Scaling Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
+    "Greater Quintessence of Movement Speed"
   ],
   "Nautilus/Support": [
     "Greater Mark of Armor",
@@ -784,7 +784,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Quintessence of Attack Speed"
   ],
   "Renekton/Top": [
     "Greater Mark of Attack Damage",
@@ -841,10 +841,10 @@
     "Greater Quintessence of Attack Damage"
   ],
   "Shen/Support": [
-    "Greater Mark of Attack Damage",
+    "Greater Mark of Armor",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Seal of Health",
+    "Greater Quintessence of Armor"
   ],
   "Shen/Top": [
     "Greater Mark of Attack Damage",
@@ -866,9 +866,9 @@
   ],
   "Singed/Top": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
+    "Greater Glyph of Ability Power",
     "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
+    "Greater Quintessence of Movement Speed"
   ],
   "Sion/Jungle": [
     "Greater Mark of Attack Damage",
@@ -982,7 +982,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Quintessence of Attack Speed"
   ],
   "Trundle/Support": [
     "Greater Mark of Armor",
@@ -1133,7 +1133,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Quintessence of Attack Speed"
   ],
   "Yasuo/Middle": [
     "Greater Mark of Attack Damage",

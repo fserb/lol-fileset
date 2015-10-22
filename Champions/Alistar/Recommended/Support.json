@@ -29,21 +29,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 4995 games)"
+      "type": "Most Frequent Starters (50% win - 6996 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 2,
           "id": "2004"
         },
         {
+          "count": 3,
+          "id": "2003"
+        },
+        {
           "count": 1,
-          "id": "3302"
+          "id": "3301"
         },
         {
           "count": 1,
@@ -58,36 +58,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 202 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3401"
-        },
-        {
-          "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        }
-      ],
-      "type": "Most Frequent Build (48% win - 2770 games)"
+      "type": "Highest Win Rate Starters (51% win - 365 games)"
     },
     {
       "items": [
@@ -116,7 +87,36 @@
           "id": "3050"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 2769 games)"
+      "type": "Most Frequent Build (48% win - 3832 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2049"
+        },
+        {
+          "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3401"
+        },
+        {
+          "count": 1,
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3050"
+        }
+      ],
+      "type": "Highest Win Rate Build (48% win - 3832 games)"
     },
     {
       "items": [
@@ -182,7 +182,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (47% win - 4616 games)"
+      "type": "QWE -> QWE (48% win - 6201 games)"
     },
     {
       "items": [
@@ -207,7 +207,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (50% win - 1937 games)"
+      "type": "QWE -> QEW (50% win - 2667 games)"
     }
   ],
   "champion": "Alistar",

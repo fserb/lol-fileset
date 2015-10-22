@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 3134 games)"
+      "type": "Most Frequent Starters (51% win - 5208 games)"
     },
     {
       "items": [
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 3134 games)"
+      "type": "Highest Win Rate Starters (51% win - 5208 games)"
     },
     {
       "items": [
@@ -76,16 +76,24 @@
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (51% win - 90 games)"
+      "type": "Most Frequent Build (51% win - 144 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3725"
+          "id": "3709"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3111"
         },
         {
           "count": 1,
@@ -93,22 +101,14 @@
         },
         {
           "count": 1,
-          "id": "3117"
+          "id": "3075"
         },
         {
           "count": 1,
           "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3742"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 32 games)"
+      "type": "Highest Win Rate Build (53% win - 50 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> EWQ (53% win - 1101 games)"
+      "type": "WQE -> EWQ (54% win - 1846 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> EQW (54% win - 491 games)"
+      "type": "WQE -> EQW (54% win - 826 games)"
     }
   ],
   "champion": "Zac",

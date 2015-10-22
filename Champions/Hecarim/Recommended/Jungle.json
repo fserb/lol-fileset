@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 3792 games)"
+      "type": "Most Frequent Starters (50% win - 5432 games)"
     },
     {
       "items": [
@@ -50,7 +50,36 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 3792 games)"
+      "type": "Highest Win Rate Starters (50% win - 5432 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3717"
+        },
+        {
+          "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3053"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        }
+      ],
+      "type": "Most Frequent Build (48% win - 123 games)"
     },
     {
       "items": [
@@ -76,39 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (51% win - 91 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3709"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3142"
-        }
-      ],
-      "type": "Highest Win Rate Build (52% win - 88 games)"
+      "type": "Highest Win Rate Build (52% win - 122 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QEW (52% win - 1317 games)"
+      "type": "QWE -> QEW (52% win - 1920 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (57% win - 268 games)"
+      "type": "QWQE -> QEW (55% win - 368 games)"
     }
   ],
   "champion": "Hecarim",
