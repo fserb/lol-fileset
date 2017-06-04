@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
+"""
+- freq starter missing potions
+- consumables missing stuff:
+  - potion, ward, 3 elixirs, 3 potions
+- merge order on consumables
+"""
+
 import sys
 import os
 import urllib
@@ -62,7 +69,7 @@ def getRunes(champ, role, obj):
 
 def getMasteries(champ, role, obj):
   points = {}
-  if not obj['mostGames'] or not obj['mostGames']['masteries']:
+  if not 'mostGames' in obj or not 'masteries' in obj['mostGames']:
     return
   for row in obj['mostGames']['masteries']:
     for d in row['data'].values():
@@ -135,17 +142,16 @@ def buildSet(champ, role, outdir):
       "blocks": [],
     }
 
-    trinketItems = makeItems(3340, 3341, 3342)
-    consumeItems = makeItems(2003, 2004, 2044, 2043, 2041, 2138, 2137, 2139, 2140)
-
-    skillItems = makeItems(3361, 3362, 3364, 3363, 2003)
+    trinketItems = makeItems(3340, 3341, 3363, 3364, 3363)
+    visionTrinket = makeItems(3340)
+    consumeItems = makeItems(2003, 2055, 2031, 2032, 2033, 2138, 2139, 2140)
 
     if obj['firstItems']['mostGames']['items']:
       out['blocks'].append({
         "type": "Most Frequent Starters (%d%% win - %d games)" % (
           100*obj["firstItems"]["mostGames"]['winPercent'],
           obj["firstItems"]["mostGames"]['games']),
-        "items": getItems(obj["firstItems"]["mostGames"]) + trinketItems
+        "items": getItems(obj["firstItems"]["mostGames"]) + visionTrinket
         })
 
     if obj['firstItems']['highestWinPercent']['items']:
@@ -153,7 +159,7 @@ def buildSet(champ, role, outdir):
         "type": "Highest Win Rate Starters (%d%% win - %d games)" % (
           100*obj["firstItems"]["highestWinPercent"]['winPercent'],
           obj["firstItems"]["highestWinPercent"]['games']),
-        "items": getItems(obj["firstItems"]["highestWinPercent"]) + trinketItems
+        "items": getItems(obj["firstItems"]["highestWinPercent"]) + visionTrinket
         })
 
     if obj['items']['mostGames']['items']:
@@ -172,24 +178,17 @@ def buildSet(champ, role, outdir):
         "items": getItems(obj["items"]["highestWinPercent"])
         })
 
-    out['blocks'].append({ "type": "Consumables", "items": consumeItems})
+    mostSkill = "%s (%d%% win - %d games)" % (
+      getSkills(obj["skills"]["mostGames"]),
+      100*obj["skills"]["mostGames"].get('winPercent', 0),
+      obj["skills"]["mostGames"].get('games', 0))
+    highSkill = "%s (%d%% win - %d games)" % (
+      getSkills(obj["skills"]["highestWinPercent"]),
+      100*obj["skills"]["highestWinPercent"].get('winPercent', 0),
+      obj["skills"]["highestWinPercent"].get('games', 0))
 
-    out['blocks'].append({
-      "type": "%s (%d%% win - %d games)" % (
-        getSkills(obj["skills"]["mostGames"]),
-        100*obj["skills"]["mostGames"].get('winPercent', 0),
-        obj["skills"]["mostGames"].get('games', 0)),
-      "items": skillItems
-      })
-
-    out['blocks'].append({
-      "type": "%s (%d%% win - %d games)" % (
-        getSkills(obj["skills"]["highestWinPercent"]),
-        100*obj["skills"]["highestWinPercent"].get('winPercent', 0),
-        obj["skills"]["highestWinPercent"].get('games', 0)),
-      "items": skillItems
-      })
-
+    out['blocks'].append({ "type": "Consumables %s" % mostSkill, "items": consumeItems})
+    out['blocks'].append({ "type": highSkill, "items": trinketItems})
 
     path = os.path.join(outdir, obj['key'], 'Recommended')
 
