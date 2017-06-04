@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 
 """
-- freq starter missing potions
-- consumables missing stuff:
-  - potion, ward, 3 elixirs, 3 potions
-- merge order on consumables
+
 """
 
 import sys
@@ -142,7 +139,7 @@ def buildSet(champ, role, outdir):
       "blocks": [],
     }
 
-    trinketItems = makeItems(3340, 3341, 3363, 3364, 3363)
+    trinketItems = makeItems(3340, 3341, 3364, 3363)
     visionTrinket = makeItems(3340)
     consumeItems = makeItems(2003, 2055, 2031, 2032, 2033, 2138, 2139, 2140)
 
