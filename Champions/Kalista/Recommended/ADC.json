@@ -25,16 +25,16 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 29972 games)"
+      "type": "Most Frequent Starters (50% win - 1208 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1054"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -50,7 +50,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 29972 games)"
+      "type": "Highest Win Rate Starters (52% win - 1047 games)"
     },
     {
       "items": [
@@ -72,17 +72,21 @@
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3036"
         },
         {
           "count": 1,
           "id": "3139"
         }
       ],
-      "type": "Most Frequent Build (48% win - 8165 games)"
+      "type": "Most Frequent Build (39% win - 1003 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3047"
+        },
         {
           "count": 1,
           "id": "3153"
@@ -93,7 +97,7 @@
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3046"
         },
         {
           "count": 1,
@@ -101,14 +105,10 @@
         },
         {
           "count": 1,
-          "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3026"
+          "id": "3091"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 1910 games)"
+      "type": "Highest Win Rate Build (45% win - 73 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> EQW (52% win - 9903 games)"
+      "type": "EQW -> EQW (50% win - 2046 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWEQ -> EQW (53% win - 350 games)"
+      "type": "EWQ -> EQW (53% win - 1359 games)"
     }
   ],
   "champion": "Kalista",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.20",
+  "title": "ADC 7.11",
   "type": "custom"
 }

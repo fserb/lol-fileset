@@ -9,7 +9,32 @@
           "id": "1039"
         },
         {
-          "count": 2,
+          "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ],
+      "type": "Most Frequent Starters (55% win - 12190 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "1041"
+        },
+        {
+          "count": 3,
           "id": "2003"
         },
         {
@@ -25,46 +50,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 5208 games)"
+      "type": "Highest Win Rate Starters (70% win - 50 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "1401"
         },
         {
           "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Highest Win Rate Starters (51% win - 5208 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3709"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3143"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -72,28 +68,28 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3193"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (51% win - 144 games)"
+      "type": "Most Frequent Build (46% win - 1452 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3709"
+          "id": "1401"
         },
         {
           "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3111"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -101,14 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3193"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 50 games)"
+      "type": "Highest Win Rate Build (51% win - 1116 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> EWQ (54% win - 1846 games)"
+      "type": "WQE -> EWQ (56% win - 6512 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> EQW (54% win - 826 games)"
+      "type": "WQE -> EWQ (70% win - 57 games)"
     }
   ],
   "champion": "Zac",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.20",
+  "title": "Jungle 7.11",
   "type": "custom"
 }

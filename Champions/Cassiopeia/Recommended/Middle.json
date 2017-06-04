@@ -25,17 +25,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (43% win - 1202 games)"
+      "type": "Most Frequent Starters (49% win - 2229 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
@@ -50,17 +46,17 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (46% win - 1135 games)"
+      "type": "Highest Win Rate Starters (52% win - 1089 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "3027"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3165"
         },
         {
           "count": 1,
@@ -68,43 +64,47 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3135"
         },
         {
-          "count": 2,
-          "id": "3135"
+          "count": 1,
+          "id": "3102"
+        },
+        {
+          "count": 1,
+          "id": "3116"
         }
       ],
-      "type": "Most Frequent Build (42% win - 117 games)"
+      "type": "Most Frequent Build (47% win - 1036 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3116"
+          "id": "3027"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3165"
         },
         {
           "count": 1,
           "id": "3003"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3151"
         },
         {
           "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 104 games)"
+      "type": "Highest Win Rate Build (47% win - 1034 games)"
     },
     {
       "items": [
@@ -170,7 +170,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEEW -> EQW (44% win - 849 games)"
+      "type": "EQEW -> EQW (51% win - 3326 games)"
     },
     {
       "items": [
@@ -195,7 +195,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> EQW (47% win - 696 games)"
+      "type": "EQEW -> EQW (51% win - 3326 games)"
     }
   ],
   "champion": "Cassiopeia",
@@ -205,6 +205,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.20",
+  "title": "Middle 7.11",
   "type": "custom"
 }

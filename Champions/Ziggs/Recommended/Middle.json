@@ -10,7 +10,7 @@
         },
         {
           "count": 2,
-          "id": "2003"
+          "id": "2010"
         },
         {
           "count": 1,
@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 2370 games)"
+      "type": "Most Frequent Starters (51% win - 2264 games)"
     },
     {
       "items": [
@@ -35,14 +35,6 @@
         },
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2004"
-        },
-        {
-          "count": 1,
           "id": "3340"
         },
         {
@@ -54,17 +46,21 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 198 games)"
+      "type": "Highest Win Rate Starters (70% win - 27 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3174"
+          "id": "3165"
         },
         {
           "count": 1,
           "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3285"
         },
         {
           "count": 1,
@@ -76,20 +72,16 @@
         },
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3100"
+          "id": "3151"
         }
       ],
-      "type": "Most Frequent Build (46% win - 435 games)"
+      "type": "Most Frequent Build (44% win - 872 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3174"
+          "id": "3165"
         },
         {
           "count": 1,
@@ -109,10 +101,10 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3100"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 240 games)"
+      "type": "Highest Win Rate Build (50% win - 250 games)"
     },
     {
       "items": [
@@ -178,7 +170,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (47% win - 1707 games)"
+      "type": "QEW -> QEW (51% win - 2125 games)"
     },
     {
       "items": [
@@ -203,7 +195,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWQE -> QEW (55% win - 505 games)"
+      "type": "QWE -> QEW (56% win - 497 games)"
     }
   ],
   "champion": "Ziggs",
@@ -213,6 +205,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.20",
+  "title": "Middle 7.11",
   "type": "custom"
 }

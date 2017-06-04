@@ -7,6 +7,14 @@ import re
 from pyquery import PyQuery
 import json
 
+RIOT = {}
+
+def initRiot():
+  RIOT.update(json.load(open("riot/rune.json"))['data'])
+  RIOT.update(json.load(open("riot/mastery.json"))['data'])
+  RIOT.update(json.load(open("riot/item.json"))['data'])
+
+
 def url(url):
   user_agent = ('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.19 ' +
                 '(KHTML, like Gecko) Ubuntu/12.04 Chromium/18.0.1025.168 ' +
@@ -42,17 +50,20 @@ def getItems(obj):
 
 def getRunes(champ, role, obj):
   r = obj['mostGames']['runes']
+
   if os.path.isfile('runes.json'):
     js = json.load(open("runes.json", 'rt'))
   else:
     js = {}
-  js['%s/%s' % (champ, role)] = [ x['name'] for x in r ]
-  json.dump(js, open(os.path.join('runes.json'), 'wt'), 
+  js['%s/%s' % (champ, role)] = [ RIOT[x['id']]['name'] for x in r ]
+  json.dump(js, open(os.path.join('runes.json'), 'wt'),
     sort_keys=True, indent=2)
 
 
 def getMasteries(champ, role, obj):
   points = {}
+  if not obj['mostGames'] or not obj['mostGames']['masteries']:
+    return
   for row in obj['mostGames']['masteries']:
     for d in row['data'].values():
       for m in d:
@@ -62,8 +73,8 @@ def getMasteries(champ, role, obj):
     js = json.load(open("masteries.json", 'rt'))
   else:
     js = {}
-  js['%s/%s' % (champ, role)] = [ points[x] for x in sorted(points) ]
-  json.dump(js, open(os.path.join('masteries.json'), 'wt'), 
+  js['%s/%s' % (champ, role)] = [ int(points[x]) for x in sorted(points) ]
+  json.dump(js, open(os.path.join('masteries.json'), 'wt'),
     sort_keys=True, indent=2)
 
 def getSkills(obj):
@@ -93,6 +104,7 @@ def buildSet(champ, role, outdir):
   print("Building for %s/%s" % (champ, role))
 
   data = url("http://champion.gg/champion/%s/%s" % (champ, role))
+  # data = open('AatroxTop').read()
   page = PyQuery(data)
 
   patch = page("div.analysis-holder strong")[0].text
@@ -100,9 +112,10 @@ def buildSet(champ, role, outdir):
   for s in page("script"):
     if not s.text or 'matchupData.champion' not in s.text: continue
 
-    content = re.findall('matchupData.championData = (.*?);\n',
+    content = re.findall('matchupData.championData = (.*?)\n',
                          s.text, re.DOTALL)[0]
     obj = json.loads(content)
+    # print(json.dumps(obj, indent=2))
 
     getRunes(champ, role, obj['runes'])
     getMasteries(champ, role, obj['masteries'])
@@ -130,7 +143,7 @@ def buildSet(champ, role, outdir):
     if obj['firstItems']['mostGames']['items']:
       out['blocks'].append({
         "type": "Most Frequent Starters (%d%% win - %d games)" % (
-          obj["firstItems"]["mostGames"]['winPercent'],
+          100*obj["firstItems"]["mostGames"]['winPercent'],
           obj["firstItems"]["mostGames"]['games']),
         "items": getItems(obj["firstItems"]["mostGames"]) + trinketItems
         })
@@ -138,7 +151,7 @@ def buildSet(champ, role, outdir):
     if obj['firstItems']['highestWinPercent']['items']:
       out['blocks'].append({
         "type": "Highest Win Rate Starters (%d%% win - %d games)" % (
-          obj["firstItems"]["highestWinPercent"]['winPercent'],
+          100*obj["firstItems"]["highestWinPercent"]['winPercent'],
           obj["firstItems"]["highestWinPercent"]['games']),
         "items": getItems(obj["firstItems"]["highestWinPercent"]) + trinketItems
         })
@@ -146,7 +159,7 @@ def buildSet(champ, role, outdir):
     if obj['items']['mostGames']['items']:
       out['blocks'].append({
         "type": "Most Frequent Build (%d%% win - %d games)" % (
-          obj["items"]["mostGames"]['winPercent'],
+          100*obj["items"]["mostGames"]['winPercent'],
           obj["items"]["mostGames"]['games']),
         "items": getItems(obj["items"]["mostGames"])
         })
@@ -154,7 +167,7 @@ def buildSet(champ, role, outdir):
     if obj['items']['highestWinPercent']['items']:
       out['blocks'].append({
         "type": "Highest Win Rate Build (%d%% win - %d games)" % (
-          obj["items"]["highestWinPercent"]['winPercent'],
+          100*obj["items"]["highestWinPercent"]['winPercent'],
           obj["items"]["highestWinPercent"]['games']),
         "items": getItems(obj["items"]["highestWinPercent"])
         })
@@ -164,7 +177,7 @@ def buildSet(champ, role, outdir):
     out['blocks'].append({
       "type": "%s (%d%% win - %d games)" % (
         getSkills(obj["skills"]["mostGames"]),
-        obj["skills"]["mostGames"].get('winPercent', 0),
+        100*obj["skills"]["mostGames"].get('winPercent', 0),
         obj["skills"]["mostGames"].get('games', 0)),
       "items": skillItems
       })
@@ -172,7 +185,7 @@ def buildSet(champ, role, outdir):
     out['blocks'].append({
       "type": "%s (%d%% win - %d games)" % (
         getSkills(obj["skills"]["highestWinPercent"]),
-        obj["skills"]["highestWinPercent"].get('winPercent', 0),
+        100*obj["skills"]["highestWinPercent"].get('winPercent', 0),
         obj["skills"]["highestWinPercent"].get('games', 0)),
       "items": skillItems
       })
@@ -189,7 +202,9 @@ def buildSet(champ, role, outdir):
 
 
 def main(args):
-  # buildSet("Swain", "Middle", "tmp")
+  initRiot()
+
+  # buildSet("Aatrox", "Top", "tmp")
   # return 0
 
   if len(args) < 2:

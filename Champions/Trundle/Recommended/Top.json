@@ -6,6 +6,31 @@
       "items": [
         {
           "count": 1,
+          "id": "1054"
+        },
+        {
+          "count": 2,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ],
+      "type": "Most Frequent Starters (42% win - 563 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
           "id": "1055"
         },
         {
@@ -25,50 +50,21 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 1869 games)"
+      "type": "Highest Win Rate Starters (53% win - 81 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "3047"
         },
         {
           "count": 1,
-          "id": "2041"
+          "id": "3078"
         },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Highest Win Rate Starters (49% win - 144 games)"
-    },
-    {
-      "items": [
         {
           "count": 1,
           "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3065"
         },
         {
           "count": 1,
@@ -76,39 +72,43 @@
         },
         {
           "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Most Frequent Build (47% win - 150 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
           "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3748"
         },
         {
           "count": 1,
           "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 140 games)"
+      "type": "Most Frequent Build (27% win - 80 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3748"
+        },
+        {
+          "count": 1,
+          "id": "3025"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3153"
+        }
+      ],
+      "type": "Highest Win Rate Build (36% win - 75 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (48% win - 1480 games)"
+      "type": "QWE -> QWE (46% win - 828 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (52% win - 217 games)"
+      "type": "QWQE -> QWE (55% win - 120 games)"
     }
   ],
   "champion": "Trundle",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 5.20",
+  "title": "Top 7.11",
   "type": "custom"
 }

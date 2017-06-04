@@ -5,8 +5,8 @@
     {
       "items": [
         {
-          "count": 4,
-          "id": "2003"
+          "count": 3,
+          "id": "2010"
         },
         {
           "count": 1,
@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (60% win - 74 games)"
+      "type": "Most Frequent Starters (49% win - 509 games)"
     },
     {
       "items": [
@@ -50,14 +50,39 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 23 games)"
+      "type": "Highest Win Rate Starters (50% win - 51 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2049"
+          "id": "3117"
         },
+        {
+          "count": 1,
+          "id": "2301"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        }
+      ],
+      "type": "Most Frequent Build (33% win - 75 games)"
+    },
+    {
+      "items": [
         {
           "count": 1,
           "id": "3117"
@@ -68,47 +93,22 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "2301"
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3135"
-        }
-      ],
-      "type": "Most Frequent Build (50% win - 45 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3157"
+          "id": "3151"
         },
         {
           "count": 1,
           "id": "3102"
-        },
-        {
-          "count": 1,
-          "id": "3092"
-        },
-        {
-          "count": 1,
-          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 45 games)"
+      "type": "Highest Win Rate Build (35% win - 53 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EWQ -> WQE (50% win - 42 games)"
+      "type": "EQW -> EQW (52% win - 134 games)"
     },
     {
       "items": [
@@ -199,16 +199,16 @@
           "id": "2003"
         }
       ],
-      "type": "EQEW -> EQW (62% win - 37 games)"
+      "type": "EWQ -> EQW (56% win - 51 games)"
     }
   ],
-  "champion": "FiddleSticks",
+  "champion": "Fiddlesticks",
   "isGlobalForChampions": false,
   "isGlobalForMaps": true,
   "map": "any",
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.20",
+  "title": "Support 7.11",
   "type": "custom"
 }

@@ -10,6 +10,31 @@
         },
         {
           "count": 2,
+          "id": "2010"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ],
+      "type": "Most Frequent Starters (50% win - 3930 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "1054"
+        },
+        {
+          "count": 2,
           "id": "2003"
         },
         {
@@ -25,35 +50,14 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 10169 games)"
+      "type": "Highest Win Rate Starters (55% win - 144 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1001"
+          "id": "3027"
         },
-        {
-          "count": 4,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Highest Win Rate Starters (55% win - 911 games)"
-    },
-    {
-      "items": [
         {
           "count": 1,
           "id": "3158"
@@ -68,24 +72,24 @@
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (52% win - 1616 games)"
+      "type": "Most Frequent Build (47% win - 1316 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3158"
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3027"
         },
         {
           "count": 1,
@@ -97,10 +101,6 @@
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
           "id": "3135"
         },
         {
@@ -108,7 +108,7 @@
           "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 1616 games)"
+      "type": "Highest Win Rate Build (52% win - 143 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> QWE (51% win - 9634 games)"
+      "type": "WQE -> QWE (51% win - 8529 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WEQ -> QWE (55% win - 1526 games)"
+      "type": "WQQE -> QWE (53% win - 2054 games)"
     }
   ],
   "champion": "TwistedFate",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.20",
+  "title": "Middle 7.11",
   "type": "custom"
 }

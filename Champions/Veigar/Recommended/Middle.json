@@ -10,7 +10,7 @@
         },
         {
           "count": 2,
-          "id": "2003"
+          "id": "2010"
         },
         {
           "count": 1,
@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 17802 games)"
+      "type": "Most Frequent Starters (48% win - 1976 games)"
     },
     {
       "items": [
@@ -34,10 +34,6 @@
           "id": "1056"
         },
         {
-          "count": 2,
-          "id": "2003"
-        },
-        {
           "count": 1,
           "id": "3340"
         },
@@ -50,7 +46,7 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 17802 games)"
+      "type": "Highest Win Rate Starters (53% win - 47 games)"
     },
     {
       "items": [
@@ -76,16 +72,16 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3041"
         }
       ],
-      "type": "Most Frequent Build (51% win - 3417 games)"
+      "type": "Most Frequent Build (37% win - 479 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3174"
+          "id": "3102"
         },
         {
           "count": 1,
@@ -93,7 +89,7 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3165"
         },
         {
           "count": 1,
@@ -101,14 +97,14 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3030"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 2442 games)"
+      "type": "Highest Win Rate Build (39% win - 78 games)"
     },
     {
       "items": [
@@ -174,7 +170,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (50% win - 7462 games)"
+      "type": "QWE -> QWE (49% win - 1192 games)"
     },
     {
       "items": [
@@ -199,7 +195,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (54% win - 4510 games)"
+      "type": "QWQE -> QWE (51% win - 253 games)"
     }
   ],
   "champion": "Veigar",
@@ -209,6 +205,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.20",
+  "title": "Middle 7.11",
   "type": "custom"
 }

@@ -10,6 +10,27 @@
         },
         {
           "count": 1,
+          "id": "2010"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3342"
+        }
+      ],
+      "type": "Most Frequent Starters (48% win - 11188 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
           "id": "2003"
         },
         {
@@ -25,38 +46,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 25762 games)"
+      "type": "Highest Win Rate Starters (54% win - 33 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
-        }
-      ],
-      "type": "Highest Win Rate Starters (47% win - 25762 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3031"
+          "id": "3153"
         },
         {
           "count": 1,
@@ -64,51 +60,51 @@
         },
         {
           "count": 1,
-          "id": "3087"
+          "id": "3071"
         },
         {
           "count": 1,
-          "id": "3035"
+          "id": "3046"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3031"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (45% win - 3990 games)"
+      "type": "Most Frequent Build (43% win - 7481 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3046"
+        },
         {
           "count": 1,
           "id": "3031"
         },
         {
           "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 1,
-          "id": "3035"
-        },
-        {
-          "count": 1,
-          "id": "3139"
+          "id": "3036"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 1514 games)"
+      "type": "Highest Win Rate Build (45% win - 61 games)"
     },
     {
       "items": [
@@ -174,7 +170,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (48% win - 7860 games)"
+      "type": "QEW -> QEW (47% win - 23736 games)"
     },
     {
       "items": [
@@ -199,7 +195,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEQW -> QEW (48% win - 7860 games)"
+      "type": "QWE -> QEW (53% win - 114 games)"
     }
   ],
   "champion": "Lucian",
@@ -209,6 +205,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 5.20",
+  "title": "ADC 7.11",
   "type": "custom"
 }

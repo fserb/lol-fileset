@@ -9,8 +9,8 @@
           "id": "1039"
         },
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
@@ -25,7 +25,7 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 11695 games)"
+      "type": "Most Frequent Starters (54% win - 10321 games)"
     },
     {
       "items": [
@@ -50,25 +50,17 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 11695 games)"
+      "type": "Highest Win Rate Starters (62% win - 43 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3707"
+          "id": "1412"
         },
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3074"
-        },
-        {
-          "count": 1,
-          "id": "3035"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -77,23 +69,23 @@
         {
           "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3156"
+        },
+        {
+          "count": 1,
+          "id": "3033"
         }
       ],
-      "type": "Most Frequent Build (48% win - 623 games)"
+      "type": "Most Frequent Build (40% win - 2360 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3707"
-        },
-        {
-          "count": 1,
-          "id": "3074"
-        },
-        {
-          "count": 1,
-          "id": "3035"
+          "id": "1408"
         },
         {
           "count": 1,
@@ -106,9 +98,17 @@
         {
           "count": 1,
           "id": "3156"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 312 games)"
+      "type": "Highest Win Rate Build (42% win - 138 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (R:QEW) (46% win - 4355 games)"
+      "type": "QWE -> QWE (51% win - 16110 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QWE (R:QEW) (54% win - 205 games)"
+      "type": "WQQE -> QWE (58% win - 592 games)"
     }
   ],
   "champion": "Khazix",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.20",
+  "title": "Jungle 7.11",
   "type": "custom"
 }

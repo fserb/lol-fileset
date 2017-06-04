@@ -5,8 +5,8 @@
     {
       "items": [
         {
-          "count": 4,
-          "id": "2003"
+          "count": 3,
+          "id": "2010"
         },
         {
           "count": 1,
@@ -25,13 +25,13 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 4788 games)"
+      "type": "Most Frequent Starters (47% win - 1527 games)"
     },
     {
       "items": [
         {
-          "count": 4,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
@@ -50,14 +50,10 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 4788 games)"
+      "type": "Highest Win Rate Starters (50% win - 187 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
         {
           "count": 1,
           "id": "3117"
@@ -68,25 +64,25 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3107"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "2045"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3109"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (52% win - 1625 games)"
+      "type": "Most Frequent Build (39% win - 164 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "2049"
-        },
         {
           "count": 1,
           "id": "3117"
@@ -97,18 +93,22 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3107"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "2045"
         },
         {
           "count": 1,
-          "id": "3050"
+          "id": "3109"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 1624 games)"
+      "type": "Highest Win Rate Build (39% win - 164 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "EQW -> EWQ (54% win - 2760 games)"
+      "type": "EQW -> EWQ (48% win - 291 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "WQE -> EWQ (55% win - 522 games)"
+      "type": "WQE -> EWQ (51% win - 195 games)"
     }
   ],
   "champion": "Nautilus",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 5.20",
+  "title": "Support 7.11",
   "type": "custom"
 }

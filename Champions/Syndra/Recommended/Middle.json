@@ -25,17 +25,17 @@
           "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 3062 games)"
+      "type": "Most Frequent Starters (46% win - 7634 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1082"
         },
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
@@ -50,13 +50,13 @@
           "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 3062 games)"
+      "type": "Highest Win Rate Starters (54% win - 35 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3174"
+          "id": "3165"
         },
         {
           "count": 1,
@@ -64,7 +64,7 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3285"
         },
         {
           "count": 1,
@@ -72,14 +72,14 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (45% win - 605 games)"
+      "type": "Most Frequent Build (37% win - 3064 games)"
     },
     {
       "items": [
@@ -97,18 +97,18 @@
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3151"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 137 games)"
+      "type": "Highest Win Rate Build (40% win - 673 games)"
     },
     {
       "items": [
@@ -174,7 +174,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 2210 games)"
+      "type": "QWE -> QWE (47% win - 10342 games)"
     },
     {
       "items": [
@@ -199,7 +199,7 @@
           "id": "2003"
         }
       ],
-      "type": "QEW -> QEW (50% win - 2210 games)"
+      "type": "WQE -> QEW (51% win - 99 games)"
     }
   ],
   "champion": "Syndra",
@@ -209,6 +209,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.20",
+  "title": "Middle 7.11",
   "type": "custom"
 }
