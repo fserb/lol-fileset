@@ -9,23 +9,15 @@
           "id": "1039"
         },
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (48.53% win - 5563 games)"
+      "type": "Most Frequent Starters (43% win - 1001 games)"
     },
     {
       "items": [
@@ -34,29 +26,17 @@
           "id": "1039"
         },
         {
-          "count": 2,
-          "id": "2003"
-        },
-        {
           "count": 1,
           "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (48.53% win - 5563 games)"
+      "type": "Highest Win Rate Starters (60% win - 28 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3725"
+          "id": "1401"
         },
         {
           "count": 1,
@@ -68,47 +48,47 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3193"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3190"
         },
         {
           "count": 1,
           "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (47.87% win - 94 games)"
+      "type": "Most Frequent Build (11% win - 85 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3725"
+          "id": "1401"
         },
         {
           "count": 1,
-          "id": "3117"
+          "id": "3047"
         },
         {
           "count": 1,
-          "id": "3027"
+          "id": "3193"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3742"
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3194"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3190"
         }
       ],
-      "type": "Highest Win Rate Build (50.20% win - 75 games)"
+      "type": "Highest Win Rate Build (21% win - 55 games)"
     },
     {
       "items": [
@@ -118,27 +98,23 @@
         },
         {
           "count": 1,
-          "id": "2004"
+          "id": "2055"
         },
         {
           "count": 1,
-          "id": "2044"
+          "id": "2031"
         },
         {
           "count": 1,
-          "id": "2043"
+          "id": "2032"
         },
         {
           "count": 1,
-          "id": "2041"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "2138"
-        },
-        {
-          "count": 1,
-          "id": "2137"
         },
         {
           "count": 1,
@@ -149,17 +125,17 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables"
+      "type": "Consumables EQW -> QWE (48% win - 169 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3361"
+          "id": "3340"
         },
         {
           "count": 1,
-          "id": "3362"
+          "id": "3341"
         },
         {
           "count": 1,
@@ -168,38 +144,9 @@
         {
           "count": 1,
           "id": "3363"
-        },
-        {
-          "count": 1,
-          "id": "2003"
         }
       ],
-      "type": "EQW -> WQE (44.69% win - 669 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3361"
-        },
-        {
-          "count": 1,
-          "id": "3362"
-        },
-        {
-          "count": 1,
-          "id": "3364"
-        },
-        {
-          "count": 1,
-          "id": "3363"
-        },
-        {
-          "count": 1,
-          "id": "2003"
-        }
-      ],
-      "type": "EQEW -> EWQ (57.47% win - 261 games)"
+      "type": "EQEW -> EWQ (50% win - 141 games)"
     }
   ],
   "champion": "Chogath",
@@ -209,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 5.6",
+  "title": "Jungle 7.13",
   "type": "custom"
 }

@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 1667 games)"
+      "type": "Most Frequent Starters (50% win - 5752 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2031"
+          "id": "1006"
         },
         {
           "count": 1,
-          "id": "3303"
+          "id": "3301"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 261 games)"
+      "type": "Highest Win Rate Starters (60% win - 35 games)"
     },
     {
       "items": [
@@ -56,43 +56,43 @@
         },
         {
           "count": 1,
-          "id": "3050"
+          "id": "3109"
         },
         {
           "count": 1,
-          "id": "3222"
+          "id": "3050"
         }
       ],
-      "type": "Most Frequent Build (35% win - 234 games)"
+      "type": "Most Frequent Build (37% win - 746 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2301"
+          "id": "3107"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3158"
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3003"
+          "id": "3109"
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3092"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "2045"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 92 games)"
+      "type": "Highest Win Rate Build (50% win - 65 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (48% win - 906 games)"
+      "type": "Consumables QWE -> QWE (48% win - 3594 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (55% win - 88 games)"
+      "type": "EWQ -> EWQ (62% win - 58 games)"
     }
   ],
   "champion": "Zilean",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.11",
+  "title": "Support 7.13",
   "type": "custom"
 }

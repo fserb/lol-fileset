@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 1004 games)"
+      "type": "Most Frequent Starters (50% win - 7327 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
-        },
-        {
-          "count": 3,
-          "id": "2010"
+          "id": "1055"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 70 games)"
+      "type": "Highest Win Rate Starters (55% win - 154 games)"
     },
     {
       "items": [
@@ -53,6 +49,35 @@
         {
           "count": 1,
           "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3072"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        }
+      ],
+      "type": "Most Frequent Build (43% win - 3642 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3087"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3094"
         },
         {
           "count": 1,
@@ -63,36 +88,7 @@
           "id": "3072"
         }
       ],
-      "type": "Most Frequent Build (43% win - 873 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3046"
-        },
-        {
-          "count": 1,
-          "id": "3508"
-        },
-        {
-          "count": 1,
-          "id": "3033"
-        },
-        {
-          "count": 1,
-          "id": "3139"
-        }
-      ],
-      "type": "Highest Win Rate Build (53% win - 60 games)"
+      "type": "Highest Win Rate Build (49% win - 83 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QWE (49% win - 1451 games)"
+      "type": "Consumables WQE -> QWE (50% win - 6030 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> WQE (61% win - 55 games)"
+      "type": "WQQE -> QWE (56% win - 217 games)"
     }
   ],
   "champion": "Sivir",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.11",
+  "title": "ADC 7.13",
   "type": "custom"
 }

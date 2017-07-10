@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 12190 games)"
+      "type": "Most Frequent Starters (51% win - 33008 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
         },
         {
           "count": 3,
-          "id": "2003"
+          "id": "2010"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (70% win - 50 games)"
+      "type": "Highest Win Rate Starters (62% win - 64 games)"
     },
     {
       "items": [
@@ -60,20 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3190"
         }
       ],
-      "type": "Most Frequent Build (46% win - 1452 games)"
+      "type": "Most Frequent Build (41% win - 3328 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1401"
+          "id": "3158"
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "1401"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 1116 games)"
+      "type": "Highest Win Rate Build (46% win - 793 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> EWQ (56% win - 6512 games)"
+      "type": "Consumables WQE -> EWQ (53% win - 16739 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EWQ (70% win - 57 games)"
+      "type": "WEEQ -> EWQ (56% win - 148 games)"
     }
   ],
   "champion": "Zac",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.11",
+  "title": "Jungle 7.13",
   "type": "custom"
 }

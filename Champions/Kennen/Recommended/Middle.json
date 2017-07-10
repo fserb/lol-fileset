@@ -15,77 +15,32 @@
         {
           "count": 1,
           "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 1480 games)"
+      "type": "Most Frequent Starters (51% win - 1334 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1001"
+          "id": "1054"
         },
         {
-          "count": 4,
-          "id": "2003"
+          "count": 1,
+          "id": "2010"
         },
         {
           "count": 1,
           "id": "3340"
-        },
-        {
-          "count": 1,
-          "id": "3341"
-        },
-        {
-          "count": 1,
-          "id": "3342"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 286 games)"
+      "type": "Highest Win Rate Starters (70% win - 37 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3285"
-        }
-      ],
-      "type": "Most Frequent Build (49% win - 207 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3001"
+          "id": "3152"
         },
         {
           "count": 1,
@@ -102,13 +57,42 @@
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        }
+      ],
+      "type": "Most Frequent Build (45% win - 702 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3152"
         },
         {
           "count": 1,
           "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 131 games)"
+      "type": "Highest Win Rate Build (46% win - 63 games)"
     },
     {
       "items": [
@@ -118,27 +102,23 @@
         },
         {
           "count": 1,
-          "id": "2004"
+          "id": "2055"
         },
         {
           "count": 1,
-          "id": "2044"
+          "id": "2031"
         },
         {
           "count": 1,
-          "id": "2043"
+          "id": "2032"
         },
         {
           "count": 1,
-          "id": "2041"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "2138"
-        },
-        {
-          "count": 1,
-          "id": "2137"
         },
         {
           "count": 1,
@@ -149,17 +129,17 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables"
+      "type": "Consumables QWE -> QWE (51% win - 1715 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3361"
+          "id": "3340"
         },
         {
           "count": 1,
-          "id": "3362"
+          "id": "3341"
         },
         {
           "count": 1,
@@ -168,38 +148,9 @@
         {
           "count": 1,
           "id": "3363"
-        },
-        {
-          "count": 1,
-          "id": "2003"
         }
       ],
-      "type": "QWE -> QWE (48% win - 780 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3361"
-        },
-        {
-          "count": 1,
-          "id": "3362"
-        },
-        {
-          "count": 1,
-          "id": "3364"
-        },
-        {
-          "count": 1,
-          "id": "3363"
-        },
-        {
-          "count": 1,
-          "id": "2003"
-        }
-      ],
-      "type": "QWE -> WQE (49% win - 167 games)"
+      "type": "QWE -> WEQ (66% win - 60 games)"
     }
   ],
   "champion": "Kennen",
@@ -209,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 5.20",
+  "title": "Middle 7.13",
   "type": "custom"
 }

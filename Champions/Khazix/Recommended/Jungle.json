@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 10321 games)"
+      "type": "Most Frequent Starters (52% win - 41823 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
+          "id": "1006"
         },
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "1039"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (62% win - 43 games)"
+      "type": "Highest Win Rate Starters (56% win - 37 games)"
     },
     {
       "items": [
@@ -60,20 +60,24 @@
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3147"
         }
       ],
-      "type": "Most Frequent Build (40% win - 2360 games)"
+      "type": "Most Frequent Build (39% win - 9963 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1408"
+          "id": "3142"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "1400"
         },
         {
           "count": 1,
@@ -81,18 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3814"
         },
         {
           "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3033"
+          "id": "3147"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 138 games)"
+      "type": "Highest Win Rate Build (44% win - 52 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 16110 games)"
+      "type": "Consumables QWE -> QWE (51% win - 62294 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQQE -> QWE (58% win - 592 games)"
+      "type": "WQQE -> QWE (54% win - 2639 games)"
     }
   ],
   "champion": "Khazix",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.11",
+  "title": "Jungle 7.13",
   "type": "custom"
 }

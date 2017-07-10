@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 9868 games)"
+      "type": "Most Frequent Starters (54% win - 30677 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1055"
         },
         {
           "count": 1,
-          "id": "2031"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 99 games)"
+      "type": "Highest Win Rate Starters (54% win - 30677 games)"
     },
     {
       "items": [
@@ -63,17 +63,17 @@
           "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (44% win - 2742 games)"
+      "type": "Most Frequent Build (44% win - 6368 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3072"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3087"
         },
         {
           "count": 1,
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3046"
+          "id": "3094"
+        },
+        {
+          "count": 1,
+          "id": "3139"
         },
         {
           "count": 1,
           "id": "3036"
-        },
-        {
-          "count": 1,
-          "id": "3094"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 132 games)"
+      "type": "Highest Win Rate Build (48% win - 717 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (53% win - 17538 games)"
+      "type": "Consumables QWE -> QWE (53% win - 42090 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (54% win - 1362 games)"
+      "type": "QWE -> QWE (60% win - 70 games)"
     }
   ],
   "champion": "Draven",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.11",
+  "title": "ADC 7.13",
   "type": "custom"
 }

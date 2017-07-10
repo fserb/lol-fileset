@@ -1,0 +1,165 @@
+{
+  "associatedChampions": [],
+  "associatedMaps": [],
+  "blocks": [
+    {
+      "items": [
+        {
+          "count": 3,
+          "id": "2010"
+        },
+        {
+          "count": 1,
+          "id": "3302"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        }
+      ],
+      "type": "Most Frequent Starters (56% win - 1767 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 3,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3302"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        }
+      ],
+      "type": "Highest Win Rate Starters (58% win - 292 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3401"
+        },
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "2045"
+        },
+        {
+          "count": 1,
+          "id": "3109"
+        },
+        {
+          "count": 1,
+          "id": "3107"
+        }
+      ],
+      "type": "Most Frequent Build (47% win - 218 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3401"
+        },
+        {
+          "count": 1,
+          "id": "3109"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        }
+      ],
+      "type": "Highest Win Rate Build (53% win - 66 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2055"
+        },
+        {
+          "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
+          "id": "2032"
+        },
+        {
+          "count": 1,
+          "id": "2033"
+        },
+        {
+          "count": 1,
+          "id": "2138"
+        },
+        {
+          "count": 1,
+          "id": "2139"
+        },
+        {
+          "count": 1,
+          "id": "2140"
+        }
+      ],
+      "type": "Consumables QEW -> QWE (53% win - 548 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        }
+      ],
+      "type": "EQW -> EQW (55% win - 128 games)"
+    }
+  ],
+  "champion": "Sion",
+  "isGlobalForChampions": false,
+  "isGlobalForMaps": true,
+  "map": "any",
+  "mode": "any",
+  "priority": false,
+  "sortrank": 1,
+  "title": "Support 7.13",
+  "type": "custom"
+}

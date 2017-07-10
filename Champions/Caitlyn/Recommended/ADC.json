@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 18165 games)"
+      "type": "Most Frequent Starters (53% win - 88735 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2010"
+          "id": "1055"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 36 games)"
+      "type": "Highest Win Rate Starters (53% win - 88735 games)"
     },
     {
       "items": [
@@ -44,7 +48,7 @@
         },
         {
           "count": 1,
-          "id": "3085"
+          "id": "3087"
         },
         {
           "count": 1,
@@ -52,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3036"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3139"
         }
       ],
-      "type": "Most Frequent Build (36% win - 5419 games)"
+      "type": "Most Frequent Build (44% win - 26549 games)"
     },
     {
       "items": [
@@ -81,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3072"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 1297 games)"
+      "type": "Highest Win Rate Build (58% win - 6919 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (53% win - 16755 games)"
+      "type": "Consumables QWE -> QWE (53% win - 56951 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> WQE (62% win - 56 games)"
+      "type": "QWWE -> WQE (60% win - 61 games)"
     }
   ],
   "champion": "Caitlyn",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.11",
+  "title": "ADC 7.13",
   "type": "custom"
 }

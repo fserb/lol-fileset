@@ -17,28 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 13484 games)"
+      "type": "Most Frequent Starters (53% win - 70185 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2010"
-        },
-        {
-          "count": 1,
-          "id": "2055"
-        },
-        {
-          "count": 1,
-          "id": "3302"
+          "id": "3303"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (70% win - 37 games)"
+      "type": "Highest Win Rate Starters (66% win - 30 games)"
     },
     {
       "items": [
@@ -67,13 +59,13 @@
           "id": "3109"
         }
       ],
-      "type": "Most Frequent Build (44% win - 2782 games)"
+      "type": "Most Frequent Build (43% win - 11874 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2303"
+          "id": "3025"
         },
         {
           "count": 1,
@@ -81,22 +73,22 @@
         },
         {
           "count": 1,
+          "id": "3401"
+        },
+        {
+          "count": 1,
+          "id": "3193"
+        },
+        {
+          "count": 1,
+          "id": "3109"
+        },
+        {
+          "count": 1,
           "id": "3107"
-        },
-        {
-          "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3025"
-        },
-        {
-          "count": 1,
-          "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 238 games)"
+      "type": "Highest Win Rate Build (55% win - 65 games)"
     },
     {
       "items": [
@@ -133,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (53% win - 8131 games)"
+      "type": "Consumables QEW -> QWE (52% win - 37342 games)"
     },
     {
       "items": [
@@ -154,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (53% win - 143 games)"
+      "type": "QEQE -> QEW (53% win - 98 games)"
     }
   ],
   "champion": "Blitzcrank",
@@ -164,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.11",
+  "title": "Support 7.13",
   "type": "custom"
 }

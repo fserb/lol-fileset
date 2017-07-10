@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 7247 games)"
+      "type": "Most Frequent Starters (50% win - 32348 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2010"
+          "id": "2003"
         },
         {
           "count": 1,
@@ -38,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 30 games)"
+      "type": "Highest Win Rate Starters (58% win - 29 games)"
     },
     {
       "items": [
@@ -64,20 +64,16 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3050"
         }
       ],
-      "type": "Most Frequent Build (42% win - 722 games)"
+      "type": "Most Frequent Build (40% win - 3203 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3092"
-        },
-        {
-          "count": 1,
-          "id": "3117"
+          "id": "3009"
         },
         {
           "count": 1,
@@ -85,18 +81,22 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "2301"
         },
         {
           "count": 1,
-          "id": "2045"
+          "id": "3157"
         },
         {
           "count": 1,
-          "id": "3050"
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 435 games)"
+      "type": "Highest Win Rate Build (45% win - 60 games)"
     },
     {
       "items": [
@@ -133,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 1671 games)"
+      "type": "Consumables QEW -> QEW (50% win - 7288 games)"
     },
     {
       "items": [
@@ -154,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QEW (58% win - 78 games)"
+      "type": "WQE -> QEW (55% win - 54 games)"
     }
   ],
   "champion": "Morgana",
@@ -164,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.11",
+  "title": "Support 7.13",
   "type": "custom"
 }

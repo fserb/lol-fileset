@@ -10,20 +10,20 @@
         },
         {
           "count": 1,
-          "id": "3303"
+          "id": "3302"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (43% win - 490 games)"
+      "type": "Most Frequent Starters (56% win - 1071 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2010"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 194 games)"
+      "type": "Highest Win Rate Starters (57% win - 316 games)"
     },
     {
       "items": [
@@ -56,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3110"
         }
       ],
-      "type": "Most Frequent Build (39% win - 101 games)"
+      "type": "Most Frequent Build (45% win - 83 games)"
     },
     {
       "items": [
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (39% win - 101 games)"
+      "type": "Highest Win Rate Build (45% win - 83 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (46% win - 274 games)"
+      "type": "Consumables EWQ -> QWE (57% win - 543 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWEQ -> EWQ (55% win - 97 games)"
+      "type": "EWQ -> QWE (57% win - 543 games)"
     }
   ],
   "champion": "Maokai",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.11",
+  "title": "Support 7.13",
   "type": "custom"
 }

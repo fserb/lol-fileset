@@ -13,20 +13,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 1715 games)"
+      "type": "Most Frequent Starters (50% win - 6615 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1036"
+        },
+        {
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 1715 games)"
+      "type": "Highest Win Rate Starters (53% win - 175 games)"
     },
     {
       "items": [
@@ -36,7 +40,7 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -52,20 +56,16 @@
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (43% win - 281 games)"
+      "type": "Most Frequent Build (36% win - 1022 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
-          "id": "3053"
+          "id": "3078"
         },
         {
           "count": 1,
@@ -73,18 +73,22 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3053"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3812"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3068"
+        },
+        {
+          "count": 1,
+          "id": "3194"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 162 games)"
+      "type": "Highest Win Rate Build (50% win - 53 games)"
     },
     {
       "items": [
@@ -121,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (54% win - 471 games)"
+      "type": "Consumables QWE -> QEW (51% win - 1989 games)"
     },
     {
       "items": [
@@ -142,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EQW (56% win - 101 games)"
+      "type": "WEQ -> QEW (56% win - 205 games)"
     }
   ],
   "champion": "Illaoi",
@@ -152,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.11",
+  "title": "Top 7.13",
   "type": "custom"
 }

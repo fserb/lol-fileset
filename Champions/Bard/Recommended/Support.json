@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 9627 games)"
+      "type": "Most Frequent Starters (50% win - 40277 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3303"
+          "id": "2031"
+        },
+        {
+          "count": 1,
+          "id": "3301"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 133 games)"
+      "type": "Highest Win Rate Starters (67% win - 55 games)"
     },
     {
       "items": [
@@ -59,13 +63,13 @@
           "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (45% win - 1974 games)"
+      "type": "Most Frequent Build (43% win - 7500 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3158"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -81,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3504"
         },
         {
           "count": 1,
-          "id": "3087"
+          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 185 games)"
+      "type": "Highest Win Rate Build (49% win - 75 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (48% win - 4052 games)"
+      "type": "Consumables QWE -> QWE (48% win - 17030 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QEW (51% win - 1302 games)"
+      "type": "WQWE -> WQE (50% win - 51 games)"
     }
   ],
   "champion": "Bard",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.11",
+  "title": "Support 7.13",
   "type": "custom"
 }

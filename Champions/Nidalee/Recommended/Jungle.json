@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 4262 games)"
+      "type": "Most Frequent Starters (50% win - 20449 games)"
     },
     {
       "items": [
@@ -27,14 +27,10 @@
         },
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 405 games)"
+      "type": "Highest Win Rate Starters (57% win - 89 games)"
     },
     {
       "items": [
@@ -52,24 +48,24 @@
         },
         {
           "count": 1,
+          "id": "3174"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (37% win - 524 games)"
+      "type": "Most Frequent Build (38% win - 2536 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1402"
+          "id": "1414"
         },
         {
           "count": 1,
@@ -81,18 +77,18 @@
         },
         {
           "count": 1,
+          "id": "3174"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3102"
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 97 games)"
+      "type": "Highest Win Rate Build (38% win - 2536 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (51% win - 2947 games)"
+      "type": "Consumables QWE -> QEW (51% win - 14868 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QEW (54% win - 159 games)"
+      "type": "QWE -> QEW (51% win - 14868 games)"
     }
   ],
   "champion": "Nidalee",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.11",
+  "title": "Jungle 7.13",
   "type": "custom"
 }

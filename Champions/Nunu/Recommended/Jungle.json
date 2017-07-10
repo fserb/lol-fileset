@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (56% win - 2225 games)"
+      "type": "Most Frequent Starters (58% win - 18754 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
         },
         {
           "count": 3,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (64% win - 103 games)"
+      "type": "Highest Win Rate Starters (61% win - 314 games)"
     },
     {
       "items": [
@@ -60,24 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (44% win - 696 games)"
+      "type": "Most Frequent Build (39% win - 3785 games)"
     },
     {
       "items": [
         {
           "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
           "id": "1413"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3065"
         },
         {
           "count": 1,
@@ -85,14 +81,18 @@
         },
         {
           "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
           "id": "3193"
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3742"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 92 games)"
+      "type": "Highest Win Rate Build (47% win - 369 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (57% win - 1428 games)"
+      "type": "Consumables QWE -> QEW (56% win - 12089 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (60% win - 258 games)"
+      "type": "QWQE -> QEW (62% win - 74 games)"
     }
   ],
   "champion": "Nunu",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.11",
+  "title": "Jungle 7.13",
   "type": "custom"
 }

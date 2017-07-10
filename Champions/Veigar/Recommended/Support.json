@@ -1,0 +1,165 @@
+{
+  "associatedChampions": [],
+  "associatedMaps": [],
+  "blocks": [
+    {
+      "items": [
+        {
+          "count": 3,
+          "id": "2010"
+        },
+        {
+          "count": 1,
+          "id": "3303"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        }
+      ],
+      "type": "Most Frequent Starters (46% win - 1317 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
+          "id": "3301"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        }
+      ],
+      "type": "Highest Win Rate Starters (56% win - 30 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2301"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3102"
+        }
+      ],
+      "type": "Most Frequent Build (37% win - 150 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2301"
+        },
+        {
+          "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3512"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        }
+      ],
+      "type": "Highest Win Rate Build (43% win - 55 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2055"
+        },
+        {
+          "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
+          "id": "2032"
+        },
+        {
+          "count": 1,
+          "id": "2033"
+        },
+        {
+          "count": 1,
+          "id": "2138"
+        },
+        {
+          "count": 1,
+          "id": "2139"
+        },
+        {
+          "count": 1,
+          "id": "2140"
+        }
+      ],
+      "type": "Consumables QEW -> QEW (48% win - 614 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3341"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        }
+      ],
+      "type": "QEQW -> QWE (50% win - 71 games)"
+    }
+  ],
+  "champion": "Veigar",
+  "isGlobalForChampions": false,
+  "isGlobalForMaps": true,
+  "map": "any",
+  "mode": "any",
+  "priority": false,
+  "sortrank": 1,
+  "title": "Support 7.13",
+  "type": "custom"
+}

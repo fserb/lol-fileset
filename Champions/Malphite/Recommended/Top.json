@@ -6,35 +6,27 @@
       "items": [
         {
           "count": 1,
-          "id": "1054"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 1843 games)"
+      "type": "Most Frequent Starters (51% win - 6559 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1029"
-        },
-        {
-          "count": 1,
-          "id": "2031"
+          "id": "1056"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (66% win - 42 games)"
+      "type": "Highest Win Rate Starters (55% win - 96 games)"
     },
     {
       "items": [
@@ -56,14 +48,14 @@
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (42% win - 660 games)"
+      "type": "Most Frequent Build (41% win - 2099 games)"
     },
     {
       "items": [
@@ -77,11 +69,11 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3047"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3742"
         },
         {
           "count": 1,
@@ -89,10 +81,10 @@
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (59% win - 59 games)"
+      "type": "Highest Win Rate Build (47% win - 219 games)"
     },
     {
       "items": [
@@ -129,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (54% win - 674 games)"
+      "type": "Consumables QEW -> QEW (51% win - 2483 games)"
     },
     {
       "items": [
@@ -150,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EQW (61% win - 163 games)"
+      "type": "QEQW -> QWE (65% win - 60 games)"
     }
   ],
   "champion": "Malphite",
@@ -160,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.11",
+  "title": "Top 7.13",
   "type": "custom"
 }
