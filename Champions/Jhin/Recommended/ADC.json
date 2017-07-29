@@ -17,10 +17,14 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 55510 games)"
+      "type": "Most Frequent Starters (51% win - 71852 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1036"
+        },
         {
           "count": 1,
           "id": "2003"
@@ -30,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 368 games)"
+      "type": "Highest Win Rate Starters (63% win - 109 games)"
     },
     {
       "items": [
@@ -44,7 +48,7 @@
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3147"
         },
         {
           "count": 1,
@@ -52,21 +56,17 @@
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3031"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (42% win - 13511 games)"
+      "type": "Most Frequent Build (43% win - 17997 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3031"
-        },
         {
           "count": 1,
           "id": "3087"
@@ -77,18 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
           "id": "3094"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3508"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 2516 games)"
+      "type": "Highest Win Rate Build (49% win - 169 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWQE -> QWE (50% win - 57073 games)"
+      "type": "Consumables QWQE -> QWE (51% win - 84293 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQW -> QWE (60% win - 87 games)"
+      "type": "WQQW -> QWE (58% win - 206 games)"
     }
   ],
   "champion": "Jhin",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.13",
+  "title": "ADC 7.14",
   "type": "custom"
 }

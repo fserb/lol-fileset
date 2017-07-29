@@ -17,28 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 32348 games)"
+      "type": "Most Frequent Starters (49% win - 32533 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2003"
+          "count": 3,
+          "id": "2010"
         },
         {
           "count": 1,
-          "id": "2055"
-        },
-        {
-          "count": 1,
-          "id": "3303"
+          "id": "3301"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 29 games)"
+      "type": "Highest Win Rate Starters (52% win - 1256 games)"
     },
     {
       "items": [
@@ -64,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3050"
+          "id": "3109"
         }
       ],
-      "type": "Most Frequent Build (40% win - 3203 games)"
+      "type": "Most Frequent Build (39% win - 3185 games)"
     },
     {
       "items": [
@@ -77,11 +73,11 @@
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3092"
         },
         {
           "count": 1,
-          "id": "2301"
+          "id": "2045"
         },
         {
           "count": 1,
@@ -89,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 60 games)"
+      "type": "Highest Win Rate Build (52% win - 70 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 7288 games)"
+      "type": "Consumables QEW -> QEW (49% win - 7627 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QEW (55% win - 54 games)"
+      "type": "QWE -> QEW (59% win - 66 games)"
     }
   ],
   "champion": "Morgana",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.13",
+  "title": "Support 7.14",
   "type": "custom"
 }

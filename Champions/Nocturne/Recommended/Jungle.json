@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 12812 games)"
+      "type": "Most Frequent Starters (50% win - 17042 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2031"
+          "id": "1039"
+        },
+        {
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (65% win - 38 games)"
+      "type": "Highest Win Rate Starters (57% win - 70 games)"
     },
     {
       "items": [
@@ -40,36 +44,7 @@
         },
         {
           "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3142"
-        },
-        {
-          "count": 1,
           "id": "3147"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3033"
-        }
-      ],
-      "type": "Most Frequent Build (35% win - 579 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1419"
-        },
-        {
-          "count": 1,
-          "id": "3153"
         },
         {
           "count": 1,
@@ -77,18 +52,47 @@
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3142"
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3814"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 167 games)"
+      "type": "Most Frequent Build (39% win - 964 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3147"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3022"
+        },
+        {
+          "count": 1,
+          "id": "3078"
+        }
+      ],
+      "type": "Highest Win Rate Build (45% win - 84 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (49% win - 4829 games)"
+      "type": "Consumables QWE -> QEW (51% win - 6946 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QWE (51% win - 60 games)"
+      "type": "QWE -> WQE (56% win - 223 games)"
     }
   ],
   "champion": "Nocturne",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.13",
+  "title": "Jungle 7.14",
   "type": "custom"
 }

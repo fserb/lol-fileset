@@ -18,9 +18,9 @@
     "Greater Quintessence of Ability Power"
   ],
   "Akali/Middle": [
-    "Greater Mark of Attack Damage",
+    "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Scaling Health",
+    "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
   "Akali/Top": [
@@ -140,10 +140,10 @@
     "Greater Quintessence of Ability Power"
   ],
   "Chogath/Jungle": [
-    "Greater Mark of Magic Penetration",
+    "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
+    "Greater Quintessence of Attack Speed"
   ],
   "Chogath/Middle": [
     "Greater Mark of Magic Penetration",
@@ -327,11 +327,10 @@
     "Greater Quintessence of Ability Power"
   ],
   "Gangplank/Middle": [
-    "Greater Mark of Lethality",
-    "Greater Glyph of Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Lethality",
-    "Greater Quintessence of Cooldown Reduction"
+    "Greater Mark of Attack Damage",
+    "Greater Glyph of Magic Resist",
+    "Greater Seal of Armor",
+    "Greater Quintessence of Attack Damage"
   ],
   "Gangplank/Top": [
     "Greater Mark of Attack Damage",
@@ -539,6 +538,18 @@
     "Greater Quintessence of Attack Speed",
     "Greater Quintessence of Scaling Cooldown Reduction"
   ],
+  "Kayn/Jungle": [
+    "Greater Mark of Attack Damage",
+    "Greater Glyph of Magic Resist",
+    "Greater Seal of Armor",
+    "Greater Quintessence of Attack Speed"
+  ],
+  "Kayn/Top": [
+    "Greater Mark of Attack Damage",
+    "Greater Glyph of Magic Resist",
+    "Greater Seal of Armor",
+    "Greater Quintessence of Attack Damage"
+  ],
   "Kennen/ADC": [
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
@@ -558,10 +569,10 @@
     "Greater Quintessence of Ability Power"
   ],
   "Kennen/Top": [
-    "Greater Mark of Attack Damage",
+    "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Ability Power"
   ],
   "Khazix/Jungle": [
     "Greater Mark of Attack Damage",
@@ -800,8 +811,8 @@
     "Greater Quintessence of Ability Power"
   ],
   "Nidalee/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Ability Power",
+    "Greater Mark of Magic Penetration",
+    "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
@@ -837,9 +848,10 @@
   ],
   "Olaf/Top": [
     "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
+    "Greater Glyph of Cooldown Reduction",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Quintessence of Attack Damage",
+    "Greater Quintessence of Cooldown Reduction"
   ],
   "Orianna/Middle": [
     "Greater Mark of Magic Penetration",
@@ -1172,8 +1184,8 @@
   "TwistedFate/Middle": [
     "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
+    "Greater Seal of Scaling Health",
+    "Greater Quintessence of Movement Speed"
   ],
   "Twitch/ADC": [
     "Greater Mark of Attack Damage",
@@ -1371,7 +1383,8 @@
   "Zilean/Middle": [
     "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Zilean/Support": [

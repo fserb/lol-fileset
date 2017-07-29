@@ -17,20 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 15058 games)"
+      "type": "Most Frequent Starters (51% win - 15371 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2003"
+          "id": "1036"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 123 games)"
+      "type": "Highest Win Rate Starters (65% win - 35 games)"
     },
     {
       "items": [
@@ -59,17 +59,13 @@
           "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (46% win - 7641 games)"
+      "type": "Most Frequent Build (45% win - 7127 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
-          "id": "3071"
+          "id": "3147"
         },
         {
           "count": 1,
@@ -77,18 +73,22 @@
         },
         {
           "count": 1,
+          "id": "3748"
+        },
+        {
+          "count": 1,
           "id": "3026"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3193"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3814"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 755 games)"
+      "type": "Highest Win Rate Build (50% win - 56 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 22756 games)"
+      "type": "Consumables QWE -> QWE (50% win - 23046 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QWE (54% win - 197 games)"
+      "type": "QWE -> WQE (59% win - 475 games)"
     }
   ],
   "champion": "Kled",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.13",
+  "title": "Top 7.14",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 18833 games)"
+      "type": "Most Frequent Starters (50% win - 18275 games)"
     },
     {
       "items": [
@@ -27,14 +27,14 @@
         },
         {
           "count": 1,
-          "id": "2010"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 36 games)"
+      "type": "Highest Win Rate Starters (64% win - 37 games)"
     },
     {
       "items": [
@@ -56,28 +56,24 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3036"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (42% win - 8177 games)"
+      "type": "Most Frequent Build (43% win - 6388 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3087"
+          "id": "3085"
         },
         {
           "count": 1,
-          "id": "3508"
-        },
-        {
-          "count": 1,
-          "id": "3006"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -85,14 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3812"
+          "id": "3087"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3072"
+        },
+        {
+          "count": 1,
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 74 games)"
+      "type": "Highest Win Rate Build (61% win - 62 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (50% win - 8062 games)"
+      "type": "Consumables EWQ -> EWQ (51% win - 9012 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EWQ (56% win - 58 games)"
+      "type": "EQQW -> QWE (59% win - 54 games)"
     }
   ],
   "champion": "Varus",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.13",
+  "title": "ADC 7.14",
   "type": "custom"
 }

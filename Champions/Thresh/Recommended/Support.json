@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 161930 games)"
+      "type": "Most Frequent Starters (51% win - 168071 games)"
     },
     {
       "items": [
         {
           "count": 2,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3302"
+          "id": "2010"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 52 games)"
+      "type": "Highest Win Rate Starters (56% win - 64 games)"
     },
     {
       "items": [
@@ -63,13 +59,13 @@
           "id": "3109"
         }
       ],
-      "type": "Most Frequent Build (44% win - 27950 games)"
+      "type": "Most Frequent Build (43% win - 30420 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3050"
+          "id": "3109"
         },
         {
           "count": 1,
@@ -77,7 +73,7 @@
         },
         {
           "count": 1,
-          "id": "3401"
+          "id": "2303"
         },
         {
           "count": 1,
@@ -85,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "2045"
+          "id": "3110"
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3512"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 146 games)"
+      "type": "Highest Win Rate Build (48% win - 179 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (52% win - 42343 games)"
+      "type": "Consumables EQW -> EQW (50% win - 46797 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> EQW (53% win - 97 games)"
+      "type": "EWQ -> EQW (56% win - 138 games)"
     }
   ],
   "champion": "Thresh",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.13",
+  "title": "Support 7.14",
   "type": "custom"
 }

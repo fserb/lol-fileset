@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 29682 games)"
+      "type": "Most Frequent Starters (54% win - 32944 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2003"
+          "id": "1083"
+        },
+        {
+          "count": 1,
+          "id": "2010"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 234 games)"
+      "type": "Highest Win Rate Starters (56% win - 57 games)"
     },
     {
       "items": [
@@ -59,21 +63,13 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (47% win - 22065 games)"
+      "type": "Most Frequent Build (46% win - 19033 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
           "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3006"
         },
         {
           "count": 1,
@@ -81,14 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3087"
+        },
+        {
+          "count": 1,
+          "id": "3072"
+        },
+        {
+          "count": 1,
+          "id": "3036"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 167 games)"
+      "type": "Highest Win Rate Build (56% win - 670 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (53% win - 36310 games)"
+      "type": "Consumables EWQ -> EQW (53% win - 39179 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EQW (57% win - 88 games)"
+      "type": "QEEW -> EQW (61% win - 171 games)"
     }
   ],
   "champion": "Twitch",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.13",
+  "title": "ADC 7.14",
   "type": "custom"
 }

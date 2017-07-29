@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 33008 games)"
+      "type": "Most Frequent Starters (51% win - 37249 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
+          "id": "1041"
         },
         {
           "count": 3,
-          "id": "2010"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (62% win - 64 games)"
+      "type": "Highest Win Rate Starters (54% win - 244 games)"
     },
     {
       "items": [
@@ -52,7 +52,7 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3075"
         },
         {
           "count": 1,
@@ -60,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (41% win - 3328 games)"
+      "type": "Most Frequent Build (41% win - 3401 games)"
     },
     {
       "items": [
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3190"
+          "id": "3075"
         },
         {
           "count": 1,
           "id": "3193"
+        },
+        {
+          "count": 1,
+          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 793 games)"
+      "type": "Highest Win Rate Build (49% win - 724 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> EWQ (53% win - 16739 games)"
+      "type": "Consumables WQE -> EWQ (53% win - 20066 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEEQ -> EWQ (56% win - 148 games)"
+      "type": "EQW -> EQW (61% win - 75 games)"
     }
   ],
   "champion": "Zac",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.13",
+  "title": "Jungle 7.14",
   "type": "custom"
 }

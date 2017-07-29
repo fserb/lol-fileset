@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 12873 games)"
+      "type": "Most Frequent Starters (52% win - 9462 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
         },
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 396 games)"
+      "type": "Highest Win Rate Starters (54% win - 399 games)"
     },
     {
       "items": [
@@ -56,17 +56,21 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3094"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (41% win - 2430 games)"
+      "type": "Most Frequent Build (41% win - 2048 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3006"
+        },
         {
           "count": 1,
           "id": "1412"
@@ -77,22 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
           "id": "3031"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3094"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 666 games)"
+      "type": "Highest Win Rate Build (44% win - 364 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QWE (52% win - 10817 games)"
+      "type": "Consumables WQE -> QWE (52% win - 8070 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QWE (52% win - 10817 games)"
+      "type": "WQE -> EQW (55% win - 181 games)"
     }
   ],
   "champion": "Kindred",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.13",
+  "title": "Jungle 7.14",
   "type": "custom"
 }

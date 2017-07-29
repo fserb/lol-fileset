@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 49749 games)"
+      "type": "Most Frequent Starters (48% win - 56734 games)"
     },
     {
       "items": [
@@ -27,14 +27,14 @@
         },
         {
           "count": 1,
-          "id": "2010"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 31 games)"
+      "type": "Highest Win Rate Starters (55% win - 67 games)"
     },
     {
       "items": [
@@ -63,13 +63,13 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (42% win - 17465 games)"
+      "type": "Most Frequent Build (40% win - 12724 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3031"
+          "id": "3812"
         },
         {
           "count": 1,
@@ -77,22 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3046"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3508"
+        },
+        {
+          "count": 1,
           "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3094"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 495 games)"
+      "type": "Highest Win Rate Build (48% win - 90 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 72515 games)"
+      "type": "Consumables QEW -> QEW (47% win - 78619 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QEW (52% win - 75 games)"
+      "type": "QEQW -> QEW (50% win - 173 games)"
     }
   ],
   "champion": "Lucian",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.13",
+  "title": "ADC 7.14",
   "type": "custom"
 }

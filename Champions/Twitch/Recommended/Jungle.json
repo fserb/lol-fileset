@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 7212 games)"
+      "type": "Most Frequent Starters (52% win - 7180 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
+          "id": "1041"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 32 games)"
+      "type": "Highest Win Rate Starters (52% win - 7180 games)"
     },
     {
       "items": [
@@ -63,21 +63,17 @@
           "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (36% win - 2219 games)"
+      "type": "Most Frequent Build (37% win - 2033 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "1419"
-        },
-        {
-          "count": 1,
           "id": "3085"
+        },
+        {
+          "count": 1,
+          "id": "3006"
         },
         {
           "count": 1,
@@ -89,10 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3036"
+        },
+        {
+          "count": 1,
+          "id": "3153"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 163 games)"
+      "type": "Highest Win Rate Build (48% win - 54 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (51% win - 8783 games)"
+      "type": "Consumables EQW -> EQW (51% win - 9163 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EQW (51% win - 8783 games)"
+      "type": "EQQE -> EQW (56% win - 125 games)"
     }
   ],
   "champion": "Twitch",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.13",
+  "title": "Jungle 7.14",
   "type": "custom"
 }

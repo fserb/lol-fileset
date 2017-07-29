@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 4602 games)"
+      "type": "Most Frequent Starters (49% win - 8074 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1039"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 3,
+          "id": "2010"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 3462 games)"
+      "type": "Highest Win Rate Starters (52% win - 40 games)"
     },
     {
       "items": [
@@ -44,32 +44,32 @@
         },
         {
           "count": 1,
+          "id": "3147"
+        },
+        {
+          "count": 1,
           "id": "3047"
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3142"
+        },
+        {
+          "count": 1,
+          "id": "3814"
         },
         {
           "count": 1,
           "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3031"
         }
       ],
-      "type": "Most Frequent Build (31% win - 1998 games)"
+      "type": "Most Frequent Build (30% win - 2512 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3142"
+          "id": "3117"
         },
         {
           "count": 1,
@@ -77,22 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3142"
+        },
+        {
+          "count": 1,
+          "id": "3814"
+        },
+        {
+          "count": 1,
           "id": "3071"
         },
         {
           "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3156"
+          "id": "3036"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 88 games)"
+      "type": "Highest Win Rate Build (41% win - 90 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (48% win - 9688 games)"
+      "type": "Consumables QWE -> QEW (50% win - 17674 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (48% win - 9688 games)"
+      "type": "QWE -> QEW (61% win - 420 games)"
     }
   ],
   "champion": "Rengar",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.13",
+  "title": "Jungle 7.14",
   "type": "custom"
 }

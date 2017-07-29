@@ -13,20 +13,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 26691 games)"
+      "type": "Most Frequent Starters (50% win - 33416 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1029"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (67% win - 28 games)"
+      "type": "Highest Win Rate Starters (63% win - 33 games)"
     },
     {
       "items": [
@@ -55,10 +55,14 @@
           "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (42% win - 9797 games)"
+      "type": "Most Frequent Build (42% win - 11622 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3146"
+        },
         {
           "count": 1,
           "id": "3078"
@@ -69,22 +73,18 @@
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3124"
+        },
+        {
+          "count": 1,
+          "id": "3156"
         },
         {
           "count": 1,
           "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 3868 games)"
+      "type": "Highest Win Rate Build (46% win - 460 games)"
     },
     {
       "items": [
@@ -121,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> WQE (52% win - 25401 games)"
+      "type": "Consumables EQW -> WQE (52% win - 30236 games)"
     },
     {
       "items": [
@@ -142,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EQW (58% win - 60 games)"
+      "type": "WEWQ -> QWE (65% win - 60 games)"
     }
   ],
   "champion": "Jax",
@@ -152,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.13",
+  "title": "Top 7.14",
   "type": "custom"
 }

@@ -6,18 +6,14 @@
       "items": [
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 2092 games)"
+      "type": "Most Frequent Starters (49% win - 2057 games)"
     },
     {
       "items": [
@@ -26,15 +22,15 @@
           "id": "1082"
         },
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 38 games)"
+      "type": "Highest Win Rate Starters (53% win - 519 games)"
     },
     {
       "items": [
@@ -63,7 +59,7 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (40% win - 858 games)"
+      "type": "Most Frequent Build (39% win - 864 games)"
     },
     {
       "items": [
@@ -81,18 +77,18 @@
         },
         {
           "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 64 games)"
+      "type": "Highest Win Rate Build (50% win - 72 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 6961 games)"
+      "type": "Consumables QEW -> QEW (48% win - 6886 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (49% win - 1450 games)"
+      "type": "QEQW -> QEW (60% win - 75 games)"
     }
   ],
   "champion": "Ekko",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.13",
+  "title": "Top 7.14",
   "type": "custom"
 }

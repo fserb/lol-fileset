@@ -17,10 +17,14 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 27100 games)"
+      "type": "Most Frequent Starters (48% win - 28771 games)"
     },
     {
       "items": [
+        {
+          "count": 3,
+          "id": "1006"
+        },
         {
           "count": 1,
           "id": "2003"
@@ -30,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 47 games)"
+      "type": "Highest Win Rate Starters (59% win - 32 games)"
     },
     {
       "items": [
@@ -52,24 +56,24 @@
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (41% win - 5391 games)"
+      "type": "Most Frequent Build (40% win - 4714 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3748"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3748"
         },
         {
           "count": 1,
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
+          "id": "3193"
+        },
+        {
+          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3194"
+          "id": "3742"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 416 games)"
+      "type": "Highest Win Rate Build (51% win - 79 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 22931 games)"
+      "type": "Consumables QEW -> QEW (48% win - 25769 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EQW (55% win - 95 games)"
+      "type": "EQW -> EQW (62% win - 59 games)"
     }
   ],
   "champion": "Shen",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.13",
+  "title": "Top 7.14",
   "type": "custom"
 }

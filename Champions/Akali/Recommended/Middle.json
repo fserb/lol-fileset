@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 1672 games)"
+      "type": "Most Frequent Starters (51% win - 1965 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1001"
+          "id": "1082"
+        },
+        {
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 34 games)"
+      "type": "Highest Win Rate Starters (54% win - 1304 games)"
     },
     {
       "items": [
@@ -56,24 +60,16 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (36% win - 1584 games)"
+      "type": "Most Frequent Build (39% win - 1739 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
           "id": "3146"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         },
         {
           "count": 1,
@@ -81,14 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 142 games)"
+      "type": "Highest Win Rate Build (40% win - 654 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (49% win - 5118 games)"
+      "type": "Consumables QWE -> QEW (50% win - 5517 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QEW (51% win - 623 games)"
+      "type": "QEW -> QEW (78% win - 56 games)"
     }
   ],
   "champion": "Akali",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.13",
+  "title": "Middle 7.14",
   "type": "custom"
 }
