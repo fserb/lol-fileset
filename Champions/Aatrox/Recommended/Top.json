@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2637 games)"
+      "type": "Most Frequent Starters (52% win - 847 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1036"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 34 games)"
+      "type": "Highest Win Rate Starters (57% win - 35 games)"
     },
     {
       "items": [
@@ -52,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3812"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3072"
         }
       ],
-      "type": "Most Frequent Build (34% win - 484 games)"
+      "type": "Most Frequent Build (33% win - 160 games)"
     },
     {
       "items": [
@@ -69,15 +73,11 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3047"
         },
         {
           "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
-          "id": "3065"
+          "id": "3046"
         },
         {
           "count": 1,
@@ -85,10 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3046"
+          "id": "3156"
+        },
+        {
+          "count": 1,
+          "id": "3812"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 276 games)"
+      "type": "Highest Win Rate Build (41% win - 123 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WEQ (52% win - 1172 games)"
+      "type": "Consumables WQE -> WEQ (52% win - 413 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EWQ (61% win - 55 games)"
+      "type": "WQE -> EWQ (56% win - 266 games)"
     }
   ],
   "champion": "Aatrox",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.14",
+  "title": "Top 7.16",
   "type": "custom"
 }

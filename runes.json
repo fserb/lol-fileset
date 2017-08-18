@@ -18,9 +18,9 @@
     "Greater Quintessence of Ability Power"
   ],
   "Akali/Middle": [
-    "Greater Mark of Magic Penetration",
+    "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Akali/Top": [
@@ -44,7 +44,8 @@
   "Anivia/Middle": [
     "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Annie/Middle": [
@@ -78,9 +79,10 @@
     "Greater Quintessence of Movement Speed"
   ],
   "Azir/Middle": [
-    "Greater Mark of Magic Penetration",
+    "Greater Mark of Attack Speed",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Bard/Support": [
@@ -176,8 +178,8 @@
     "Greater Quintessence of Attack Speed"
   ],
   "Diana/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
+    "Greater Mark of Attack Speed",
+    "Greater Glyph of Ability Power",
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
@@ -197,7 +199,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Quintessence of Attack Speed"
   ],
   "Draven/ADC": [
     "Greater Mark of Attack Damage",
@@ -417,10 +419,10 @@
     "Greater Quintessence of Movement Speed"
   ],
   "Janna/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
+    "Greater Mark of Armor",
+    "Greater Glyph of Ability Power",
+    "Greater Quintessence of Gold",
+    "Greater Seal of Gold"
   ],
   "JarvanIV/Jungle": [
     "Greater Mark of Attack Damage",
@@ -496,7 +498,7 @@
   ],
   "Karthus/Top": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
+    "Greater Glyph of Ability Power",
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
@@ -624,10 +626,10 @@
     "Greater Quintessence of Attack Speed"
   ],
   "Leona/Support": [
-    "Greater Mark of Attack Damage",
+    "Greater Mark of Armor",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Seal of Health",
+    "Greater Quintessence of Armor"
   ],
   "Lissandra/Middle": [
     "Greater Mark of Magic Penetration",
@@ -642,6 +644,12 @@
     "Greater Quintessence of Ability Power"
   ],
   "Lucian/ADC": [
+    "Greater Mark of Attack Damage",
+    "Greater Glyph of Magic Resist",
+    "Greater Seal of Armor",
+    "Greater Quintessence of Attack Speed"
+  ],
+  "Lucian/Middle": [
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
@@ -715,10 +723,10 @@
     "Greater Quintessence of Ability Power"
   ],
   "Maokai/Top": [
-    "Greater Mark of Magic Penetration",
+    "Greater Mark of Attack Speed",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
+    "Greater Seal of Scaling Health",
+    "Greater Quintessence of Armor"
   ],
   "MasterYi/Jungle": [
     "Greater Mark of Attack Damage",
@@ -793,10 +801,10 @@
     "Greater Quintessence of Attack Damage"
   ],
   "Nautilus/Jungle": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Scaling Magic Resist",
+    "Greater Mark of Attack Damage",
+    "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Movement Speed"
+    "Greater Quintessence of Attack Speed"
   ],
   "Nautilus/Support": [
     "Greater Mark of Armor",
@@ -811,8 +819,8 @@
     "Greater Quintessence of Ability Power"
   ],
   "Nidalee/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
+    "Greater Mark of Attack Damage",
+    "Greater Glyph of Ability Power",
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
@@ -856,7 +864,8 @@
   "Orianna/Middle": [
     "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Pantheon/Jungle": [
@@ -875,7 +884,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
+    "Greater Quintessence of Attack Speed"
   ],
   "Poppy/Support": [
     "Greater Mark of Attack Damage",
@@ -953,7 +962,7 @@
   ],
   "Rumble/Jungle": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
+    "Greater Glyph of Ability Power",
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
@@ -1021,7 +1030,7 @@
     "Greater Mark of Magic Penetration",
     "Greater Glyph of Ability Power",
     "Greater Seal of Armor",
-    "Greater Quintessence of Movement Speed"
+    "Greater Quintessence of Ability Power"
   ],
   "Sion/Jungle": [
     "Greater Mark of Attack Damage",
@@ -1195,7 +1204,7 @@
   ],
   "Twitch/Jungle": [
     "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
+    "Greater Glyph of Attack Speed",
     "Greater Seal of Armor",
     "Greater Quintessence of Attack Speed"
   ],
@@ -1281,7 +1290,8 @@
   "Vladimir/Middle": [
     "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Vladimir/Top": [

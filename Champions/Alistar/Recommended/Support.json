@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 36615 games)"
+      "type": "Most Frequent Starters (50% win - 17793 games)"
     },
     {
       "items": [
         {
+          "count": 3,
+          "id": "2010"
+        },
+        {
           "count": 1,
-          "id": "2031"
+          "id": "3301"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (66% win - 66 games)"
+      "type": "Highest Win Rate Starters (53% win - 1018 games)"
     },
     {
       "items": [
@@ -48,36 +52,28 @@
         },
         {
           "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 1,
           "id": "3109"
         },
         {
           "count": 1,
-          "id": "3050"
+          "id": "3107"
+        },
+        {
+          "count": 1,
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (40% win - 6950 games)"
+      "type": "Most Frequent Build (41% win - 4640 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2303"
+          "id": "3009"
         },
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3109"
+          "id": "3401"
         },
         {
           "count": 1,
@@ -85,10 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3050"
+          "id": "2045"
+        },
+        {
+          "count": 1,
+          "id": "3109"
+        },
+        {
+          "count": 1,
+          "id": "3190"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 793 games)"
+      "type": "Highest Win Rate Build (48% win - 79 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 36486 games)"
+      "type": "Consumables QWE -> QWE (49% win - 19566 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (51% win - 1042 games)"
+      "type": "QWE -> QWE (56% win - 99 games)"
     }
   ],
   "champion": "Alistar",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.14",
+  "title": "Support 7.16",
   "type": "custom"
 }

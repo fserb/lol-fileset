@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 24901 games)"
+      "type": "Most Frequent Starters (53% win - 13206 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2031"
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2010"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 413 games)"
+      "type": "Highest Win Rate Starters (54% win - 168 games)"
     },
     {
       "items": [
@@ -40,7 +44,7 @@
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -59,20 +63,20 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (41% win - 10457 games)"
+      "type": "Most Frequent Build (42% win - 5271 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
         {
           "count": 1,
           "id": "3020"
         },
         {
           "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
           "id": "3100"
         },
         {
@@ -88,7 +92,7 @@
           "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 229 games)"
+      "type": "Highest Win Rate Build (43% win - 4764 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWQE -> QEW (53% win - 24703 games)"
+      "type": "Consumables QWQE -> QEW (53% win - 13615 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EQW (83% win - 424 games)"
+      "type": "QWE -> WQE (81% win - 140 games)"
     }
   ],
   "champion": "Kassadin",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.14",
+  "title": "Middle 7.16",
   "type": "custom"
 }

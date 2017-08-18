@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 15673 games)"
+      "type": "Most Frequent Starters (53% win - 6476 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1027"
+          "id": "1054"
         },
         {
-          "count": 3,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (64% win - 31 games)"
+      "type": "Highest Win Rate Starters (60% win - 89 games)"
     },
     {
       "items": [
@@ -43,7 +43,7 @@
           "id": "3027"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3020"
         },
         {
@@ -57,9 +57,13 @@
         {
           "count": 1,
           "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (48% win - 8972 games)"
+      "type": "Most Frequent Build (48% win - 4074 games)"
     },
     {
       "items": [
@@ -69,7 +73,15 @@
         },
         {
           "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
           "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3285"
         },
         {
           "count": 1,
@@ -77,18 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
           "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 773 games)"
+      "type": "Highest Win Rate Build (54% win - 71 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEEW -> EQW (53% win - 18729 games)"
+      "type": "Consumables QEEW -> EQW (53% win - 8287 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEW -> EQW (83% win - 306 games)"
+      "type": "QEEW -> QEW (89% win - 106 games)"
     }
   ],
   "champion": "Anivia",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.14",
+  "title": "Middle 7.16",
   "type": "custom"
 }

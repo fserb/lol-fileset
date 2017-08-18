@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 3017 games)"
+      "type": "Most Frequent Starters (49% win - 1405 games)"
     },
     {
       "items": [
@@ -26,11 +26,7 @@
           "id": "1039"
         },
         {
-          "count": 1,
-          "id": "2010"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "2055"
         },
         {
@@ -38,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 119 games)"
+      "type": "Highest Win Rate Starters (58% win - 346 games)"
     },
     {
       "items": [
@@ -60,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3151"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (40% win - 1183 games)"
+      "type": "Most Frequent Build (39% win - 607 games)"
     },
     {
       "items": [
@@ -85,7 +81,7 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3116"
         },
         {
           "count": 1,
@@ -93,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3165"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 569 games)"
+      "type": "Highest Win Rate Build (47% win - 343 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WQE (50% win - 2222 games)"
+      "type": "Consumables WEQ -> WQE (52% win - 1337 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> WQE (58% win - 278 games)"
+      "type": "WEQ -> EQW (59% win - 52 games)"
     }
   ],
   "champion": "Fiddlesticks",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.14",
+  "title": "Jungle 7.16",
   "type": "custom"
 }

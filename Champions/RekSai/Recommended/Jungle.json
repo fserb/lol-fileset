@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 37366 games)"
+      "type": "Most Frequent Starters (51% win - 16408 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1006"
+          "id": "1041"
         },
         {
-          "count": 1,
-          "id": "1041"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 130 games)"
+      "type": "Highest Win Rate Starters (51% win - 347 games)"
     },
     {
       "items": [
@@ -60,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (44% win - 4003 games)"
+      "type": "Most Frequent Build (46% win - 1949 games)"
     },
     {
       "items": [
@@ -73,11 +73,7 @@
         },
         {
           "count": 1,
-          "id": "1400"
-        },
-        {
-          "count": 1,
-          "id": "3071"
+          "id": "1401"
         },
         {
           "count": 1,
@@ -85,14 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3742"
         },
         {
           "count": 1,
           "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (58% win - 133 games)"
+      "type": "Highest Win Rate Build (64% win - 78 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (50% win - 36005 games)"
+      "type": "Consumables QWE -> QEW (51% win - 16836 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (60% win - 557 games)"
+      "type": "QWE -> EQW (55% win - 256 games)"
     }
   ],
   "champion": "RekSai",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.14",
+  "title": "Jungle 7.16",
   "type": "custom"
 }

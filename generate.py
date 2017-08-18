@@ -159,7 +159,7 @@ def buildSet(champ, role, outdir):
         "items": getItems(obj["firstItems"]["highestWinPercent"]) + visionTrinket
         })
 
-    if obj['items']['mostGames']['items']:
+    if 'mostGames' in obj['items'] and obj['items']['mostGames']['items']:
       out['blocks'].append({
         "type": "Most Frequent Build (%d%% win - %d games)" % (
           100*obj["items"]["mostGames"]['winPercent'],
@@ -167,7 +167,7 @@ def buildSet(champ, role, outdir):
         "items": getItems(obj["items"]["mostGames"])
         })
 
-    if obj['items']['highestWinPercent']['items']:
+    if 'highestWinPercent' in obj['items'] and obj['items']['highestWinPercent']['items']:
       out['blocks'].append({
         "type": "Highest Win Rate Build (%d%% win - %d games)" % (
           100*obj["items"]["highestWinPercent"]['winPercent'],

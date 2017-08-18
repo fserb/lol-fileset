@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 10561 games)"
+      "type": "Most Frequent Starters (48% win - 7323 games)"
     },
     {
       "items": [
@@ -27,24 +27,24 @@
         },
         {
           "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (62% win - 27 games)"
+      "type": "Highest Win Rate Starters (52% win - 40 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3027"
-        },
         {
           "count": 1,
           "id": "3047"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3800"
         },
         {
           "count": 1,
@@ -52,43 +52,47 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3083"
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (36% win - 761 games)"
+      "type": "Most Frequent Build (36% win - 1527 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "3001"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3800"
         },
         {
           "count": 1,
-          "id": "3152"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3193"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 99 games)"
+      "type": "Highest Win Rate Build (47% win - 80 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (54% win - 5633 games)"
+      "type": "Consumables EWQ -> EWQ (50% win - 5190 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EWQ (66% win - 66 games)"
+      "type": "EWWQ -> WEQ (65% win - 120 games)"
     }
   ],
   "champion": "Chogath",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.14",
+  "title": "Top 7.16",
   "type": "custom"
 }

@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 4471 games)"
+      "type": "Most Frequent Starters (53% win - 2288 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1027"
-        },
-        {
-          "count": 3,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (65% win - 32 games)"
+      "type": "Highest Win Rate Starters (57% win - 38 games)"
     },
     {
       "items": [
@@ -60,28 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3285"
         }
       ],
-      "type": "Most Frequent Build (41% win - 1613 games)"
+      "type": "Most Frequent Build (38% win - 940 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3165"
-        },
         {
           "count": 1,
           "id": "3020"
         },
         {
           "count": 1,
-          "id": "3116"
-        },
-        {
-          "count": 1,
-          "id": "3151"
+          "id": "3027"
         },
         {
           "count": 1,
@@ -89,10 +77,18 @@
         },
         {
           "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
           "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 109 games)"
+      "type": "Highest Win Rate Build (45% win - 127 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (55% win - 6593 games)"
+      "type": "Consumables QEQW -> QEW (53% win - 3431 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQE -> QEW (84% win - 79 games)"
+      "type": "QEQE -> QEW (85% win - 55 games)"
     }
   ],
   "champion": "Karthus",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.14",
+  "title": "Middle 7.16",
   "type": "custom"
 }

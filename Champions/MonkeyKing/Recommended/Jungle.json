@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2466 games)"
+      "type": "Most Frequent Starters (49% win - 879 games)"
     },
     {
       "items": [
@@ -27,14 +27,14 @@
         },
         {
           "count": 3,
-          "id": "2010"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 73 games)"
+      "type": "Highest Win Rate Starters (54% win - 297 games)"
     },
     {
       "items": [
@@ -56,24 +56,28 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3156"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3053"
         }
       ],
-      "type": "Most Frequent Build (26% win - 553 games)"
+      "type": "Most Frequent Build (25% win - 237 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
+          "id": "1412"
         },
         {
           "count": 1,
-          "id": "1400"
+          "id": "3147"
+        },
+        {
+          "count": 1,
+          "id": "3117"
         },
         {
           "count": 1,
@@ -86,13 +90,9 @@
         {
           "count": 1,
           "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3156"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 161 games)"
+      "type": "Highest Win Rate Build (47% win - 68 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (51% win - 5330 games)"
+      "type": "Consumables EWQ -> EQW (51% win - 2266 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWEQ -> EQW (62% win - 101 games)"
+      "type": "EWQ -> QEW (58% win - 78 games)"
     }
   ],
   "champion": "MonkeyKing",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.14",
+  "title": "Jungle 7.16",
   "type": "custom"
 }

@@ -13,12 +13,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 33416 games)"
+      "type": "Most Frequent Starters (50% win - 13164 games)"
     },
     {
       "items": [
         {
           "count": 1,
+          "id": "1036"
+        },
+        {
+          "count": 3,
           "id": "2003"
         },
         {
@@ -26,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 33 games)"
+      "type": "Highest Win Rate Starters (57% win - 110 games)"
     },
     {
       "items": [
@@ -52,16 +56,16 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3053"
         }
       ],
-      "type": "Most Frequent Build (42% win - 11622 games)"
+      "type": "Most Frequent Build (43% win - 4361 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3146"
+          "id": "3748"
         },
         {
           "count": 1,
@@ -73,18 +77,18 @@
         },
         {
           "count": 1,
-          "id": "3124"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3143"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 460 games)"
+      "type": "Highest Win Rate Build (50% win - 106 games)"
     },
     {
       "items": [
@@ -121,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> WQE (52% win - 30236 games)"
+      "type": "Consumables EQW -> WQE (52% win - 13202 games)"
     },
     {
       "items": [
@@ -142,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEWQ -> QWE (65% win - 60 games)"
+      "type": "EQW -> QWE (61% win - 265 games)"
     }
   ],
   "champion": "Jax",
@@ -152,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.14",
+  "title": "Top 7.16",
   "type": "custom"
 }

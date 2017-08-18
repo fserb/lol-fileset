@@ -17,17 +17,17 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 26675 games)"
+      "type": "Most Frequent Starters (52% win - 17780 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1055"
         },
         {
           "count": 1,
-          "id": "2003"
+          "id": "2010"
         },
         {
           "count": 1,
@@ -38,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 204 games)"
+      "type": "Highest Win Rate Starters (60% win - 25 games)"
     },
     {
       "items": [
@@ -67,7 +67,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (44% win - 17289 games)"
+      "type": "Most Frequent Build (45% win - 11858 games)"
     },
     {
       "items": [
@@ -77,11 +77,11 @@
         },
         {
           "count": 1,
-          "id": "3153"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3153"
         },
         {
           "count": 1,
@@ -89,14 +89,14 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3139"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 163 games)"
+      "type": "Highest Win Rate Build (50% win - 376 games)"
     },
     {
       "items": [
@@ -133,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (49% win - 30720 games)"
+      "type": "Consumables EQW -> EQW (51% win - 18532 games)"
     },
     {
       "items": [
@@ -154,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWEQ -> EWQ (60% win - 75 games)"
+      "type": "EQW -> EQW (56% win - 103 games)"
     }
   ],
   "champion": "Kalista",
@@ -164,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.14",
+  "title": "ADC 7.16",
   "type": "custom"
 }

@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 7249 games)"
+      "type": "Most Frequent Starters (51% win - 2853 games)"
     },
     {
       "items": [
@@ -23,10 +23,14 @@
         },
         {
           "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 31 games)"
+      "type": "Highest Win Rate Starters (55% win - 217 games)"
     },
     {
       "items": [
@@ -52,16 +56,16 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3190"
         }
       ],
-      "type": "Most Frequent Build (38% win - 1098 games)"
+      "type": "Most Frequent Build (41% win - 451 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3078"
+          "id": "3800"
         },
         {
           "count": 1,
@@ -69,22 +73,22 @@
         },
         {
           "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3194"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
           "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (56% win - 99 games)"
+      "type": "Highest Win Rate Build (54% win - 51 games)"
     },
     {
       "items": [
@@ -121,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (52% win - 3729 games)"
+      "type": "Consumables QEQW -> QEW (54% win - 1566 games)"
     },
     {
       "items": [
@@ -142,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (64% win - 119 games)"
+      "type": "QEW -> QEW (60% win - 53 games)"
     }
   ],
   "champion": "Olaf",
@@ -152,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.14",
+  "title": "Top 7.16",
   "type": "custom"
 }

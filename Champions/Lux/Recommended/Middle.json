@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 18049 games)"
+      "type": "Most Frequent Starters (51% win - 8020 games)"
     },
     {
       "items": [
@@ -27,10 +27,14 @@
         },
         {
           "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 37 games)"
+      "type": "Highest Win Rate Starters (56% win - 178 games)"
     },
     {
       "items": [
@@ -59,17 +63,13 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (39% win - 8034 games)"
+      "type": "Most Frequent Build (43% win - 3956 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3041"
-        },
-        {
-          "count": 1,
-          "id": "3020"
+          "id": "3285"
         },
         {
           "count": 1,
@@ -77,7 +77,11 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         },
         {
           "count": 1,
@@ -85,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (63% win - 71 games)"
+      "type": "Highest Win Rate Build (48% win - 113 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (48% win - 18481 games)"
+      "type": "Consumables EQW -> EQW (50% win - 8203 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (86% win - 323 games)"
+      "type": "EQW -> EQW (78% win - 119 games)"
     }
   ],
   "champion": "Lux",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.14",
+  "title": "Middle 7.16",
   "type": "custom"
 }

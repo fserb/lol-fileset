@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 6938 games)"
+      "type": "Most Frequent Starters (51% win - 2850 games)"
     },
     {
       "items": [
@@ -22,15 +22,15 @@
           "id": "1036"
         },
         {
-          "count": 3,
-          "id": "2010"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 25 games)"
+      "type": "Highest Win Rate Starters (54% win - 61 games)"
     },
     {
       "items": [
@@ -52,14 +52,14 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3812"
         },
         {
           "count": 1,
-          "id": "3812"
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (37% win - 1024 games)"
+      "type": "Most Frequent Build (41% win - 436 games)"
     },
     {
       "items": [
@@ -69,11 +69,11 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3053"
         },
         {
           "count": 1,
@@ -81,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3068"
+          "id": "3033"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3742"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 135 games)"
+      "type": "Highest Win Rate Build (50% win - 55 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (52% win - 2287 games)"
+      "type": "Consumables QWE -> QEW (48% win - 806 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QWE (61% win - 62 games)"
+      "type": "QWE -> EQW (57% win - 54 games)"
     }
   ],
   "champion": "Illaoi",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.14",
+  "title": "Top 7.16",
   "type": "custom"
 }

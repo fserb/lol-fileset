@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (56% win - 17843 games)"
+      "type": "Most Frequent Starters (54% win - 11384 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1027"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 309 games)"
+      "type": "Highest Win Rate Starters (65% win - 47 games)"
     },
     {
       "items": [
@@ -59,13 +63,13 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (49% win - 5128 games)"
+      "type": "Most Frequent Build (47% win - 3292 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3116"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -73,11 +77,11 @@
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3135"
         },
         {
           "count": 1,
@@ -85,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3151"
         }
       ],
-      "type": "Highest Win Rate Build (57% win - 113 games)"
+      "type": "Highest Win Rate Build (64% win - 62 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (56% win - 12597 games)"
+      "type": "Consumables EWQ -> EQW (54% win - 7678 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EQW (90% win - 229 games)"
+      "type": "EWQ -> WEQ (94% win - 111 games)"
     }
   ],
   "champion": "Malzahar",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.14",
+  "title": "Middle 7.16",
   "type": "custom"
 }

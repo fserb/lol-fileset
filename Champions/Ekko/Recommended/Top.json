@@ -6,14 +6,18 @@
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 2057 games)"
+      "type": "Most Frequent Starters (46% win - 926 games)"
     },
     {
       "items": [
@@ -30,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 519 games)"
+      "type": "Highest Win Rate Starters (56% win - 255 games)"
     },
     {
       "items": [
@@ -56,16 +60,16 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3041"
         }
       ],
-      "type": "Most Frequent Build (39% win - 864 games)"
+      "type": "Most Frequent Build (47% win - 414 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3100"
+          "id": "3146"
         },
         {
           "count": 1,
@@ -73,11 +77,7 @@
         },
         {
           "count": 1,
-          "id": "3152"
-        },
-        {
-          "count": 1,
-          "id": "3089"
+          "id": "3100"
         },
         {
           "count": 1,
@@ -85,10 +85,14 @@
         },
         {
           "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
           "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 72 games)"
+      "type": "Highest Win Rate Build (53% win - 56 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (48% win - 6886 games)"
+      "type": "Consumables QEW -> QEW (49% win - 2940 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (60% win - 75 games)"
+      "type": "QEQW -> QEW (51% win - 744 games)"
     }
   ],
   "champion": "Ekko",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.14",
+  "title": "Top 7.16",
   "type": "custom"
 }

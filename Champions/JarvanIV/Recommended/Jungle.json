@@ -17,14 +17,10 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 21288 games)"
+      "type": "Most Frequent Starters (51% win - 13728 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1041"
-        },
         {
           "count": 1,
           "id": "2031"
@@ -34,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 13332 games)"
+      "type": "Highest Win Rate Starters (53% win - 173 games)"
     },
     {
       "items": [
@@ -60,28 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (38% win - 2807 games)"
+      "type": "Most Frequent Build (39% win - 1521 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3147"
+          "id": "3117"
         },
         {
           "count": 1,
-          "id": "1400"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3142"
+          "id": "1412"
         },
         {
           "count": 1,
@@ -89,10 +77,18 @@
         },
         {
           "count": 1,
-          "id": "3814"
+          "id": "3748"
+        },
+        {
+          "count": 1,
+          "id": "3068"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 94 games)"
+      "type": "Highest Win Rate Build (46% win - 192 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QEW (53% win - 27206 games)"
+      "type": "Consumables EQW -> QEW (52% win - 18404 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQEW -> WQE (62% win - 104 games)"
+      "type": "EQQW -> WEQ (62% win - 78 games)"
     }
   ],
   "champion": "JarvanIV",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.14",
+  "title": "Jungle 7.16",
   "type": "custom"
 }

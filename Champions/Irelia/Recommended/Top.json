@@ -13,24 +13,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 24085 games)"
+      "type": "Most Frequent Starters (51% win - 11083 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1036"
         },
         {
-          "count": 1,
-          "id": "2010"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 53 games)"
+      "type": "Highest Win Rate Starters (53% win - 28 games)"
     },
     {
       "items": [
@@ -44,7 +44,11 @@
         },
         {
           "count": 1,
-          "id": "3153"
+          "id": "3748"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         },
         {
           "count": 1,
@@ -52,43 +56,39 @@
         },
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3026"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (40% win - 5161 games)"
+      "type": "Most Frequent Build (42% win - 2343 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3153"
-        },
         {
           "count": 1,
           "id": "3078"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3748"
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3091"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 57 games)"
+      "type": "Highest Win Rate Build (45% win - 724 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> WQE (51% win - 6339 games)"
+      "type": "Consumables QEW -> WQE (52% win - 3450 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (60% win - 131 games)"
+      "type": "QEW -> WEQ (62% win - 135 games)"
     }
   ],
   "champion": "Irelia",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.14",
+  "title": "Top 7.16",
   "type": "custom"
 }

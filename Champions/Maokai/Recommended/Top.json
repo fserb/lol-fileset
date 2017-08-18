@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 6288 games)"
+      "type": "Most Frequent Starters (51% win - 7730 games)"
     },
     {
       "items": [
@@ -27,10 +27,14 @@
         },
         {
           "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 215 games)"
+      "type": "Highest Win Rate Starters (57% win - 59 games)"
     },
     {
       "items": [
@@ -52,20 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3193"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (43% win - 1924 games)"
+      "type": "Most Frequent Build (39% win - 2338 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3800"
+          "id": "3001"
         },
         {
           "count": 1,
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3193"
+          "id": "3800"
         },
         {
           "count": 1,
           "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 115 games)"
+      "type": "Highest Win Rate Build (49% win - 55 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (53% win - 8118 games)"
+      "type": "Consumables QWE -> QWE (51% win - 10271 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QWE (66% win - 51 games)"
+      "type": "QWQW -> QWE (63% win - 140 games)"
     }
   ],
   "champion": "Maokai",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.14",
+  "title": "Top 7.16",
   "type": "custom"
 }

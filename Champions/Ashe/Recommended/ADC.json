@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 28387 games)"
+      "type": "Most Frequent Starters (50% win - 13610 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1083"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 29 games)"
+      "type": "Highest Win Rate Starters (54% win - 159 games)"
     },
     {
       "items": [
@@ -59,17 +63,17 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (42% win - 7713 games)"
+      "type": "Most Frequent Build (41% win - 2294 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3087"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3085"
         },
         {
           "count": 1,
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3094"
+          "id": "3072"
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3036"
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 307 games)"
+      "type": "Highest Win Rate Build (50% win - 193 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQWE -> WQE (50% win - 26044 games)"
+      "type": "Consumables WQWE -> WQE (49% win - 10867 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQWQ -> WQE (58% win - 51 games)"
+      "type": "WEQ -> WQE (52% win - 1346 games)"
     }
   ],
   "champion": "Ashe",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.14",
+  "title": "ADC 7.16",
   "type": "custom"
 }

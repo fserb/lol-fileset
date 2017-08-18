@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 52615 games)"
+      "type": "Most Frequent Starters (51% win - 18443 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "1006"
-        },
-        {
-          "count": 1,
-          "id": "1039"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 32 games)"
+      "type": "Highest Win Rate Starters (62% win - 27 games)"
     },
     {
       "items": [
@@ -52,7 +48,7 @@
         },
         {
           "count": 1,
-          "id": "3142"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -63,7 +59,7 @@
           "id": "3156"
         }
       ],
-      "type": "Most Frequent Build (36% win - 7768 games)"
+      "type": "Most Frequent Build (38% win - 2832 games)"
     },
     {
       "items": [
@@ -73,11 +69,11 @@
         },
         {
           "count": 1,
-          "id": "1412"
+          "id": "3147"
         },
         {
           "count": 1,
-          "id": "3147"
+          "id": "1412"
         },
         {
           "count": 1,
@@ -85,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3814"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 381 games)"
+      "type": "Highest Win Rate Build (48% win - 305 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 81151 games)"
+      "type": "Consumables QWE -> QWE (50% win - 28990 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EWQ (63% win - 306 games)"
+      "type": "QWQE -> QWE (59% win - 61 games)"
     }
   ],
   "champion": "Khazix",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.14",
+  "title": "Jungle 7.16",
   "type": "custom"
 }

@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 5346 games)"
+      "type": "Most Frequent Starters (51% win - 1530 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1055"
         },
         {
-          "count": 3,
+          "count": 1,
           "id": "2010"
         },
         {
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (61% win - 106 games)"
+      "type": "Highest Win Rate Starters (57% win - 180 games)"
     },
     {
       "items": [
@@ -63,21 +63,17 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (43% win - 838 games)"
+      "type": "Most Frequent Build (39% win - 214 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3009"
-        },
-        {
-          "count": 1,
-          "id": "3147"
-        },
-        {
-          "count": 1,
           "id": "3142"
+        },
+        {
+          "count": 1,
+          "id": "3006"
         },
         {
           "count": 1,
@@ -85,14 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3147"
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3053"
+        },
+        {
+          "count": 1,
+          "id": "3814"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 56 games)"
+      "type": "Highest Win Rate Build (43% win - 94 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QEW (54% win - 3469 games)"
+      "type": "Consumables EQW -> QEW (53% win - 944 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQEW -> QEW (62% win - 58 games)"
+      "type": "EQW -> QWE (57% win - 52 games)"
     }
   ],
   "champion": "Quinn",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.14",
+  "title": "Top 7.16",
   "type": "custom"
 }

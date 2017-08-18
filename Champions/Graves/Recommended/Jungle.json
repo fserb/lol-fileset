@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 32957 games)"
+      "type": "Most Frequent Starters (47% win - 7319 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
+          "id": "1041"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 48 games)"
+      "type": "Highest Win Rate Starters (47% win - 7319 games)"
     },
     {
       "items": [
@@ -52,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3814"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (32% win - 3849 games)"
+      "type": "Most Frequent Build (32% win - 1113 games)"
     },
     {
       "items": [
@@ -69,11 +73,11 @@
         },
         {
           "count": 1,
-          "id": "1408"
+          "id": "1412"
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3147"
         },
         {
           "count": 1,
@@ -81,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3071"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 61 games)"
+      "type": "Highest Win Rate Build (42% win - 172 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (48% win - 14699 games)"
+      "type": "Consumables QEQW -> QEW (47% win - 3063 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQE -> QEW (64% win - 131 games)"
+      "type": "QEQW -> QWE (54% win - 74 games)"
     }
   ],
   "champion": "Graves",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.14",
+  "title": "Jungle 7.16",
   "type": "custom"
 }
