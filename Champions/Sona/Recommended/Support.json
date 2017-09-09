@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 10212 games)"
+      "type": "Most Frequent Starters (54% win - 6892 games)"
     },
     {
       "items": [
@@ -27,14 +27,14 @@
         },
         {
           "count": 1,
-          "id": "3301"
+          "id": "3303"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 91 games)"
+      "type": "Highest Win Rate Starters (70% win - 41 games)"
     },
     {
       "items": [
@@ -52,47 +52,47 @@
         },
         {
           "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 1,
-          "id": "3190"
+          "id": "3222"
         },
         {
           "count": 1,
           "id": "3174"
+        },
+        {
+          "count": 1,
+          "id": "3383"
         }
       ],
-      "type": "Most Frequent Build (38% win - 4193 games)"
+      "type": "Most Frequent Build (42% win - 3703 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3020"
-        },
         {
           "count": 1,
           "id": "3504"
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "2302"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3158"
         },
         {
           "count": 1,
-          "id": "3025"
+          "id": "3222"
         },
         {
           "count": 1,
-          "id": "2045"
+          "id": "3174"
+        },
+        {
+          "count": 1,
+          "id": "3383"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 120 games)"
+      "type": "Highest Win Rate Build (42% win - 3703 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWQE -> QWE (53% win - 6786 games)"
+      "type": "Consumables QWQE -> QWE (53% win - 4244 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQW -> QWE (56% win - 632 games)"
+      "type": "WQE -> QWE (60% win - 61 games)"
     }
   ],
   "champion": "Sona",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.16",
+  "title": "Support 7.17",
   "type": "custom"
 }

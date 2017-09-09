@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 15033 games)"
+      "type": "Most Frequent Starters (49% win - 13002 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
-        },
-        {
-          "count": 1,
-          "id": "2003"
+          "id": "1054"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 80 games)"
+      "type": "Highest Win Rate Starters (57% win - 61 games)"
     },
     {
       "items": [
@@ -52,7 +48,7 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3156"
         },
         {
           "count": 1,
@@ -60,16 +56,16 @@
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (39% win - 3486 games)"
+      "type": "Most Frequent Build (37% win - 3422 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -77,22 +73,22 @@
         },
         {
           "count": 1,
+          "id": "3147"
+        },
+        {
+          "count": 1,
           "id": "3153"
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3033"
         },
         {
           "count": 1,
           "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3147"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 58 games)"
+      "type": "Highest Win Rate Build (45% win - 155 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (49% win - 14121 games)"
+      "type": "Consumables QWE -> QEW (48% win - 11828 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EWQ (83% win - 183 games)"
+      "type": "QEW -> WQE (81% win - 128 games)"
     }
   ],
   "champion": "Zed",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.16",
+  "title": "Middle 7.17",
   "type": "custom"
 }

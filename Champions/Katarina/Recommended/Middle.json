@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 4241 games)"
+      "type": "Most Frequent Starters (54% win - 3335 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1054"
+        },
+        {
+          "count": 1,
+          "id": "2010"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (65% win - 61 games)"
+      "type": "Highest Win Rate Starters (61% win - 118 games)"
     },
     {
       "items": [
@@ -56,20 +60,24 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3116"
         }
       ],
-      "type": "Most Frequent Build (44% win - 3591 games)"
+      "type": "Most Frequent Build (44% win - 2955 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "3047"
         },
         {
           "count": 1,
           "id": "3146"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         },
         {
           "count": 1,
@@ -81,14 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3116"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 1351 games)"
+      "type": "Highest Win Rate Build (52% win - 181 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (53% win - 13802 games)"
+      "type": "Consumables QEW -> QEW (53% win - 10839 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (85% win - 208 games)"
+      "type": "QEW -> WQE (86% win - 167 games)"
     }
   ],
   "champion": "Katarina",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.16",
+  "title": "Middle 7.17",
   "type": "custom"
 }

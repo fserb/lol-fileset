@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (44% win - 9541 games)"
+      "type": "Most Frequent Starters (44% win - 5389 games)"
     },
     {
       "items": [
@@ -27,14 +27,14 @@
         },
         {
           "count": 1,
-          "id": "3301"
+          "id": "3303"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 34 games)"
+      "type": "Highest Win Rate Starters (52% win - 25 games)"
     },
     {
       "items": [
@@ -52,18 +52,18 @@
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3174"
+          "id": "3285"
         }
       ],
-      "type": "Most Frequent Build (31% win - 2890 games)"
+      "type": "Most Frequent Build (35% win - 2126 games)"
     },
     {
       "items": [
@@ -77,22 +77,22 @@
         },
         {
           "count": 1,
-          "id": "2301"
+          "id": "3151"
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3382"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3285"
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (39% win - 68 games)"
+      "type": "Highest Win Rate Build (38% win - 62 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (43% win - 6847 games)"
+      "type": "Consumables QEW -> QEW (44% win - 4263 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (53% win - 93 games)"
+      "type": "QWQE -> QEW (52% win - 51 games)"
     }
   ],
   "champion": "Karma",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.16",
+  "title": "Support 7.17",
   "type": "custom"
 }

@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 6008 games)"
+      "type": "Most Frequent Starters (54% win - 4537 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2031"
+          "id": "1036"
+        },
+        {
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 33 games)"
+      "type": "Highest Win Rate Starters (57% win - 894 games)"
     },
     {
       "items": [
@@ -48,7 +52,7 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3814"
         },
         {
           "count": 1,
@@ -56,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3139"
         }
       ],
-      "type": "Most Frequent Build (44% win - 977 games)"
+      "type": "Most Frequent Build (50% win - 863 games)"
     },
     {
       "items": [
@@ -76,19 +80,15 @@
           "id": "3142"
         },
         {
-          "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
-          "id": "3036"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 96 games)"
+      "type": "Highest Win Rate Build (59% win - 84 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQWE -> WQE (54% win - 5611 games)"
+      "type": "Consumables WQWE -> WQE (56% win - 3864 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQWQ -> WQE (87% win - 74 games)"
+      "type": "WQE -> WQE (84% win - 52 games)"
     }
   ],
   "champion": "Talon",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.16",
+  "title": "Middle 7.17",
   "type": "custom"
 }

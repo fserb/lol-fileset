@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 48282 games)"
+      "type": "Most Frequent Starters (48% win - 35642 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 48 games)"
+      "type": "Highest Win Rate Starters (54% win - 44 games)"
     },
     {
       "items": [
@@ -48,22 +48,22 @@
         },
         {
           "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 1,
           "id": "3109"
         },
         {
           "count": 1,
+          "id": "3060"
+        },
+        {
+          "count": 1,
           "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3050"
         }
       ],
-      "type": "Most Frequent Build (40% win - 10355 games)"
+      "type": "Most Frequent Build (45% win - 15081 games)"
     },
     {
       "items": [
@@ -77,22 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 1,
           "id": "3109"
         },
         {
           "count": 1,
+          "id": "3060"
+        },
+        {
+          "count": 1,
           "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3050"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 10355 games)"
+      "type": "Highest Win Rate Build (45% win - 15081 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (46% win - 15147 games)"
+      "type": "Consumables EQW -> EQW (46% win - 11150 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (51% win - 223 games)"
+      "type": "QEW -> EQW (50% win - 74 games)"
     }
   ],
   "champion": "Thresh",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.16",
+  "title": "Support 7.17",
   "type": "custom"
 }

@@ -17,13 +17,17 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 13137 games)"
+      "type": "Most Frequent Starters (48% win - 8372 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2010"
+        },
+        {
+          "count": 1,
+          "id": "2055"
         },
         {
           "count": 1,
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 34 games)"
+      "type": "Highest Win Rate Starters (62% win - 27 games)"
     },
     {
       "items": [
@@ -52,18 +56,18 @@
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3382"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3174"
         },
         {
           "count": 1,
           "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (41% win - 3469 games)"
+      "type": "Most Frequent Build (44% win - 4184 games)"
     },
     {
       "items": [
@@ -81,18 +85,18 @@
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3222"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3116"
         },
         {
           "count": 1,
           "id": "3174"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 494 games)"
+      "type": "Highest Win Rate Build (46% win - 517 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WEQ (48% win - 9395 games)"
+      "type": "Consumables WQE -> WEQ (49% win - 6743 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WEQ (55% win - 59 games)"
+      "type": "WQE -> EWQ (58% win - 60 games)"
     }
   ],
   "champion": "Nami",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.16",
+  "title": "Support 7.17",
   "type": "custom"
 }

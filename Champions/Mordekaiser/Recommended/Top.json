@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 1737 games)"
+      "type": "Most Frequent Starters (51% win - 1194 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1082"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 775 games)"
+      "type": "Highest Win Rate Starters (59% win - 158 games)"
     },
     {
       "items": [
@@ -44,10 +44,6 @@
         },
         {
           "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
           "id": "3116"
         },
         {
@@ -60,20 +56,20 @@
         },
         {
           "count": 1,
+          "id": "3152"
+        },
+        {
+          "count": 1,
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (49% win - 163 games)"
+      "type": "Most Frequent Build (40% win - 129 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3116"
+          "id": "3285"
         },
         {
           "count": 1,
@@ -81,18 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (58% win - 55 games)"
+      "type": "Highest Win Rate Build (65% win - 52 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (52% win - 870 games)"
+      "type": "Consumables WQE -> WQE (55% win - 640 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> WQE (56% win - 707 games)"
+      "type": "EQW -> WQE (56% win - 181 games)"
     }
   ],
   "champion": "Mordekaiser",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.16",
+  "title": "Top 7.17",
   "type": "custom"
 }

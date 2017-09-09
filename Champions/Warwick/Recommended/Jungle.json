@@ -17,28 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 16730 games)"
+      "type": "Most Frequent Starters (53% win - 11427 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1006"
+        },
         {
           "count": 1,
           "id": "1041"
         },
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2055"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 143 games)"
+      "type": "Highest Win Rate Starters (53% win - 11427 games)"
     },
     {
       "items": [
@@ -60,24 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (40% win - 1549 games)"
+      "type": "Most Frequent Build (41% win - 1056 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3111"
+          "id": "3748"
         },
         {
           "count": 1,
@@ -85,18 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3742"
+        },
+        {
+          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
-          "id": "3193"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (60% win - 53 games)"
+      "type": "Highest Win Rate Build (54% win - 215 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (52% win - 5447 games)"
+      "type": "Consumables QWE -> QWE (52% win - 3753 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> WQE (61% win - 71 games)"
+      "type": "WQE -> QWE (59% win - 191 games)"
     }
   ],
   "champion": "Warwick",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.16",
+  "title": "Jungle 7.17",
   "type": "custom"
 }

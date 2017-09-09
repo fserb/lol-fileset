@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 16187 games)"
+      "type": "Most Frequent Starters (52% win - 11526 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1083"
-        },
-        {
-          "count": 1,
-          "id": "2010"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (68% win - 44 games)"
+      "type": "Highest Win Rate Starters (54% win - 37 games)"
     },
     {
       "items": [
@@ -48,10 +44,6 @@
         },
         {
           "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
           "id": "3094"
         },
         {
@@ -59,18 +51,14 @@
           "id": "3036"
         },
         {
-          "count": 1,
-          "id": "3139"
+          "count": 2,
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (38% win - 5285 games)"
+      "type": "Most Frequent Build (43% win - 8211 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3031"
-        },
         {
           "count": 1,
           "id": "3085"
@@ -88,11 +76,11 @@
           "id": "3072"
         },
         {
-          "count": 1,
-          "id": "3036"
+          "count": 2,
+          "id": "3508"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 971 games)"
+      "type": "Highest Win Rate Build (51% win - 3389 games)"
     },
     {
       "items": [
@@ -129,7 +117,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 17180 games)"
+      "type": "Consumables QWE -> QWE (51% win - 13280 games)"
     },
     {
       "items": [
@@ -150,7 +138,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWWE -> QWE (65% win - 61 games)"
+      "type": "WQE -> QWE (55% win - 136 games)"
     }
   ],
   "champion": "Jinx",
@@ -160,6 +148,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.16",
+  "title": "ADC 7.17",
   "type": "custom"
 }

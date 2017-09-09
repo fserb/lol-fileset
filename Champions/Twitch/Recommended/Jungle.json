@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 4024 games)"
+      "type": "Most Frequent Starters (55% win - 2565 games)"
     },
     {
       "items": [
@@ -27,14 +27,10 @@
         },
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 4024 games)"
+      "type": "Highest Win Rate Starters (55% win - 125 games)"
     },
     {
       "items": [
@@ -52,18 +48,18 @@
         },
         {
           "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3087"
+          "id": "3153"
         },
         {
           "count": 1,
           "id": "3036"
+        },
+        {
+          "count": 1,
+          "id": "3371"
         }
       ],
-      "type": "Most Frequent Build (42% win - 1334 games)"
+      "type": "Most Frequent Build (44% win - 955 games)"
     },
     {
       "items": [
@@ -81,18 +77,18 @@
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3153"
         },
         {
           "count": 1,
-          "id": "3087"
+          "id": "3036"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3371"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 1331 games)"
+      "type": "Highest Win Rate Build (44% win - 955 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (51% win - 5113 games)"
+      "type": "Consumables EQW -> EQW (53% win - 3352 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQEW -> EQW (52% win - 337 games)"
+      "type": "EQW -> QEW (55% win - 54 games)"
     }
   ],
   "champion": "Twitch",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.16",
+  "title": "Jungle 7.17",
   "type": "custom"
 }

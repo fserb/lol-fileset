@@ -17,20 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 7411 games)"
+      "type": "Most Frequent Starters (50% win - 5617 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 113 games)"
+      "type": "Highest Win Rate Starters (72% win - 36 games)"
     },
     {
       "items": [
@@ -44,7 +44,7 @@
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3146"
         },
         {
           "count": 1,
@@ -59,36 +59,36 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (43% win - 1098 games)"
+      "type": "Most Frequent Build (41% win - 1143 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1418"
+          "id": "1413"
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3748"
         },
         {
           "count": 1,
-          "id": "3146"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3153"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 54 games)"
+      "type": "Highest Win Rate Build (48% win - 70 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> WQE (51% win - 5317 games)"
+      "type": "Consumables EWQ -> WQE (52% win - 3581 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> QWE (56% win - 147 games)"
+      "type": "EWWQ -> WQE (56% win - 147 games)"
     }
   ],
   "champion": "Jax",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.16",
+  "title": "Jungle 7.17",
   "type": "custom"
 }

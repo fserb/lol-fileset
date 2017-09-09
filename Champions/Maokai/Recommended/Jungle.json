@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 15408 games)"
+      "type": "Most Frequent Starters (52% win - 8436 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1006"
+        },
         {
           "count": 1,
           "id": "1039"
         },
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 15408 games)"
+      "type": "Highest Win Rate Starters (53% win - 43 games)"
     },
     {
       "items": [
@@ -63,7 +63,7 @@
           "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (35% win - 1750 games)"
+      "type": "Most Frequent Build (36% win - 1039 games)"
     },
     {
       "items": [
@@ -73,15 +73,11 @@
         },
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
           "id": "3800"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -89,10 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 176 games)"
+      "type": "Highest Win Rate Build (58% win - 80 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QWE (52% win - 14374 games)"
+      "type": "Consumables EQW -> QWE (52% win - 8406 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QEW (63% win - 76 games)"
+      "type": "EWQ -> QWE (56% win - 131 games)"
     }
   ],
   "champion": "Maokai",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.16",
+  "title": "Jungle 7.17",
   "type": "custom"
 }

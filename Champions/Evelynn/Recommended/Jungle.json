@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 8934 games)"
+      "type": "Most Frequent Starters (49% win - 5870 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
-        },
-        {
-          "count": 3,
-          "id": "2003"
+          "id": "1039"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 99 games)"
+      "type": "Highest Win Rate Starters (56% win - 57 games)"
     },
     {
       "items": [
@@ -60,39 +56,39 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3742"
         }
       ],
-      "type": "Most Frequent Build (37% win - 764 games)"
+      "type": "Most Frequent Build (33% win - 434 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
+          "id": "1412"
         },
         {
           "count": 1,
-          "id": "1402"
+          "id": "3047"
         },
         {
           "count": 1,
-          "id": "3152"
+          "id": "3748"
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3194"
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3025"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 552 games)"
+      "type": "Highest Win Rate Build (45% win - 82 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 9771 games)"
+      "type": "Consumables QEW -> QEW (50% win - 6346 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQE -> QEW (57% win - 61 games)"
+      "type": "QEW -> EQW (62% win - 81 games)"
     }
   ],
   "champion": "Evelynn",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.16",
+  "title": "Jungle 7.17",
   "type": "custom"
 }

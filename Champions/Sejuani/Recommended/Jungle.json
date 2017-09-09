@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 26968 games)"
+      "type": "Most Frequent Starters (54% win - 19465 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "1039"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 33 games)"
+      "type": "Highest Win Rate Starters (54% win - 19465 games)"
     },
     {
       "items": [
@@ -56,24 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (44% win - 3962 games)"
+      "type": "Most Frequent Build (46% win - 2844 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "1401"
-        },
-        {
-          "count": 1,
-          "id": "3025"
+          "id": "1409"
         },
         {
           "count": 1,
@@ -81,14 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3194"
+        },
+        {
+          "count": 1,
+          "id": "3143"
         },
         {
           "count": 1,
           "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 177 games)"
+      "type": "Highest Win Rate Build (47% win - 53 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> WEQ (54% win - 19213 games)"
+      "type": "Consumables EWQ -> WEQ (55% win - 14064 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> WEQ (60% win - 164 games)"
+      "type": "EWQ -> WEQ (63% win - 296 games)"
     }
   ],
   "champion": "Sejuani",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.16",
+  "title": "Jungle 7.17",
   "type": "custom"
 }

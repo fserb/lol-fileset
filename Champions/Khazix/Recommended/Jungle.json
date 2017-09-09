@@ -17,20 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 18443 games)"
+      "type": "Most Frequent Starters (52% win - 10865 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "1041"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (62% win - 27 games)"
+      "type": "Highest Win Rate Starters (58% win - 123 games)"
     },
     {
       "items": [
@@ -48,7 +48,7 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3142"
         },
         {
           "count": 1,
@@ -56,10 +56,10 @@
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3742"
         }
       ],
-      "type": "Most Frequent Build (38% win - 2832 games)"
+      "type": "Most Frequent Build (41% win - 2360 games)"
     },
     {
       "items": [
@@ -73,22 +73,22 @@
         },
         {
           "count": 1,
-          "id": "1412"
-        },
-        {
-          "count": 1,
           "id": "3142"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "1400"
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3814"
+        },
+        {
+          "count": 1,
+          "id": "3742"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 305 games)"
+      "type": "Highest Win Rate Build (46% win - 130 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 28990 games)"
+      "type": "Consumables QWE -> QWE (51% win - 18113 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QWE (59% win - 61 games)"
+      "type": "WQE -> WQE (61% win - 57 games)"
     }
   ],
   "champion": "Khazix",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.16",
+  "title": "Jungle 7.17",
   "type": "custom"
 }

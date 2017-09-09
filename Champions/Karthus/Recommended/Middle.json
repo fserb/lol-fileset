@@ -17,20 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 2288 games)"
+      "type": "Most Frequent Starters (53% win - 1638 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1056"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 38 games)"
+      "type": "Highest Win Rate Starters (57% win - 26 games)"
     },
     {
       "items": [
@@ -52,32 +52,24 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3151"
         }
       ],
-      "type": "Most Frequent Build (38% win - 940 games)"
+      "type": "Most Frequent Build (46% win - 824 games)"
     },
     {
       "items": [
         {
           "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         },
         {
           "count": 1,
@@ -85,10 +77,18 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 127 games)"
+      "type": "Highest Win Rate Build (51% win - 98 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (53% win - 3431 games)"
+      "type": "Consumables QEQW -> QEW (54% win - 2361 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQE -> QEW (85% win - 55 games)"
+      "type": "QEQE -> QEW (66% win - 53 games)"
     }
   ],
   "champion": "Karthus",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.16",
+  "title": "Middle 7.17",
   "type": "custom"
 }

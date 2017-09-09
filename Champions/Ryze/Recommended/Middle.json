@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (45% win - 1038 games)"
+      "type": "Most Frequent Starters (46% win - 720 games)"
     },
     {
       "items": [
@@ -26,11 +26,15 @@
           "id": "1027"
         },
         {
+          "count": 3,
+          "id": "2003"
+        },
+        {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 41 games)"
+      "type": "Highest Win Rate Starters (46% win - 217 games)"
     },
     {
       "items": [
@@ -51,15 +55,11 @@
           "id": "3135"
         },
         {
-          "count": 1,
-          "id": "3102"
-        },
-        {
-          "count": 1,
-          "id": "3157"
+          "count": 2,
+          "id": "3116"
         }
       ],
-      "type": "Most Frequent Build (32% win - 251 games)"
+      "type": "Most Frequent Build (35% win - 208 games)"
     },
     {
       "items": [
@@ -80,15 +80,11 @@
           "id": "3135"
         },
         {
-          "count": 1,
-          "id": "3102"
-        },
-        {
-          "count": 1,
-          "id": "3157"
+          "count": 2,
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (32% win - 251 games)"
+      "type": "Highest Win Rate Build (35% win - 208 games)"
     },
     {
       "items": [
@@ -125,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QEW (42% win - 853 games)"
+      "type": "Consumables EQW -> QEW (43% win - 590 games)"
     },
     {
       "items": [
@@ -146,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EQW (66% win - 63 games)"
+      "type": "EQW -> EQW (60% win - 110 games)"
     }
   ],
   "champion": "Ryze",
@@ -156,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.16",
+  "title": "Middle 7.17",
   "type": "custom"
 }

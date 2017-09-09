@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 6355 games)"
+      "type": "Most Frequent Starters (51% win - 4689 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1006"
-        },
-        {
-          "count": 1,
-          "id": "1041"
+          "id": "1039"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 56 games)"
+      "type": "Highest Win Rate Starters (69% win - 26 games)"
     },
     {
       "items": [
@@ -57,42 +53,42 @@
         {
           "count": 1,
           "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        }
+      ],
+      "type": "Most Frequent Build (42% win - 474 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "1416"
+        },
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3748"
+        },
+        {
+          "count": 1,
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         },
         {
           "count": 1,
           "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (42% win - 545 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1416"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3193"
-        }
-      ],
-      "type": "Highest Win Rate Build (42% win - 544 games)"
+      "type": "Highest Win Rate Build (45% win - 319 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (53% win - 2443 games)"
+      "type": "Consumables WEQ -> WEQ (53% win - 1640 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WEQ (69% win - 66 games)"
+      "type": "WEQ -> WEQ (66% win - 51 games)"
     }
   ],
   "champion": "Shyvana",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.16",
+  "title": "Jungle 7.17",
   "type": "custom"
 }

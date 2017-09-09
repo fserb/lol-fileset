@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 6215 games)"
+      "type": "Most Frequent Starters (51% win - 4802 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 48 games)"
+      "type": "Highest Win Rate Starters (53% win - 49 games)"
     },
     {
       "items": [
@@ -48,40 +48,28 @@
         },
         {
           "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
           "id": "3075"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3193"
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3110"
         }
       ],
-      "type": "Most Frequent Build (36% win - 751 games)"
+      "type": "Most Frequent Build (43% win - 829 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
+          "id": "1409"
         },
         {
           "count": 1,
-          "id": "1401"
-        },
-        {
-          "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3075"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -89,10 +77,18 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 65 games)"
+      "type": "Highest Win Rate Build (43% win - 114 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> EQW (52% win - 1494 games)"
+      "type": "Consumables WEQ -> EQW (51% win - 1016 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EQW (60% win - 60 games)"
+      "type": "EWQ -> EQW (58% win - 63 games)"
     }
   ],
   "champion": "Amumu",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.16",
+  "title": "Jungle 7.17",
   "type": "custom"
 }

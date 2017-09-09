@@ -13,62 +13,25 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 2458 games)"
+      "type": "Most Frequent Starters (50% win - 1636 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
-        },
-        {
-          "count": 1,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 402 games)"
+      "type": "Highest Win Rate Starters (50% win - 1636 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3512"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Most Frequent Build (36% win - 350 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "3111"
         },
         {
@@ -77,18 +40,43 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3193"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3512"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 233 games)"
+      "type": "Most Frequent Build (42% win - 253 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 2,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3748"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3193"
+        },
+        {
+          "count": 1,
+          "id": "3512"
+        }
+      ],
+      "type": "Highest Win Rate Build (42% win - 253 games)"
     },
     {
       "items": [
@@ -125,7 +113,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (48% win - 2340 games)"
+      "type": "Consumables QEW -> QEW (51% win - 1730 games)"
     },
     {
       "items": [
@@ -146,7 +134,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (52% win - 827 games)"
+      "type": "QEW -> QEW (78% win - 61 games)"
     }
   ],
   "champion": "Yorick",
@@ -156,6 +144,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.16",
+  "title": "Top 7.17",
   "type": "custom"
 }
