@@ -78,7 +78,7 @@
     "Greater Quintessence of Movement Speed"
   ],
   "Azir/Middle": [
-    "Greater Mark of Attack Speed",
+    "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
     "Greater Glyph of Scaling Cooldown Reduction",
     "Greater Seal of Scaling Health",
@@ -198,7 +198,7 @@
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Quintessence of Attack Damage"
   ],
   "Draven/ADC": [
     "Greater Mark of Attack Damage",
@@ -244,6 +244,12 @@
     "Greater Quintessence of Ability Power"
   ],
   "Ezreal/ADC": [
+    "Greater Mark of Attack Damage",
+    "Greater Glyph of Magic Resist",
+    "Greater Seal of Armor",
+    "Greater Quintessence of Attack Speed"
+  ],
+  "Ezreal/Jungle": [
     "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
@@ -497,7 +503,7 @@
   ],
   "Karthus/Top": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Ability Power",
+    "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
@@ -625,10 +631,10 @@
     "Greater Quintessence of Attack Speed"
   ],
   "Leona/Support": [
-    "Greater Mark of Armor",
+    "Greater Mark of Attack Damage",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Health",
-    "Greater Quintessence of Armor"
+    "Greater Seal of Armor",
+    "Greater Quintessence of Attack Damage"
   ],
   "Lissandra/Middle": [
     "Greater Mark of Magic Penetration",
@@ -699,11 +705,16 @@
   "Malzahar/Middle": [
     "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
+    "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
   "Malzahar/Support": [
+    "Greater Mark of Magic Penetration",
+    "Greater Glyph of Magic Resist",
+    "Greater Seal of Armor",
+    "Greater Quintessence of Ability Power"
+  ],
+  "Malzahar/Top": [
     "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
@@ -818,9 +829,8 @@
     "Greater Quintessence of Ability Power"
   ],
   "Nidalee/Jungle": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Ability Power",
-    "Greater Seal of Scaling Health",
+    "Greater Mark of Magic Penetration",
+    "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
@@ -856,16 +866,14 @@
   ],
   "Olaf/Top": [
     "Greater Mark of Attack Damage",
-    "Greater Glyph of Cooldown Reduction",
+    "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage",
-    "Greater Quintessence of Cooldown Reduction"
+    "Greater Quintessence of Attack Damage"
   ],
   "Orianna/Middle": [
     "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
+    "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
   "Ornn/Jungle": [
@@ -980,7 +988,7 @@
   ],
   "Rumble/Jungle": [
     "Greater Mark of Magic Penetration",
-    "Greater Glyph of Ability Power",
+    "Greater Glyph of Magic Resist",
     "Greater Seal of Armor",
     "Greater Quintessence of Ability Power"
   ],
@@ -993,7 +1001,8 @@
   "Ryze/Middle": [
     "Greater Mark of Magic Penetration",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
+    "Greater Glyph of Scaling Cooldown Reduction",
+    "Greater Seal of Scaling Health",
     "Greater Quintessence of Ability Power"
   ],
   "Ryze/Top": [
@@ -1185,10 +1194,10 @@
     "Greater Quintessence of Attack Speed"
   ],
   "Trundle/Support": [
-    "Greater Mark of Attack Damage",
+    "Greater Mark of Armor",
     "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
+    "Greater Seal of Health",
+    "Greater Quintessence of Armor"
   ],
   "Trundle/Top": [
     "Greater Mark of Attack Damage",

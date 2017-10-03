@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 3679 games)"
+      "type": "Most Frequent Starters (47% win - 3863 games)"
     },
     {
       "items": [
@@ -34,7 +34,65 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 30 games)"
+      "type": "Highest Win Rate Starters (58% win - 43 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3102"
+        }
+      ],
+      "type": "Most Frequent Build (44% win - 2673 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        }
+      ],
+      "type": "Highest Win Rate Build (44% win - 2672 games)"
     },
     {
       "items": [
@@ -71,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQEW -> EQW (50% win - 6389 games)"
+      "type": "Consumables EQW -> EQW (46% win - 5775 games)"
     },
     {
       "items": [
@@ -92,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQEW -> EQW (86% win - 67 games)"
+      "type": "EQW -> EWQ (83% win - 103 games)"
     }
   ],
   "champion": "Cassiopeia",
@@ -102,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.17",
+  "title": "Middle 7.19",
   "type": "custom"
 }

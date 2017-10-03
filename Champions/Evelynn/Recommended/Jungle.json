@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 5870 games)"
+      "type": "Most Frequent Starters (49% win - 9348 games)"
     },
     {
       "items": [
@@ -27,10 +27,14 @@
         },
         {
           "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 57 games)"
+      "type": "Highest Win Rate Starters (49% win - 9348 games)"
     },
     {
       "items": [
@@ -56,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (33% win - 434 games)"
+      "type": "Most Frequent Build (33% win - 743 games)"
     },
     {
       "items": [
@@ -73,22 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
           "id": "3748"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3053"
         },
         {
           "count": 1,
-          "id": "3194"
-        },
-        {
-          "count": 1,
-          "id": "3025"
+          "id": "3742"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 82 games)"
+      "type": "Highest Win Rate Build (42% win - 101 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 6346 games)"
+      "type": "Consumables QEW -> QEW (49% win - 10055 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (62% win - 81 games)"
+      "type": "QEQW -> QEW (60% win - 102 games)"
     }
   ],
   "champion": "Evelynn",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.17",
+  "title": "Jungle 7.19",
   "type": "custom"
 }

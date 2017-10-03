@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 16265 games)"
+      "type": "Most Frequent Starters (54% win - 23681 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2010"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
@@ -34,17 +34,21 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (70% win - 31 games)"
+      "type": "Highest Win Rate Starters (60% win - 920 games)"
     },
     {
       "items": [
         {
-          "count": 2,
+          "count": 1,
           "id": "3006"
         },
         {
           "count": 1,
           "id": "3085"
+        },
+        {
+          "count": 1,
+          "id": "3031"
         },
         {
           "count": 1,
@@ -56,16 +60,16 @@
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (44% win - 8047 games)"
+      "type": "Most Frequent Build (43% win - 9431 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3153"
+          "id": "3031"
         },
         {
           "count": 1,
@@ -76,15 +80,19 @@
           "id": "3006"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3087"
         },
         {
           "count": 1,
           "id": "3036"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 1651 games)"
+      "type": "Highest Win Rate Build (56% win - 824 games)"
     },
     {
       "items": [
@@ -121,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (53% win - 17309 games)"
+      "type": "Consumables EWQ -> EQW (53% win - 25818 games)"
     },
     {
       "items": [
@@ -142,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> EWQ (59% win - 59 games)"
+      "type": "EWQ -> EQW (63% win - 97 games)"
     }
   ],
   "champion": "Twitch",
@@ -152,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.17",
+  "title": "ADC 7.19",
   "type": "custom"
 }

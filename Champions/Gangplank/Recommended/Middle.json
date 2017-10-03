@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 1029 games)"
+      "type": "Most Frequent Starters (49% win - 1485 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1027"
+          "id": "1056"
         },
         {
-          "count": 3,
+          "count": 2,
           "id": "2010"
         },
         {
@@ -34,7 +34,65 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 152 games)"
+      "type": "Highest Win Rate Starters (50% win - 450 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3142"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3087"
+        },
+        {
+          "count": 1,
+          "id": "3046"
+        },
+        {
+          "count": 1,
+          "id": "3036"
+        }
+      ],
+      "type": "Most Frequent Build (37% win - 696 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3142"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3087"
+        },
+        {
+          "count": 1,
+          "id": "3147"
+        }
+      ],
+      "type": "Highest Win Rate Build (48% win - 143 games)"
     },
     {
       "items": [
@@ -71,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 2552 games)"
+      "type": "Consumables QEW -> QEW (48% win - 4396 games)"
     },
     {
       "items": [
@@ -92,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (57% win - 54 games)"
+      "type": "QEW -> EQW (81% win - 58 games)"
     }
   ],
   "champion": "Gangplank",
@@ -102,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.17",
+  "title": "Middle 7.19",
   "type": "custom"
 }

@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 13402 games)"
+      "type": "Most Frequent Starters (50% win - 24266 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1082"
         },
         {
-          "count": 2,
-          "id": "2010"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 13402 games)"
+      "type": "Highest Win Rate Starters (54% win - 223 games)"
     },
     {
       "items": [
@@ -56,20 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (43% win - 7759 games)"
+      "type": "Most Frequent Build (40% win - 10680 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3047"
+          "id": "3285"
         },
         {
           "count": 1,
@@ -77,11 +77,7 @@
         },
         {
           "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3135"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -89,10 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 186 games)"
+      "type": "Highest Win Rate Build (61% win - 68 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 19038 games)"
+      "type": "Consumables QWE -> QWE (50% win - 34760 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (85% win - 267 games)"
+      "type": "EQW -> WEQ (84% win - 64 games)"
     }
   ],
   "champion": "Orianna",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.17",
+  "title": "Middle 7.19",
   "type": "custom"
 }

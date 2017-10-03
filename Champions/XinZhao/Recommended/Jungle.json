@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1796 games)"
+      "type": "Most Frequent Starters (51% win - 13969 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2031"
+          "id": "1006"
+        },
+        {
+          "count": 1,
+          "id": "1041"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 46 games)"
+      "type": "Highest Win Rate Starters (56% win - 783 games)"
     },
     {
       "items": [
@@ -48,24 +52,28 @@
         },
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
           "id": "3742"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (42% win - 783 games)"
+      "type": "Most Frequent Build (34% win - 2546 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1416"
+          "id": "1412"
+        },
+        {
+          "count": 1,
+          "id": "3078"
         },
         {
           "count": 1,
@@ -77,18 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
           "id": "3026"
         },
         {
           "count": 1,
-          "id": "3050"
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 70 games)"
+      "type": "Highest Win Rate Build (43% win - 504 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QWE (51% win - 1197 games)"
+      "type": "Consumables EQW -> WQE (54% win - 2484 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (54% win - 142 games)"
+      "type": "EWQ -> EWQ (57% win - 76 games)"
     }
   ],
   "champion": "XinZhao",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.17",
+  "title": "Jungle 7.19",
   "type": "custom"
 }

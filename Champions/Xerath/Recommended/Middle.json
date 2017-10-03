@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2645 games)"
+      "type": "Most Frequent Starters (52% win - 4544 games)"
     },
     {
       "items": [
@@ -26,15 +26,11 @@
           "id": "1056"
         },
         {
-          "count": 2,
-          "id": "2003"
-        },
-        {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 2305 games)"
+      "type": "Highest Win Rate Starters (61% win - 103 games)"
     },
     {
       "items": [
@@ -56,14 +52,14 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3151"
         }
       ],
-      "type": "Most Frequent Build (45% win - 1922 games)"
+      "type": "Most Frequent Build (45% win - 2526 games)"
     },
     {
       "items": [
@@ -77,7 +73,7 @@
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3151"
         },
         {
           "count": 1,
@@ -85,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3041"
         },
         {
           "count": 1,
-          "id": "3003"
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (59% win - 74 games)"
+      "type": "Highest Win Rate Build (55% win - 56 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 4365 games)"
+      "type": "Consumables QWE -> QWE (52% win - 7769 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (92% win - 52 games)"
+      "type": "QWE -> WQE (81% win - 113 games)"
     }
   ],
   "champion": "Xerath",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.17",
+  "title": "Middle 7.19",
   "type": "custom"
 }

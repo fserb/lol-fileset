@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 21340 games)"
+      "type": "Most Frequent Starters (51% win - 44063 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 26 games)"
+      "type": "Highest Win Rate Starters (53% win - 361 games)"
     },
     {
       "items": [
@@ -49,6 +49,10 @@
         {
           "count": 1,
           "id": "3094"
+        },
+        {
+          "count": 1,
+          "id": "3031"
         },
         {
           "count": 1,
@@ -56,24 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3371"
+          "id": "3139"
         }
       ],
-      "type": "Most Frequent Build (45% win - 7598 games)"
+      "type": "Most Frequent Build (45% win - 14259 games)"
     },
     {
       "items": [
         {
-          "count": 2,
-          "id": "3508"
+          "count": 1,
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3094"
+          "id": "3085"
         },
         {
           "count": 1,
@@ -81,14 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3508"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3036"
+        },
+        {
+          "count": 1,
+          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 2253 games)"
+      "type": "Highest Win Rate Build (50% win - 106 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> EWQ (50% win - 12521 games)"
+      "type": "Consumables QEW -> EWQ (51% win - 27654 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QEW (62% win - 54 games)"
+      "type": "WEQ -> QWE (56% win - 53 games)"
     }
   ],
   "champion": "Xayah",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.17",
+  "title": "ADC 7.19",
   "type": "custom"
 }

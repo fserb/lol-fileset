@@ -17,24 +17,78 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 409 games)"
+      "type": "Most Frequent Starters (51% win - 3430 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 1,
-          "id": "2010"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 27 games)"
+      "type": "Highest Win Rate Starters (52% win - 568 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3033"
+        }
+      ],
+      "type": "Most Frequent Build (30% win - 416 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3748"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        }
+      ],
+      "type": "Highest Win Rate Build (44% win - 72 games)"
     },
     {
       "items": [
@@ -71,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (47% win - 146 games)"
+      "type": "Consumables WQE -> WQE (48% win - 1170 games)"
     },
     {
       "items": [
@@ -92,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (47% win - 145 games)"
+      "type": "EQW -> WQE (60% win - 150 games)"
     }
   ],
   "champion": "XinZhao",
@@ -102,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.17",
+  "title": "Top 7.19",
   "type": "custom"
 }

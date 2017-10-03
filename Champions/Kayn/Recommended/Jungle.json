@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 22473 games)"
+      "type": "Most Frequent Starters (49% win - 38403 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
+          "id": "1041"
         },
         {
           "count": 3,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 61 games)"
+      "type": "Highest Win Rate Starters (61% win - 36 games)"
     },
     {
       "items": [
@@ -48,11 +48,11 @@
         },
         {
           "count": 1,
-          "id": "3147"
+          "id": "3071"
         },
         {
           "count": 1,
-          "id": "3142"
+          "id": "3065"
         },
         {
           "count": 1,
@@ -60,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3814"
+          "id": "3742"
         }
       ],
-      "type": "Most Frequent Build (34% win - 3907 games)"
+      "type": "Most Frequent Build (32% win - 4200 games)"
     },
     {
       "items": [
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3814"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3814"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 565 games)"
+      "type": "Highest Win Rate Build (42% win - 665 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (48% win - 19686 games)"
+      "type": "Consumables QWE -> QWE (49% win - 32272 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> WQE (61% win - 136 games)"
+      "type": "QEW -> WQE (58% win - 248 games)"
     }
   ],
   "champion": "Kayn",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.17",
+  "title": "Jungle 7.19",
   "type": "custom"
 }

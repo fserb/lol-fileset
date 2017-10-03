@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 4998 games)"
+      "type": "Most Frequent Starters (48% win - 5325 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (65% win - 26 games)"
+      "type": "Highest Win Rate Starters (52% win - 25 games)"
     },
     {
       "items": [
@@ -52,18 +52,18 @@
         },
         {
           "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
-          "id": "3102"
-        },
-        {
-          "count": 1,
-          "id": "3116"
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (42% win - 1047 games)"
+      "type": "Most Frequent Build (38% win - 1189 games)"
     },
     {
       "items": [
@@ -73,26 +73,26 @@
         },
         {
           "count": 1,
+          "id": "3158"
+        },
+        {
+          "count": 1,
           "id": "3198"
         },
         {
           "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
           "id": "3116"
-        },
-        {
-          "count": 1,
-          "id": "3135"
         },
         {
           "count": 1,
           "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (57% win - 54 games)"
+      "type": "Highest Win Rate Build (53% win - 52 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEEW -> EQW (50% win - 5750 games)"
+      "type": "Consumables QEEW -> EQW (48% win - 6056 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEQ -> EQW (83% win - 56 games)"
+      "type": "QEW -> EQW (78% win - 51 games)"
     }
   ],
   "champion": "Viktor",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.17",
+  "title": "Middle 7.19",
   "type": "custom"
 }

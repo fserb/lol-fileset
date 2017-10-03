@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 4395 games)"
+      "type": "Most Frequent Starters (50% win - 7301 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 68 games)"
+      "type": "Highest Win Rate Starters (52% win - 211 games)"
     },
     {
       "items": [
@@ -52,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3087"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (38% win - 297 games)"
+      "type": "Most Frequent Build (36% win - 456 games)"
     },
     {
       "items": [
@@ -69,26 +73,26 @@
         },
         {
           "count": 1,
-          "id": "1412"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
           "id": "3142"
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3087"
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (58% win - 53 games)"
+      "type": "Highest Win Rate Build (39% win - 82 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 1575 games)"
+      "type": "Consumables QEW -> QEW (47% win - 2566 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (54% win - 91 games)"
+      "type": "QWE -> WQE (68% win - 88 games)"
     }
   ],
   "champion": "Nocturne",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.17",
+  "title": "Jungle 7.19",
   "type": "custom"
 }

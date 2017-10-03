@@ -13,20 +13,82 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 620 games)"
+      "type": "Most Frequent Starters (49% win - 1561 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1054"
+        },
+        {
+          "count": 1,
+          "id": "2010"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 620 games)"
+      "type": "Highest Win Rate Starters (50% win - 72 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3068"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3109"
+        },
+        {
+          "count": 1,
+          "id": "3025"
+        }
+      ],
+      "type": "Most Frequent Build (35% win - 312 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3068"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3109"
+        },
+        {
+          "count": 1,
+          "id": "3025"
+        }
+      ],
+      "type": "Highest Win Rate Build (35% win - 312 games)"
     },
     {
       "items": [
@@ -63,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (49% win - 584 games)"
+      "type": "Consumables EWQ -> EWQ (49% win - 890 games)"
     },
     {
       "items": [
@@ -84,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWEQ -> EWQ (50% win - 70 games)"
+      "type": "EWQ -> EQW (56% win - 60 games)"
     }
   ],
   "champion": "Nautilus",
@@ -94,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.17",
+  "title": "Top 7.19",
   "type": "custom"
 }

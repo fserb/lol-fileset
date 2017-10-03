@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 4449 games)"
+      "type": "Most Frequent Starters (45% win - 6585 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 4449 games)"
+      "type": "Highest Win Rate Starters (48% win - 266 games)"
     },
     {
       "items": [
@@ -60,24 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3053"
         }
       ],
-      "type": "Most Frequent Build (36% win - 846 games)"
+      "type": "Most Frequent Build (34% win - 994 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1412"
-        },
         {
           "count": 1,
           "id": "3006"
         },
         {
           "count": 1,
-          "id": "3147"
+          "id": "1412"
         },
         {
           "count": 1,
@@ -85,14 +81,18 @@
         },
         {
           "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
           "id": "3026"
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3046"
         }
       ],
-      "type": "Highest Win Rate Build (36% win - 845 games)"
+      "type": "Highest Win Rate Build (40% win - 147 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (46% win - 1758 games)"
+      "type": "Consumables QEW -> QEW (43% win - 2748 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (50% win - 55 games)"
+      "type": "EQQE -> QEW (57% win - 57 games)"
     }
   ],
   "champion": "Graves",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.17",
+  "title": "Jungle 7.19",
   "type": "custom"
 }

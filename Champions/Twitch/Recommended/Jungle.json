@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 2565 games)"
+      "type": "Most Frequent Starters (51% win - 4185 games)"
     },
     {
       "items": [
@@ -27,10 +27,14 @@
         },
         {
           "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 125 games)"
+      "type": "Highest Win Rate Starters (51% win - 4185 games)"
     },
     {
       "items": [
@@ -48,24 +52,24 @@
         },
         {
           "count": 1,
-          "id": "3153"
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3087"
         },
         {
           "count": 1,
           "id": "3036"
-        },
-        {
-          "count": 1,
-          "id": "3371"
         }
       ],
-      "type": "Most Frequent Build (44% win - 955 games)"
+      "type": "Most Frequent Build (38% win - 1454 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1419"
+          "id": "1412"
         },
         {
           "count": 1,
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3153"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3087"
         },
         {
           "count": 1,
-          "id": "3371"
+          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 955 games)"
+      "type": "Highest Win Rate Build (40% win - 64 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (53% win - 3352 games)"
+      "type": "Consumables EQW -> EQW (50% win - 5727 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (55% win - 54 games)"
+      "type": "EQW -> EQW (54% win - 133 games)"
     }
   ],
   "champion": "Twitch",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.17",
+  "title": "Jungle 7.19",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 1614 games)"
+      "type": "Most Frequent Starters (46% win - 2566 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 57 games)"
+      "type": "Highest Win Rate Starters (51% win - 76 games)"
     },
     {
       "items": [
@@ -60,13 +60,17 @@
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (32% win - 158 games)"
+      "type": "Most Frequent Build (35% win - 197 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3158"
+        },
         {
           "count": 1,
           "id": "1401"
@@ -74,10 +78,6 @@
         {
           "count": 1,
           "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "3047"
         },
         {
           "count": 1,
@@ -89,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 71 games)"
+      "type": "Highest Win Rate Build (39% win - 81 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (47% win - 975 games)"
+      "type": "Consumables QWE -> QEW (46% win - 1526 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QEW (53% win - 210 games)"
+      "type": "QWQE -> QEW (54% win - 432 games)"
     }
   ],
   "champion": "Olaf",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.17",
+  "title": "Jungle 7.19",
   "type": "custom"
 }

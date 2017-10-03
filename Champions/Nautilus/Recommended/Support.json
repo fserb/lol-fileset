@@ -17,13 +17,17 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 1769 games)"
+      "type": "Most Frequent Starters (50% win - 2917 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2010"
+        },
+        {
+          "count": 1,
+          "id": "2055"
         },
         {
           "count": 1,
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 151 games)"
+      "type": "Highest Win Rate Starters (58% win - 31 games)"
     },
     {
       "items": [
@@ -48,36 +52,32 @@
         },
         {
           "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
           "id": "2045"
         },
         {
           "count": 1,
-          "id": "3194"
+          "id": "3222"
         },
         {
           "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3193"
+          "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (38% win - 332 games)"
+      "type": "Most Frequent Build (41% win - 307 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3401"
-        },
         {
           "count": 1,
           "id": "3117"
         },
         {
           "count": 1,
-          "id": "2045"
+          "id": "3401"
         },
         {
           "count": 1,
@@ -85,14 +85,18 @@
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "2045"
+        },
+        {
+          "count": 1,
+          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (39% win - 226 games)"
+      "type": "Highest Win Rate Build (42% win - 238 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> EWQ (50% win - 322 games)"
+      "type": "Consumables QEW -> EWQ (48% win - 634 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EWQ (52% win - 196 games)"
+      "type": "EQW -> EWQ (53% win - 533 games)"
     }
   ],
   "champion": "Nautilus",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.17",
+  "title": "Support 7.19",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 926 games)"
+      "type": "Most Frequent Starters (48% win - 1071 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1041"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 926 games)"
+      "type": "Highest Win Rate Starters (57% win - 95 games)"
     },
     {
       "items": [
@@ -56,20 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (36% win - 95 games)"
+      "type": "Most Frequent Build (29% win - 103 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1419"
+          "id": "1416"
         },
         {
           "count": 1,
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
           "id": "3071"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3139"
         }
       ],
-      "type": "Highest Win Rate Build (36% win - 95 games)"
+      "type": "Highest Win Rate Build (37% win - 95 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WEQ (48% win - 365 games)"
+      "type": "Consumables WQE -> WEQ (54% win - 432 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EWQ (51% win - 118 games)"
+      "type": "WEQ -> WEQ (56% win - 242 games)"
     }
   ],
   "champion": "Aatrox",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.14",
+  "title": "Jungle 7.19",
   "type": "custom"
 }

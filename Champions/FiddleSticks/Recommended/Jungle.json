@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 1003 games)"
+      "type": "Most Frequent Starters (49% win - 2234 games)"
     },
     {
       "items": [
@@ -27,7 +27,7 @@
         },
         {
           "count": 1,
-          "id": "2003"
+          "id": "2010"
         },
         {
           "count": 1,
@@ -38,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 460 games)"
+      "type": "Highest Win Rate Starters (59% win - 69 games)"
     },
     {
       "items": [
@@ -56,18 +56,18 @@
         },
         {
           "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
-          "id": "3152"
-        },
-        {
-          "count": 1,
-          "id": "3151"
+          "id": "3194"
         }
       ],
-      "type": "Most Frequent Build (45% win - 472 games)"
+      "type": "Most Frequent Build (39% win - 820 games)"
     },
     {
       "items": [
@@ -81,22 +81,22 @@
         },
         {
           "count": 1,
-          "id": "3102"
-        },
-        {
-          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3102"
         },
         {
           "count": 1,
           "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 94 games)"
+      "type": "Highest Win Rate Build (53% win - 440 games)"
     },
     {
       "items": [
@@ -133,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WQE (54% win - 867 games)"
+      "type": "Consumables WEQ -> WQE (52% win - 1617 games)"
     },
     {
       "items": [
@@ -154,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> EWQ (62% win - 58 games)"
+      "type": "WEQ -> QWE (57% win - 119 games)"
     }
   ],
   "champion": "Fiddlesticks",
@@ -164,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.17",
+  "title": "Jungle 7.19",
   "type": "custom"
 }

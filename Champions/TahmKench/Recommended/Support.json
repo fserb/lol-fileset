@@ -5,8 +5,8 @@
     {
       "items": [
         {
-          "count": 3,
-          "id": "2010"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 1219 games)"
+      "type": "Most Frequent Starters (45% win - 2017 games)"
     },
     {
       "items": [
         {
           "count": 3,
-          "id": "2010"
+          "id": "2003"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 1219 games)"
+      "type": "Highest Win Rate Starters (51% win - 98 games)"
     },
     {
       "items": [
@@ -48,7 +48,7 @@
         },
         {
           "count": 1,
-          "id": "3383"
+          "id": "3190"
         },
         {
           "count": 1,
@@ -60,28 +60,16 @@
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3107"
         }
       ],
-      "type": "Most Frequent Build (30% win - 222 games)"
+      "type": "Most Frequent Build (42% win - 335 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3401"
-        },
-        {
-          "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "2045"
+          "id": "3009"
         },
         {
           "count": 1,
@@ -89,10 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "2303"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3107"
+        },
+        {
+          "count": 1,
+          "id": "3050"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 87 games)"
+      "type": "Highest Win Rate Build (46% win - 120 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (47% win - 1941 games)"
+      "type": "Consumables QWE -> QWE (48% win - 3180 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QWE (54% win - 150 games)"
+      "type": "WQE -> QWE (55% win - 157 games)"
     }
   ],
   "champion": "TahmKench",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.17",
+  "title": "Support 7.19",
   "type": "custom"
 }
