@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 4156 games)"
+      "type": "Most Frequent Starters (50% win - 18028 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
-        },
-        {
-          "count": 1,
-          "id": "2031"
+          "id": "1041"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 4156 games)"
+      "type": "Highest Win Rate Starters (54% win - 171 games)"
     },
     {
       "items": [
@@ -60,20 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3142"
         }
       ],
-      "type": "Most Frequent Build (36% win - 640 games)"
+      "type": "Most Frequent Build (39% win - 1921 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
+          "id": "3078"
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3009"
         },
         {
           "count": 1,
@@ -89,10 +85,10 @@
         },
         {
           "count": 1,
-          "id": "3094"
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 76 games)"
+      "type": "Highest Win Rate Build (48% win - 601 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (49% win - 5923 games)"
+      "type": "Consumables QWE -> QEW (51% win - 25854 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EQW (64% win - 159 games)"
+      "type": "QEW -> QEW (61% win - 80 games)"
     }
   ],
   "champion": "Hecarim",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.19",
+  "title": "Jungle 7.22",
   "type": "custom"
 }

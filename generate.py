@@ -14,15 +14,14 @@ import json
 RIOT = {}
 
 def initRiot():
-  RIOT.update(json.load(open("riot/rune.json"))['data'])
-  RIOT.update(json.load(open("riot/mastery.json"))['data'])
-  RIOT.update(json.load(open("riot/item.json"))['data'])
+  RIOT.update(json.load(open("riot/items.json"))['data'])
+  RIOT.update(json.load(open("riot/newrunes.json"))['data'])
 
 
 def url(url):
-  user_agent = ('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.19 ' +
-                '(KHTML, like Gecko) Ubuntu/12.04 Chromium/18.0.1025.168 ' +
-                'Chrome/18.0.1025.168 Safari/535.19')
+  user_agent = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) '
+                'AppleWebKit/537.36 (KHTML, like Gecko) '
+                'Chrome/63.0.3239.30 Safari/537.36')
   u = urllib.request.urlopen(urllib.request.Request(url,
     headers={'User-Agent': user_agent}))
   return u.read()
@@ -52,33 +51,35 @@ def getItems(obj):
   return out
 
 
-def getRunes(champ, role, obj):
-  r = obj['mostGames']['runes']
+def reduceRunes(rns, minor=False):
+  final = list(rns[0])
+  for i in range(5):
+    a = final[i]
+    for r in rns[1:]:
+      b = r[i]
+      if a == b: continue
+      elif a == '0':  final[i] = b
+      elif b == '0': final[i] = a
+      else:
+        raise BaseException("Dont' know what to do with '%s' and '%s': %s" % (a, b, str(rns)))
+  if minor:
+    final = [ final[0] ] + final[2:]
+  return "".join(final)
+
+
+def getNewRunes(champ, role, obj):
+  r = obj["highestWinPercent"]["runes"]
 
   if os.path.isfile('runes.json'):
     js = json.load(open("runes.json", 'rt'))
   else:
     js = {}
-  js['%s/%s' % (champ, role)] = [ RIOT[x['id']]['name'] for x in r ]
+
+  js["%s/%s" % (champ, role)] = (
+    reduceRunes([ RIOT[x["name"]] for x in r["text1"]["runes"] ]) + " " +
+    reduceRunes([ RIOT[x["name"]] for x in r["text2"]["runes"] ], True))
+
   json.dump(js, open(os.path.join('runes.json'), 'wt'),
-    sort_keys=True, indent=2)
-
-
-def getMasteries(champ, role, obj):
-  points = {}
-  if not 'mostGames' in obj or not 'masteries' in obj['mostGames']:
-    return
-  for row in obj['mostGames']['masteries']:
-    for d in row['data'].values():
-      for m in d:
-        if m['mastery']:
-          points[m['mastery']] = m['points']
-  if os.path.isfile('masteries.json'):
-    js = json.load(open("masteries.json", 'rt'))
-  else:
-    js = {}
-  js['%s/%s' % (champ, role)] = [ int(points[x]) for x in sorted(points) ]
-  json.dump(js, open(os.path.join('masteries.json'), 'wt'),
     sort_keys=True, indent=2)
 
 def getSkills(obj):
@@ -108,7 +109,7 @@ def buildSet(champ, role, outdir):
   print("Building for %s/%s" % (champ, role))
 
   data = url("http://champion.gg/champion/%s/%s" % (champ, role))
-  # data = open('AatroxTop').read()
+  # data = open('tmp/TeemoTop').read()
   page = PyQuery(data)
 
   patch = page("div.analysis-holder strong")[0].text
@@ -121,8 +122,7 @@ def buildSet(champ, role, outdir):
     obj = json.loads(content)
     # print(json.dumps(obj, indent=2))
 
-    getRunes(champ, role, obj['runes'])
-    getMasteries(champ, role, obj['masteries'])
+    getNewRunes(champ, role, obj["newRunes"])
 
     out = {
       "map" : "any",
@@ -200,7 +200,7 @@ def buildSet(champ, role, outdir):
 def main(args):
   initRiot()
 
-  # buildSet("Aatrox", "Top", "tmp")
+  # buildSet("Teemo", "Top", "tmp")
   # return 0
 
   if len(args) < 2:

@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 3918 games)"
+      "type": "Most Frequent Starters (53% win - 14121 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1082"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 575 games)"
+      "type": "Highest Win Rate Starters (56% win - 820 games)"
     },
     {
       "items": [
@@ -48,18 +52,18 @@
         },
         {
           "count": 1,
+          "id": "3100"
+        },
+        {
+          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (36% win - 759 games)"
+      "type": "Most Frequent Build (44% win - 1622 games)"
     },
     {
       "items": [
@@ -73,11 +77,11 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3100"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
@@ -85,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 61 games)"
+      "type": "Highest Win Rate Build (62% win - 107 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 4035 games)"
+      "type": "Consumables QWE -> QWE (52% win - 8027 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (80% win - 52 games)"
+      "type": "WQE -> WQE (82% win - 63 games)"
     }
   ],
   "champion": "Diana",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.19",
+  "title": "Middle 7.22",
   "type": "custom"
 }

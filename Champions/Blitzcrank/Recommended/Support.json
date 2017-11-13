@@ -6,7 +6,7 @@
       "items": [
         {
           "count": 3,
-          "id": "2010"
+          "id": "2003"
         },
         {
           "count": 1,
@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 23458 games)"
+      "type": "Most Frequent Starters (52% win - 36037 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2010"
+          "id": "2003"
         },
         {
           "count": 1,
@@ -38,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (65% win - 26 games)"
+      "type": "Highest Win Rate Starters (55% win - 70 games)"
     },
     {
       "items": [
@@ -67,13 +67,13 @@
           "id": "3107"
         }
       ],
-      "type": "Most Frequent Build (40% win - 4436 games)"
+      "type": "Most Frequent Build (44% win - 5034 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3069"
+          "id": "3800"
         },
         {
           "count": 1,
@@ -81,7 +81,7 @@
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3401"
         },
         {
           "count": 1,
@@ -93,10 +93,10 @@
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3025"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 156 games)"
+      "type": "Highest Win Rate Build (56% win - 85 games)"
     },
     {
       "items": [
@@ -133,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 15378 games)"
+      "type": "Consumables QEW -> QEW (50% win - 24971 games)"
     },
     {
       "items": [
@@ -154,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (57% win - 129 games)"
+      "type": "QEQW -> QWE (52% win - 2282 games)"
     }
   ],
   "champion": "Blitzcrank",
@@ -164,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.19",
+  "title": "Support 7.22",
   "type": "custom"
 }

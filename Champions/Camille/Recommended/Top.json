@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 4885 games)"
+      "type": "Most Frequent Starters (48% win - 10862 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
-        },
-        {
-          "count": 3,
-          "id": "2003"
+          "id": "1055"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 96 games)"
+      "type": "Highest Win Rate Starters (51% win - 278 games)"
     },
     {
       "items": [
@@ -52,47 +48,47 @@
         },
         {
           "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
           "id": "3053"
         },
         {
           "count": 1,
-          "id": "3143"
-        }
-      ],
-      "type": "Most Frequent Build (37% win - 2809 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3074"
-        },
-        {
-          "count": 1,
           "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3053"
         },
         {
           "count": 1,
           "id": "3812"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 2087 games)"
+      "type": "Most Frequent Build (40% win - 4093 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3074"
+        },
+        {
+          "count": 1,
+          "id": "3053"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        }
+      ],
+      "type": "Highest Win Rate Build (44% win - 3289 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> QEW (50% win - 3311 games)"
+      "type": "Consumables QEW -> QEW (49% win - 3440 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EQW (57% win - 91 games)"
+      "type": "WQE -> QEW (57% win - 147 games)"
     }
   ],
   "champion": "Camille",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.19",
+  "title": "Top 7.22",
   "type": "custom"
 }

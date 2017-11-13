@@ -10,23 +10,6 @@
         },
         {
           "count": 2,
-          "id": "2010"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        }
-      ],
-      "type": "Most Frequent Starters (51% win - 11296 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1082"
-        },
-        {
-          "count": 3,
           "id": "2003"
         },
         {
@@ -34,7 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 92 games)"
+      "type": "Most Frequent Starters (53% win - 34308 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "1056"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        }
+      ],
+      "type": "Highest Win Rate Starters (56% win - 440 games)"
     },
     {
       "items": [
@@ -52,28 +52,24 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         },
         {
           "count": 1,
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (42% win - 5537 games)"
+      "type": "Most Frequent Build (46% win - 10098 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3020"
+          "id": "3041"
         },
         {
           "count": 1,
@@ -81,6 +77,10 @@
         },
         {
           "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
           "id": "3089"
         },
         {
@@ -89,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3504"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 342 games)"
+      "type": "Highest Win Rate Build (73% win - 52 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (50% win - 12459 games)"
+      "type": "Consumables EQW -> EQW (53% win - 22016 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EQW (79% win - 187 games)"
+      "type": "EQW -> EQW (78% win - 370 games)"
     }
   ],
   "champion": "Lux",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.19",
+  "title": "Middle 7.22",
   "type": "custom"
 }

@@ -13,30 +13,34 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 3452 games)"
+      "type": "Most Frequent Starters (51% win - 5865 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1082"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 3452 games)"
+      "type": "Highest Win Rate Starters (52% win - 267 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3009"
+          "id": "3030"
         },
         {
           "count": 1,
-          "id": "3030"
+          "id": "3009"
         },
         {
           "count": 1,
@@ -55,7 +59,7 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (48% win - 844 games)"
+      "type": "Most Frequent Build (45% win - 1505 games)"
     },
     {
       "items": [
@@ -81,10 +85,10 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3041"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 97 games)"
+      "type": "Highest Win Rate Build (54% win - 133 games)"
     },
     {
       "items": [
@@ -121,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (51% win - 1620 games)"
+      "type": "Consumables WQE -> WQE (50% win - 2953 games)"
     },
     {
       "items": [
@@ -142,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (68% win - 58 games)"
+      "type": "WQE -> WQE (83% win - 86 games)"
     }
   ],
   "champion": "AurelionSol",
@@ -152,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.19",
+  "title": "Middle 7.22",
   "type": "custom"
 }

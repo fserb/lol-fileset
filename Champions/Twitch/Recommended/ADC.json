@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 23681 games)"
+      "type": "Most Frequent Starters (54% win - 37634 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1041"
+        },
         {
           "count": 1,
           "id": "2031"
         },
         {
           "count": 1,
-          "id": "3302"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 920 games)"
+      "type": "Highest Win Rate Starters (66% win - 36 games)"
     },
     {
       "items": [
@@ -56,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3153"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (43% win - 9431 games)"
+      "type": "Most Frequent Build (39% win - 8186 games)"
     },
     {
       "items": [
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3153"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3036"
         }
       ],
-      "type": "Highest Win Rate Build (56% win - 824 games)"
+      "type": "Highest Win Rate Build (54% win - 1114 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (53% win - 25818 games)"
+      "type": "Consumables EWQ -> EQW (54% win - 21804 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EQW (63% win - 97 games)"
+      "type": "EWQ -> EQW (56% win - 131 games)"
     }
   ],
   "champion": "Twitch",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.19",
+  "title": "ADC 7.22",
   "type": "custom"
 }

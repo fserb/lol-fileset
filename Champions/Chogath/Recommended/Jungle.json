@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 8124 games)"
+      "type": "Most Frequent Starters (53% win - 5152 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1006"
+          "id": "1039"
         },
         {
-          "count": 1,
-          "id": "1039"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 26 games)"
+      "type": "Highest Win Rate Starters (55% win - 232 games)"
     },
     {
       "items": [
@@ -63,17 +63,17 @@
           "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (42% win - 1495 games)"
+      "type": "Most Frequent Build (42% win - 797 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3111"
+          "id": "1409"
         },
         {
           "count": 1,
-          "id": "1401"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3190"
         },
         {
           "count": 1,
           "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 107 games)"
+      "type": "Highest Win Rate Build (45% win - 85 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EWQ (53% win - 3594 games)"
+      "type": "Consumables EQW -> EWQ (53% win - 1683 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EWQ (58% win - 181 games)"
+      "type": "QEW -> EWQ (63% win - 58 games)"
     }
   ],
   "champion": "Chogath",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.19",
+  "title": "Jungle 7.22",
   "type": "custom"
 }

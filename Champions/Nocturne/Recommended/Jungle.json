@@ -17,14 +17,10 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 7301 games)"
+      "type": "Most Frequent Starters (50% win - 14005 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1039"
-        },
         {
           "count": 1,
           "id": "2031"
@@ -34,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 211 games)"
+      "type": "Highest Win Rate Starters (58% win - 34 games)"
     },
     {
       "items": [
@@ -56,14 +52,14 @@
         },
         {
           "count": 1,
-          "id": "3087"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3074"
         }
       ],
-      "type": "Most Frequent Build (36% win - 456 games)"
+      "type": "Most Frequent Build (41% win - 921 games)"
     },
     {
       "items": [
@@ -73,15 +69,7 @@
         },
         {
           "count": 1,
-          "id": "3142"
-        },
-        {
-          "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3031"
+          "id": "1412"
         },
         {
           "count": 1,
@@ -89,10 +77,18 @@
         },
         {
           "count": 1,
+          "id": "3142"
+        },
+        {
+          "count": 1,
+          "id": "3812"
+        },
+        {
+          "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (39% win - 82 games)"
+      "type": "Highest Win Rate Build (50% win - 162 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 2566 games)"
+      "type": "Consumables QEW -> QEW (50% win - 5103 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (68% win - 88 games)"
+      "type": "QWE -> QWE (61% win - 126 games)"
     }
   ],
   "champion": "Nocturne",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.19",
+  "title": "Jungle 7.22",
   "type": "custom"
 }

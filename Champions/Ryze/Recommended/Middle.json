@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (44% win - 6151 games)"
+      "type": "Most Frequent Starters (46% win - 10559 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "1082"
-        },
-        {
-          "count": 1,
-          "id": "2031"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (45% win - 1420 games)"
+      "type": "Highest Win Rate Starters (64% win - 25 games)"
     },
     {
       "items": [
@@ -52,18 +48,18 @@
         },
         {
           "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3157"
+          "id": "3003"
         }
       ],
-      "type": "Most Frequent Build (38% win - 2410 games)"
+      "type": "Most Frequent Build (39% win - 5423 games)"
     },
     {
       "items": [
@@ -72,7 +68,7 @@
           "id": "3027"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3158"
         },
         {
@@ -86,13 +82,9 @@
         {
           "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (38% win - 2410 games)"
+      "type": "Highest Win Rate Build (40% win - 5363 games)"
     },
     {
       "items": [
@@ -129,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QEW (42% win - 6061 games)"
+      "type": "Consumables EQW -> QEW (44% win - 10133 games)"
     },
     {
       "items": [
@@ -150,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (82% win - 125 games)"
+      "type": "QEW -> EQW (83% win - 62 games)"
     }
   ],
   "champion": "Ryze",
@@ -160,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.19",
+  "title": "Middle 7.22",
   "type": "custom"
 }

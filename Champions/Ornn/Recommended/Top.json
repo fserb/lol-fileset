@@ -6,23 +6,10 @@
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1054"
         },
         {
           "count": 1,
-          "id": "3340"
-        }
-      ],
-      "type": "Most Frequent Starters (48% win - 3465 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1028"
-        },
-        {
-          "count": 2,
           "id": "2003"
         },
         {
@@ -30,7 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 160 games)"
+      "type": "Most Frequent Starters (50% win - 18371 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "1055"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        }
+      ],
+      "type": "Highest Win Rate Starters (65% win - 32 games)"
     },
     {
       "items": [
@@ -38,57 +42,57 @@
           "count": 1,
           "id": "3047"
         },
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3383"
-        }
-      ],
-      "type": "Most Frequent Build (28% win - 544 games)"
-    },
-    {
-      "items": [
         {
           "count": 1,
           "id": "3025"
         },
         {
           "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
           "id": "3083"
         },
         {
           "count": 1,
-          "id": "3373"
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3379"
+        },
+        {
+          "count": 1,
+          "id": "3109"
+        }
+      ],
+      "type": "Most Frequent Build (37% win - 1540 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3025"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3193"
         },
         {
           "count": 1,
           "id": "3194"
-        },
-        {
-          "count": 1,
-          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (35% win - 170 games)"
+      "type": "Highest Win Rate Build (44% win - 65 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (47% win - 5791 games)"
+      "type": "Consumables WQE -> WQE (52% win - 21227 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (57% win - 147 games)"
+      "type": "WQE -> WQE (58% win - 553 games)"
     }
   ],
   "champion": "Ornn",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.19",
+  "title": "Top 7.22",
   "type": "custom"
 }

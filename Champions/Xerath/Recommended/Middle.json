@@ -10,27 +10,31 @@
         },
         {
           "count": 2,
-          "id": "2010"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 4544 games)"
+      "type": "Most Frequent Starters (54% win - 14485 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1082"
+        },
+        {
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (61% win - 103 games)"
+      "type": "Highest Win Rate Starters (61% win - 213 games)"
     },
     {
       "items": [
@@ -48,24 +52,28 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         },
         {
           "count": 1,
           "id": "3151"
         }
       ],
-      "type": "Most Frequent Build (45% win - 2526 games)"
+      "type": "Most Frequent Build (48% win - 4327 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "3285"
+        },
+        {
+          "count": 1,
+          "id": "3020"
         },
         {
           "count": 1,
@@ -77,18 +85,14 @@
         },
         {
           "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3041"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 56 games)"
+      "type": "Highest Win Rate Build (58% win - 253 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (52% win - 7769 games)"
+      "type": "Consumables QWE -> QWE (54% win - 11494 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (81% win - 113 games)"
+      "type": "QWE -> WQE (84% win - 141 games)"
     }
   ],
   "champion": "Xerath",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.19",
+  "title": "Middle 7.22",
   "type": "custom"
 }

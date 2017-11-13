@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 11132 games)"
+      "type": "Most Frequent Starters (50% win - 10977 games)"
     },
     {
       "items": [
@@ -30,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 137 games)"
+      "type": "Highest Win Rate Starters (53% win - 201 games)"
     },
     {
       "items": [
@@ -48,18 +48,18 @@
         },
         {
           "count": 1,
-          "id": "3174"
-        },
-        {
-          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (38% win - 1561 games)"
+      "type": "Most Frequent Build (39% win - 2418 games)"
     },
     {
       "items": [
@@ -69,11 +69,7 @@
         },
         {
           "count": 1,
-          "id": "3174"
-        },
-        {
-          "count": 1,
-          "id": "3158"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -81,14 +77,18 @@
         },
         {
           "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (39% win - 903 games)"
+      "type": "Highest Win Rate Build (41% win - 1511 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (51% win - 10933 games)"
+      "type": "Consumables QWE -> QEW (51% win - 11990 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EQW (62% win - 58 games)"
+      "type": "QWE -> QEW (63% win - 191 games)"
     }
   ],
   "champion": "Nidalee",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.19",
+  "title": "Jungle 7.22",
   "type": "custom"
 }

@@ -6,7 +6,7 @@
       "items": [
         {
           "count": 3,
-          "id": "2010"
+          "id": "2003"
         },
         {
           "count": 1,
@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 15823 games)"
+      "type": "Most Frequent Starters (54% win - 32881 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2010"
+          "id": "1006"
+        },
+        {
+          "count": 1,
+          "id": "3301"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (66% win - 56 games)"
+      "type": "Highest Win Rate Starters (62% win - 83 games)"
     },
     {
       "items": [
@@ -44,7 +48,7 @@
         },
         {
           "count": 1,
-          "id": "2302"
+          "id": "2301"
         },
         {
           "count": 1,
@@ -59,13 +63,17 @@
           "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (37% win - 5380 games)"
+      "type": "Most Frequent Build (44% win - 3257 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3092"
+          "id": "3174"
+        },
+        {
+          "count": 1,
+          "id": "3117"
         },
         {
           "count": 1,
@@ -73,7 +81,7 @@
         },
         {
           "count": 1,
-          "id": "3117"
+          "id": "2301"
         },
         {
           "count": 1,
@@ -82,13 +90,9 @@
         {
           "count": 1,
           "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "2045"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 132 games)"
+      "type": "Highest Win Rate Build (55% win - 208 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WEQ (49% win - 12916 games)"
+      "type": "Consumables WQE -> WEQ (53% win - 13689 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EWQ (54% win - 108 games)"
+      "type": "EWQ -> WEQ (55% win - 397 games)"
     }
   ],
   "champion": "Nami",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.19",
+  "title": "Support 7.22",
   "type": "custom"
 }

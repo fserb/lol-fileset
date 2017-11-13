@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 6161 games)"
+      "type": "Most Frequent Starters (49% win - 11805 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1082"
-        },
-        {
-          "count": 3,
-          "id": "2003"
+          "id": "1083"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (70% win - 27 games)"
+      "type": "Highest Win Rate Starters (57% win - 26 games)"
     },
     {
       "items": [
@@ -52,18 +48,18 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         },
         {
           "count": 1,
           "id": "3116"
         }
       ],
-      "type": "Most Frequent Build (42% win - 2069 games)"
+      "type": "Most Frequent Build (43% win - 2964 games)"
     },
     {
       "items": [
@@ -73,15 +69,15 @@
         },
         {
           "count": 1,
-          "id": "3152"
-        },
-        {
-          "count": 1,
           "id": "3020"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3152"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         },
         {
           "count": 1,
@@ -92,7 +88,7 @@
           "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (61% win - 77 games)"
+      "type": "Highest Win Rate Build (53% win - 105 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (53% win - 4585 games)"
+      "type": "Consumables QWE -> QWE (49% win - 5886 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (61% win - 52 games)"
+      "type": "QEW -> WQE (68% win - 51 games)"
     }
   ],
   "champion": "Kennen",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.19",
+  "title": "Top 7.22",
   "type": "custom"
 }

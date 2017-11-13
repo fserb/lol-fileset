@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 13713 games)"
+      "type": "Most Frequent Starters (52% win - 14680 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1082"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 83 games)"
+      "type": "Highest Win Rate Starters (52% win - 14680 games)"
     },
     {
       "items": [
@@ -44,22 +48,22 @@
         },
         {
           "count": 1,
-          "id": "3512"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3190"
+          "id": "3151"
         },
         {
           "count": 1,
           "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3742"
         }
       ],
-      "type": "Most Frequent Build (42% win - 1288 games)"
+      "type": "Most Frequent Build (38% win - 994 games)"
     },
     {
       "items": [
@@ -73,11 +77,11 @@
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3800"
         },
         {
           "count": 1,
@@ -85,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3056"
         }
       ],
-      "type": "Highest Win Rate Build (56% win - 79 games)"
+      "type": "Highest Win Rate Build (55% win - 111 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (56% win - 12835 games)"
+      "type": "Consumables QEQW -> QEW (53% win - 10553 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QEW (61% win - 373 games)"
+      "type": "QEQW -> QEW (59% win - 285 games)"
     }
   ],
   "champion": "Singed",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.19",
+  "title": "Top 7.22",
   "type": "custom"
 }

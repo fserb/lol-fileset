@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 10013 games)"
+      "type": "Most Frequent Starters (55% win - 10680 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 98 games)"
+      "type": "Highest Win Rate Starters (64% win - 59 games)"
     },
     {
       "items": [
@@ -52,47 +52,47 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3800"
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3075"
         },
         {
           "count": 1,
           "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (41% win - 2096 games)"
+      "type": "Most Frequent Build (48% win - 1526 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
           "id": "3800"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3068"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3001"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 59 games)"
+      "type": "Highest Win Rate Build (55% win - 208 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 12448 games)"
+      "type": "Consumables QWE -> QWE (55% win - 9110 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QWE (71% win - 71 games)"
+      "type": "QEW -> EQW (68% win - 69 games)"
     }
   ],
   "champion": "Maokai",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.19",
+  "title": "Top 7.22",
   "type": "custom"
 }

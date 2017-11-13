@@ -17,24 +17,32 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 58484 games)"
+      "type": "Most Frequent Starters (49% win - 95996 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1006"
-        },
         {
           "count": 1,
           "id": "1041"
         },
         {
           "count": 1,
+          "id": "1055"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 79 games)"
+      "type": "Highest Win Rate Starters (64% win - 114 games)"
     },
     {
       "items": [
@@ -63,13 +71,17 @@
           "id": "3156"
         }
       ],
-      "type": "Most Frequent Build (36% win - 9423 games)"
+      "type": "Most Frequent Build (38% win - 13344 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1412"
+          "id": "3147"
+        },
+        {
+          "count": 1,
+          "id": "1408"
         },
         {
           "count": 1,
@@ -81,18 +93,14 @@
         },
         {
           "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
           "id": "3026"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 289 games)"
+      "type": "Highest Win Rate Build (49% win - 169 games)"
     },
     {
       "items": [
@@ -129,7 +137,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (48% win - 41108 games)"
+      "type": "Consumables QWE -> QWE (49% win - 57927 games)"
     },
     {
       "items": [
@@ -150,7 +158,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (56% win - 1006 games)"
+      "type": "QWE -> QEW (60% win - 1613 games)"
     }
   ],
   "champion": "LeeSin",
@@ -160,6 +168,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.19",
+  "title": "Jungle 7.22",
   "type": "custom"
 }

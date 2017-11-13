@@ -17,10 +17,14 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 40122 games)"
+      "type": "Most Frequent Starters (51% win - 100840 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "2031"
+        },
         {
           "count": 1,
           "id": "3302"
@@ -30,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (65% win - 117 games)"
+      "type": "Highest Win Rate Starters (59% win - 83 games)"
     },
     {
       "items": [
@@ -52,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3072"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (39% win - 12883 games)"
+      "type": "Most Frequent Build (36% win - 14640 games)"
     },
     {
       "items": [
@@ -81,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3153"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3036"
         }
       ],
-      "type": "Highest Win Rate Build (57% win - 1332 games)"
+      "type": "Highest Win Rate Build (57% win - 1690 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (52% win - 63362 games)"
+      "type": "Consumables QWE -> QWE (52% win - 86391 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (55% win - 175 games)"
+      "type": "QEW -> WQE (56% win - 74 games)"
     }
   ],
   "champion": "Vayne",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.19",
+  "title": "ADC 7.22",
   "type": "custom"
 }

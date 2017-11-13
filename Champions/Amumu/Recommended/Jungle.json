@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 8249 games)"
+      "type": "Most Frequent Starters (53% win - 8137 games)"
     },
     {
       "items": [
@@ -27,14 +27,14 @@
         },
         {
           "count": 3,
-          "id": "2010"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 115 games)"
+      "type": "Highest Win Rate Starters (58% win - 479 games)"
     },
     {
       "items": [
@@ -56,28 +56,28 @@
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3110"
         }
       ],
-      "type": "Most Frequent Build (40% win - 988 games)"
+      "type": "Most Frequent Build (41% win - 1056 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1402"
+          "id": "3117"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "1401"
         },
         {
           "count": 1,
-          "id": "3068"
+          "id": "3110"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3193"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 82 games)"
+      "type": "Highest Win Rate Build (46% win - 65 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> EQW (53% win - 1714 games)"
+      "type": "Consumables WEQ -> EQW (55% win - 1397 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEWQ -> WQE (64% win - 51 games)"
+      "type": "EWQ -> QEW (60% win - 89 games)"
     }
   ],
   "champion": "Amumu",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.19",
+  "title": "Jungle 7.22",
   "type": "custom"
 }

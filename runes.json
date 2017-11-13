@@ -1,1445 +1,204 @@
 {
-  "Aatrox/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Aatrox/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Ahri/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Akali/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Akali/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Ability Power",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Alistar/Support": [
-    "Greater Mark of Armor",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Health",
-    "Greater Quintessence of Armor"
-  ],
-  "Amumu/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Anivia/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Annie/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Annie/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Ashe/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "AurelionSol/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Movement Speed"
-  ],
-  "AurelionSol/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Movement Speed"
-  ],
-  "Azir/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Bard/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Blitzcrank/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Brand/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Brand/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Braum/Support": [
-    "Greater Mark of Armor",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Health",
-    "Greater Quintessence of Armor"
-  ],
-  "Caitlyn/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Camille/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Cassiopeia/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Cassiopeia/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Chogath/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Chogath/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Chogath/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Corki/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Corki/Middle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Darius/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Diana/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Diana/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "DrMundo/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "DrMundo/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Draven/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Ekko/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Ekko/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Ekko/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Elise/Jungle": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Ability Power",
-    "Greater Seal of Scaling Health",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Elise/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Evelynn/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Ability Power",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Ezreal/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Ezreal/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Ezreal/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "FiddleSticks/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "FiddleSticks/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Fiddlesticks/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Ability Power",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Fiddlesticks/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Fiddlesticks/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Ability Power",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Fiora/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Fizz/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Fizz/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Fizz/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Galio/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Galio/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Galio/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Gangplank/Middle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Gangplank/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Garen/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Gnar/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Gragas/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Gragas/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Graves/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Graves/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Hecarim/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Hecarim/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Heimerdinger/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Heimerdinger/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Illaoi/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Irelia/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Ivern/Jungle": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Scaling Magic Resist",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Movement Speed"
-  ],
-  "Janna/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "JarvanIV/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "JarvanIV/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Jax/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Jax/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Jayce/Middle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Jayce/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Jhin/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Jinx/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Kalista/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Karma/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Karma/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Karthus/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Karthus/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Kassadin/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Kassadin/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Katarina/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Kayle/Jungle": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Kayle/Middle": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Attack Speed",
-    "Greater Quintessence of Scaling Cooldown Reduction"
-  ],
-  "Kayle/Top": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Attack Speed",
-    "Greater Quintessence of Scaling Cooldown Reduction"
-  ],
-  "Kayn/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Kayn/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Kennen/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Kennen/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Kennen/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Kennen/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Khazix/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Kindred/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Kindred/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Kled/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "KogMaw/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "KogMaw/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Leblanc/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Ability Power"
-  ],
-  "LeeSin/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Leona/Support": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Lissandra/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Lissandra/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Lucian/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Lucian/Middle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Lulu/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Lulu/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Lulu/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Lux/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Lux/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Malphite/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Malphite/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Malzahar/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Malzahar/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Malzahar/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Maokai/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Maokai/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Maokai/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "MasterYi/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "MissFortune/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "MissFortune/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "MonkeyKing/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "MonkeyKing/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Mordekaiser/ADC": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Mordekaiser/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Mordekaiser/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Ability Power",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Morgana/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Morgana/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Nami/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Nasus/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Nautilus/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Nautilus/Support": [
-    "Greater Mark of Armor",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Health",
-    "Greater Quintessence of Armor"
-  ],
-  "Nautilus/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Nidalee/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Nidalee/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Nocturne/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Nunu/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Nunu/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Olaf/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Olaf/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Orianna/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Ornn/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Ornn/Support": [
-    "Greater Mark of Armor",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Health",
-    "Greater Quintessence of Armor"
-  ],
-  "Ornn/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Pantheon/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Pantheon/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Poppy/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Poppy/Support": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Poppy/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Quinn/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Quinn/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Quinn/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Rakan/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Rammus/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Rammus/Top": [],
-  "RekSai/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Renekton/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Rengar/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Rengar/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Riven/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Cooldown Reduction",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage",
-    "Greater Quintessence of Cooldown Reduction"
-  ],
-  "Rumble/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Rumble/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Ryze/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Ryze/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Sejuani/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Sejuani/Top": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Scaling Magic Resist",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Armor"
-  ],
-  "Shaco/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Shen/Support": [
-    "Greater Mark of Armor",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Health",
-    "Greater Quintessence of Armor"
-  ],
-  "Shen/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Shyvana/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Shyvana/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Singed/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Ability Power",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Sion/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Sion/Support": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Sion/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Sivir/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Skarner/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Sona/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Soraka/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Swain/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Swain/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Syndra/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Ability Power"
-  ],
-  "TahmKench/Jungle": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Armor"
-  ],
-  "TahmKench/Support": [
-    "Greater Mark of Armor",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Health",
-    "Greater Quintessence of Armor"
-  ],
-  "TahmKench/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Taliyah/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Talon/Middle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Talon/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Taric/Support": [
-    "Greater Mark of Armor",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Health",
-    "Greater Quintessence of Armor"
-  ],
-  "Teemo/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Teemo/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Thresh/Support": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Health",
-    "Greater Quintessence of Armor"
-  ],
-  "Tristana/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Trundle/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Trundle/Support": [
-    "Greater Mark of Armor",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Health",
-    "Greater Quintessence of Armor"
-  ],
-  "Trundle/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Tryndamere/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Tryndamere/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "TwistedFate/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Movement Speed"
-  ],
-  "Twitch/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Twitch/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Attack Speed",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Udyr/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Urgot/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Urgot/Middle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Urgot/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Varus/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Varus/Middle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Vayne/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Veigar/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Veigar/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Velkoz/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Velkoz/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Vi/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Viktor/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Vladimir/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Vladimir/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Volibear/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Volibear/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Warwick/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Xayah/ADC": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Xerath/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "XinZhao/Jungle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "XinZhao/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Yasuo/Middle": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Yasuo/Top": [
-    "Greater Mark of Attack Speed",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Speed"
-  ],
-  "Yorick/Top": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Zac/Jungle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Zac/Top": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Zed/Middle": [
-    "Greater Mark of Attack Damage",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Attack Damage"
-  ],
-  "Ziggs/ADC": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Ziggs/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Zilean/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Glyph of Scaling Cooldown Reduction",
-    "Greater Seal of Scaling Health",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Zilean/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Zyra/Middle": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ],
-  "Zyra/Support": [
-    "Greater Mark of Magic Penetration",
-    "Greater Glyph of Magic Resist",
-    "Greater Seal of Armor",
-    "Greater Quintessence of Ability Power"
-  ]
+  "Aatrox/Jungle": "P2111 D201",
+  "Aatrox/Top": "P2211 D101",
+  "Ahri/Middle": "D1331 P201",
+  "Akali/Middle": "D1331 S031",
+  "Akali/Top": "D1331 P011",
+  "Alistar/Support": "R2333 D012",
+  "Amumu/Jungle": "R2333 S310",
+  "Anivia/Middle": "S2221 D103",
+  "Annie/Middle": "S2321 D103",
+  "Annie/Support": "I2111 S310",
+  "Ashe/ADC": "P1211 I210",
+  "AurelionSol/Jungle": "S2213 D033",
+  "AurelionSol/Middle": "S3122 I202",
+  "Azir/Middle": "S1213 P011",
+  "Bard/Support": "S1211 D110",
+  "Blitzcrank/Support": "R2311 I023",
+  "Brand/Middle": "S2231 P201",
+  "Brand/Support": "S2221 I201",
+  "Braum/Support": "R3333 I220",
+  "Caitlyn/ADC": "P3112 S023",
+  "Camille/Top": "P1211 D101",
+  "Cassiopeia/Middle": "S3213 D101",
+  "Chogath/Jungle": "R1331 S310",
+  "Chogath/Top": "R1331 D101",
+  "Corki/ADC": "D1121 P201",
+  "Corki/Middle": "P1111 S031",
+  "Darius/Top": "P1221 R031",
+  "Diana/Jungle": "D1331 S330",
+  "Diana/Middle": "D1332 P201",
+  "DrMundo/Jungle": "R3131 D103",
+  "DrMundo/Top": "R1331 D201",
+  "Draven/ADC": "P1211 D103",
+  "Ekko/Jungle": "D1332 S320",
+  "Ekko/Middle": "D1131 P201",
+  "Ekko/Top": "D1331 S310",
+  "Elise/Jungle": "D1133 I021",
+  "Evelynn/Jungle": "D1331 S023",
+  "Ezreal/ADC": "I3211 S230",
+  "Ezreal/Jungle": "D3331 S303",
+  "Fiddlesticks/Jungle": "S2313 I301",
+  "Fiddlesticks/Middle": "S2213 D033",
+  "Fiddlesticks/Support": "S2311 I301",
+  "Fiora/Top": "P1211 S023",
+  "Fizz/Middle": "D1321 S301",
+  "Galio/Middle": "R3331 S210",
+  "Galio/Top": "R2333 S320",
+  "Gangplank/Middle": "I3211 S303",
+  "Gangplank/Top": "I3221 S023",
+  "Garen/Top": "R1231 S320",
+  "Gnar/Top": "R1231 P021",
+  "Gragas/Jungle": "R2111 S310",
+  "Gragas/Middle": "D1331 S013",
+  "Graves/Jungle": "D1311 P031",
+  "Hecarim/Jungle": "D2131 P201",
+  "Heimerdinger/Middle": "S2313 I301",
+  "Heimerdinger/Top": "I3311 S310",
+  "Illaoi/Top": "I3311 S013",
+  "Irelia/Top": "P1231 D301",
+  "Ivern/Jungle": "S1312 R302",
+  "Ivern/Support": "R1111 S101",
+  "Janna/Support": "S1221 P201",
+  "JarvanIV/Jungle": "D1331 P031",
+  "JarvanIV/Top": "D1311 P201",
+  "Jax/Jungle": "D1331 P011",
+  "Jax/Top": "P1211 S103",
+  "Jayce/Middle": "D1333 P201",
+  "Jayce/Top": "D1331 P021",
+  "Jhin/ADC": "D1231 S220",
+  "Jinx/ADC": "P3211 S023",
+  "Kalista/ADC": "P1232 D130",
+  "Karma/Middle": "S1313 I301",
+  "Karma/Support": "S1323 I011",
+  "Karthus/Middle": "S1311 P303",
+  "Karthus/Top": "S2213 D033",
+  "Kassadin/Middle": "S1111 P201",
+  "Katarina/Middle": "D1231 S301",
+  "Kayle/Middle": "P2211 S303",
+  "Kayle/Top": "P1211 S013",
+  "Kayn/Jungle": "D1333 P012",
+  "Kennen/Middle": "P1211 S023",
+  "Kennen/Top": "D1131 S301",
+  "Khazix/Jungle": "D1331 P023",
+  "Kindred/Jungle": "P1211 S021",
+  "Kled/Top": "P1211 D230",
+  "KogMaw/ADC": "P2211 D033",
+  "Leblanc/Middle": "D1332 S110",
+  "LeeSin/Jungle": "D2333 S021",
+  "Leona/Support": "R2313 I022",
+  "Lissandra/Middle": "D1133 S301",
+  "Lissandra/Top": "S2311 I301",
+  "Lucian/ADC": "P1213 D201",
+  "Lucian/Middle": "P1211 D330",
+  "Lulu/Support": "R3332 I220",
+  "Lux/Middle": "S2333 I101",
+  "Lux/Support": "S1311 I021",
+  "Malphite/Support": "I2211 S310",
+  "Malphite/Top": "R1331 S310",
+  "Malzahar/Middle": "S2313 I021",
+  "Maokai/Jungle": "R2212 P201",
+  "Maokai/Top": "R1211 I203",
+  "MasterYi/Jungle": "P2131 S303",
+  "MissFortune/ADC": "D1133 P201",
+  "MissFortune/Support": "S2231 D101",
+  "MonkeyKing/Jungle": "D1333 S031",
+  "MonkeyKing/Top": "D1331 S033",
+  "Mordekaiser/Middle": "S2113 D033",
+  "Mordekaiser/Top": "S3321 D201",
+  "Morgana/Middle": "S2211 I301",
+  "Morgana/Support": "S1221 D110",
+  "Nami/Support": "S1211 D012",
+  "Nasus/Top": "R1331 S310",
+  "Nautilus/Jungle": "R1111 S101",
+  "Nautilus/Support": "R2331 I201",
+  "Nautilus/Top": "R2313 S302",
+  "Nidalee/Jungle": "D3331 S011",
+  "Nocturne/Jungle": "D3313 S310",
+  "Nunu/Jungle": "R1111 S101",
+  "Nunu/Support": "R1111 S101",
+  "Nunu/Top": "S2213 D033",
+  "Olaf/Jungle": "D1121 P201",
+  "Olaf/Top": "P1211 S023",
+  "Orianna/Middle": "S1223 P201",
+  "Ornn/Jungle": "R2331 S310",
+  "Ornn/Top": "R1131 I023",
+  "Pantheon/Jungle": "S1221 D303",
+  "Pantheon/Top": "S1321 I101",
+  "Poppy/Jungle": "D1121 P201",
+  "Poppy/Support": "R1111 S101",
+  "Poppy/Top": "R1133 D310",
+  "Quinn/ADC": "P1211 D303",
+  "Quinn/Jungle": "D1333 P201",
+  "Quinn/Top": "D1333 P201",
+  "Rakan/Support": "S1322 R302",
+  "Rammus/Jungle": "R2131 I110",
+  "RekSai/Jungle": "D1331 P011",
+  "Renekton/Top": "P1121 D330",
+  "Rengar/Jungle": "D2323 P201",
+  "Rengar/Top": "D1331 P203",
+  "Riven/Top": "D1311 P021",
+  "Rumble/Top": "S2331 I320",
+  "Ryze/Middle": "S3223 I320",
+  "Ryze/Top": "S3213 I301",
+  "Sejuani/Jungle": "R2331 I021",
+  "Shaco/Jungle": "D3331 P011",
+  "Shen/Top": "R2233 D302",
+  "Shyvana/Jungle": "P1211 D031",
+  "Singed/Top": "S3221 R033",
+  "Sion/Support": "R1331 P220",
+  "Sion/Top": "R1231 P201",
+  "Sivir/ADC": "P1211 S220",
+  "Skarner/Jungle": "D1121 P201",
+  "Sona/Support": "S1121 I201",
+  "Soraka/Support": "R3332 I023",
+  "Swain/Middle": "S3313 I310",
+  "Swain/Top": "I3311 S310",
+  "Syndra/Middle": "S2211 I301",
+  "TahmKench/Support": "R3333 I202",
+  "TahmKench/Top": "R1331 D101",
+  "Taliyah/Middle": "D1131 S201",
+  "Talon/Middle": "D1331 S021",
+  "Talon/Top": "D1333 S301",
+  "Taric/Support": "R3132 I203",
+  "Teemo/Support": "S1221 D330",
+  "Teemo/Top": "S1213 D201",
+  "Thresh/Support": "R2311 I012",
+  "Tristana/ADC": "P1111 D101",
+  "Trundle/Jungle": "P1231 D101",
+  "Trundle/Top": "R1333 D201",
+  "Tryndamere/Jungle": "P1223 S303",
+  "Tryndamere/Top": "P2233 D330",
+  "TwistedFate/Middle": "S2211 D101",
+  "Twitch/ADC": "P1111 S033",
+  "Twitch/Jungle": "P1211 D103",
+  "Udyr/Jungle": "P2213 D033",
+  "Urgot/Top": "P1211 R033",
+  "Varus/ADC": "P2131 D101",
+  "Vayne/ADC": "P2213 D210",
+  "Veigar/Middle": "S2211 D130",
+  "Veigar/Support": "S2213 I011",
+  "Velkoz/Middle": "S2211 I301",
+  "Velkoz/Support": "S2311 I011",
+  "Vi/Jungle": "D1331 S301",
+  "Viktor/Middle": "I3221 S210",
+  "Vladimir/Middle": "D1231 S301",
+  "Vladimir/Top": "S1321 P201",
+  "Volibear/Jungle": "R2131 D110",
+  "Volibear/Top": "R1111 S101",
+  "Warwick/Jungle": "P1111 D303",
+  "Xayah/ADC": "P3231 D101",
+  "Xerath/Middle": "S2211 I011",
+  "Xerath/Support": "S2211 I011",
+  "XinZhao/Jungle": "P1211 D130",
+  "XinZhao/Top": "P1211 D330",
+  "Yasuo/Middle": "D1331 P013",
+  "Yasuo/Top": "P1213 D320",
+  "Yorick/Top": "R1233 S310",
+  "Zac/Jungle": "R2331 S310",
+  "Zed/Middle": "D1321 S310",
+  "Ziggs/Middle": "S2213 I301",
+  "Zilean/Middle": "S2311 I201",
+  "Zilean/Support": "I3211 S210",
+  "Zyra/Support": "S1311 I201"
 }

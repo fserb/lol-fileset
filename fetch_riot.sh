@@ -1,6 +1,5 @@
 #!/bin/bash
 
+API_KEY=`cat API_KEY`
 
-wget http://ddragon.leagueoflegends.com/cdn/6.24.1/data/en_US/rune.json -O riot/rune.json
-wget http://ddragon.leagueoflegends.com/cdn/6.24.1/data/en_US/mastery.json -O riot/mastery.json
-wget http://ddragon.leagueoflegends.com/cdn/6.24.1/data/en_US/item.json -O riot/item.json
+wget "https://na1.api.riotgames.com/lol/static-data/v3/items?locale=en_US&tags=all&api_key=$API_KEY" -O riot/items.json

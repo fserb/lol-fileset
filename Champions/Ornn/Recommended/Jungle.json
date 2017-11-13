@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (44% win - 1434 games)"
+      "type": "Most Frequent Starters (47% win - 3962 games)"
     },
     {
       "items": [
@@ -26,15 +26,11 @@
           "id": "1039"
         },
         {
-          "count": 3,
-          "id": "2003"
-        },
-        {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 100 games)"
+      "type": "Highest Win Rate Starters (51% win - 158 games)"
     },
     {
       "items": [
@@ -56,14 +52,14 @@
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3083"
         },
         {
           "count": 1,
           "id": "3383"
         }
       ],
-      "type": "Most Frequent Build (25% win - 165 games)"
+      "type": "Most Frequent Build (35% win - 602 games)"
     },
     {
       "items": [
@@ -73,15 +69,11 @@
         },
         {
           "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
           "id": "3025"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3383"
         },
         {
           "count": 1,
@@ -89,10 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3194"
+        },
+        {
+          "count": 1,
+          "id": "3800"
         }
       ],
-      "type": "Highest Win Rate Build (30% win - 53 games)"
+      "type": "Highest Win Rate Build (35% win - 597 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (44% win - 1023 games)"
+      "type": "Consumables WQE -> WQE (47% win - 2722 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQWE -> WQE (60% win - 55 games)"
+      "type": "WEWQ -> WQE (52% win - 55 games)"
     }
   ],
   "champion": "Ornn",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.19",
+  "title": "Jungle 7.22",
   "type": "custom"
 }
