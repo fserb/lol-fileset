@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 12116 games)"
+      "type": "Most Frequent Starters (50% win - 14104 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 12116 games)"
+      "type": "Highest Win Rate Starters (50% win - 14104 games)"
     },
     {
       "items": [
@@ -63,13 +63,17 @@
           "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (40% win - 1585 games)"
+      "type": "Most Frequent Build (40% win - 1837 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1412"
+          "id": "1408"
+        },
+        {
+          "count": 1,
+          "id": "3111"
         },
         {
           "count": 1,
@@ -77,11 +81,7 @@
         },
         {
           "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3026"
+          "id": "3065"
         },
         {
           "count": 1,
@@ -89,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 228 games)"
+      "type": "Highest Win Rate Build (52% win - 51 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (51% win - 11064 games)"
+      "type": "Consumables QWE -> QEW (51% win - 13002 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (61% win - 207 games)"
+      "type": "QWE -> EQW (60% win - 255 games)"
     }
   ],
   "champion": "RekSai",
