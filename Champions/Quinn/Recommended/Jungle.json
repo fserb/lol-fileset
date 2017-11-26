@@ -9,28 +9,32 @@
           "id": "1041"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1427 games)"
+      "type": "Most Frequent Starters (52% win - 937 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2031"
+          "id": "1041"
+        },
+        {
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 28 games)"
+      "type": "Highest Win Rate Starters (52% win - 937 games)"
     },
     {
       "items": [
@@ -52,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3046"
+          "id": "3087"
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3094"
         }
       ],
-      "type": "Most Frequent Build (38% win - 358 games)"
+      "type": "Most Frequent Build (40% win - 235 games)"
     },
     {
       "items": [
@@ -73,22 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3142"
-        },
-        {
-          "count": 1,
           "id": "3147"
         },
         {
           "count": 1,
-          "id": "3046"
+          "id": "3087"
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 119 games)"
+      "type": "Highest Win Rate Build (43% win - 85 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 1548 games)"
+      "type": "Consumables QEW -> QEW (50% win - 1101 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (59% win - 54 games)"
+      "type": "EQQW -> QEW (53% win - 77 games)"
     }
   ],
   "champion": "Quinn",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.22",
+  "title": "Jungle 7.23",
   "type": "custom"
 }

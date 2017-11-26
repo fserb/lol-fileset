@@ -17,82 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (36% win - 638 games)"
+      "type": "Most Frequent Starters (42% win - 272 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1039"
-        },
         {
           "count": 1,
           "id": "2031"
         },
         {
           "count": 1,
+          "id": "3301"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (45% win - 280 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3504"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 1,
-          "id": "3069"
-        },
-        {
-          "count": 1,
-          "id": "2045"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        }
-      ],
-      "type": "Most Frequent Build (19% win - 51 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3504"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 1,
-          "id": "3069"
-        },
-        {
-          "count": 1,
-          "id": "2045"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        }
-      ],
-      "type": "Highest Win Rate Build (19% win - 51 games)"
+      "type": "Highest Win Rate Starters (44% win - 25 games)"
     },
     {
       "items": [
@@ -129,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (37% win - 344 games)"
+      "type": "Consumables EQW -> EQW (37% win - 183 games)"
     },
     {
       "items": [
@@ -150,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EQW (45% win - 80 games)"
+      "type": "QEW -> EQW (40% win - 172 games)"
     }
   ],
   "champion": "Ivern",
@@ -160,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.22",
+  "title": "Support 7.23",
   "type": "custom"
 }

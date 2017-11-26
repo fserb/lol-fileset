@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1679 games)"
+      "type": "Most Frequent Starters (51% win - 1409 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1006"
+        },
         {
           "count": 1,
           "id": "1041"
         },
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 1252 games)"
+      "type": "Highest Win Rate Starters (52% win - 96 games)"
     },
     {
       "items": [
@@ -63,10 +63,14 @@
           "id": "3046"
         }
       ],
-      "type": "Most Frequent Build (38% win - 515 games)"
+      "type": "Most Frequent Build (40% win - 432 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1419"
+        },
         {
           "count": 1,
           "id": "3087"
@@ -81,18 +85,14 @@
         },
         {
           "count": 1,
-          "id": "1416"
+          "id": "3094"
         },
         {
           "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 1,
-          "id": "3812"
+          "id": "3153"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 97 games)"
+      "type": "Highest Win Rate Build (43% win - 58 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 1086 games)"
+      "type": "Consumables QEW -> QEW (50% win - 881 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (66% win - 54 games)"
+      "type": "QEW -> QEW (56% win - 55 games)"
     }
   ],
   "champion": "Tryndamere",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.22",
+  "title": "Jungle 7.23",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 5928 games)"
+      "type": "Most Frequent Starters (51% win - 5008 games)"
     },
     {
       "items": [
@@ -34,7 +34,36 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 332 games)"
+      "type": "Highest Win Rate Starters (52% win - 323 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        }
+      ],
+      "type": "Most Frequent Build (46% win - 676 games)"
     },
     {
       "items": [
@@ -60,39 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (45% win - 832 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        }
-      ],
-      "type": "Highest Win Rate Build (46% win - 821 games)"
+      "type": "Highest Win Rate Build (46% win - 675 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QWE (51% win - 1434 games)"
+      "type": "Consumables QEW -> QEW (50% win - 1340 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QWE (59% win - 103 games)"
+      "type": "EQW -> EQW (60% win - 51 games)"
     }
   ],
   "champion": "Swain",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.22",
+  "title": "Top 7.23",
   "type": "custom"
 }

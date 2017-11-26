@@ -13,13 +13,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 14631 games)"
+      "type": "Most Frequent Starters (53% win - 13797 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1027"
+          "id": "1036"
         },
         {
           "count": 1,
@@ -30,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (68% win - 58 games)"
+      "type": "Highest Win Rate Starters (55% win - 2401 games)"
     },
     {
       "items": [
@@ -56,16 +56,16 @@
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3156"
         }
       ],
-      "type": "Most Frequent Build (45% win - 1845 games)"
+      "type": "Most Frequent Build (43% win - 1668 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3071"
+          "id": "3009"
         },
         {
           "count": 1,
@@ -73,22 +73,22 @@
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3147"
         },
         {
           "count": 1,
-          "id": "3814"
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3053"
         },
         {
           "count": 1,
           "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 157 games)"
+      "type": "Highest Win Rate Build (59% win - 57 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (53% win - 11244 games)"
+      "type": "Consumables QWE -> QEW (53% win - 10324 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQQE -> QEW (64% win - 145 games)"
+      "type": "QEW -> EQW (60% win - 75 games)"
     }
   ],
   "champion": "Pantheon",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.22",
+  "title": "Top 7.23",
   "type": "custom"
 }

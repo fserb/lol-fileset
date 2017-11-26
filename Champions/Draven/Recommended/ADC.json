@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 37277 games)"
+      "type": "Most Frequent Starters (50% win - 28392 games)"
     },
     {
       "items": [
         {
-          "count": 2,
-          "id": "1055"
+          "count": 1,
+          "id": "1036"
         },
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 376 games)"
+      "type": "Highest Win Rate Starters (57% win - 26 games)"
     },
     {
       "items": [
@@ -63,17 +63,17 @@
           "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (42% win - 2293 games)"
+      "type": "Most Frequent Build (40% win - 1847 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3087"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3087"
         },
         {
           "count": 1,
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3094"
-        },
-        {
-          "count": 1,
           "id": "3072"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3094"
+        },
+        {
+          "count": 1,
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 87 games)"
+      "type": "Highest Win Rate Build (46% win - 639 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 31861 games)"
+      "type": "Consumables QWE -> QWE (50% win - 23660 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (54% win - 73 games)"
+      "type": "QWE -> QWE (55% win - 68 games)"
     }
   ],
   "champion": "Draven",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.22",
+  "title": "ADC 7.23",
   "type": "custom"
 }

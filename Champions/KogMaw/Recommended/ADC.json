@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 30936 games)"
+      "type": "Most Frequent Starters (52% win - 14447 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 297 games)"
+      "type": "Highest Win Rate Starters (73% win - 73 games)"
     },
     {
       "items": [
@@ -56,32 +56,28 @@
         },
         {
           "count": 1,
-          "id": "3022"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3139"
         }
       ],
-      "type": "Most Frequent Build (42% win - 6942 games)"
+      "type": "Most Frequent Build (43% win - 2964 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3111"
-        },
         {
           "count": 1,
           "id": "3124"
         },
         {
           "count": 1,
-          "id": "3085"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3091"
+          "id": "3085"
         },
         {
           "count": 1,
@@ -90,9 +86,13 @@
         {
           "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3031"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 75 games)"
+      "type": "Highest Win Rate Build (46% win - 2836 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (52% win - 21148 games)"
+      "type": "Consumables WQE -> WQE (52% win - 9118 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWWQ -> WQE (62% win - 59 games)"
+      "type": "WQWQ -> WQE (60% win - 66 games)"
     }
   ],
   "champion": "KogMaw",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.22",
+  "title": "ADC 7.23",
   "type": "custom"
 }

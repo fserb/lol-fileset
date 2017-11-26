@@ -17,28 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 33124 games)"
+      "type": "Most Frequent Starters (51% win - 18623 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2003"
+          "id": "1004"
         },
         {
           "count": 1,
-          "id": "2055"
-        },
-        {
-          "count": 1,
-          "id": "3303"
+          "id": "3301"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 93 games)"
+      "type": "Highest Win Rate Starters (57% win - 194 games)"
     },
     {
       "items": [
@@ -52,11 +48,11 @@
         },
         {
           "count": 1,
-          "id": "2302"
+          "id": "3107"
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "2302"
         },
         {
           "count": 1,
@@ -67,13 +63,17 @@
           "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (40% win - 4959 games)"
+      "type": "Most Frequent Build (42% win - 2510 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3174"
+          "id": "3092"
+        },
+        {
+          "count": 1,
+          "id": "3107"
         },
         {
           "count": 1,
@@ -85,18 +85,14 @@
         },
         {
           "count": 1,
-          "id": "2301"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 1,
-          "id": "3190"
+          "id": "2045"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 61 games)"
+      "type": "Highest Win Rate Build (67% win - 53 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> WQE (51% win - 12379 games)"
+      "type": "Consumables QWE -> WQE (51% win - 7773 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QWE (59% win - 213 games)"
+      "type": "QEQW -> WQE (60% win - 131 games)"
     }
   ],
   "champion": "Soraka",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.22",
+  "title": "Support 7.23",
   "type": "custom"
 }

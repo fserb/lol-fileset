@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 50014 games)"
+      "type": "Most Frequent Starters (52% win - 27918 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1082"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 385 games)"
+      "type": "Highest Win Rate Starters (54% win - 129 games)"
     },
     {
       "items": [
@@ -63,17 +63,13 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (45% win - 13764 games)"
+      "type": "Most Frequent Build (46% win - 7726 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3020"
+          "id": "3285"
         },
         {
           "count": 1,
@@ -81,18 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3020"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3157"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 61 games)"
+      "type": "Highest Win Rate Build (61% win - 166 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (52% win - 16934 games)"
+      "type": "Consumables QEW -> QWE (52% win - 9185 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (78% win - 526 games)"
+      "type": "QEW -> EQW (79% win - 312 games)"
     }
   ],
   "champion": "Ahri",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.22",
+  "title": "Middle 7.23",
   "type": "custom"
 }

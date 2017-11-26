@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 5687 games)"
+      "type": "Most Frequent Starters (54% win - 4867 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1082"
         },
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (72% win - 36 games)"
+      "type": "Highest Win Rate Starters (63% win - 115 games)"
     },
     {
       "items": [
@@ -63,14 +63,10 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (46% win - 874 games)"
+      "type": "Most Frequent Build (46% win - 818 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3157"
-        },
         {
           "count": 1,
           "id": "3165"
@@ -81,18 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3157"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3151"
         },
         {
           "count": 1,
           "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 208 games)"
+      "type": "Highest Win Rate Build (46% win - 806 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (54% win - 1957 games)"
+      "type": "Consumables QWE -> QWE (53% win - 1709 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EWQ (83% win - 68 games)"
+      "type": "QWE -> QWE (75% win - 53 games)"
     }
   ],
   "champion": "Heimerdinger",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.22",
+  "title": "Middle 7.23",
   "type": "custom"
 }

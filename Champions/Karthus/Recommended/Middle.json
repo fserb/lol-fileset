@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 6758 games)"
+      "type": "Most Frequent Starters (49% win - 4302 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1082"
+          "id": "1056"
         },
         {
           "count": 1,
-          "id": "2031"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 188 games)"
+      "type": "Highest Win Rate Starters (60% win - 66 games)"
     },
     {
       "items": [
@@ -63,25 +63,21 @@
           "id": "3151"
         }
       ],
-      "type": "Most Frequent Build (39% win - 1478 games)"
+      "type": "Most Frequent Build (37% win - 783 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3165"
+        },
         {
           "count": 1,
           "id": "3020"
         },
         {
           "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3135"
+          "id": "3151"
         },
         {
           "count": 1,
@@ -89,10 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 220 games)"
+      "type": "Highest Win Rate Build (49% win - 59 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (51% win - 4045 games)"
+      "type": "Consumables QEQW -> QEW (50% win - 2446 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (81% win - 53 games)"
+      "type": "QEQE -> QEW (70% win - 57 games)"
     }
   ],
   "champion": "Karthus",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.22",
+  "title": "Middle 7.23",
   "type": "custom"
 }

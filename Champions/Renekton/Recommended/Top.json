@@ -17,20 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 14365 games)"
+      "type": "Most Frequent Starters (48% win - 11171 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1036"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 28 games)"
+      "type": "Highest Win Rate Starters (54% win - 95 games)"
     },
     {
       "items": [
@@ -56,13 +56,17 @@
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3156"
         }
       ],
-      "type": "Most Frequent Build (35% win - 3363 games)"
+      "type": "Most Frequent Build (36% win - 2534 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3147"
+        },
         {
           "count": 1,
           "id": "3142"
@@ -77,18 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
-          "id": "3046"
-        },
-        {
-          "count": 1,
           "id": "3812"
+        },
+        {
+          "count": 1,
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (57% win - 57 games)"
+      "type": "Highest Win Rate Build (47% win - 57 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (48% win - 9037 games)"
+      "type": "Consumables QEW -> QEW (46% win - 6582 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (67% win - 59 games)"
+      "type": "QWE -> QEW (63% win - 252 games)"
     }
   ],
   "champion": "Renekton",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.22",
+  "title": "Top 7.23",
   "type": "custom"
 }

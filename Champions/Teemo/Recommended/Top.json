@@ -17,20 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 27955 games)"
+      "type": "Most Frequent Starters (54% win - 27651 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2031"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 30 games)"
+      "type": "Highest Win Rate Starters (62% win - 59 games)"
     },
     {
       "items": [
@@ -54,18 +54,18 @@
           "count": 1,
           "id": "3089"
         },
+        {
+          "count": 1,
+          "id": "3157"
+        }
+      ],
+      "type": "Most Frequent Build (50% win - 4187 games)"
+    },
+    {
+      "items": [
         {
           "count": 1,
           "id": "3285"
-        }
-      ],
-      "type": "Most Frequent Build (51% win - 3467 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3151"
         },
         {
           "count": 1,
@@ -73,11 +73,7 @@
         },
         {
           "count": 1,
-          "id": "3115"
-        },
-        {
-          "count": 1,
-          "id": "3135"
+          "id": "3151"
         },
         {
           "count": 1,
@@ -85,10 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3100"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 3456 games)"
+      "type": "Highest Win Rate Build (68% win - 54 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (54% win - 13611 games)"
+      "type": "Consumables EQW -> EQW (53% win - 12462 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (58% win - 361 games)"
+      "type": "QWE -> QEW (60% win - 133 games)"
     }
   ],
   "champion": "Teemo",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.22",
+  "title": "Top 7.23",
   "type": "custom"
 }

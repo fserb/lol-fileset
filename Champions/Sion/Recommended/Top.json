@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 6879 games)"
+      "type": "Most Frequent Starters (52% win - 5902 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1029"
+        },
+        {
+          "count": 4,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 3210 games)"
+      "type": "Highest Win Rate Starters (73% win - 42 games)"
     },
     {
       "items": [
@@ -56,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3194"
         }
       ],
-      "type": "Most Frequent Build (46% win - 952 games)"
+      "type": "Most Frequent Build (40% win - 859 games)"
     },
     {
       "items": [
@@ -73,22 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3025"
-        },
-        {
-          "count": 1,
-          "id": "3194"
-        },
-        {
-          "count": 1,
           "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3110"
+        },
+        {
+          "count": 1,
+          "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3512"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 71 games)"
+      "type": "Highest Win Rate Build (53% win - 52 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 2119 games)"
+      "type": "Consumables QWE -> QWE (53% win - 1480 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EWQ (67% win - 59 games)"
+      "type": "QWE -> EWQ (62% win - 78 games)"
     }
   ],
   "champion": "Sion",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.22",
+  "title": "Top 7.23",
   "type": "custom"
 }

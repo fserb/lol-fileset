@@ -17,20 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 51012 games)"
+      "type": "Most Frequent Starters (50% win - 32427 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1054"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 790 games)"
+      "type": "Highest Win Rate Starters (56% win - 82 games)"
     },
     {
       "items": [
@@ -40,11 +40,11 @@
         },
         {
           "count": 1,
-          "id": "3085"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3085"
         },
         {
           "count": 1,
@@ -59,7 +59,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (35% win - 8355 games)"
+      "type": "Most Frequent Build (36% win - 5582 games)"
     },
     {
       "items": [
@@ -88,7 +88,7 @@
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 2225 games)"
+      "type": "Highest Win Rate Build (50% win - 1513 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 35912 games)"
+      "type": "Consumables QWE -> QWE (50% win - 22159 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEW -> QWE (58% win - 58 games)"
+      "type": "QEW -> WQE (55% win - 52 games)"
     }
   ],
   "champion": "Jinx",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.22",
+  "title": "ADC 7.23",
   "type": "custom"
 }

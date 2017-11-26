@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 6799 games)"
+      "type": "Most Frequent Starters (50% win - 5593 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2031"
+          "id": "1004"
+        },
+        {
+          "count": 1,
+          "id": "3303"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 69 games)"
+      "type": "Highest Win Rate Starters (54% win - 177 games)"
     },
     {
       "items": [
@@ -52,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3285"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (44% win - 619 games)"
+      "type": "Most Frequent Build (39% win - 589 games)"
     },
     {
       "items": [
@@ -73,22 +77,22 @@
         },
         {
           "count": 1,
+          "id": "2301"
+        },
+        {
+          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3092"
-        },
-        {
-          "count": 1,
-          "id": "3165"
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 97 games)"
+      "type": "Highest Win Rate Build (53% win - 75 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 4887 games)"
+      "type": "Consumables QWE -> QWE (49% win - 4181 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (54% win - 416 games)"
+      "type": "QEQW -> QWE (55% win - 337 games)"
     }
   ],
   "champion": "Velkoz",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.22",
+  "title": "Support 7.23",
   "type": "custom"
 }

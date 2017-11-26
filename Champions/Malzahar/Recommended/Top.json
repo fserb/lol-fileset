@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 1763 games)"
+      "type": "Most Frequent Starters (54% win - 4369 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1082"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 40 games)"
+      "type": "Highest Win Rate Starters (59% win - 127 games)"
     },
     {
       "items": [
@@ -44,11 +48,11 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3151"
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3116"
         },
         {
           "count": 1,
@@ -59,21 +63,17 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (50% win - 407 games)"
+      "type": "Most Frequent Build (45% win - 672 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3116"
-        },
-        {
-          "count": 1,
           "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3165"
         },
         {
           "count": 1,
@@ -81,14 +81,18 @@
         },
         {
           "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 155 games)"
+      "type": "Highest Win Rate Build (51% win - 259 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (56% win - 1253 games)"
+      "type": "Consumables EWQ -> EQW (55% win - 1661 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> WEQ (70% win - 51 games)"
+      "type": "EWEQ -> EWQ (64% win - 147 games)"
     }
   ],
   "champion": "Malzahar",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.19",
+  "title": "Top 7.23",
   "type": "custom"
 }

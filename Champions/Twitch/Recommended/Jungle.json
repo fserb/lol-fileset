@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 7029 games)"
+      "type": "Most Frequent Starters (52% win - 6312 games)"
     },
     {
       "items": [
@@ -27,14 +27,14 @@
         },
         {
           "count": 1,
-          "id": "2003"
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 94 games)"
+      "type": "Highest Win Rate Starters (52% win - 6312 games)"
     },
     {
       "items": [
@@ -63,17 +63,13 @@
           "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (36% win - 2121 games)"
+      "type": "Most Frequent Build (39% win - 1778 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "1419"
+          "id": "1412"
         },
         {
           "count": 1,
@@ -81,18 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
           "id": "3031"
         },
         {
           "count": 1,
-          "id": "3087"
+          "id": "3046"
         },
         {
           "count": 1,
           "id": "3036"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 142 games)"
+      "type": "Highest Win Rate Build (43% win - 55 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (51% win - 8727 games)"
+      "type": "Consumables EQW -> EQW (51% win - 7699 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQEW -> EQW (56% win - 915 games)"
+      "type": "QEW -> EQW (51% win - 1739 games)"
     }
   ],
   "champion": "Twitch",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.22",
+  "title": "Jungle 7.23",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 16500 games)"
+      "type": "Most Frequent Starters (52% win - 12277 games)"
     },
     {
       "items": [
@@ -27,14 +27,10 @@
         },
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 990 games)"
+      "type": "Highest Win Rate Starters (60% win - 65 games)"
     },
     {
       "items": [
@@ -48,11 +44,11 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3100"
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "3157"
         },
         {
           "count": 1,
@@ -63,7 +59,7 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (43% win - 1906 games)"
+      "type": "Most Frequent Build (43% win - 1438 games)"
     },
     {
       "items": [
@@ -77,11 +73,11 @@
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         },
         {
           "count": 1,
@@ -92,7 +88,7 @@
           "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (60% win - 123 games)"
+      "type": "Highest Win Rate Build (55% win - 115 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (52% win - 9413 games)"
+      "type": "Consumables QWE -> QWE (50% win - 6981 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (81% win - 72 games)"
+      "type": "QWE -> QWE (79% win - 147 games)"
     }
   ],
   "champion": "Diana",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.22",
+  "title": "Middle 7.23",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 24851 games)"
+      "type": "Most Frequent Starters (55% win - 29996 games)"
     },
     {
       "items": [
@@ -26,15 +26,19 @@
           "id": "1041"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2055"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 72 games)"
+      "type": "Highest Win Rate Starters (59% win - 121 games)"
     },
     {
       "items": [
@@ -60,10 +64,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (43% win - 3199 games)"
+      "type": "Most Frequent Build (44% win - 4481 games)"
     },
     {
       "items": [
@@ -73,11 +77,15 @@
         },
         {
           "count": 1,
-          "id": "1400"
+          "id": "1412"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3153"
         },
         {
           "count": 1,
@@ -85,14 +93,10 @@
         },
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3156"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (61% win - 73 games)"
+      "type": "Highest Win Rate Build (63% win - 88 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> WQE (56% win - 3970 games)"
+      "type": "Consumables EQW -> WQE (57% win - 6201 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (63% win - 80 games)"
+      "type": "QWE -> EQW (64% win - 131 games)"
     }
   ],
   "champion": "XinZhao",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.22",
+  "title": "Jungle 7.23",
   "type": "custom"
 }

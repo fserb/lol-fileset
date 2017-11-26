@@ -17,28 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 71348 games)"
+      "type": "Most Frequent Starters (51% win - 48389 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
-        },
-        {
-          "count": 3,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 29 games)"
+      "type": "Highest Win Rate Starters (54% win - 68 games)"
     },
     {
       "items": [
@@ -67,17 +59,13 @@
           "id": "3156"
         }
       ],
-      "type": "Most Frequent Build (40% win - 14010 games)"
+      "type": "Most Frequent Build (41% win - 10631 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3009"
-        },
-        {
-          "count": 1,
-          "id": "3142"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -85,7 +73,11 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3142"
+        },
+        {
+          "count": 1,
+          "id": "3814"
         },
         {
           "count": 1,
@@ -93,10 +85,10 @@
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 67 games)"
+      "type": "Highest Win Rate Build (51% win - 177 games)"
     },
     {
       "items": [
@@ -133,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (50% win - 56808 games)"
+      "type": "Consumables QWE -> QEW (51% win - 41491 games)"
     },
     {
       "items": [
@@ -154,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (78% win - 819 games)"
+      "type": "QEW -> EWQ (80% win - 522 games)"
     }
   ],
   "champion": "Zed",
@@ -164,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.22",
+  "title": "Middle 7.23",
   "type": "custom"
 }

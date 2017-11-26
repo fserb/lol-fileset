@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 30957 games)"
+      "type": "Most Frequent Starters (48% win - 20756 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1083"
         },
         {
-          "count": 3,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 145 games)"
+      "type": "Highest Win Rate Starters (56% win - 39 games)"
     },
     {
       "items": [
@@ -60,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3139"
         }
       ],
-      "type": "Most Frequent Build (40% win - 10976 games)"
+      "type": "Most Frequent Build (39% win - 7697 games)"
     },
     {
       "items": [
@@ -92,7 +92,7 @@
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 1822 games)"
+      "type": "Highest Win Rate Build (43% win - 1100 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (49% win - 23416 games)"
+      "type": "Consumables EQW -> EQW (48% win - 15817 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> EQW (54% win - 106 games)"
+      "type": "EQW -> EQW (56% win - 107 games)"
     }
   ],
   "champion": "Kalista",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.22",
+  "title": "ADC 7.23",
   "type": "custom"
 }

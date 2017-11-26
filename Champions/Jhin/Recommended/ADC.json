@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 55231 games)"
+      "type": "Most Frequent Starters (48% win - 62195 games)"
     },
     {
       "items": [
@@ -26,11 +26,7 @@
           "id": "1036"
         },
         {
-          "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 4,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -38,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 81 games)"
+      "type": "Highest Win Rate Starters (63% win - 30 games)"
     },
     {
       "items": [
@@ -67,13 +63,17 @@
           "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (39% win - 8840 games)"
+      "type": "Most Frequent Build (42% win - 10984 games)"
     },
     {
       "items": [
         {
-          "count": 4,
-          "id": "3071"
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3094"
         },
         {
           "count": 1,
@@ -81,10 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3087"
+        },
+        {
+          "count": 1,
+          "id": "3508"
+        },
+        {
+          "count": 1,
+          "id": "3147"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 74 games)"
+      "type": "Highest Win Rate Build (47% win - 1752 games)"
     },
     {
       "items": [
@@ -121,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (45% win - 39436 games)"
+      "type": "Consumables QWE -> QWE (47% win - 39358 games)"
     },
     {
       "items": [
@@ -142,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQQW -> QWE (55% win - 198 games)"
+      "type": "WQQW -> QWE (56% win - 99 games)"
     }
   ],
   "champion": "Jhin",
@@ -152,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.22",
+  "title": "ADC 7.23",
   "type": "custom"
 }

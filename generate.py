@@ -68,6 +68,8 @@ def reduceRunes(rns, minor=False):
 
 
 def getNewRunes(champ, role, obj):
+  if not 'highestWinPercent' in obj: return
+  if not 'runes' in obj["highestWinPercent"]: return
   r = obj["highestWinPercent"]["runes"]
 
   if os.path.isfile('runes.json'):

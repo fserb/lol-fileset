@@ -17,12 +17,12 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 78342 games)"
+      "type": "Most Frequent Starters (50% win - 64602 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -31,14 +31,10 @@
         },
         {
           "count": 1,
-          "id": "3302"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 35 games)"
+      "type": "Highest Win Rate Starters (57% win - 95 games)"
     },
     {
       "items": [
@@ -67,28 +63,36 @@
           "id": "3107"
         }
       ],
-      "type": "Most Frequent Build (41% win - 14508 games)"
+      "type": "Most Frequent Build (41% win - 13247 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3800"
+          "id": "3009"
         },
         {
-          "count": 2,
-          "id": "3117"
-        },
-        {
-          "count": 2,
+          "count": 1,
           "id": "3401"
         },
         {
           "count": 1,
           "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3107"
+        },
+        {
+          "count": 1,
+          "id": "2045"
+        },
+        {
+          "count": 1,
+          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 56 games)"
+      "type": "Highest Win Rate Build (46% win - 215 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (49% win - 22233 games)"
+      "type": "Consumables EQW -> EQW (49% win - 17480 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (50% win - 7713 games)"
+      "type": "EQW -> WQE (54% win - 149 games)"
     }
   ],
   "champion": "Thresh",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.22",
+  "title": "Support 7.23",
   "type": "custom"
 }

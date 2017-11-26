@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 8568 games)"
+      "type": "Most Frequent Starters (52% win - 6926 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1036"
         },
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 886 games)"
+      "type": "Highest Win Rate Starters (55% win - 522 games)"
     },
     {
       "items": [
@@ -63,10 +63,14 @@
           "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (42% win - 951 games)"
+      "type": "Most Frequent Build (42% win - 816 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3147"
+        },
         {
           "count": 1,
           "id": "3142"
@@ -77,22 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3147"
-        },
-        {
-          "count": 1,
           "id": "3071"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3036"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 912 games)"
+      "type": "Highest Win Rate Build (47% win - 479 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (52% win - 4124 games)"
+      "type": "Consumables QEW -> QWE (52% win - 3229 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (89% win - 56 games)"
+      "type": "QEW -> QEW (75% win - 90 games)"
     }
   ],
   "champion": "Jayce",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.22",
+  "title": "Middle 7.23",
   "type": "custom"
 }
