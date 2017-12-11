@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 8754 games)"
+      "type": "Most Frequent Starters (49% win - 7228 games)"
     },
     {
       "items": [
@@ -27,10 +27,14 @@
         },
         {
           "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 65 games)"
+      "type": "Highest Win Rate Starters (53% win - 810 games)"
     },
     {
       "items": [
@@ -59,7 +63,7 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (43% win - 2549 games)"
+      "type": "Most Frequent Build (43% win - 2027 games)"
     },
     {
       "items": [
@@ -81,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 158 games)"
+      "type": "Highest Win Rate Build (47% win - 136 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 4779 games)"
+      "type": "Consumables QWE -> QWE (50% win - 4306 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (66% win - 56 games)"
+      "type": "WQE -> WQE (60% win - 106 games)"
     }
   ],
   "champion": "Kennen",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.23",
+  "title": "Top 7.24",
   "type": "custom"
 }

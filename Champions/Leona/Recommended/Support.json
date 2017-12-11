@@ -17,10 +17,14 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 51846 games)"
+      "type": "Most Frequent Starters (54% win - 46794 games)"
     },
     {
       "items": [
+        {
+          "count": 3,
+          "id": "2003"
+        },
         {
           "count": 1,
           "id": "2031"
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 6891 games)"
+      "type": "Highest Win Rate Starters (58% win - 385 games)"
     },
     {
       "items": [
@@ -63,17 +67,17 @@
           "id": "3107"
         }
       ],
-      "type": "Most Frequent Build (50% win - 6602 games)"
+      "type": "Most Frequent Build (49% win - 6490 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3009"
+          "id": "3109"
         },
         {
           "count": 1,
-          "id": "3401"
+          "id": "3117"
         },
         {
           "count": 1,
@@ -81,18 +85,18 @@
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "2303"
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3050"
         },
         {
           "count": 1,
-          "id": "2045"
+          "id": "3194"
         }
       ],
-      "type": "Highest Win Rate Build (56% win - 152 games)"
+      "type": "Highest Win Rate Build (57% win - 103 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> WQE (54% win - 20111 games)"
+      "type": "Consumables QEW -> WQE (53% win - 18639 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> WQE (60% win - 63 games)"
+      "type": "EQW -> EWQ (58% win - 277 games)"
     }
   ],
   "champion": "Leona",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.23",
+  "title": "Support 7.24",
   "type": "custom"
 }

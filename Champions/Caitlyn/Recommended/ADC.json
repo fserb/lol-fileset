@@ -17,12 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 52737 games)"
+      "type": "Most Frequent Starters (47% win - 38822 games)"
     },
     {
       "items": [
         {
-          "count": 2,
+          "count": 1,
+          "id": "1054"
+        },
+        {
+          "count": 1,
           "id": "1055"
         },
         {
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 540 games)"
+      "type": "Highest Win Rate Starters (55% win - 235 games)"
     },
     {
       "items": [
@@ -60,10 +64,10 @@
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (35% win - 10752 games)"
+      "type": "Most Frequent Build (35% win - 7390 games)"
     },
     {
       "items": [
@@ -85,14 +89,14 @@
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3036"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 2389 games)"
+      "type": "Highest Win Rate Build (47% win - 1574 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (47% win - 16706 games)"
+      "type": "Consumables QWE -> QWE (48% win - 12369 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QWE (55% win - 92 games)"
+      "type": "WEQ -> WQE (53% win - 238 games)"
     }
   ],
   "champion": "Caitlyn",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.23",
+  "title": "ADC 7.24",
   "type": "custom"
 }

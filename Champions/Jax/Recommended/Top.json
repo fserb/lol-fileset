@@ -13,24 +13,28 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 14852 games)"
+      "type": "Most Frequent Starters (49% win - 13247 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1029"
+          "id": "1055"
         },
         {
-          "count": 4,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 75 games)"
+      "type": "Highest Win Rate Starters (52% win - 153 games)"
     },
     {
       "items": [
@@ -59,36 +63,36 @@
           "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (41% win - 3727 games)"
+      "type": "Most Frequent Build (40% win - 3149 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3748"
-        },
         {
           "count": 1,
           "id": "3078"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3748"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3194"
+          "id": "3053"
+        },
+        {
+          "count": 1,
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 52 games)"
+      "type": "Highest Win Rate Build (42% win - 1794 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> WQE (52% win - 9701 games)"
+      "type": "Consumables EQW -> WQE (51% win - 8290 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QWE (54% win - 91 games)"
+      "type": "EWQ -> QWE (58% win - 153 games)"
     }
   ],
   "champion": "Jax",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.23",
+  "title": "Top 7.24",
   "type": "custom"
 }

@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 27651 games)"
+      "type": "Most Frequent Starters (54% win - 22563 games)"
     },
     {
       "items": [
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
+          "id": "3303"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (62% win - 59 games)"
+      "type": "Highest Win Rate Starters (58% win - 1338 games)"
     },
     {
       "items": [
@@ -59,13 +63,13 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (50% win - 4187 games)"
+      "type": "Most Frequent Build (49% win - 3302 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3285"
+          "id": "3092"
         },
         {
           "count": 1,
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3115"
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3089"
         },
         {
           "count": 1,
           "id": "3100"
         }
       ],
-      "type": "Highest Win Rate Build (68% win - 54 games)"
+      "type": "Highest Win Rate Build (51% win - 176 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (53% win - 12462 games)"
+      "type": "Consumables EQW -> EQW (54% win - 11281 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (60% win - 133 games)"
+      "type": "QEEQ -> EQW (64% win - 114 games)"
     }
   ],
   "champion": "Teemo",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.23",
+  "title": "Top 7.24",
   "type": "custom"
 }

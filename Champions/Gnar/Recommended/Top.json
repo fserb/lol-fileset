@@ -17,10 +17,14 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 18746 games)"
+      "type": "Most Frequent Starters (49% win - 18683 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1083"
+        },
         {
           "count": 1,
           "id": "2003"
@@ -30,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 105 games)"
+      "type": "Highest Win Rate Starters (52% win - 129 games)"
     },
     {
       "items": [
@@ -59,7 +63,7 @@
           "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (42% win - 3641 games)"
+      "type": "Most Frequent Build (42% win - 3808 games)"
     },
     {
       "items": [
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3194"
+          "id": "3742"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 450 games)"
+      "type": "Highest Win Rate Build (51% win - 403 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 20512 games)"
+      "type": "Consumables QWE -> QWE (49% win - 21533 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWWE -> WQE (57% win - 89 games)"
+      "type": "QWE -> QWE (55% win - 559 games)"
     }
   ],
   "champion": "Gnar",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.23",
+  "title": "Top 7.24",
   "type": "custom"
 }

@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 5665 games)"
+      "type": "Most Frequent Starters (51% win - 3451 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1004"
+          "id": "2031"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (75% win - 29 games)"
+      "type": "Highest Win Rate Starters (54% win - 2014 games)"
     },
     {
       "items": [
@@ -63,13 +63,13 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (44% win - 1043 games)"
+      "type": "Most Frequent Build (43% win - 660 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3146"
+          "id": "3151"
         },
         {
           "count": 1,
@@ -77,22 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3115"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3022"
         },
         {
           "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3100"
-        },
-        {
-          "count": 1,
-          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 94 games)"
+      "type": "Highest Win Rate Build (46% win - 462 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (52% win - 3554 games)"
+      "type": "Consumables QEW -> QEW (50% win - 2520 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQE -> QEW (54% win - 88 games)"
+      "type": "QEQW -> QEW (55% win - 1826 games)"
     }
   ],
   "champion": "Teemo",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.23",
+  "title": "Support 7.24",
   "type": "custom"
 }

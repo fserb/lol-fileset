@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 13797 games)"
+      "type": "Most Frequent Starters (52% win - 11191 games)"
     },
     {
       "items": [
@@ -27,10 +27,14 @@
         },
         {
           "count": 1,
+          "id": "2033"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 2401 games)"
+      "type": "Highest Win Rate Starters (55% win - 140 games)"
     },
     {
       "items": [
@@ -56,16 +60,16 @@
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3742"
         }
       ],
-      "type": "Most Frequent Build (43% win - 1668 games)"
+      "type": "Most Frequent Build (41% win - 1194 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3009"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -73,22 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3147"
-        },
-        {
-          "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
-          "id": "3053"
+          "id": "3111"
         },
         {
           "count": 1,
           "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3812"
+        },
+        {
+          "count": 1,
+          "id": "3156"
         }
       ],
-      "type": "Highest Win Rate Build (59% win - 57 games)"
+      "type": "Highest Win Rate Build (45% win - 124 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (53% win - 10324 games)"
+      "type": "Consumables QWE -> QEW (52% win - 8480 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (60% win - 75 games)"
+      "type": "QWE -> QWE (59% win - 306 games)"
     }
   ],
   "champion": "Pantheon",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.23",
+  "title": "Top 7.24",
   "type": "custom"
 }

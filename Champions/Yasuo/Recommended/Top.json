@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 41196 games)"
+      "type": "Most Frequent Starters (48% win - 32559 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "1054"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 26 games)"
+      "type": "Highest Win Rate Starters (52% win - 182 games)"
     },
     {
       "items": [
@@ -60,16 +56,16 @@
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3022"
         }
       ],
-      "type": "Most Frequent Build (38% win - 8400 games)"
+      "type": "Most Frequent Build (37% win - 6473 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3031"
+          "id": "3153"
         },
         {
           "count": 1,
@@ -77,22 +73,22 @@
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 1,
-          "id": "3033"
+          "id": "3031"
         },
         {
           "count": 1,
           "id": "3022"
+        },
+        {
+          "count": 1,
+          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 71 games)"
+      "type": "Highest Win Rate Build (43% win - 136 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (48% win - 28818 games)"
+      "type": "Consumables QEW -> QEW (48% win - 23841 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> WEQ (54% win - 955 games)"
+      "type": "QEQW -> QEW (55% win - 468 games)"
     }
   ],
   "champion": "Yasuo",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.23",
+  "title": "Top 7.24",
   "type": "custom"
 }

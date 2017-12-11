@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 2913 games)"
+      "type": "Most Frequent Starters (50% win - 2533 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2003"
+          "id": "2031"
         },
         {
           "count": 1,
@@ -34,36 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 30 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "2301"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3116"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        }
-      ],
-      "type": "Most Frequent Build (40% win - 271 games)"
+      "type": "Highest Win Rate Starters (51% win - 1313 games)"
     },
     {
       "items": [
@@ -73,26 +44,55 @@
         },
         {
           "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3285"
+        }
+      ],
+      "type": "Most Frequent Build (40% win - 271 games)"
+    },
+    {
+      "items": [
         {
           "count": 1,
           "id": "3020"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3157"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "2301"
         },
         {
           "count": 1,
           "id": "3102"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 136 games)"
+      "type": "Highest Win Rate Build (42% win - 203 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (49% win - 1260 games)"
+      "type": "Consumables EQW -> EQW (48% win - 1247 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> WQE (59% win - 57 games)"
+      "type": "EWQ -> EQW (53% win - 289 games)"
     }
   ],
   "champion": "Fiddlesticks",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.23",
+  "title": "Support 7.24",
   "type": "custom"
 }

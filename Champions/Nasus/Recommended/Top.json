@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 13783 games)"
+      "type": "Most Frequent Starters (51% win - 12949 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1082"
-        },
         {
           "count": 1,
           "id": "2031"
         },
         {
           "count": 1,
+          "id": "3301"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 102 games)"
+      "type": "Highest Win Rate Starters (59% win - 1625 games)"
     },
     {
       "items": [
@@ -60,20 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3742"
         }
       ],
-      "type": "Most Frequent Build (39% win - 1760 games)"
+      "type": "Most Frequent Build (41% win - 1558 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3078"
+          "id": "3069"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3078"
         },
         {
           "count": 1,
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3800"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3512"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 790 games)"
+      "type": "Highest Win Rate Build (60% win - 116 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 7380 games)"
+      "type": "Consumables QEW -> QEW (51% win - 7134 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQW -> QWE (55% win - 219 games)"
+      "type": "EQW -> EQW (55% win - 393 games)"
     }
   ],
   "champion": "Nasus",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.23",
+  "title": "Top 7.24",
   "type": "custom"
 }

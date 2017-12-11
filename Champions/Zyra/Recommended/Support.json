@@ -17,20 +17,28 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 13217 games)"
+      "type": "Most Frequent Starters (51% win - 11685 games)"
     },
     {
       "items": [
         {
+          "count": 3,
+          "id": "2003"
+        },
+        {
           "count": 1,
-          "id": "1056"
+          "id": "2031"
+        },
+        {
+          "count": 1,
+          "id": "3303"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 26 games)"
+      "type": "Highest Win Rate Starters (53% win - 113 games)"
     },
     {
       "items": [
@@ -59,13 +67,13 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (43% win - 1711 games)"
+      "type": "Most Frequent Build (45% win - 1585 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3151"
+          "id": "3116"
         },
         {
           "count": 1,
@@ -73,22 +81,22 @@
         },
         {
           "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
           "id": "2301"
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3151"
         },
         {
           "count": 1,
-          "id": "3116"
-        },
-        {
-          "count": 1,
-          "id": "3135"
+          "id": "3190"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 350 games)"
+      "type": "Highest Win Rate Build (53% win - 120 games)"
     },
     {
       "items": [
@@ -125,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (46% win - 2961 games)"
+      "type": "Consumables QWE -> QEW (52% win - 2920 games)"
     },
     {
       "items": [
@@ -146,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> QEW (52% win - 348 games)"
+      "type": "QWE -> EQW (55% win - 127 games)"
     }
   ],
   "champion": "Zyra",
@@ -156,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.23",
+  "title": "Support 7.24",
   "type": "custom"
 }

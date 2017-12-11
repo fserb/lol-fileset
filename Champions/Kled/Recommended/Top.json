@@ -17,20 +17,28 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 6164 games)"
+      "type": "Most Frequent Starters (47% win - 7185 games)"
     },
     {
       "items": [
         {
           "count": 1,
+          "id": "1054"
+        },
+        {
+          "count": 1,
           "id": "1055"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 147 games)"
+      "type": "Highest Win Rate Starters (48% win - 205 games)"
     },
     {
       "items": [
@@ -56,16 +64,16 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (42% win - 1379 games)"
+      "type": "Most Frequent Build (43% win - 1469 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3748"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -73,11 +81,7 @@
         },
         {
           "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3053"
+          "id": "3748"
         },
         {
           "count": 1,
@@ -85,10 +89,14 @@
         },
         {
           "count": 1,
-          "id": "3812"
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 290 games)"
+      "type": "Highest Win Rate Build (43% win - 1455 games)"
     },
     {
       "items": [
@@ -125,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 6065 games)"
+      "type": "Consumables QWE -> QWE (49% win - 6378 games)"
     },
     {
       "items": [
@@ -146,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EQW (61% win - 156 games)"
+      "type": "QWE -> WQE (64% win - 225 games)"
     }
   ],
   "champion": "Kled",
@@ -156,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.23",
+  "title": "Top 7.24",
   "type": "custom"
 }

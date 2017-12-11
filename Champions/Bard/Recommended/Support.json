@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 23883 games)"
+      "type": "Most Frequent Starters (49% win - 23586 games)"
     },
     {
       "items": [
         {
-          "count": 6,
+          "count": 1,
           "id": "2003"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3303"
         },
         {
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 149 games)"
+      "type": "Highest Win Rate Starters (53% win - 173 games)"
     },
     {
       "items": [
@@ -60,39 +60,39 @@
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (38% win - 2814 games)"
+      "type": "Most Frequent Build (39% win - 2857 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "3107"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3117"
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "2301"
         },
         {
           "count": 1,
-          "id": "3115"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3109"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3504"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 54 games)"
+      "type": "Highest Win Rate Build (48% win - 174 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (45% win - 12549 games)"
+      "type": "Consumables QWE -> QWE (48% win - 12319 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQW -> QWE (52% win - 51 games)"
+      "type": "WQE -> QEW (51% win - 204 games)"
     }
   ],
   "champion": "Bard",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.23",
+  "title": "Support 7.24",
   "type": "custom"
 }

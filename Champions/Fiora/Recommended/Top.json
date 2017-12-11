@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 19842 games)"
+      "type": "Most Frequent Starters (49% win - 15102 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1083"
+          "id": "1036"
         },
         {
-          "count": 1,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 111 games)"
+      "type": "Highest Win Rate Starters (50% win - 265 games)"
     },
     {
       "items": [
@@ -63,7 +63,7 @@
           "id": "3072"
         }
       ],
-      "type": "Most Frequent Build (34% win - 3566 games)"
+      "type": "Most Frequent Build (33% win - 2648 games)"
     },
     {
       "items": [
@@ -92,7 +92,7 @@
           "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 165 games)"
+      "type": "Highest Win Rate Build (44% win - 145 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (48% win - 15200 games)"
+      "type": "Consumables QWE -> QEW (48% win - 11207 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (59% win - 447 games)"
+      "type": "QEW -> QEW (55% win - 359 games)"
     }
   ],
   "champion": "Fiora",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.23",
+  "title": "Top 7.24",
   "type": "custom"
 }

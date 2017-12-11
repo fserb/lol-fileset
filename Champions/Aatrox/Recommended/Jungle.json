@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2124 games)"
+      "type": "Most Frequent Starters (50% win - 1792 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1041"
         },
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 150 games)"
+      "type": "Highest Win Rate Starters (50% win - 1792 games)"
     },
     {
       "items": [
@@ -52,7 +52,7 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -60,20 +60,16 @@
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (28% win - 278 games)"
+      "type": "Most Frequent Build (35% win - 228 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1416"
-        },
-        {
-          "count": 1,
-          "id": "3153"
+          "id": "1419"
         },
         {
           "count": 1,
@@ -81,7 +77,7 @@
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3153"
         },
         {
           "count": 1,
@@ -89,10 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (39% win - 140 games)"
+      "type": "Highest Win Rate Build (35% win - 151 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WEQ (49% win - 587 games)"
+      "type": "Consumables WQE -> WEQ (53% win - 601 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (59% win - 52 games)"
+      "type": "WQE -> WEQ (53% win - 601 games)"
     }
   ],
   "champion": "Aatrox",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.23",
+  "title": "Jungle 7.24",
   "type": "custom"
 }

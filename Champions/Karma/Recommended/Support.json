@@ -17,20 +17,28 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 27192 games)"
+      "type": "Most Frequent Starters (49% win - 20651 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1056"
+        },
         {
           "count": 1,
           "id": "2031"
         },
         {
           "count": 1,
+          "id": "3303"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 161 games)"
+      "type": "Highest Win Rate Starters (55% win - 134 games)"
     },
     {
       "items": [
@@ -56,20 +64,16 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (35% win - 1719 games)"
+      "type": "Most Frequent Build (33% win - 1406 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 1,
-          "id": "3504"
+          "id": "3174"
         },
         {
           "count": 1,
@@ -77,18 +81,22 @@
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "2301"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3504"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3107"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 155 games)"
+      "type": "Highest Win Rate Build (45% win - 242 games)"
     },
     {
       "items": [
@@ -125,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (48% win - 22017 games)"
+      "type": "Consumables QEW -> QEW (48% win - 18972 games)"
     },
     {
       "items": [
@@ -146,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (53% win - 181 games)"
+      "type": "QEQW -> QEW (51% win - 4410 games)"
     }
   ],
   "champion": "Karma",
@@ -156,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.23",
+  "title": "Support 7.24",
   "type": "custom"
 }

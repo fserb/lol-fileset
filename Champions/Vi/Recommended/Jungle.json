@@ -17,10 +17,14 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 24628 games)"
+      "type": "Most Frequent Starters (52% win - 17343 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1041"
+        },
         {
           "count": 3,
           "id": "2003"
@@ -30,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 68 games)"
+      "type": "Highest Win Rate Starters (53% win - 1438 games)"
     },
     {
       "items": [
@@ -59,21 +63,21 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (41% win - 4580 games)"
+      "type": "Most Frequent Build (41% win - 3286 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3078"
-        },
         {
           "count": 1,
           "id": "1400"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3047"
         },
         {
           "count": 1,
@@ -81,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3742"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 119 games)"
+      "type": "Highest Win Rate Build (47% win - 1220 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> QEW (53% win - 10441 games)"
+      "type": "Consumables WEQ -> QEW (52% win - 7936 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EQW (68% win - 79 games)"
+      "type": "QWE -> QWE (59% win - 279 games)"
     }
   ],
   "champion": "Vi",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.23",
+  "title": "Jungle 7.24",
   "type": "custom"
 }

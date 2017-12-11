@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (40% win - 1341 games)"
+      "type": "Most Frequent Starters (41% win - 1055 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1056"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -34,65 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (40% win - 32 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3152"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        }
-      ],
-      "type": "Most Frequent Build (27% win - 97 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3152"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        }
-      ],
-      "type": "Highest Win Rate Build (27% win - 97 games)"
+      "type": "Highest Win Rate Starters (41% win - 1055 games)"
     },
     {
       "items": [
@@ -129,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQEW -> EQW (43% win - 549 games)"
+      "type": "Consumables EQEW -> EQW (42% win - 481 games)"
     },
     {
       "items": [
@@ -150,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQEQ -> EQW (46% win - 75 games)"
+      "type": "EQEW -> EQW (42% win - 481 games)"
     }
   ],
   "champion": "Nunu",
@@ -160,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.23",
+  "title": "Top 7.24",
   "type": "custom"
 }
