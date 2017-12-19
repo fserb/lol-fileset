@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 13506 games)"
+      "type": "Most Frequent Starters (52% win - 32261 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 440 games)"
+      "type": "Highest Win Rate Starters (53% win - 1029 games)"
     },
     {
       "items": [
@@ -63,21 +63,25 @@
           "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (42% win - 737 games)"
+      "type": "Most Frequent Build (41% win - 1738 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
         {
           "count": 1,
           "id": "3116"
         },
         {
           "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3151"
+          "id": "3143"
         },
         {
           "count": 1,
@@ -85,14 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3083"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 185 games)"
+      "type": "Highest Win Rate Build (56% win - 130 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (53% win - 9437 games)"
+      "type": "Consumables QEQW -> QEW (53% win - 22705 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QEW (58% win - 312 games)"
+      "type": "QEQE -> QEW (55% win - 753 games)"
     }
   ],
   "champion": "Singed",

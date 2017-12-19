@@ -17,10 +17,14 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 6622 games)"
+      "type": "Most Frequent Starters (52% win - 16161 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1054"
+        },
         {
           "count": 1,
           "id": "2033"
@@ -30,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 3405 games)"
+      "type": "Highest Win Rate Starters (56% win - 244 games)"
     },
     {
       "items": [
@@ -52,17 +56,21 @@
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3083"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "2045"
         }
       ],
-      "type": "Most Frequent Build (42% win - 1004 games)"
+      "type": "Most Frequent Build (43% win - 2628 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3001"
+        },
         {
           "count": 1,
           "id": "3111"
@@ -72,23 +80,15 @@
           "id": "3068"
         },
         {
-          "count": 1,
-          "id": "3194"
+          "count": 2,
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3109"
+          "id": "3050"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 173 games)"
+      "type": "Highest Win Rate Build (57% win - 108 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> EWQ (55% win - 1576 games)"
+      "type": "Consumables QEW -> EWQ (55% win - 3859 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> EWQ (59% win - 102 games)"
+      "type": "WEQ -> EWQ (64% win - 116 games)"
     }
   ],
   "champion": "Sion",
