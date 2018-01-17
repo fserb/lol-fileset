@@ -17,20 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 29868 games)"
+      "type": "Most Frequent Starters (51% win - 16594 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 2,
           "id": "1054"
         },
         {
-          "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -38,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 121 games)"
+      "type": "Highest Win Rate Starters (53% win - 67 games)"
     },
     {
       "items": [
@@ -64,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (46% win - 2942 games)"
+      "type": "Most Frequent Build (43% win - 1539 games)"
     },
     {
       "items": [
@@ -77,15 +73,11 @@
         },
         {
           "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
           "id": "3111"
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -93,10 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 289 games)"
+      "type": "Highest Win Rate Build (46% win - 238 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> EQW (52% win - 14065 games)"
+      "type": "Consumables QEW -> EQW (51% win - 7727 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EQW (57% win - 238 games)"
+      "type": "QEW -> EQW (55% win - 533 games)"
     }
   ],
   "champion": "Garen",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.24",
+  "title": "Top 8.1",
   "type": "custom"
 }

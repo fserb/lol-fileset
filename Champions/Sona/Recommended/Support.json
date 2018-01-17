@@ -17,12 +17,12 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 36258 games)"
+      "type": "Most Frequent Starters (51% win - 13955 games)"
     },
     {
       "items": [
         {
-          "count": 2,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -38,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 111 games)"
+      "type": "Highest Win Rate Starters (54% win - 135 games)"
     },
     {
       "items": [
@@ -64,24 +64,24 @@
         },
         {
           "count": 1,
-          "id": "3174"
+          "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (30% win - 2614 games)"
+      "type": "Most Frequent Build (31% win - 939 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3100"
+          "id": "3174"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3504"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -93,10 +93,10 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3025"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 566 games)"
+      "type": "Highest Win Rate Build (46% win - 101 games)"
     },
     {
       "items": [
@@ -133,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 15929 games)"
+      "type": "Consumables QWE -> QWE (48% win - 5913 games)"
     },
     {
       "items": [
@@ -154,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (53% win - 253 games)"
+      "type": "QWE -> WQE (52% win - 211 games)"
     }
   ],
   "champion": "Sona",
@@ -164,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.24",
+  "title": "Support 8.1",
   "type": "custom"
 }

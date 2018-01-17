@@ -17,28 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 42922 games)"
+      "type": "Most Frequent Starters (52% win - 25182 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
-        },
-        {
-          "count": 1,
           "id": "1041"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 714 games)"
+      "type": "Highest Win Rate Starters (54% win - 209 games)"
     },
     {
       "items": [
@@ -64,20 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3194"
+          "id": "3190"
         }
       ],
-      "type": "Most Frequent Build (43% win - 6077 games)"
+      "type": "Most Frequent Build (42% win - 3657 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1409"
+          "id": "3117"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "1401"
         },
         {
           "count": 1,
@@ -89,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3742"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 4365 games)"
+      "type": "Highest Win Rate Build (45% win - 204 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> WEQ (53% win - 34160 games)"
+      "type": "Consumables EWQ -> WEQ (53% win - 23302 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EQW (58% win - 981 games)"
+      "type": "EWQ -> EQW (57% win - 552 games)"
     }
   ],
   "champion": "Sejuani",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.24",
+  "title": "Jungle 8.1",
   "type": "custom"
 }

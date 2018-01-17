@@ -17,17 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 20847 games)"
+      "type": "Most Frequent Starters (49% win - 9819 games)"
     },
     {
       "items": [
         {
           "count": 3,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2055"
         },
         {
           "count": 1,
@@ -38,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 102 games)"
+      "type": "Highest Win Rate Starters (50% win - 3485 games)"
     },
     {
       "items": [
@@ -67,21 +63,17 @@
           "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (45% win - 2455 games)"
+      "type": "Most Frequent Build (40% win - 1182 games)"
     },
     {
       "items": [
         {
           "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
           "id": "2303"
-        },
-        {
-          "count": 1,
-          "id": "3009"
-        },
-        {
-          "count": 1,
-          "id": "3190"
         },
         {
           "count": 1,
@@ -89,14 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 885 games)"
+      "type": "Highest Win Rate Build (46% win - 189 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (52% win - 23227 games)"
+      "type": "Consumables QWE -> QWE (51% win - 9324 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QWE (53% win - 1710 games)"
+      "type": "QWE -> QWE (51% win - 9324 games)"
     }
   ],
   "champion": "TahmKench",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.24",
+  "title": "Support 8.1",
   "type": "custom"
 }

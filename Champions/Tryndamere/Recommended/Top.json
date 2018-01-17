@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 12692 games)"
+      "type": "Most Frequent Starters (47% win - 7192 games)"
     },
     {
       "items": [
@@ -27,10 +27,18 @@
         },
         {
           "count": 1,
+          "id": "1055"
+        },
+        {
+          "count": 2,
+          "id": "2003"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 191 games)"
+      "type": "Highest Win Rate Starters (52% win - 119 games)"
     },
     {
       "items": [
@@ -59,13 +67,25 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (40% win - 3183 games)"
+      "type": "Most Frequent Build (41% win - 1524 games)"
     },
     {
       "items": [
         {
           "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
           "id": "3046"
+        },
+        {
+          "count": 1,
+          "id": "3508"
+        },
+        {
+          "count": 1,
+          "id": "3074"
         },
         {
           "count": 1,
@@ -73,22 +93,10 @@
         },
         {
           "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3139"
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 123 games)"
+      "type": "Highest Win Rate Build (45% win - 1167 games)"
     },
     {
       "items": [
@@ -125,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QEW (48% win - 5451 games)"
+      "type": "Consumables EQW -> QEW (47% win - 2840 games)"
     },
     {
       "items": [
@@ -146,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> QWE (57% win - 133 games)"
+      "type": "EQQE -> QEW (56% win - 148 games)"
     }
   ],
   "champion": "Tryndamere",
@@ -156,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.24",
+  "title": "Top 8.1",
   "type": "custom"
 }

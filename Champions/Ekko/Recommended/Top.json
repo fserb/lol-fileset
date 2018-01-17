@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 4887 games)"
+      "type": "Most Frequent Starters (48% win - 2295 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
-          "id": "3303"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 108 games)"
+      "type": "Highest Win Rate Starters (51% win - 980 games)"
     },
     {
       "items": [
@@ -63,10 +59,14 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (43% win - 819 games)"
+      "type": "Most Frequent Build (41% win - 316 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3152"
+        },
         {
           "count": 1,
           "id": "3100"
@@ -74,10 +74,6 @@
         {
           "count": 1,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3152"
         },
         {
           "count": 1,
@@ -92,7 +88,7 @@
           "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 115 games)"
+      "type": "Highest Win Rate Build (44% win - 118 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 8284 games)"
+      "type": "Consumables QEW -> QEW (48% win - 3926 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (58% win - 211 games)"
+      "type": "QEW -> QEW (54% win - 121 games)"
     }
   ],
   "champion": "Ekko",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.24",
+  "title": "Top 8.1",
   "type": "custom"
 }

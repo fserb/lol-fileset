@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 24931 games)"
+      "type": "Most Frequent Starters (51% win - 8260 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1083"
         },
         {
           "count": 1,
-          "id": "2033"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 158 games)"
+      "type": "Highest Win Rate Starters (52% win - 757 games)"
     },
     {
       "items": [
@@ -63,7 +63,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (46% win - 9671 games)"
+      "type": "Most Frequent Build (43% win - 3425 games)"
     },
     {
       "items": [
@@ -89,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 9671 games)"
+      "type": "Highest Win Rate Build (43% win - 3415 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (53% win - 20854 games)"
+      "type": "Consumables QEW -> QEW (50% win - 7291 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (85% win - 199 games)"
+      "type": "QEW -> EQW (78% win - 108 games)"
     }
   ],
   "champion": "Corki",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.24",
+  "title": "Middle 8.1",
   "type": "custom"
 }

@@ -17,20 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 152369 games)"
+      "type": "Most Frequent Starters (50% win - 64919 games)"
     },
     {
       "items": [
         {
-          "count": 5,
+          "count": 3,
           "id": "2003"
         },
         {
-          "count": 1,
-          "id": "3301"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "3302"
         },
         {
@@ -38,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 180 games)"
+      "type": "Highest Win Rate Starters (56% win - 175 games)"
     },
     {
       "items": [
@@ -67,17 +63,17 @@
           "id": "3107"
         }
       ],
-      "type": "Most Frequent Build (42% win - 30964 games)"
+      "type": "Most Frequent Build (44% win - 13390 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
+          "id": "3107"
         },
         {
           "count": 1,
-          "id": "3401"
+          "id": "3117"
         },
         {
           "count": 1,
@@ -85,7 +81,7 @@
         },
         {
           "count": 1,
-          "id": "2045"
+          "id": "2303"
         },
         {
           "count": 1,
@@ -93,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3222"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 30964 games)"
+      "type": "Highest Win Rate Build (52% win - 123 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (50% win - 42122 games)"
+      "type": "Consumables EQW -> EQW (49% win - 17834 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> EQW (53% win - 278 games)"
+      "type": "QEW -> EQW (52% win - 283 games)"
     }
   ],
   "champion": "Thresh",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.24",
+  "title": "Support 8.1",
   "type": "custom"
 }

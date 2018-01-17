@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 123791 games)"
+      "type": "Most Frequent Starters (50% win - 33437 games)"
     },
     {
       "items": [
@@ -31,14 +31,14 @@
         },
         {
           "count": 1,
-          "id": "3303"
+          "id": "3302"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 353 games)"
+      "type": "Highest Win Rate Starters (58% win - 156 games)"
     },
     {
       "items": [
@@ -67,21 +67,13 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (45% win - 11698 games)"
+      "type": "Most Frequent Build (41% win - 3053 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3508"
-        },
-        {
-          "count": 1,
           "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3006"
         },
         {
           "count": 1,
@@ -89,14 +81,22 @@
         },
         {
           "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
           "id": "3072"
         },
         {
           "count": 1,
-          "id": "3812"
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3036"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 1066 games)"
+      "type": "Highest Win Rate Build (51% win - 241 games)"
     },
     {
       "items": [
@@ -133,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (53% win - 28916 games)"
+      "type": "Consumables QEW -> QWE (49% win - 8357 games)"
     },
     {
       "items": [
@@ -154,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EWQ (63% win - 384 games)"
+      "type": "WQQE -> QWE (58% win - 236 games)"
     }
   ],
   "champion": "MissFortune",
@@ -164,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 7.24",
+  "title": "ADC 8.1",
   "type": "custom"
 }

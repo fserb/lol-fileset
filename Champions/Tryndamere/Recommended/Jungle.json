@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 2903 games)"
+      "type": "Most Frequent Starters (46% win - 1300 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 308 games)"
+      "type": "Highest Win Rate Starters (53% win - 221 games)"
     },
     {
       "items": [
@@ -63,21 +63,21 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (39% win - 823 games)"
+      "type": "Most Frequent Build (35% win - 397 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1419"
+        },
         {
           "count": 1,
           "id": "3006"
         },
         {
           "count": 1,
-          "id": "3046"
-        },
-        {
-          "count": 1,
-          "id": "3508"
+          "id": "3087"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3153"
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 111 games)"
+      "type": "Highest Win Rate Build (38% win - 124 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (48% win - 1915 games)"
+      "type": "Consumables QEW -> QEW (46% win - 850 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQE -> QEW (56% win - 105 games)"
+      "type": "QEW -> QWE (51% win - 162 games)"
     }
   ],
   "champion": "Tryndamere",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.24",
+  "title": "Jungle 8.1",
   "type": "custom"
 }

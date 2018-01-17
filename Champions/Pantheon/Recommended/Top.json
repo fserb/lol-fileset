@@ -13,28 +13,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 25403 games)"
+      "type": "Most Frequent Starters (50% win - 10188 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1055"
         },
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
-          "id": "2033"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 299 games)"
+      "type": "Highest Win Rate Starters (53% win - 199 games)"
     },
     {
       "items": [
@@ -63,13 +59,13 @@
           "id": "3742"
         }
       ],
-      "type": "Most Frequent Build (42% win - 2825 games)"
+      "type": "Most Frequent Build (40% win - 1105 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3009"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -77,22 +73,22 @@
         },
         {
           "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
           "id": "3147"
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3146"
         },
         {
           "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3156"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 115 games)"
+      "type": "Highest Win Rate Build (44% win - 108 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (52% win - 19241 games)"
+      "type": "Consumables QWE -> QEW (51% win - 6999 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (63% win - 180 games)"
+      "type": "QWQW -> QEW (60% win - 114 games)"
     }
   ],
   "champion": "Pantheon",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.24",
+  "title": "Top 8.1",
   "type": "custom"
 }

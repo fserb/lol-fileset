@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 8588 games)"
+      "type": "Most Frequent Starters (49% win - 3100 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 221 games)"
+      "type": "Highest Win Rate Starters (53% win - 114 games)"
     },
     {
       "items": [
@@ -59,7 +63,7 @@
           "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (35% win - 1438 games)"
+      "type": "Most Frequent Build (38% win - 491 games)"
     },
     {
       "items": [
@@ -69,11 +73,15 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3009"
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3748"
         },
         {
           "count": 1,
@@ -82,13 +90,9 @@
         {
           "count": 1,
           "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3194"
         }
       ],
-      "type": "Highest Win Rate Build (36% win - 1436 games)"
+      "type": "Highest Win Rate Build (43% win - 132 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WQE (48% win - 2828 games)"
+      "type": "Consumables WEQ -> WQE (49% win - 999 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (53% win - 284 games)"
+      "type": "WQE -> WQE (50% win - 147 games)"
     }
   ],
   "champion": "Volibear",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 7.24",
+  "title": "Jungle 8.1",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 23110 games)"
+      "type": "Most Frequent Starters (51% win - 10508 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 290 games)"
+      "type": "Highest Win Rate Starters (56% win - 114 games)"
     },
     {
       "items": [
@@ -63,10 +63,14 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (44% win - 5357 games)"
+      "type": "Most Frequent Build (41% win - 2378 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3165"
+        },
         {
           "count": 1,
           "id": "3285"
@@ -77,22 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
           "id": "3089"
         },
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (58% win - 125 games)"
+      "type": "Highest Win Rate Build (42% win - 662 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (53% win - 16107 games)"
+      "type": "Consumables QEW -> QEW (51% win - 6989 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (79% win - 324 games)"
+      "type": "QEW -> EQW (81% win - 152 games)"
     }
   ],
   "champion": "Ziggs",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.24",
+  "title": "Middle 8.1",
   "type": "custom"
 }

@@ -17,10 +17,18 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 13399 games)"
+      "type": "Most Frequent Starters (48% win - 5358 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1054"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        },
         {
           "count": 1,
           "id": "2033"
@@ -30,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 5625 games)"
+      "type": "Highest Win Rate Starters (56% win - 191 games)"
     },
     {
       "items": [
@@ -56,35 +64,39 @@
         },
         {
           "count": 1,
-          "id": "3194"
+          "id": "3109"
         }
       ],
-      "type": "Most Frequent Build (44% win - 2446 games)"
+      "type": "Most Frequent Build (41% win - 994 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3078"
+          "id": "3025"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3111"
         },
         {
-          "count": 2,
+          "count": 1,
+          "id": "3068"
+        },
+        {
+          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3742"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 127 games)"
+      "type": "Highest Win Rate Build (48% win - 108 games)"
     },
     {
       "items": [
@@ -121,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 15565 games)"
+      "type": "Consumables QEW -> QEW (49% win - 6573 games)"
     },
     {
       "items": [
@@ -142,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (58% win - 113 games)"
+      "type": "QEW -> QEW (60% win - 220 games)"
     }
   ],
   "champion": "Poppy",
@@ -152,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.24",
+  "title": "Top 8.1",
   "type": "custom"
 }

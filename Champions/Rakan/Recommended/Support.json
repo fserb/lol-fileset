@@ -17,28 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 44124 games)"
+      "type": "Most Frequent Starters (51% win - 25837 games)"
     },
     {
       "items": [
-        {
-          "count": 2,
-          "id": "2003"
-        },
         {
           "count": 1,
           "id": "2031"
         },
         {
           "count": 1,
-          "id": "3301"
+          "id": "3302"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (62% win - 53 games)"
+      "type": "Highest Win Rate Starters (59% win - 127 games)"
     },
     {
       "items": [
@@ -67,13 +63,17 @@
           "id": "2045"
         }
       ],
-      "type": "Most Frequent Build (35% win - 2505 games)"
+      "type": "Most Frequent Build (32% win - 1385 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3009"
+          "id": "2301"
+        },
+        {
+          "count": 1,
+          "id": "3117"
         },
         {
           "count": 1,
@@ -81,22 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3069"
-        },
-        {
-          "count": 1,
           "id": "3107"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 129 games)"
+      "type": "Highest Win Rate Build (40% win - 316 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WEQ (50% win - 8219 games)"
+      "type": "Consumables WEQ -> WEQ (52% win - 5305 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QEW (55% win - 787 games)"
+      "type": "WQE -> QEW (54% win - 1070 games)"
     }
   ],
   "champion": "Rakan",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 7.24",
+  "title": "Support 8.1",
   "type": "custom"
 }

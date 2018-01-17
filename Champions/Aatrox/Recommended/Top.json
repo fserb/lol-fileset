@@ -17,28 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 8283 games)"
+      "type": "Most Frequent Starters (50% win - 5020 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1054"
-        },
         {
           "count": 1,
           "id": "1055"
         },
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 117 games)"
+      "type": "Highest Win Rate Starters (52% win - 127 games)"
     },
     {
       "items": [
@@ -60,14 +52,14 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3812"
+          "id": "3068"
         }
       ],
-      "type": "Most Frequent Build (35% win - 1068 games)"
+      "type": "Most Frequent Build (38% win - 624 games)"
     },
     {
       "items": [
@@ -88,11 +80,15 @@
           "id": "3812"
         },
         {
-          "count": 2,
-          "id": "3091"
+          "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 185 games)"
+      "type": "Highest Win Rate Build (41% win - 113 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WEQ (52% win - 2168 games)"
+      "type": "Consumables WQE -> WEQ (51% win - 1306 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> EWQ (63% win - 101 games)"
+      "type": "WQE -> EWQ (57% win - 859 games)"
     }
   ],
   "champion": "Aatrox",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.24",
+  "title": "Top 8.1",
   "type": "custom"
 }

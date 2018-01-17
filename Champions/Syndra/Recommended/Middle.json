@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 40765 games)"
+      "type": "Most Frequent Starters (48% win - 18397 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1082"
+          "id": "1056"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 188 games)"
+      "type": "Highest Win Rate Starters (50% win - 50 games)"
     },
     {
       "items": [
@@ -63,13 +63,13 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (36% win - 8542 games)"
+      "type": "Most Frequent Build (37% win - 3623 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3285"
+          "id": "3157"
         },
         {
           "count": 1,
@@ -81,7 +81,7 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3151"
         },
         {
           "count": 1,
@@ -89,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 141 games)"
+      "type": "Highest Win Rate Build (40% win - 339 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (47% win - 17004 games)"
+      "type": "Consumables QWE -> QWE (47% win - 7121 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EWQ (81% win - 392 games)"
+      "type": "QEW -> QWE (80% win - 260 games)"
     }
   ],
   "champion": "Syndra",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 7.24",
+  "title": "Middle 8.1",
   "type": "custom"
 }

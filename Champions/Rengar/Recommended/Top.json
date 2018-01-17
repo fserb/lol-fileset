@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 8659 games)"
+      "type": "Most Frequent Starters (49% win - 3756 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 960 games)"
+      "type": "Highest Win Rate Starters (54% win - 429 games)"
     },
     {
       "items": [
@@ -60,39 +60,35 @@
         },
         {
           "count": 1,
-          "id": "3814"
+          "id": "3031"
         }
       ],
-      "type": "Most Frequent Build (34% win - 1712 games)"
+      "type": "Most Frequent Build (36% win - 727 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3147"
-        },
-        {
-          "count": 1,
-          "id": "3142"
-        },
-        {
-          "count": 1,
-          "id": "3814"
-        },
         {
           "count": 1,
           "id": "3071"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3147"
+        },
+        {
+          "count": 2,
+          "id": "3142"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 163 games)"
+      "type": "Highest Win Rate Build (40% win - 112 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 7523 games)"
+      "type": "Consumables QEW -> QEW (50% win - 3265 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (53% win - 225 games)"
+      "type": "QEW -> QWE (51% win - 101 games)"
     }
   ],
   "champion": "Rengar",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 7.24",
+  "title": "Top 8.1",
   "type": "custom"
 }
