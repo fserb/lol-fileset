@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 7761 games)"
+      "type": "Most Frequent Starters (54% win - 6031 games)"
     },
     {
       "items": [
@@ -26,19 +26,15 @@
           "id": "1056"
         },
         {
-          "count": 2,
-          "id": "2003"
-        },
-        {
           "count": 1,
-          "id": "3303"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 464 games)"
+      "type": "Highest Win Rate Starters (57% win - 115 games)"
     },
     {
       "items": [
@@ -67,21 +63,17 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (45% win - 1638 games)"
+      "type": "Most Frequent Build (47% win - 1357 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3092"
+          "id": "3165"
         },
         {
           "count": 1,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3165"
         },
         {
           "count": 1,
@@ -93,10 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 112 games)"
+      "type": "Highest Win Rate Build (47% win - 1357 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (53% win - 4371 games)"
+      "type": "Consumables WQE -> WQE (52% win - 3359 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QEW (84% win - 113 games)"
+      "type": "WQE -> QWE (80% win - 116 games)"
     }
   ],
   "champion": "Morgana",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.1",
+  "title": "Middle 8.2",
   "type": "custom"
 }

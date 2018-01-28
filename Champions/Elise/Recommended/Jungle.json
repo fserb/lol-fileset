@@ -17,57 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 20763 games)"
+      "type": "Most Frequent Starters (50% win - 13554 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1039"
-        },
         {
           "count": 1,
           "id": "1041"
         },
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 370 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "1402"
-        },
-        {
-          "count": 1,
-          "id": "3152"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        }
-      ],
-      "type": "Most Frequent Build (48% win - 2065 games)"
+      "type": "Highest Win Rate Starters (51% win - 212 games)"
     },
     {
       "items": [
@@ -96,7 +59,36 @@
           "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 2062 games)"
+      "type": "Most Frequent Build (44% win - 1275 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "1414"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        }
+      ],
+      "type": "Highest Win Rate Build (45% win - 972 games)"
     },
     {
       "items": [
@@ -133,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QWE (50% win - 23496 games)"
+      "type": "Consumables WQE -> QWE (50% win - 14954 games)"
     },
     {
       "items": [
@@ -154,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EQW (55% win - 438 games)"
+      "type": "WQE -> QEW (58% win - 274 games)"
     }
   ],
   "champion": "Elise",
@@ -164,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.1",
+  "title": "Jungle 8.2",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 18595 games)"
+      "type": "Most Frequent Starters (50% win - 14483 games)"
     },
     {
       "items": [
@@ -30,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 156 games)"
+      "type": "Highest Win Rate Starters (58% win - 67 games)"
     },
     {
       "items": [
@@ -51,15 +51,11 @@
           "id": "3800"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (40% win - 3419 games)"
+      "type": "Most Frequent Build (41% win - 2843 games)"
     },
     {
       "items": [
@@ -73,11 +69,7 @@
         },
         {
           "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3143"
+          "id": "3800"
         },
         {
           "count": 1,
@@ -85,10 +77,14 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3194"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 178 games)"
+      "type": "Highest Win Rate Build (54% win - 135 games)"
     },
     {
       "items": [
@@ -125,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 17395 games)"
+      "type": "Consumables QWE -> QWE (50% win - 13843 games)"
     },
     {
       "items": [
@@ -146,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQQE -> QWE (61% win - 295 games)"
+      "type": "WQE -> QWE (57% win - 1063 games)"
     }
   ],
   "champion": "Maokai",
@@ -156,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.1",
+  "title": "Top 8.2",
   "type": "custom"
 }

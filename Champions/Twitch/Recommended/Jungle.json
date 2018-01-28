@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 6827 games)"
+      "type": "Most Frequent Starters (52% win - 5163 games)"
     },
     {
       "items": [
@@ -27,14 +27,14 @@
         },
         {
           "count": 1,
-          "id": "2003"
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 57 games)"
+      "type": "Highest Win Rate Starters (52% win - 5163 games)"
     },
     {
       "items": [
@@ -63,10 +63,14 @@
           "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (36% win - 1801 games)"
+      "type": "Most Frequent Build (38% win - 1607 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3006"
+        },
         {
           "count": 1,
           "id": "1419"
@@ -85,14 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
           "id": "3508"
         }
       ],
-      "type": "Highest Win Rate Build (38% win - 978 games)"
+      "type": "Highest Win Rate Build (44% win - 213 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (50% win - 9366 games)"
+      "type": "Consumables EQW -> EQW (51% win - 7089 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QEW (57% win - 116 games)"
+      "type": "EQW -> EQW (54% win - 134 games)"
     }
   ],
   "champion": "Twitch",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.1",
+  "title": "Jungle 8.2",
   "type": "custom"
 }

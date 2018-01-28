@@ -17,28 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 8203 games)"
+      "type": "Most Frequent Starters (49% win - 5268 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1041"
         },
         {
           "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 124 games)"
+      "type": "Highest Win Rate Starters (56% win - 62 games)"
     },
     {
       "items": [
@@ -67,36 +63,36 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (41% win - 1724 games)"
+      "type": "Most Frequent Build (41% win - 956 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3006"
-        },
         {
           "count": 1,
           "id": "3046"
         },
         {
           "count": 1,
-          "id": "3508"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3748"
+        },
+        {
+          "count": 1,
+          "id": "3812"
         },
         {
           "count": 1,
           "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 1403 games)"
+      "type": "Highest Win Rate Build (49% win - 203 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QEW (47% win - 3331 games)"
+      "type": "Consumables EQW -> QEW (47% win - 2226 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQE -> QEW (55% win - 165 games)"
+      "type": "QEW -> QWE (55% win - 194 games)"
     }
   ],
   "champion": "Tryndamere",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.1",
+  "title": "Top 8.2",
   "type": "custom"
 }

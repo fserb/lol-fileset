@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 36775 games)"
+      "type": "Most Frequent Starters (46% win - 22522 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2031"
+          "id": "1036"
         },
         {
-          "count": 1,
-          "id": "3302"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 1221 games)"
+      "type": "Highest Win Rate Starters (49% win - 281 games)"
     },
     {
       "items": [
@@ -63,7 +63,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (38% win - 4609 games)"
+      "type": "Most Frequent Build (38% win - 2544 games)"
     },
     {
       "items": [
@@ -73,7 +73,7 @@
         },
         {
           "count": 1,
-          "id": "3094"
+          "id": "3087"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3094"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3153"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 211 games)"
+      "type": "Highest Win Rate Build (48% win - 163 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (46% win - 35222 games)"
+      "type": "Consumables QEW -> QEW (46% win - 19196 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QEW (50% win - 263 games)"
+      "type": "QEQW -> QEW (47% win - 6973 games)"
     }
   ],
   "champion": "Lucian",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.1",
+  "title": "ADC 8.2",
   "type": "custom"
 }

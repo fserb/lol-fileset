@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 13185 games)"
+      "type": "Most Frequent Starters (52% win - 8683 games)"
     },
     {
       "items": [
@@ -27,14 +27,10 @@
         },
         {
           "count": 1,
-          "id": "2033"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 174 games)"
+      "type": "Highest Win Rate Starters (52% win - 1215 games)"
     },
     {
       "items": [
@@ -60,16 +56,16 @@
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (41% win - 2342 games)"
+      "type": "Most Frequent Build (41% win - 1480 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3512"
+          "id": "3078"
         },
         {
           "count": 1,
@@ -77,22 +73,22 @@
         },
         {
           "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
           "id": "3053"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 104 games)"
+      "type": "Highest Win Rate Build (47% win - 1213 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (51% win - 13433 games)"
+      "type": "Consumables QEW -> QEW (52% win - 8373 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQE -> QEW (63% win - 118 games)"
+      "type": "QEW -> EWQ (57% win - 275 games)"
     }
   ],
   "champion": "Yorick",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.1",
+  "title": "Top 8.2",
   "type": "custom"
 }

@@ -17,24 +17,28 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 9567 games)"
+      "type": "Most Frequent Starters (51% win - 7717 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1054"
         },
         {
           "count": 1,
-          "id": "2031"
+          "id": "1055"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 175 games)"
+      "type": "Highest Win Rate Starters (57% win - 119 games)"
     },
     {
       "items": [
@@ -63,13 +67,13 @@
           "id": "3033"
         }
       ],
-      "type": "Most Frequent Build (47% win - 3330 games)"
+      "type": "Most Frequent Build (47% win - 2918 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3022"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -77,11 +81,11 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3022"
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3812"
         },
         {
           "count": 1,
@@ -89,10 +93,10 @@
         },
         {
           "count": 1,
-          "id": "3812"
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 196 games)"
+      "type": "Highest Win Rate Build (48% win - 2694 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 8869 games)"
+      "type": "Consumables QWE -> QWE (52% win - 7932 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (55% win - 293 games)"
+      "type": "QWE -> WQE (59% win - 254 games)"
     }
   ],
   "champion": "Urgot",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.1",
+  "title": "Top 8.2",
   "type": "custom"
 }

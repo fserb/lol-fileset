@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 5492 games)"
+      "type": "Most Frequent Starters (50% win - 7330 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 591 games)"
+      "type": "Highest Win Rate Starters (54% win - 1555 games)"
     },
     {
       "items": [
@@ -56,32 +56,28 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (42% win - 730 games)"
+      "type": "Most Frequent Build (43% win - 843 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3027"
+          "id": "3152"
         },
         {
           "count": 1,
           "id": "3020"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         },
         {
           "count": 1,
@@ -92,7 +88,7 @@
           "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 356 games)"
+      "type": "Highest Win Rate Build (49% win - 178 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (51% win - 3169 games)"
+      "type": "Consumables QEW -> QEW (50% win - 3764 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (74% win - 104 games)"
+      "type": "QEW -> QEW (80% win - 110 games)"
     }
   ],
   "champion": "Galio",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.1",
+  "title": "Middle 8.2",
   "type": "custom"
 }

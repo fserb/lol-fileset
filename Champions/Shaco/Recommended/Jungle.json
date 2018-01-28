@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 26030 games)"
+      "type": "Most Frequent Starters (52% win - 17368 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 3904 games)"
+      "type": "Highest Win Rate Starters (57% win - 3339 games)"
     },
     {
       "items": [
@@ -60,20 +60,28 @@
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (39% win - 1901 games)"
+      "type": "Most Frequent Build (41% win - 1439 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3009"
+          "id": "3147"
         },
         {
           "count": 1,
-          "id": "3147"
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3142"
+        },
+        {
+          "count": 1,
+          "id": "3031"
         },
         {
           "count": 1,
@@ -81,18 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3194"
-        },
-        {
-          "count": 1,
           "id": "3074"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 397 games)"
+      "type": "Highest Win Rate Build (44% win - 517 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QEW (50% win - 6656 games)"
+      "type": "Consumables WQE -> QEW (52% win - 4367 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> EQW (61% win - 344 games)"
+      "type": "WEQ -> EQW (57% win - 1131 games)"
     }
   ],
   "champion": "Shaco",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.1",
+  "title": "Jungle 8.2",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 9417 games)"
+      "type": "Most Frequent Starters (49% win - 9167 games)"
     },
     {
       "items": [
@@ -30,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 144 games)"
+      "type": "Highest Win Rate Starters (55% win - 68 games)"
     },
     {
       "items": [
@@ -56,20 +56,24 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3001"
         }
       ],
-      "type": "Most Frequent Build (36% win - 1072 games)"
+      "type": "Most Frequent Build (36% win - 1055 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3800"
+          "id": "3001"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3800"
         },
         {
           "count": 1,
@@ -81,14 +85,10 @@
         },
         {
           "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3075"
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 790 games)"
+      "type": "Highest Win Rate Build (46% win - 430 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (49% win - 3692 games)"
+      "type": "Consumables EWQ -> EWQ (52% win - 4032 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (57% win - 353 games)"
+      "type": "QEW -> WEQ (65% win - 151 games)"
     }
   ],
   "champion": "Chogath",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.1",
+  "title": "Top 8.2",
   "type": "custom"
 }

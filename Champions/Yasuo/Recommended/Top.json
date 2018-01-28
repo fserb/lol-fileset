@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 48107 games)"
+      "type": "Most Frequent Starters (51% win - 29869 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "1036"
+          "count": 2,
+          "id": "1055"
         },
         {
-          "count": 3,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 115 games)"
+      "type": "Highest Win Rate Starters (51% win - 1282 games)"
     },
     {
       "items": [
@@ -56,24 +56,24 @@
         },
         {
           "count": 1,
-          "id": "3022"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3022"
         }
       ],
-      "type": "Most Frequent Build (41% win - 10313 games)"
+      "type": "Most Frequent Build (40% win - 6631 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3046"
+          "id": "3087"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3006"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3022"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 10313 games)"
+      "type": "Highest Win Rate Build (43% win - 321 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (51% win - 36477 games)"
+      "type": "Consumables QEW -> QEW (50% win - 23394 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQE -> EQW (55% win - 553 games)"
+      "type": "QEW -> EQW (54% win - 767 games)"
     }
   ],
   "champion": "Yasuo",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.1",
+  "title": "Top 8.2",
   "type": "custom"
 }

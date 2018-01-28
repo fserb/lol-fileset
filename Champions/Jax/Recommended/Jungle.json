@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 28278 games)"
+      "type": "Most Frequent Starters (52% win - 23161 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1006"
+        },
         {
           "count": 1,
           "id": "1041"
         },
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 28278 games)"
+      "type": "Highest Win Rate Starters (54% win - 286 games)"
     },
     {
       "items": [
@@ -63,17 +63,13 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (38% win - 3379 games)"
+      "type": "Most Frequent Build (39% win - 2482 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1409"
-        },
-        {
-          "count": 1,
-          "id": "3111"
+          "id": "1413"
         },
         {
           "count": 1,
@@ -81,7 +77,11 @@
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3053"
         },
         {
           "count": 1,
@@ -89,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 120 games)"
+      "type": "Highest Win Rate Build (47% win - 284 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> WQE (52% win - 14661 games)"
+      "type": "Consumables EWQ -> WQE (51% win - 11826 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> QWE (59% win - 522 games)"
+      "type": "EWQ -> EWQ (61% win - 374 games)"
     }
   ],
   "champion": "Jax",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.1",
+  "title": "Jungle 8.2",
   "type": "custom"
 }

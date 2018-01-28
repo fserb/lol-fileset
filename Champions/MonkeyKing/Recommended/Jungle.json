@@ -6,18 +6,18 @@
       "items": [
         {
           "count": 1,
-          "id": "1039"
+          "id": "1041"
         },
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 2747 games)"
+      "type": "Most Frequent Starters (53% win - 2212 games)"
     },
     {
       "items": [
@@ -30,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 155 games)"
+      "type": "Highest Win Rate Starters (55% win - 145 games)"
     },
     {
       "items": [
@@ -52,20 +52,24 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3814"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (39% win - 705 games)"
+      "type": "Most Frequent Build (37% win - 537 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "1400"
         },
         {
           "count": 1,
@@ -77,18 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
           "id": "3026"
         },
         {
           "count": 1,
-          "id": "3814"
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 146 games)"
+      "type": "Highest Win Rate Build (43% win - 225 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (52% win - 5207 games)"
+      "type": "Consumables EWQ -> EQW (53% win - 3985 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (57% win - 110 games)"
+      "type": "EQW -> EQW (57% win - 111 games)"
     }
   ],
   "champion": "MonkeyKing",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.1",
+  "title": "Jungle 8.2",
   "type": "custom"
 }

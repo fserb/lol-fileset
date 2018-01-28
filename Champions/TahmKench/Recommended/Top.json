@@ -6,18 +6,14 @@
       "items": [
         {
           "count": 1,
-          "id": "1054"
-        },
-        {
-          "count": 1,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 2872 games)"
+      "type": "Most Frequent Starters (50% win - 1770 games)"
     },
     {
       "items": [
@@ -27,14 +23,10 @@
         },
         {
           "count": 1,
-          "id": "3302"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 113 games)"
+      "type": "Highest Win Rate Starters (50% win - 1770 games)"
     },
     {
       "items": [
@@ -56,24 +48,28 @@
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3107"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3190"
         }
       ],
-      "type": "Most Frequent Build (36% win - 506 games)"
+      "type": "Most Frequent Build (34% win - 349 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3068"
+        },
         {
           "count": 1,
           "id": "3009"
         },
         {
           "count": 1,
-          "id": "3068"
+          "id": "3742"
         },
         {
           "count": 1,
@@ -86,13 +82,9 @@
         {
           "count": 1,
           "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 134 games)"
+      "type": "Highest Win Rate Build (45% win - 102 games)"
     },
     {
       "items": [
@@ -129,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 5611 games)"
+      "type": "Consumables QWE -> QWE (49% win - 3188 games)"
     },
     {
       "items": [
@@ -150,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WEQ (57% win - 178 games)"
+      "type": "QWE -> QWE (53% win - 104 games)"
     }
   ],
   "champion": "TahmKench",
@@ -160,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.1",
+  "title": "Top 8.2",
   "type": "custom"
 }

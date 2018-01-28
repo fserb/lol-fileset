@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 38126 games)"
+      "type": "Most Frequent Starters (51% win - 38346 games)"
     },
     {
       "items": [
@@ -30,7 +30,7 @@
           "id": "2031"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3302"
         },
         {
@@ -38,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 120 games)"
+      "type": "Highest Win Rate Starters (54% win - 382 games)"
     },
     {
       "items": [
@@ -48,7 +48,7 @@
         },
         {
           "count": 1,
-          "id": "2303"
+          "id": "3401"
         },
         {
           "count": 1,
@@ -64,20 +64,20 @@
         },
         {
           "count": 1,
-          "id": "3050"
+          "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (45% win - 8772 games)"
+      "type": "Most Frequent Build (45% win - 11717 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2303"
+          "id": "3009"
         },
         {
           "count": 1,
-          "id": "3117"
+          "id": "3401"
         },
         {
           "count": 1,
@@ -89,14 +89,14 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3800"
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 1209 games)"
+      "type": "Highest Win Rate Build (46% win - 115 games)"
     },
     {
       "items": [
@@ -133,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 38696 games)"
+      "type": "Consumables QWE -> QWE (51% win - 39504 games)"
     },
     {
       "items": [
@@ -154,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (51% win - 38696 games)"
+      "type": "QWE -> WQE (53% win - 932 games)"
     }
   ],
   "champion": "Alistar",
@@ -164,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.1",
+  "title": "Support 8.2",
   "type": "custom"
 }

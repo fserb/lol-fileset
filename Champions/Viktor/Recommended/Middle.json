@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 12574 games)"
+      "type": "Most Frequent Starters (46% win - 8064 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1082"
-        },
-        {
-          "count": 1,
-          "id": "2031"
+          "id": "1056"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 112 games)"
+      "type": "Highest Win Rate Starters (50% win - 51 games)"
     },
     {
       "items": [
@@ -63,14 +59,10 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (37% win - 1857 games)"
+      "type": "Most Frequent Build (38% win - 1102 games)"
     },
     {
       "items": [
-        {
-          "count": 2,
-          "id": "3100"
-        },
         {
           "count": 1,
           "id": "3198"
@@ -81,14 +73,22 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3100"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3285"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 124 games)"
+      "type": "Highest Win Rate Build (39% win - 1042 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEEW -> EQW (48% win - 6111 games)"
+      "type": "Consumables QEEW -> EQW (48% win - 3920 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEQ -> EQW (75% win - 112 games)"
+      "type": "QEEW -> EQW (69% win - 101 games)"
     }
   ],
   "champion": "Viktor",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.1",
+  "title": "Middle 8.2",
   "type": "custom"
 }

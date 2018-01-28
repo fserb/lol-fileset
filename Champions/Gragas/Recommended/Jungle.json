@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 6331 games)"
+      "type": "Most Frequent Starters (48% win - 4880 games)"
     },
     {
       "items": [
@@ -26,15 +26,11 @@
           "id": "1039"
         },
         {
-          "count": 2,
-          "id": "2003"
-        },
-        {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 53 games)"
+      "type": "Highest Win Rate Starters (48% win - 287 games)"
     },
     {
       "items": [
@@ -56,24 +52,24 @@
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (36% win - 832 games)"
+      "type": "Most Frequent Build (31% win - 550 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3158"
+          "id": "1401"
         },
         {
           "count": 1,
-          "id": "1402"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -81,18 +77,18 @@
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3800"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (38% win - 119 games)"
+      "type": "Highest Win Rate Build (44% win - 179 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (48% win - 2929 games)"
+      "type": "Consumables QWE -> QWE (45% win - 1918 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (62% win - 159 games)"
+      "type": "WQE -> EQW (58% win - 162 games)"
     }
   ],
   "champion": "Gragas",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.1",
+  "title": "Jungle 8.2",
   "type": "custom"
 }

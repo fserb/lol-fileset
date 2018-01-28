@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 41576 games)"
+      "type": "Most Frequent Starters (52% win - 30626 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1082"
         },
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 190 games)"
+      "type": "Highest Win Rate Starters (54% win - 75 games)"
     },
     {
       "items": [
@@ -63,36 +63,24 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (44% win - 10820 games)"
+      "type": "Most Frequent Build (43% win - 8174 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 2,
           "id": "3285"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3165"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 205 games)"
+      "type": "Highest Win Rate Build (58% win - 124 games)"
     },
     {
       "items": [
@@ -129,7 +117,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (51% win - 13689 games)"
+      "type": "Consumables QEW -> QWE (52% win - 9355 games)"
     },
     {
       "items": [
@@ -150,7 +138,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (79% win - 467 games)"
+      "type": "QEW -> EWQ (80% win - 330 games)"
     }
   ],
   "champion": "Ahri",
@@ -160,6 +148,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.1",
+  "title": "Middle 8.2",
   "type": "custom"
 }

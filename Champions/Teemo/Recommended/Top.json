@@ -17,24 +17,28 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 20910 games)"
+      "type": "Most Frequent Starters (51% win - 13748 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1082"
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
-          "id": "2031"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 573 games)"
+      "type": "Highest Win Rate Starters (59% win - 150 games)"
     },
     {
       "items": [
@@ -60,24 +64,20 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3116"
         }
       ],
-      "type": "Most Frequent Build (46% win - 3147 games)"
+      "type": "Most Frequent Build (47% win - 2075 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3092"
+          "id": "3111"
         },
         {
           "count": 1,
           "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3020"
         },
         {
           "count": 1,
@@ -89,10 +89,14 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3100"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 268 games)"
+      "type": "Highest Win Rate Build (47% win - 159 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (52% win - 10863 games)"
+      "type": "Consumables EQW -> EQW (52% win - 6894 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (60% win - 229 games)"
+      "type": "QEW -> EQW (60% win - 104 games)"
     }
   ],
   "champion": "Teemo",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.1",
+  "title": "Top 8.2",
   "type": "custom"
 }

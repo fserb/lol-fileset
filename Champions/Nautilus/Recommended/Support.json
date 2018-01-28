@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 5068 games)"
+      "type": "Most Frequent Starters (49% win - 4349 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2031"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 1484 games)"
+      "type": "Highest Win Rate Starters (49% win - 4349 games)"
     },
     {
       "items": [
@@ -52,28 +52,28 @@
         },
         {
           "count": 1,
-          "id": "2045"
+          "id": "3109"
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3193"
         },
         {
           "count": 1,
           "id": "3083"
         }
       ],
-      "type": "Most Frequent Build (37% win - 499 games)"
+      "type": "Most Frequent Build (33% win - 710 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2303"
+          "id": "3117"
         },
         {
           "count": 1,
-          "id": "3117"
+          "id": "3401"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3107"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 197 games)"
+      "type": "Highest Win Rate Build (41% win - 428 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> EWQ (51% win - 1071 games)"
+      "type": "Consumables QEW -> EWQ (50% win - 909 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EQW (55% win - 239 games)"
+      "type": "QWE -> EWQ (54% win - 202 games)"
     }
   ],
   "champion": "Nautilus",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.1",
+  "title": "Support 8.2",
   "type": "custom"
 }

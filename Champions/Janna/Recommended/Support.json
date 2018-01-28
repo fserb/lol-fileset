@@ -10,14 +10,14 @@
         },
         {
           "count": 1,
-          "id": "3301"
+          "id": "3303"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 31013 games)"
+      "type": "Most Frequent Starters (55% win - 35318 games)"
     },
     {
       "items": [
@@ -27,18 +27,10 @@
         },
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
-          "id": "3301"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (61% win - 262 games)"
+      "type": "Highest Win Rate Starters (60% win - 209 games)"
     },
     {
       "items": [
@@ -56,18 +48,18 @@
         },
         {
           "count": 1,
-          "id": "2302"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3092"
         },
         {
           "count": 1,
           "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (41% win - 5030 games)"
+      "type": "Most Frequent Build (43% win - 6247 games)"
     },
     {
       "items": [
@@ -89,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "2045"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 500 games)"
+      "type": "Highest Win Rate Build (44% win - 4495 games)"
     },
     {
       "items": [
@@ -133,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (53% win - 20850 games)"
+      "type": "Consumables EWQ -> EWQ (51% win - 20812 games)"
     },
     {
       "items": [
@@ -154,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQWE -> WEQ (59% win - 732 games)"
+      "type": "EWWQ -> WEQ (58% win - 697 games)"
     }
   ],
   "champion": "Janna",
@@ -164,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.1",
+  "title": "Support 8.2",
   "type": "custom"
 }

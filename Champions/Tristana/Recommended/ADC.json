@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 42547 games)"
+      "type": "Most Frequent Starters (52% win - 82650 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2003"
+          "id": "1055"
         },
         {
-          "count": 1,
-          "id": "3302"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 156 games)"
+      "type": "Highest Win Rate Starters (56% win - 252 games)"
     },
     {
       "items": [
@@ -63,7 +63,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (42% win - 13416 games)"
+      "type": "Most Frequent Build (42% win - 16054 games)"
     },
     {
       "items": [
@@ -92,7 +92,7 @@
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 3554 games)"
+      "type": "Highest Win Rate Build (54% win - 4263 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (52% win - 42822 games)"
+      "type": "Consumables EWQ -> EQW (52% win - 60018 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEEQ -> EQW (55% win - 329 games)"
+      "type": "EWQ -> EQW (55% win - 329 games)"
     }
   ],
   "champion": "Tristana",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.1",
+  "title": "ADC 8.2",
   "type": "custom"
 }

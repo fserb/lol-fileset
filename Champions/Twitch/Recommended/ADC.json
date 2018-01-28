@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 24338 games)"
+      "type": "Most Frequent Starters (53% win - 30042 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
-        },
-        {
-          "count": 1,
-          "id": "2031"
+          "id": "3302"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (81% win - 54 games)"
+      "type": "Highest Win Rate Starters (62% win - 50 games)"
     },
     {
       "items": [
@@ -49,6 +45,35 @@
         {
           "count": 1,
           "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3087"
+        },
+        {
+          "count": 1,
+          "id": "3036"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        }
+      ],
+      "type": "Most Frequent Build (38% win - 6542 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3085"
+        },
+        {
+          "count": 1,
+          "id": "3006"
         },
         {
           "count": 1,
@@ -60,39 +85,10 @@
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (38% win - 7377 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3085"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 1,
-          "id": "3139"
-        }
-      ],
-      "type": "Highest Win Rate Build (52% win - 1043 games)"
+      "type": "Highest Win Rate Build (52% win - 1049 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (52% win - 21144 games)"
+      "type": "Consumables EWQ -> EQW (53% win - 21270 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEW -> EQW (56% win - 165 games)"
+      "type": "QWE -> EQW (58% win - 159 games)"
     }
   ],
   "champion": "Twitch",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.1",
+  "title": "ADC 8.2",
   "type": "custom"
 }
