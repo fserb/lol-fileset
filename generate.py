@@ -77,9 +77,12 @@ def getNewRunes(champ, role, obj):
   else:
     js = {}
 
-  js["%s/%s" % (champ, role)] = (
-    reduceRunes([ RIOT[x["name"]] for x in r["text1"]["runes"] ]) + " " +
-    reduceRunes([ RIOT[x["name"]] for x in r["text2"]["runes"] ], True))
+  try:
+    js["%s/%s" % (champ, role)] = (
+      reduceRunes([ RIOT[x["name"]] for x in r["text1"]["runes"] ]) + " " +
+      reduceRunes([ RIOT[x["name"]] for x in r["text2"]["runes"] ], True))
+  except:
+    pass
 
   json.dump(js, open(os.path.join('runes.json'), 'wt'),
     sort_keys=True, indent=2)

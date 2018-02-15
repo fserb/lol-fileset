@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1456 games)"
+      "type": "Most Frequent Starters (49% win - 2627 games)"
     },
     {
       "items": [
@@ -38,21 +38,17 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (65% win - 60 games)"
+      "type": "Highest Win Rate Starters (52% win - 172 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3092"
+          "id": "3157"
         },
         {
           "count": 1,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         },
         {
           "count": 1,
@@ -65,19 +61,19 @@
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3165"
         }
       ],
-      "type": "Most Frequent Build (41% win - 283 games)"
+      "type": "Most Frequent Build (32% win - 431 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3092"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -89,14 +85,18 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3092"
         },
         {
           "count": 1,
           "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 166 games)"
+      "type": "Highest Win Rate Build (47% win - 140 games)"
     },
     {
       "items": [
@@ -133,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (48% win - 655 games)"
+      "type": "Consumables EQW -> EQW (44% win - 1098 games)"
     },
     {
       "items": [
@@ -154,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQEW -> EQW (51% win - 527 games)"
+      "type": "EWEQ -> EQW (59% win - 130 games)"
     }
   ],
   "champion": "Fiddlesticks",
@@ -164,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.2",
+  "title": "Support 8.3",
   "type": "custom"
 }

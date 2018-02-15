@@ -17,13 +17,17 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 22795 games)"
+      "type": "Most Frequent Starters (49% win - 35273 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 216 games)"
+      "type": "Highest Win Rate Starters (51% win - 187 games)"
     },
     {
       "items": [
@@ -60,10 +64,10 @@
         },
         {
           "count": 1,
-          "id": "3050"
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (39% win - 3124 games)"
+      "type": "Most Frequent Build (38% win - 3774 games)"
     },
     {
       "items": [
@@ -77,22 +81,22 @@
         },
         {
           "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
           "id": "3107"
         },
         {
           "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 1,
           "id": "3092"
+        },
+        {
+          "count": 1,
+          "id": "3190"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 103 games)"
+      "type": "Highest Win Rate Build (45% win - 295 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 5947 games)"
+      "type": "Consumables QWE -> QWE (49% win - 9024 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QWE (59% win - 106 games)"
+      "type": "EQW -> EQW (52% win - 122 games)"
     }
   ],
   "champion": "Morgana",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.2",
+  "title": "Support 8.3",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 6839 games)"
+      "type": "Most Frequent Starters (49% win - 9070 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1041"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 6839 games)"
+      "type": "Highest Win Rate Starters (49% win - 679 games)"
     },
     {
       "items": [
@@ -60,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3087"
         }
       ],
-      "type": "Most Frequent Build (36% win - 412 games)"
+      "type": "Most Frequent Build (32% win - 541 games)"
     },
     {
       "items": [
@@ -76,15 +76,23 @@
           "id": "1412"
         },
         {
-          "count": 2,
+          "count": 1,
+          "id": "3087"
+        },
+        {
+          "count": 1,
           "id": "3047"
         },
         {
-          "count": 2,
-          "id": "3142"
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3074"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 101 games)"
+      "type": "Highest Win Rate Build (45% win - 118 games)"
     },
     {
       "items": [
@@ -121,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 2449 games)"
+      "type": "Consumables QEW -> QEW (49% win - 3236 games)"
     },
     {
       "items": [
@@ -142,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QEW (52% win - 105 games)"
+      "type": "QWE -> WQE (56% win - 102 games)"
     }
   ],
   "champion": "Nocturne",
@@ -152,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.2",
+  "title": "Jungle 8.3",
   "type": "custom"
 }

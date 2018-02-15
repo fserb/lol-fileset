@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 1522 games)"
+      "type": "Most Frequent Starters (47% win - 1746 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 158 games)"
+      "type": "Highest Win Rate Starters (47% win - 1746 games)"
     },
     {
       "items": [
@@ -67,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 772 games)"
+      "type": "Consumables QEW -> QEW (46% win - 902 games)"
     },
     {
       "items": [
@@ -88,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (54% win - 113 games)"
+      "type": "QEW -> EWQ (51% win - 136 games)"
     }
   ],
   "champion": "Gragas",
@@ -98,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.2",
+  "title": "Top 8.3",
   "type": "custom"
 }

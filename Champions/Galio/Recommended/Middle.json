@@ -17,13 +17,21 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 7330 games)"
+      "type": "Most Frequent Starters (51% win - 23667 games)"
     },
     {
       "items": [
         {
           "count": 1,
+          "id": "1056"
+        },
+        {
+          "count": 1,
           "id": "1082"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -34,7 +42,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 1555 games)"
+      "type": "Highest Win Rate Starters (53% win - 281 games)"
     },
     {
       "items": [
@@ -63,20 +71,20 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (43% win - 843 games)"
+      "type": "Most Frequent Build (42% win - 3154 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3020"
+        },
         {
           "count": 1,
           "id": "3152"
         },
         {
           "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 2,
           "id": "3151"
         },
         {
@@ -86,9 +94,13 @@
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 178 games)"
+      "type": "Highest Win Rate Build (54% win - 141 games)"
     },
     {
       "items": [
@@ -125,7 +137,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 3764 games)"
+      "type": "Consumables QEW -> QEW (49% win - 10828 games)"
     },
     {
       "items": [
@@ -146,7 +158,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (80% win - 110 games)"
+      "type": "QEW -> EQW (83% win - 245 games)"
     }
   ],
   "champion": "Galio",
@@ -156,6 +168,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.2",
+  "title": "Middle 8.3",
   "type": "custom"
 }

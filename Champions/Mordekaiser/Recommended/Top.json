@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 2456 games)"
+      "type": "Most Frequent Starters (47% win - 3244 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1082"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 448 games)"
+      "type": "Highest Win Rate Starters (57% win - 292 games)"
     },
     {
       "items": [
@@ -60,24 +60,16 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (38% win - 226 games)"
+      "type": "Most Frequent Build (43% win - 301 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3146"
-        },
-        {
-          "count": 1,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3116"
         },
         {
           "count": 1,
@@ -85,14 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3742"
         }
       ],
-      "type": "Highest Win Rate Build (38% win - 226 games)"
+      "type": "Highest Win Rate Build (48% win - 132 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> WQE (52% win - 742 games)"
+      "type": "Consumables EWQ -> WQE (51% win - 1074 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> WQE (56% win - 162 games)"
+      "type": "EWQ -> WQE (54% win - 102 games)"
     }
   ],
   "champion": "Mordekaiser",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.2",
+  "title": "Top 8.3",
   "type": "custom"
 }

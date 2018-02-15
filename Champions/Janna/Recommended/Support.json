@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 35318 games)"
+      "type": "Most Frequent Starters (54% win - 52009 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "1004"
+        },
+        {
+          "count": 1,
+          "id": "3303"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 209 games)"
+      "type": "Highest Win Rate Starters (61% win - 249 games)"
     },
     {
       "items": [
@@ -59,17 +63,13 @@
           "id": "3222"
         }
       ],
-      "type": "Most Frequent Build (43% win - 6247 games)"
+      "type": "Most Frequent Build (44% win - 11984 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3092"
-        },
-        {
-          "count": 1,
-          "id": "3117"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -81,14 +81,18 @@
         },
         {
           "count": 1,
+          "id": "3174"
+        },
+        {
+          "count": 1,
           "id": "3190"
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3092"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 4495 games)"
+      "type": "Highest Win Rate Build (57% win - 114 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (51% win - 20812 games)"
+      "type": "Consumables EWQ -> EWQ (51% win - 26835 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWWQ -> WEQ (58% win - 697 games)"
+      "type": "WEWQ -> WEQ (57% win - 4436 games)"
     }
   ],
   "champion": "Janna",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.2",
+  "title": "Support 8.3",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 25827 games)"
+      "type": "Most Frequent Starters (50% win - 27450 games)"
     },
     {
       "items": [
@@ -27,10 +27,18 @@
         },
         {
           "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2055"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 405 games)"
+      "type": "Highest Win Rate Starters (56% win - 108 games)"
     },
     {
       "items": [
@@ -56,20 +64,24 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (39% win - 4659 games)"
+      "type": "Most Frequent Build (39% win - 5048 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "3117"
         },
         {
           "count": 1,
           "id": "1402"
+        },
+        {
+          "count": 1,
+          "id": "3152"
         },
         {
           "count": 1,
@@ -82,13 +94,9 @@
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 468 games)"
+      "type": "Highest Win Rate Build (43% win - 1594 games)"
     },
     {
       "items": [
@@ -125,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 12033 games)"
+      "type": "Consumables QWE -> QWE (50% win - 13804 games)"
     },
     {
       "items": [
@@ -146,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (60% win - 438 games)"
+      "type": "QWE -> EQW (56% win - 397 games)"
     }
   ],
   "champion": "Evelynn",
@@ -156,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.2",
+  "title": "Jungle 8.3",
   "type": "custom"
 }

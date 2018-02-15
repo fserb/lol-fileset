@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 4275 games)"
+      "type": "Most Frequent Starters (49% win - 5444 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1082"
-        },
         {
           "count": 1,
           "id": "2031"
         },
         {
           "count": 1,
+          "id": "3303"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 166 games)"
+      "type": "Highest Win Rate Starters (59% win - 59 games)"
     },
     {
       "items": [
@@ -53,46 +53,46 @@
         {
           "count": 1,
           "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3116"
         },
         {
           "count": 1,
           "id": "3135"
-        }
-      ],
-      "type": "Most Frequent Build (46% win - 541 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3116"
         },
         {
           "count": 1,
           "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 106 games)"
+      "type": "Most Frequent Build (44% win - 761 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        }
+      ],
+      "type": "Highest Win Rate Build (44% win - 761 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (51% win - 1955 games)"
+      "type": "Consumables QEW -> QWE (49% win - 2634 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> WQE (60% win - 138 games)"
+      "type": "QWE -> WEQ (56% win - 119 games)"
     }
   ],
   "champion": "Heimerdinger",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.2",
+  "title": "Top 8.3",
   "type": "custom"
 }

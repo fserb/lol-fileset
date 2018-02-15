@@ -13,24 +13,28 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 16668 games)"
+      "type": "Most Frequent Starters (49% win - 20236 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1054"
         },
         {
-          "count": 3,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 55 games)"
+      "type": "Highest Win Rate Starters (50% win - 252 games)"
     },
     {
       "items": [
@@ -56,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (41% win - 3674 games)"
+      "type": "Most Frequent Build (41% win - 4946 games)"
     },
     {
       "items": [
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
           "id": "3053"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 2398 games)"
+      "type": "Highest Win Rate Build (41% win - 3115 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> WQE (50% win - 5725 games)"
+      "type": "Consumables QEW -> WQE (50% win - 7529 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (55% win - 101 games)"
+      "type": "QEEW -> WEQ (58% win - 102 games)"
     }
   ],
   "champion": "Irelia",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.2",
+  "title": "Top 8.3",
   "type": "custom"
 }

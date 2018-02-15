@@ -13,20 +13,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 15565 games)"
+      "type": "Most Frequent Starters (52% win - 17000 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1036"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 15565 games)"
+      "type": "Highest Win Rate Starters (56% win - 368 games)"
     },
     {
       "items": [
@@ -55,7 +59,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (45% win - 3663 games)"
+      "type": "Most Frequent Build (43% win - 3821 games)"
     },
     {
       "items": [
@@ -81,10 +85,10 @@
         },
         {
           "count": 1,
-          "id": "3194"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 285 games)"
+      "type": "Highest Win Rate Build (51% win - 302 games)"
     },
     {
       "items": [
@@ -121,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> EQW (52% win - 3328 games)"
+      "type": "Consumables WEQ -> EQW (51% win - 3635 games)"
     },
     {
       "items": [
@@ -142,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> WQE (63% win - 140 games)"
+      "type": "WQE -> EQW (60% win - 107 games)"
     }
   ],
   "champion": "Illaoi",
@@ -152,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.2",
+  "title": "Top 8.3",
   "type": "custom"
 }

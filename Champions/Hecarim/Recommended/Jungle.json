@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 4972 games)"
+      "type": "Most Frequent Starters (50% win - 7097 games)"
     },
     {
       "items": [
@@ -26,19 +26,15 @@
           "id": "1039"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 193 games)"
+      "type": "Highest Win Rate Starters (53% win - 113 games)"
     },
     {
       "items": [
@@ -64,35 +60,39 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (35% win - 933 games)"
+      "type": "Most Frequent Build (35% win - 1227 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3009"
+        },
         {
           "count": 1,
           "id": "3078"
         },
         {
           "count": 1,
-          "id": "1413"
+          "id": "1401"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3065"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3742"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 275 games)"
+      "type": "Highest Win Rate Build (43% win - 270 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (49% win - 8380 games)"
+      "type": "Consumables QWE -> QEW (49% win - 11738 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (61% win - 238 games)"
+      "type": "QWE -> EQW (54% win - 268 games)"
     }
   ],
   "champion": "Hecarim",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.2",
+  "title": "Jungle 8.3",
   "type": "custom"
 }

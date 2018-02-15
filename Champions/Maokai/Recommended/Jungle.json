@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 2095 games)"
+      "type": "Most Frequent Starters (51% win - 2196 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 2095 games)"
+      "type": "Highest Win Rate Starters (51% win - 2196 games)"
     },
     {
       "items": [
@@ -56,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3512"
+          "id": "3083"
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (32% win - 277 games)"
+      "type": "Most Frequent Build (41% win - 286 games)"
     },
     {
       "items": [
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
           "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3800"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 255 games)"
+      "type": "Highest Win Rate Build (47% win - 229 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QWE (50% win - 2261 games)"
+      "type": "Consumables EQW -> QWE (50% win - 2517 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (60% win - 102 games)"
+      "type": "EQW -> WEQ (61% win - 104 games)"
     }
   ],
   "champion": "Maokai",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.2",
+  "title": "Jungle 8.3",
   "type": "custom"
 }
