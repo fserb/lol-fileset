@@ -17,13 +17,17 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 38260 games)"
+      "type": "Most Frequent Starters (49% win - 51673 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "1036"
+        },
+        {
+          "count": 1,
+          "id": "1054"
         },
         {
           "count": 4,
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (70% win - 50 games)"
+      "type": "Highest Win Rate Starters (61% win - 192 games)"
     },
     {
       "items": [
@@ -63,17 +67,13 @@
           "id": "3156"
         }
       ],
-      "type": "Most Frequent Build (39% win - 9473 games)"
+      "type": "Most Frequent Build (39% win - 12799 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3142"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -81,18 +81,22 @@
         },
         {
           "count": 1,
+          "id": "3142"
+        },
+        {
+          "count": 1,
           "id": "3071"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3036"
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3156"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 101 games)"
+      "type": "Highest Win Rate Build (41% win - 142 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (49% win - 33958 games)"
+      "type": "Consumables QWE -> QEW (49% win - 45481 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (82% win - 390 games)"
+      "type": "QEW -> QEW (81% win - 494 games)"
     }
   ],
   "champion": "Zed",

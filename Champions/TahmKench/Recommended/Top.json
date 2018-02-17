@@ -13,20 +13,28 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2513 games)"
+      "type": "Most Frequent Starters (50% win - 3359 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1054"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3302"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 2513 games)"
+      "type": "Highest Win Rate Starters (52% win - 153 games)"
     },
     {
       "items": [
@@ -55,32 +63,32 @@
           "id": "3190"
         }
       ],
-      "type": "Most Frequent Build (36% win - 441 games)"
+      "type": "Most Frequent Build (35% win - 575 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3111"
+        },
         {
           "count": 1,
           "id": "3068"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3194"
+        },
+        {
+          "count": 1,
+          "id": "3190"
         },
         {
           "count": 2,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3075"
+          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 152 games)"
+      "type": "Highest Win Rate Build (46% win - 132 games)"
     },
     {
       "items": [
@@ -117,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 4550 games)"
+      "type": "Consumables QWE -> QWE (50% win - 6133 games)"
     },
     {
       "items": [
@@ -138,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (63% win - 105 games)"
+      "type": "QWE -> WQE (58% win - 141 games)"
     }
   ],
   "champion": "TahmKench",

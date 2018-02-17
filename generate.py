@@ -112,8 +112,11 @@ def getSkills(obj):
 
 def buildSet(champ, role, outdir):
   print("Building for %s/%s" % (champ, role))
-
-  data = url("http://champion.gg/champion/%s/%s" % (champ, role))
+  try:
+    data = url("http://champion.gg/champion/%s/%s" % (champ, role))
+  except:
+    print("Can't download")
+    return
   # data = open('tmp/TeemoTop').read()
   page = PyQuery(data)
 
