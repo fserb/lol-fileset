@@ -17,82 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 6951 games)"
+      "type": "Most Frequent Starters (50% win - 977 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1082"
+          "id": "1056"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 521 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3102"
-        }
-      ],
-      "type": "Most Frequent Build (37% win - 706 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        }
-      ],
-      "type": "Highest Win Rate Build (43% win - 291 games)"
+      "type": "Highest Win Rate Starters (50% win - 977 games)"
     },
     {
       "items": [
@@ -129,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 3679 games)"
+      "type": "Consumables QEW -> QEW (46% win - 539 games)"
     },
     {
       "items": [
@@ -150,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EWQ (55% win - 143 games)"
+      "type": "QEW -> QWE (53% win - 279 games)"
     }
   ],
   "champion": "Galio",
@@ -160,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.3",
+  "title": "Top 8.4",
   "type": "custom"
 }

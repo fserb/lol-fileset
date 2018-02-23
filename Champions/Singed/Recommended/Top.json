@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 19827 games)"
+      "type": "Most Frequent Starters (53% win - 3579 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 19827 games)"
+      "type": "Highest Win Rate Starters (53% win - 3579 games)"
     },
     {
       "items": [
@@ -48,10 +48,6 @@
         },
         {
           "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
           "id": "3151"
         },
         {
@@ -60,20 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (40% win - 1399 games)"
+      "type": "Most Frequent Build (46% win - 250 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3111"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -81,7 +77,7 @@
         },
         {
           "count": 1,
-          "id": "3512"
+          "id": "3151"
         },
         {
           "count": 1,
@@ -90,9 +86,13 @@
         {
           "count": 1,
           "id": "3800"
+        },
+        {
+          "count": 1,
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (59% win - 161 games)"
+      "type": "Highest Win Rate Build (46% win - 250 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (54% win - 15958 games)"
+      "type": "Consumables QEQW -> QEW (54% win - 2948 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQE -> QEW (55% win - 308 games)"
+      "type": "QEQE -> QEW (57% win - 131 games)"
     }
   ],
   "champion": "Singed",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.3",
+  "title": "Top 8.4",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 34362 games)"
+      "type": "Most Frequent Starters (51% win - 4457 games)"
     },
     {
       "items": [
@@ -27,18 +27,14 @@
         },
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2055"
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 211 games)"
+      "type": "Highest Win Rate Starters (51% win - 4457 games)"
     },
     {
       "items": [
@@ -67,13 +63,13 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (30% win - 7071 games)"
+      "type": "Most Frequent Build (31% win - 759 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3031"
+          "id": "1412"
         },
         {
           "count": 1,
@@ -81,22 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
           "id": "3046"
         },
         {
           "count": 1,
-          "id": "3508"
-        },
-        {
-          "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 1,
-          "id": "3139"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 339 games)"
+      "type": "Highest Win Rate Build (46% win - 152 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 49411 games)"
+      "type": "Consumables QEW -> QEW (50% win - 6318 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (62% win - 143 games)"
+      "type": "QEW -> QEW (62% win - 145 games)"
     }
   ],
   "champion": "MasterYi",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.3",
+  "title": "Jungle 8.4",
   "type": "custom"
 }

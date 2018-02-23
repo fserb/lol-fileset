@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 33878 games)"
+      "type": "Most Frequent Starters (50% win - 4759 games)"
     },
     {
       "items": [
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "1055"
         },
         {
           "count": 1,
-          "id": "3302"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 141 games)"
+      "type": "Highest Win Rate Starters (50% win - 4759 games)"
     },
     {
       "items": [
@@ -56,20 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3091"
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (39% win - 6804 games)"
+      "type": "Most Frequent Build (39% win - 845 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3111"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3022"
+          "id": "3153"
         },
         {
           "count": 1,
-          "id": "3153"
+          "id": "3139"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 234 games)"
+      "type": "Highest Win Rate Build (43% win - 304 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (47% win - 22396 games)"
+      "type": "Consumables WQE -> WQE (50% win - 3029 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (52% win - 238 games)"
+      "type": "WQWQ -> WQE (56% win - 213 games)"
     }
   ],
   "champion": "KogMaw",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.3",
+  "title": "ADC 8.4",
   "type": "custom"
 }

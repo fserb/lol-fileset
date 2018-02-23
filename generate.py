@@ -183,14 +183,18 @@ def buildSet(champ, role, outdir):
         "items": getItems(obj["items"]["highestWinPercent"])
         })
 
-    mostSkill = "%s (%d%% win - %d games)" % (
-      getSkills(obj["skills"]["mostGames"]),
-      100*obj["skills"]["mostGames"].get('winPercent', 0),
-      obj["skills"]["mostGames"].get('games', 0))
-    highSkill = "%s (%d%% win - %d games)" % (
-      getSkills(obj["skills"]["highestWinPercent"]),
-      100*obj["skills"]["highestWinPercent"].get('winPercent', 0),
-      obj["skills"]["highestWinPercent"].get('games', 0))
+    mostSkill = highSkill = ""
+    if "skills" in obj and "mostGames" in obj["skills"]:
+      mostSkill = "%s (%d%% win - %d games)" % (
+        getSkills(obj["skills"]["mostGames"]),
+        100*obj["skills"]["mostGames"].get('winPercent', 0),
+        obj["skills"]["mostGames"].get('games', 0))
+
+    if "skills" in obj and "highestWinPercent" in obj["skills"]:
+      highSkill = "%s (%d%% win - %d games)" % (
+        getSkills(obj["skills"]["highestWinPercent"]),
+        100*obj["skills"]["highestWinPercent"].get('winPercent', 0),
+        obj["skills"]["highestWinPercent"].get('games', 0))
 
     out['blocks'].append({ "type": "Consumables %s" % mostSkill, "items": consumeItems})
     out['blocks'].append({ "type": highSkill, "items": trinketItems})

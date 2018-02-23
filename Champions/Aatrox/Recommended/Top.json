@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 9677 games)"
+      "type": "Most Frequent Starters (50% win - 1529 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1054"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (61% win - 202 games)"
+      "type": "Highest Win Rate Starters (53% win - 401 games)"
     },
     {
       "items": [
@@ -59,13 +63,13 @@
           "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (41% win - 1395 games)"
+      "type": "Most Frequent Build (35% win - 219 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3078"
+          "id": "3153"
         },
         {
           "count": 1,
@@ -73,18 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3071"
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3065"
         },
         {
-          "count": 2,
-          "id": "3046"
+          "count": 1,
+          "id": "3124"
+        },
+        {
+          "count": 1,
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 557 games)"
+      "type": "Highest Win Rate Build (42% win - 108 games)"
     },
     {
       "items": [
@@ -121,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WEQ (52% win - 3146 games)"
+      "type": "Consumables WQE -> WEQ (51% win - 554 games)"
     },
     {
       "items": [
@@ -142,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EWQ (59% win - 162 games)"
+      "type": "EWQ -> EWQ (56% win - 213 games)"
     }
   ],
   "champion": "Aatrox",
@@ -152,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.3",
+  "title": "Top 8.4",
   "type": "custom"
 }

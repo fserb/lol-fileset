@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 9578 games)"
+      "type": "Most Frequent Starters (51% win - 1215 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1083"
+          "id": "1056"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 50 games)"
+      "type": "Highest Win Rate Starters (51% win - 1215 games)"
     },
     {
       "items": [
@@ -60,17 +60,13 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3046"
         }
       ],
-      "type": "Most Frequent Build (44% win - 2130 games)"
+      "type": "Most Frequent Build (43% win - 262 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3124"
-        },
         {
           "count": 1,
           "id": "3115"
@@ -81,7 +77,7 @@
         },
         {
           "count": 1,
-          "id": "3085"
+          "id": "3124"
         },
         {
           "count": 1,
@@ -89,10 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3100"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 143 games)"
+      "type": "Highest Win Rate Build (45% win - 242 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (51% win - 4207 games)"
+      "type": "Consumables EQW -> EQW (49% win - 504 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> WQE (62% win - 182 games)"
+      "type": "EQW -> EQW (49% win - 504 games)"
     }
   ],
   "champion": "Kayle",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.3",
+  "title": "Top 8.4",
   "type": "custom"
 }
