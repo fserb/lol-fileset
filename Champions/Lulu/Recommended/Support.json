@@ -17,13 +17,17 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 13460 games)"
+      "type": "Most Frequent Starters (51% win - 45201 games)"
     },
     {
       "items": [
         {
           "count": 3,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3301"
         },
         {
           "count": 1,
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 13460 games)"
+      "type": "Highest Win Rate Starters (55% win - 200 games)"
     },
     {
       "items": [
@@ -60,24 +64,20 @@
         },
         {
           "count": 1,
-          "id": "3222"
+          "id": "3050"
         }
       ],
-      "type": "Most Frequent Build (42% win - 1995 games)"
+      "type": "Most Frequent Build (42% win - 6911 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3158"
-        },
         {
           "count": 1,
           "id": "3504"
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "3117"
         },
         {
           "count": 1,
@@ -89,10 +89,14 @@
         },
         {
           "count": 1,
-          "id": "3174"
+          "id": "3092"
+        },
+        {
+          "count": 1,
+          "id": "3050"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 320 games)"
+      "type": "Highest Win Rate Build (42% win - 6911 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EWQ (50% win - 6516 games)"
+      "type": "Consumables EQW -> EWQ (51% win - 21492 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQEW -> EWQ (51% win - 563 games)"
+      "type": "QEQW -> QEW (59% win - 231 games)"
     }
   ],
   "champion": "Lulu",

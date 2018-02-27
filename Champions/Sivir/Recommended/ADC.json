@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 4786 games)"
+      "type": "Most Frequent Starters (51% win - 15441 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1083"
         },
         {
           "count": 1,
@@ -34,7 +34,36 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 4786 games)"
+      "type": "Highest Win Rate Starters (54% win - 213 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3508"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3087"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3094"
+        },
+        {
+          "count": 1,
+          "id": "3036"
+        }
+      ],
+      "type": "Most Frequent Build (47% win - 3321 games)"
     },
     {
       "items": [
@@ -63,36 +92,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (47% win - 1003 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3508"
-        },
-        {
-          "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3036"
-        },
-        {
-          "count": 1,
-          "id": "3072"
-        }
-      ],
-      "type": "Highest Win Rate Build (49% win - 402 games)"
+      "type": "Highest Win Rate Build (47% win - 3318 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QWE (50% win - 1826 games)"
+      "type": "Consumables WQE -> QWE (52% win - 5483 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QWE (52% win - 1099 games)"
+      "type": "QWQE -> QWE (56% win - 212 games)"
     }
   ],
   "champion": "Sivir",

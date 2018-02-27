@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 636 games)"
+      "type": "Most Frequent Starters (51% win - 2315 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1036"
         },
         {
-          "count": 1,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -34,7 +34,65 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 636 games)"
+      "type": "Highest Win Rate Starters (53% win - 69 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3147"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3142"
+        },
+        {
+          "count": 1,
+          "id": "3087"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        }
+      ],
+      "type": "Most Frequent Build (38% win - 159 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3142"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3147"
+        },
+        {
+          "count": 1,
+          "id": "3087"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3036"
+        }
+      ],
+      "type": "Highest Win Rate Build (39% win - 149 games)"
     },
     {
       "items": [
@@ -71,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QEW (52% win - 248 games)"
+      "type": "Consumables EQW -> QEW (52% win - 828 games)"
     },
     {
       "items": [
@@ -92,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QEW (58% win - 102 games)"
+      "type": "QEW -> QWE (54% win - 171 games)"
     }
   ],
   "champion": "Quinn",

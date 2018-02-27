@@ -17,16 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 3753 games)"
+      "type": "Most Frequent Starters (52% win - 13176 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
         },
         {
           "count": 1,
+          "id": "1041"
+        },
+        {
+          "count": 2,
           "id": "2031"
         },
         {
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 244 games)"
+      "type": "Highest Win Rate Starters (59% win - 106 games)"
     },
     {
       "items": [
@@ -56,14 +60,14 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3194"
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (38% win - 393 games)"
+      "type": "Most Frequent Build (37% win - 1393 games)"
     },
     {
       "items": [
@@ -77,22 +81,22 @@
         },
         {
           "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
           "id": "3075"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3800"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3194"
+        },
+        {
+          "count": 1,
+          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 149 games)"
+      "type": "Highest Win Rate Build (45% win - 719 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> EWQ (54% win - 977 games)"
+      "type": "Consumables WQE -> QEW (55% win - 3275 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EQW (56% win - 473 games)"
+      "type": "EWQ -> QEW (59% win - 125 games)"
     }
   ],
   "champion": "Rammus",
