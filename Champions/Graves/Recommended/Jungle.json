@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 10338 games)"
+      "type": "Most Frequent Starters (48% win - 2264 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
+          "id": "1041"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 78 games)"
+      "type": "Highest Win Rate Starters (48% win - 2264 games)"
     },
     {
       "items": [
@@ -53,17 +53,17 @@
         {
           "count": 1,
           "id": "3142"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         },
         {
           "count": 1,
           "id": "3046"
+        },
+        {
+          "count": 1,
+          "id": "3812"
         }
       ],
-      "type": "Most Frequent Build (32% win - 1314 games)"
+      "type": "Most Frequent Build (32% win - 202 games)"
     },
     {
       "items": [
@@ -73,11 +73,11 @@
         },
         {
           "count": 1,
-          "id": "3147"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3147"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3046"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3812"
         }
       ],
-      "type": "Highest Win Rate Build (33% win - 557 games)"
+      "type": "Highest Win Rate Build (32% win - 202 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (46% win - 4519 games)"
+      "type": "Consumables QEW -> QEW (48% win - 1033 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (56% win - 109 games)"
+      "type": "EQQW -> QEW (49% win - 589 games)"
     }
   ],
   "champion": "Graves",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.4",
+  "title": "Jungle 8.5",
   "type": "custom"
 }

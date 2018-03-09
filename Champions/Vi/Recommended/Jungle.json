@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 19726 games)"
+      "type": "Most Frequent Starters (50% win - 3756 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 1368 games)"
+      "type": "Highest Win Rate Starters (54% win - 273 games)"
     },
     {
       "items": [
@@ -60,17 +60,13 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (38% win - 3585 games)"
+      "type": "Most Frequent Build (36% win - 648 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3117"
-        },
         {
           "count": 1,
           "id": "1400"
@@ -81,7 +77,7 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -89,10 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 151 games)"
+      "type": "Highest Win Rate Build (44% win - 178 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> QEW (50% win - 10071 games)"
+      "type": "Consumables WEQ -> QEW (52% win - 1859 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> QWE (55% win - 564 games)"
+      "type": "EWQ -> QEW (54% win - 241 games)"
     }
   ],
   "champion": "Vi",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.4",
+  "title": "Jungle 8.5",
   "type": "custom"
 }

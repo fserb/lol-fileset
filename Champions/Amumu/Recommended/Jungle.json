@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 10651 games)"
+      "type": "Most Frequent Starters (50% win - 2334 games)"
     },
     {
       "items": [
@@ -27,10 +27,14 @@
         },
         {
           "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 188 games)"
+      "type": "Highest Win Rate Starters (50% win - 2334 games)"
     },
     {
       "items": [
@@ -48,18 +52,18 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3151"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (41% win - 1526 games)"
+      "type": "Most Frequent Build (38% win - 252 games)"
     },
     {
       "items": [
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3151"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3116"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 1526 games)"
+      "type": "Highest Win Rate Build (38% win - 252 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> EQW (53% win - 2492 games)"
+      "type": "Consumables WEQ -> EQW (48% win - 502 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> EQW (69% win - 143 games)"
+      "type": "EWQ -> EWQ (56% win - 241 games)"
     }
   ],
   "champion": "Amumu",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.4",
+  "title": "Jungle 8.5",
   "type": "custom"
 }

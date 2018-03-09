@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 19147 games)"
+      "type": "Most Frequent Starters (50% win - 3040 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1082"
+          "id": "1056"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 282 games)"
+      "type": "Highest Win Rate Starters (50% win - 3040 games)"
     },
     {
       "items": [
@@ -44,7 +44,7 @@
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -63,17 +63,17 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (45% win - 1522 games)"
+      "type": "Most Frequent Build (37% win - 211 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3003"
+          "id": "3285"
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -89,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3905"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 264 games)"
+      "type": "Highest Win Rate Build (39% win - 172 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (50% win - 7760 games)"
+      "type": "Consumables EWQ -> EQW (48% win - 1247 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EWQ (87% win - 207 games)"
+      "type": "EQW -> EQW (53% win - 854 games)"
     }
   ],
   "champion": "Malzahar",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.4",
+  "title": "Middle 8.5",
   "type": "custom"
 }

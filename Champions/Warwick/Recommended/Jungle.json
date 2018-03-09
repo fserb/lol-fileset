@@ -17,28 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 48615 games)"
+      "type": "Most Frequent Starters (54% win - 10187 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1006"
+        },
         {
           "count": 1,
           "id": "1041"
         },
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2055"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 281 games)"
+      "type": "Highest Win Rate Starters (54% win - 10187 games)"
     },
     {
       "items": [
@@ -67,21 +63,21 @@
           "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (41% win - 4258 games)"
+      "type": "Most Frequent Build (39% win - 792 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1416"
-        },
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
           "id": "3748"
+        },
+        {
+          "count": 1,
+          "id": "1413"
+        },
+        {
+          "count": 1,
+          "id": "3047"
         },
         {
           "count": 1,
@@ -93,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 101 games)"
+      "type": "Highest Win Rate Build (53% win - 106 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (56% win - 13398 games)"
+      "type": "Consumables QWE -> WQE (55% win - 2690 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (62% win - 627 games)"
+      "type": "QWE -> WQE (55% win - 2690 games)"
     }
   ],
   "champion": "Warwick",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.4",
+  "title": "Jungle 8.5",
   "type": "custom"
 }

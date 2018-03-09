@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 2049 games)"
+      "type": "Most Frequent Starters (47% win - 2680 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
-        },
-        {
-          "count": 1,
-          "id": "2031"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 678 games)"
+      "type": "Highest Win Rate Starters (54% win - 168 games)"
     },
     {
       "items": [
@@ -52,18 +48,18 @@
         },
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3143"
+          "id": "3742"
         },
         {
           "count": 1,
           "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (26% win - 180 games)"
+      "type": "Most Frequent Build (29% win - 334 games)"
     },
     {
       "items": [
@@ -85,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3071"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (32% win - 125 games)"
+      "type": "Highest Win Rate Build (39% win - 205 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (46% win - 1207 games)"
+      "type": "Consumables QWE -> QEW (49% win - 2570 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QEW (55% win - 295 games)"
+      "type": "WQQE -> QEW (55% win - 113 games)"
     }
   ],
   "champion": "Olaf",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.4",
+  "title": "Jungle 8.5",
   "type": "custom"
 }

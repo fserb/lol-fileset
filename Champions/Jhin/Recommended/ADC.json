@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 26400 games)"
+      "type": "Most Frequent Starters (50% win - 13391 games)"
     },
     {
       "items": [
@@ -38,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 265 games)"
+      "type": "Highest Win Rate Starters (58% win - 156 games)"
     },
     {
       "items": [
@@ -64,20 +64,16 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (38% win - 3017 games)"
+      "type": "Most Frequent Build (42% win - 1470 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3094"
+          "id": "3508"
         },
         {
           "count": 1,
@@ -85,18 +81,22 @@
         },
         {
           "count": 1,
-          "id": "3508"
+          "id": "3094"
         },
         {
           "count": 1,
-          "id": "3046"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3087"
+        },
+        {
+          "count": 1,
+          "id": "3139"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 671 games)"
+      "type": "Highest Win Rate Build (44% win - 1089 games)"
     },
     {
       "items": [
@@ -133,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (46% win - 15124 games)"
+      "type": "Consumables QWQE -> QWE (50% win - 7262 games)"
     },
     {
       "items": [
@@ -154,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQQW -> QWE (52% win - 101 games)"
+      "type": "QWQW -> QWE (51% win - 978 games)"
     }
   ],
   "champion": "Jhin",
@@ -164,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.4",
+  "title": "ADC 8.5",
   "type": "custom"
 }

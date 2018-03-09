@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 9041 games)"
+      "type": "Most Frequent Starters (51% win - 1282 games)"
     },
     {
       "items": [
@@ -26,11 +26,15 @@
           "id": "1056"
         },
         {
+          "count": 2,
+          "id": "2003"
+        },
+        {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 115 games)"
+      "type": "Highest Win Rate Starters (51% win - 1282 games)"
     },
     {
       "items": [
@@ -59,7 +63,7 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (36% win - 1156 games)"
+      "type": "Most Frequent Build (29% win - 171 games)"
     },
     {
       "items": [
@@ -69,11 +73,11 @@
         },
         {
           "count": 1,
-          "id": "3003"
+          "id": "3020"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3003"
         },
         {
           "count": 1,
@@ -85,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (38% win - 515 games)"
+      "type": "Highest Win Rate Build (30% win - 170 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (50% win - 5678 games)"
+      "type": "Consumables QEQW -> QEW (50% win - 852 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (77% win - 105 games)"
+      "type": "QEW -> QEW (50% win - 550 games)"
     }
   ],
   "champion": "Karthus",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.4",
+  "title": "Middle 8.5",
   "type": "custom"
 }

@@ -17,28 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 11426 games)"
+      "type": "Most Frequent Starters (49% win - 2009 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 1,
-          "id": "1082"
-        },
-        {
-          "count": 1,
-          "id": "2031"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 189 games)"
+      "type": "Highest Win Rate Starters (56% win - 675 games)"
     },
     {
       "items": [
@@ -67,7 +59,7 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (42% win - 5379 games)"
+      "type": "Most Frequent Build (40% win - 1043 games)"
     },
     {
       "items": [
@@ -85,18 +77,18 @@
         },
         {
           "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
           "id": "3089"
         },
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3135"
+          "id": "3907"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 2035 games)"
+      "type": "Highest Win Rate Build (42% win - 429 games)"
     },
     {
       "items": [
@@ -133,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 15063 games)"
+      "type": "Consumables QWE -> QWE (51% win - 2491 games)"
     },
     {
       "items": [
@@ -154,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EQW (82% win - 224 games)"
+      "type": "EQW -> QWE (52% win - 182 games)"
     }
   ],
   "champion": "Leblanc",
@@ -164,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.4",
+  "title": "Middle 8.5",
   "type": "custom"
 }

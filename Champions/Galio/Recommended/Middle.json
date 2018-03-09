@@ -17,32 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 26301 games)"
+      "type": "Most Frequent Starters (46% win - 4485 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 1,
-          "id": "1082"
-        },
-        {
-          "count": 2,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2031"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 199 games)"
+      "type": "Highest Win Rate Starters (49% win - 141 games)"
     },
     {
       "items": [
@@ -64,24 +52,24 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (42% win - 3457 games)"
+      "type": "Most Frequent Build (37% win - 735 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3152"
+          "id": "3027"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -97,10 +85,10 @@
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3030"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 234 games)"
+      "type": "Highest Win Rate Build (37% win - 732 games)"
     },
     {
       "items": [
@@ -137,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 11329 games)"
+      "type": "Consumables QEW -> QEW (44% win - 1861 games)"
     },
     {
       "items": [
@@ -158,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> WQE (83% win - 279 games)"
+      "type": "QEW -> QWE (49% win - 1122 games)"
     }
   ],
   "champion": "Galio",
@@ -168,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.4",
+  "title": "Middle 8.5",
   "type": "custom"
 }

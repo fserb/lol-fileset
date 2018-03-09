@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 19926 games)"
+      "type": "Most Frequent Starters (48% win - 4433 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1054"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 165 games)"
+      "type": "Highest Win Rate Starters (48% win - 4433 games)"
     },
     {
       "items": [
@@ -52,18 +52,18 @@
         },
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
           "id": "3075"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3742"
         }
       ],
-      "type": "Most Frequent Build (40% win - 3024 games)"
+      "type": "Most Frequent Build (36% win - 636 games)"
     },
     {
       "items": [
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3194"
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3083"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 473 games)"
+      "type": "Highest Win Rate Build (52% win - 104 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 16798 games)"
+      "type": "Consumables QEW -> QEW (49% win - 3691 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QWE (62% win - 127 games)"
+      "type": "EQW -> QEW (53% win - 410 games)"
     }
   ],
   "champion": "Shen",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.4",
+  "title": "Top 8.5",
   "type": "custom"
 }

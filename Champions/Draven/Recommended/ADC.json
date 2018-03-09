@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 40563 games)"
+      "type": "Most Frequent Starters (51% win - 6939 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1083"
-        },
-        {
-          "count": 1,
-          "id": "2003"
+          "id": "1055"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 51 games)"
+      "type": "Highest Win Rate Starters (54% win - 50 games)"
     },
     {
       "items": [
@@ -63,10 +59,18 @@
           "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (42% win - 3274 games)"
+      "type": "Most Frequent Build (37% win - 457 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3072"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
         {
           "count": 1,
           "id": "3031"
@@ -77,22 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
           "id": "3094"
         },
         {
           "count": 1,
-          "id": "3139"
-        },
-        {
-          "count": 1,
-          "id": "3026"
+          "id": "3508"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 1486 games)"
+      "type": "Highest Win Rate Build (43% win - 203 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 39253 games)"
+      "type": "Consumables QWE -> QWE (51% win - 6551 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (51% win - 39253 games)"
+      "type": "QWE -> QWE (51% win - 6551 games)"
     }
   ],
   "champion": "Draven",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.4",
+  "title": "ADC 8.5",
   "type": "custom"
 }

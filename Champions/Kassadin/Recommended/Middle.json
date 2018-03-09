@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 10482 games)"
+      "type": "Most Frequent Starters (49% win - 1874 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 459 games)"
+      "type": "Highest Win Rate Starters (54% win - 173 games)"
     },
     {
       "items": [
@@ -63,21 +63,17 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (37% win - 4701 games)"
+      "type": "Most Frequent Build (34% win - 719 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3092"
+          "id": "3158"
         },
         {
           "count": 1,
           "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3020"
         },
         {
           "count": 1,
@@ -89,10 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 140 games)"
+      "type": "Highest Win Rate Build (43% win - 106 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (48% win - 11509 games)"
+      "type": "Consumables QWE -> QEW (46% win - 2186 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (82% win - 229 games)"
+      "type": "QWE -> EQW (53% win - 149 games)"
     }
   ],
   "champion": "Kassadin",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.4",
+  "title": "Middle 8.5",
   "type": "custom"
 }

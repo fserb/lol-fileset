@@ -17,17 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 28166 games)"
+      "type": "Most Frequent Starters (48% win - 7748 games)"
     },
     {
       "items": [
         {
           "count": 3,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2031"
         },
         {
           "count": 1,
@@ -38,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 170 games)"
+      "type": "Highest Win Rate Starters (55% win - 2830 games)"
     },
     {
       "items": [
@@ -64,24 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3050"
         }
       ],
-      "type": "Most Frequent Build (32% win - 2084 games)"
+      "type": "Most Frequent Build (28% win - 530 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3050"
+          "id": "3504"
         },
         {
           "count": 1,
           "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3504"
         },
         {
           "count": 1,
@@ -94,9 +86,13 @@
         {
           "count": 1,
           "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 136 games)"
+      "type": "Highest Win Rate Build (41% win - 290 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WEQ (52% win - 8805 games)"
+      "type": "Consumables WEQ -> WEQ (51% win - 2333 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QEW (56% win - 1356 games)"
+      "type": "WEQ -> QEW (57% win - 350 games)"
     }
   ],
   "champion": "Rakan",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.4",
+  "title": "Support 8.5",
   "type": "custom"
 }

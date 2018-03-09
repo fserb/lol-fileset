@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (42% win - 3292 games)"
+      "type": "Most Frequent Starters (38% win - 320 games)"
     },
     {
       "items": [
@@ -26,77 +26,15 @@
           "id": "1055"
         },
         {
-          "count": 4,
-          "id": "2003"
-        },
-        {
           "count": 1,
-          "id": "3303"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (45% win - 124 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "2301"
-        },
-        {
-          "count": 1,
-          "id": "3009"
-        },
-        {
-          "count": 1,
-          "id": "3142"
-        },
-        {
-          "count": 1,
-          "id": "3147"
-        },
-        {
-          "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Most Frequent Build (34% win - 428 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3147"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "2301"
-        },
-        {
-          "count": 1,
-          "id": "3142"
-        },
-        {
-          "count": 1,
-          "id": "3022"
-        },
-        {
-          "count": 1,
-          "id": "3071"
-        }
-      ],
-      "type": "Highest Win Rate Build (38% win - 126 games)"
+      "type": "Highest Win Rate Starters (55% win - 294 games)"
     },
     {
       "items": [
@@ -133,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQEW -> EQW (42% win - 2206 games)"
+      "type": "Consumables EQEW -> EQW (44% win - 209 games)"
     },
     {
       "items": [
@@ -154,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EWQ (46% win - 234 games)"
+      "type": "EQEW -> EQW (44% win - 209 games)"
     }
   ],
   "champion": "MissFortune",
@@ -164,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.1",
+  "title": "Support 8.5",
   "type": "custom"
 }
