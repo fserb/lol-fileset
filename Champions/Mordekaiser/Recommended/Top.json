@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 740 games)"
+      "type": "Most Frequent Starters (51% win - 1277 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1082"
         },
         {
-          "count": 1,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -34,7 +34,65 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 740 games)"
+      "type": "Highest Win Rate Starters (56% win - 58 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3146"
+        },
+        {
+          "count": 1,
+          "id": "3041"
+        }
+      ],
+      "type": "Most Frequent Build (43% win - 102 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3146"
+        },
+        {
+          "count": 1,
+          "id": "3041"
+        }
+      ],
+      "type": "Highest Win Rate Build (43% win - 102 games)"
     },
     {
       "items": [
@@ -71,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> WQE (51% win - 203 games)"
+      "type": "Consumables EWQ -> WQE (50% win - 384 games)"
     },
     {
       "items": [
@@ -92,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (58% win - 109 games)"
+      "type": "WEQ -> WEQ (56% win - 227 games)"
     }
   ],
   "champion": "Mordekaiser",

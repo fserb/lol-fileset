@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 1257 games)"
+      "type": "Most Frequent Starters (46% win - 2092 games)"
     },
     {
       "items": [
@@ -30,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 317 games)"
+      "type": "Highest Win Rate Starters (52% win - 564 games)"
     },
     {
       "items": [
@@ -59,21 +59,21 @@
           "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (32% win - 146 games)"
+      "type": "Most Frequent Build (34% win - 250 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
         {
           "count": 1,
           "id": "3074"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3078"
         },
         {
           "count": 1,
@@ -81,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3060"
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3156"
         }
       ],
-      "type": "Highest Win Rate Build (33% win - 146 games)"
+      "type": "Highest Win Rate Build (35% win - 103 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 1451 games)"
+      "type": "Consumables QWE -> QWE (48% win - 2384 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (49% win - 1451 games)"
+      "type": "QWE -> QWE (48% win - 2384 games)"
     }
   ],
   "champion": "Trundle",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.4",
+  "title": "Top 8.5",
   "type": "custom"
 }
