@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 4472 games)"
+      "type": "Most Frequent Starters (50% win - 2818 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
-        },
-        {
-          "count": 3,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 55 games)"
+      "type": "Highest Win Rate Starters (58% win - 181 games)"
     },
     {
       "items": [
@@ -52,18 +48,18 @@
         },
         {
           "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
           "id": "3742"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3053"
         }
       ],
-      "type": "Most Frequent Build (32% win - 593 games)"
+      "type": "Most Frequent Build (33% win - 319 games)"
     },
     {
       "items": [
@@ -81,18 +77,18 @@
         },
         {
           "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
           "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3074"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (38% win - 301 games)"
+      "type": "Highest Win Rate Build (42% win - 201 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (49% win - 4309 games)"
+      "type": "Consumables QWE -> QEW (51% win - 2321 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQQE -> QEW (52% win - 194 games)"
+      "type": "QWQE -> QEW (53% win - 257 games)"
     }
   ],
   "champion": "Olaf",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.5",
+  "title": "Jungle 8.16",
   "type": "custom"
 }

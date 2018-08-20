@@ -17,59 +17,30 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 37037 games)"
+      "type": "Most Frequent Starters (47% win - 25822 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1054"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 367 games)"
+      "type": "Highest Win Rate Starters (48% win - 1303 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3094"
-        },
-        {
-          "count": 1,
-          "id": "3036"
-        },
-        {
-          "count": 1,
-          "id": "3072"
-        }
-      ],
-      "type": "Most Frequent Build (42% win - 6577 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3087"
+          "id": "3095"
         },
         {
           "count": 1,
@@ -78,6 +49,10 @@
         {
           "count": 1,
           "id": "3094"
+        },
+        {
+          "count": 1,
+          "id": "3031"
         },
         {
           "count": 1,
@@ -88,7 +63,36 @@
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 1465 games)"
+      "type": "Most Frequent Build (45% win - 11217 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3095"
+        },
+        {
+          "count": 1,
+          "id": "3094"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3072"
+        },
+        {
+          "count": 1,
+          "id": "3036"
+        }
+      ],
+      "type": "Highest Win Rate Build (48% win - 1985 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (52% win - 14154 games)"
+      "type": "Consumables QWE -> QWE (49% win - 9883 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QEW (59% win - 116 games)"
+      "type": "WEQ -> QWE (54% win - 183 games)"
     }
   ],
   "champion": "Caitlyn",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.5",
+  "title": "ADC 8.16",
   "type": "custom"
 }

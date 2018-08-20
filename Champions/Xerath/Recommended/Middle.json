@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 9526 games)"
+      "type": "Most Frequent Starters (50% win - 6674 games)"
     },
     {
       "items": [
@@ -30,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 64 games)"
+      "type": "Highest Win Rate Starters (70% win - 50 games)"
     },
     {
       "items": [
@@ -41,43 +41,6 @@
         {
           "count": 1,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        }
-      ],
-      "type": "Most Frequent Build (39% win - 1434 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
         },
         {
           "count": 1,
@@ -85,10 +48,43 @@
         },
         {
           "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
           "id": "3151"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 1350 games)"
+      "type": "Most Frequent Build (40% win - 1662 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3285"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 2,
+          "id": "3165"
+        }
+      ],
+      "type": "Highest Win Rate Build (41% win - 658 games)"
     },
     {
       "items": [
@@ -125,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 8027 games)"
+      "type": "Consumables QWE -> QWE (50% win - 6138 games)"
     },
     {
       "items": [
@@ -146,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QWE (53% win - 224 games)"
+      "type": "EQW -> QWE (59% win - 169 games)"
     }
   ],
   "champion": "Xerath",
@@ -156,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.5",
+  "title": "Middle 8.16",
   "type": "custom"
 }

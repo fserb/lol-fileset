@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 2881 games)"
+      "type": "Most Frequent Starters (51% win - 2411 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1082"
-        },
-        {
-          "count": 1,
-          "id": "2031"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 130 games)"
+      "type": "Highest Win Rate Starters (52% win - 106 games)"
     },
     {
       "items": [
@@ -63,17 +59,13 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (36% win - 635 games)"
+      "type": "Most Frequent Build (42% win - 618 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3152"
-        },
-        {
-          "count": 1,
-          "id": "3020"
+          "id": "1402"
         },
         {
           "count": 1,
@@ -81,7 +73,7 @@
         },
         {
           "count": 1,
-          "id": "3907"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -90,9 +82,13 @@
         {
           "count": 1,
           "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 291 games)"
+      "type": "Highest Win Rate Build (47% win - 185 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QEW (51% win - 2415 games)"
+      "type": "Consumables QEW -> QEW (51% win - 1675 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (52% win - 447 games)"
+      "type": "QEQW -> QEW (55% win - 177 games)"
     }
   ],
   "champion": "Ekko",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.4",
+  "title": "Jungle 8.16",
   "type": "custom"
 }

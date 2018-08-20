@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 31730 games)"
+      "type": "Most Frequent Starters (47% win - 37679 games)"
     },
     {
       "items": [
@@ -27,21 +27,13 @@
         },
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 1672 games)"
+      "type": "Highest Win Rate Starters (50% win - 204 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3025"
-        },
         {
           "count": 1,
           "id": "3004"
@@ -49,6 +41,10 @@
         {
           "count": 1,
           "id": "3158"
+        },
+        {
+          "count": 1,
+          "id": "3078"
         },
         {
           "count": 1,
@@ -60,20 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (46% win - 3313 games)"
+      "type": "Most Frequent Build (43% win - 5761 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3078"
+          "id": "3004"
         },
         {
           "count": 1,
-          "id": "3004"
+          "id": "3078"
         },
         {
           "count": 1,
@@ -85,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3139"
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3003"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 1143 games)"
+      "type": "Highest Win Rate Build (43% win - 2826 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (48% win - 13466 games)"
+      "type": "Consumables QEQW -> QEW (47% win - 17979 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (50% win - 920 games)"
+      "type": "QEQW -> QEW (49% win - 1156 games)"
     }
   ],
   "champion": "Ezreal",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.5",
+  "title": "ADC 8.16",
   "type": "custom"
 }

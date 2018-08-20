@@ -6,6 +6,19 @@
       "items": [
         {
           "count": 1,
+          "id": "2033"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        }
+      ],
+      "type": "Most Frequent Starters (47% win - 4511 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
           "id": "1082"
         },
         {
@@ -17,24 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 3292 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
-          "id": "3303"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        }
-      ],
-      "type": "Highest Win Rate Starters (50% win - 253 games)"
+      "type": "Highest Win Rate Starters (52% win - 2209 games)"
     },
     {
       "items": [
@@ -56,24 +52,28 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (34% win - 1182 games)"
+      "type": "Most Frequent Build (30% win - 951 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3158"
+          "id": "3027"
         },
         {
           "count": 1,
-          "id": "3027"
+          "id": "3003"
+        },
+        {
+          "count": 1,
+          "id": "3020"
         },
         {
           "count": 1,
@@ -85,14 +85,10 @@
         },
         {
           "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
           "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (36% win - 181 games)"
+      "type": "Highest Win Rate Build (36% win - 610 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (46% win - 3813 games)"
+      "type": "Consumables QWE -> QEW (49% win - 4268 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EQW (54% win - 232 games)"
+      "type": "QWE -> EQW (60% win - 137 games)"
     }
   ],
   "champion": "Kassadin",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.5",
+  "title": "Middle 8.16",
   "type": "custom"
 }
