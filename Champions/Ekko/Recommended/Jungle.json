@@ -17,20 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 2411 games)"
+      "type": "Most Frequent Starters (51% win - 8269 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1039"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 106 games)"
+      "type": "Highest Win Rate Starters (60% win - 155 games)"
     },
     {
       "items": [
@@ -52,24 +52,20 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (42% win - 618 games)"
+      "type": "Most Frequent Build (41% win - 1949 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1402"
-        },
-        {
-          "count": 1,
-          "id": "3100"
+          "id": "3152"
         },
         {
           "count": 1,
@@ -77,18 +73,22 @@
         },
         {
           "count": 1,
+          "id": "3100"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3165"
         },
         {
           "count": 1,
           "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 185 games)"
+      "type": "Highest Win Rate Build (49% win - 381 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (51% win - 1675 games)"
+      "type": "Consumables QEW -> QEW (52% win - 5094 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (55% win - 177 games)"
+      "type": "QEW -> EQW (60% win - 156 games)"
     }
   ],
   "champion": "Ekko",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.16",
+  "title": "Jungle 8.20",
   "type": "custom"
 }

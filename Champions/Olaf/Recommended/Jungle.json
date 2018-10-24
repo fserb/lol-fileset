@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2818 games)"
+      "type": "Most Frequent Starters (49% win - 17968 games)"
     },
     {
       "items": [
@@ -30,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 181 games)"
+      "type": "Highest Win Rate Starters (53% win - 457 games)"
     },
     {
       "items": [
@@ -52,20 +52,20 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3071"
         }
       ],
-      "type": "Most Frequent Build (33% win - 319 games)"
+      "type": "Most Frequent Build (38% win - 1847 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1401"
+          "id": "3071"
         },
         {
           "count": 1,
@@ -73,22 +73,22 @@
         },
         {
           "count": 1,
+          "id": "1401"
+        },
+        {
+          "count": 1,
           "id": "3800"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3074"
-        },
-        {
-          "count": 1,
-          "id": "3075"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 201 games)"
+      "type": "Highest Win Rate Build (49% win - 104 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (51% win - 2321 games)"
+      "type": "Consumables QWE -> QEW (49% win - 13017 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QEW (53% win - 257 games)"
+      "type": "QWE -> EQW (54% win - 417 games)"
     }
   ],
   "champion": "Olaf",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.16",
+  "title": "Jungle 8.20",
   "type": "custom"
 }

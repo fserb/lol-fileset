@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 20808 games)"
+      "type": "Most Frequent Starters (50% win - 55373 games)"
     },
     {
       "items": [
         {
-          "count": 2,
+          "count": 4,
           "id": "2003"
+        },
+        {
+          "count": 2,
+          "id": "3303"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 52 games)"
+      "type": "Highest Win Rate Starters (51% win - 154 games)"
     },
     {
       "items": [
@@ -48,18 +52,18 @@
         },
         {
           "count": 1,
+          "id": "3109"
+        },
+        {
+          "count": 1,
           "id": "3107"
         },
         {
           "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "2065"
+          "id": "3139"
         }
       ],
-      "type": "Most Frequent Build (37% win - 2441 games)"
+      "type": "Most Frequent Build (39% win - 7177 games)"
     },
     {
       "items": [
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 1,
           "id": "3109"
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3504"
+        },
+        {
+          "count": 1,
+          "id": "3107"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 987 games)"
+      "type": "Highest Win Rate Build (44% win - 2673 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (47% win - 4934 games)"
+      "type": "Consumables QWE -> QEW (48% win - 14105 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QEW (50% win - 1095 games)"
+      "type": "EWQ -> EWQ (52% win - 160 games)"
     }
   ],
   "champion": "Rakan",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.16",
+  "title": "Support 8.20",
   "type": "custom"
 }

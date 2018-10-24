@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (45% win - 9422 games)"
+      "type": "Most Frequent Starters (47% win - 53739 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1054"
+        },
         {
           "count": 1,
           "id": "1055"
         },
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 6849 games)"
+      "type": "Highest Win Rate Starters (56% win - 105 games)"
     },
     {
       "items": [
@@ -63,7 +63,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (43% win - 7667 games)"
+      "type": "Most Frequent Build (45% win - 44676 games)"
     },
     {
       "items": [
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3139"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 1136 games)"
+      "type": "Highest Win Rate Build (48% win - 5457 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> EWQ (47% win - 7813 games)"
+      "type": "Consumables QEW -> EWQ (48% win - 46347 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> EQW (52% win - 232 games)"
+      "type": "WEQ -> WQE (52% win - 102 games)"
     }
   ],
   "champion": "Xayah",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.16",
+  "title": "ADC 8.20",
   "type": "custom"
 }

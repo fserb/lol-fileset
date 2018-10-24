@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 5447 games)"
+      "type": "Most Frequent Starters (51% win - 14879 games)"
     },
     {
       "items": [
@@ -27,14 +27,14 @@
         },
         {
           "count": 1,
-          "id": "2031"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 5447 games)"
+      "type": "Highest Win Rate Starters (60% win - 60 games)"
     },
     {
       "items": [
@@ -60,20 +60,16 @@
         },
         {
           "count": 1,
-          "id": "3512"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (38% win - 370 games)"
+      "type": "Most Frequent Build (39% win - 1039 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3009"
-        },
-        {
-          "count": 1,
-          "id": "3800"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -81,18 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3800"
+        },
+        {
+          "count": 1,
           "id": "3742"
         },
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3075"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 129 games)"
+      "type": "Highest Win Rate Build (42% win - 873 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (50% win - 4075 games)"
+      "type": "Consumables QEQW -> QEW (52% win - 11042 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QEW (56% win - 180 games)"
+      "type": "QEQE -> QEW (55% win - 370 games)"
     }
   ],
   "champion": "Singed",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.16",
+  "title": "Top 8.20",
   "type": "custom"
 }

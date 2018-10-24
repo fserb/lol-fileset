@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 7338 games)"
+      "type": "Most Frequent Starters (48% win - 26663 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1029"
+        },
+        {
+          "count": 4,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 125 games)"
+      "type": "Highest Win Rate Starters (54% win - 55 games)"
     },
     {
       "items": [
@@ -52,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3083"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (36% win - 1190 games)"
+      "type": "Most Frequent Build (39% win - 4673 games)"
     },
     {
       "items": [
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
           "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 179 games)"
+      "type": "Highest Win Rate Build (44% win - 743 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 6345 games)"
+      "type": "Consumables QEW -> QEW (48% win - 22112 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (50% win - 942 games)"
+      "type": "EQW -> QEW (51% win - 3517 games)"
     }
   ],
   "champion": "Shen",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.16",
+  "title": "Top 8.20",
   "type": "custom"
 }

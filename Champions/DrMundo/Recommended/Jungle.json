@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 711 games)"
+      "type": "Most Frequent Starters (47% win - 1039 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1039"
         },
         {
           "count": 1,
-          "id": "2003"
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 337 games)"
+      "type": "Highest Win Rate Starters (52% win - 169 games)"
     },
     {
       "items": [
@@ -52,18 +52,18 @@
         },
         {
           "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
           "id": "3075"
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3053"
         }
       ],
-      "type": "Most Frequent Build (34% win - 158 games)"
+      "type": "Most Frequent Build (29% win - 276 games)"
     },
     {
       "items": [
@@ -72,8 +72,8 @@
           "id": "1413"
         },
         {
-          "count": 1,
-          "id": "3047"
+          "count": 2,
+          "id": "3009"
         },
         {
           "count": 1,
@@ -86,13 +86,9 @@
         {
           "count": 1,
           "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3748"
         }
       ],
-      "type": "Highest Win Rate Build (34% win - 158 games)"
+      "type": "Highest Win Rate Build (37% win - 140 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 553 games)"
+      "type": "Consumables QEW -> QEW (49% win - 813 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (57% win - 106 games)"
+      "type": "EQW -> QEW (53% win - 101 games)"
     }
   ],
   "champion": "DrMundo",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.16",
+  "title": "Jungle 8.20",
   "type": "custom"
 }

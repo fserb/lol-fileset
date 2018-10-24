@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 10156 games)"
+      "type": "Most Frequent Starters (49% win - 16489 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1028"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 59 games)"
+      "type": "Highest Win Rate Starters (53% win - 129 games)"
     },
     {
       "items": [
@@ -63,32 +59,36 @@
           "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (40% win - 1458 games)"
+      "type": "Most Frequent Build (37% win - 2037 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3009"
+          "id": "3111"
         },
         {
           "count": 1,
           "id": "3068"
         },
         {
-          "count": 2,
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
           "id": "3083"
         },
         {
           "count": 1,
           "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3194"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 133 games)"
+      "type": "Highest Win Rate Build (46% win - 341 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 5646 games)"
+      "type": "Consumables QEW -> QEW (49% win - 8241 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (50% win - 2465 games)"
+      "type": "QEQE -> QEW (55% win - 104 games)"
     }
   ],
   "champion": "DrMundo",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.16",
+  "title": "Top 8.20",
   "type": "custom"
 }

@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 1825 games)"
+      "type": "Most Frequent Starters (51% win - 5580 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1082"
         },
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 1825 games)"
+      "type": "Highest Win Rate Starters (53% win - 160 games)"
     },
     {
       "items": [
@@ -53,17 +53,17 @@
         {
           "count": 1,
           "id": "3085"
+        },
+        {
+          "count": 1,
+          "id": "3116"
         },
         {
           "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3100"
         }
       ],
-      "type": "Most Frequent Build (45% win - 489 games)"
+      "type": "Most Frequent Build (44% win - 1558 games)"
     },
     {
       "items": [
@@ -73,26 +73,22 @@
         },
         {
           "count": 1,
-          "id": "3124"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3124"
         },
         {
           "count": 1,
           "id": "3085"
         },
         {
-          "count": 1,
-          "id": "3022"
-        },
-        {
-          "count": 1,
-          "id": "3110"
+          "count": 2,
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 102 games)"
+      "type": "Highest Win Rate Build (46% win - 1393 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (53% win - 891 games)"
+      "type": "Consumables EQW -> EQW (51% win - 2870 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EQW (53% win - 891 games)"
+      "type": "EQEW -> EQW (56% win - 321 games)"
     }
   ],
   "champion": "Kayle",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.16",
+  "title": "Top 8.20",
   "type": "custom"
 }

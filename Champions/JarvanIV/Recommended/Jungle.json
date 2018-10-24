@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 13474 games)"
+      "type": "Most Frequent Starters (50% win - 58498 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1006"
+        },
         {
           "count": 1,
           "id": "1041"
         },
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 13474 games)"
+      "type": "Highest Win Rate Starters (57% win - 198 games)"
     },
     {
       "items": [
@@ -52,32 +52,7 @@
         },
         {
           "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        }
-      ],
-      "type": "Most Frequent Build (37% win - 1113 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "1412"
-        },
-        {
-          "count": 1,
-          "id": "3071"
+          "id": "3748"
         },
         {
           "count": 1,
@@ -85,14 +60,35 @@
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3065"
+        }
+      ],
+      "type": "Most Frequent Build (40% win - 4811 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3147"
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "1412"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        },
+        {
+          "count": 2,
+          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 119 games)"
+      "type": "Highest Win Rate Build (50% win - 110 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QEW (49% win - 10951 games)"
+      "type": "Consumables EQW -> QEW (50% win - 47233 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (54% win - 107 games)"
+      "type": "EQW -> QEW (55% win - 1527 games)"
     }
   ],
   "champion": "JarvanIV",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.16",
+  "title": "Jungle 8.20",
   "type": "custom"
 }

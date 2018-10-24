@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 2934 games)"
+      "type": "Most Frequent Starters (49% win - 8297 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1082"
         },
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 727 games)"
+      "type": "Highest Win Rate Starters (59% win - 160 games)"
     },
     {
       "items": [
@@ -60,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (41% win - 923 games)"
+      "type": "Most Frequent Build (44% win - 2534 games)"
     },
     {
       "items": [
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3092"
+        },
+        {
+          "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3165"
         }
       ],
-      "type": "Highest Win Rate Build (58% win - 823 games)"
+      "type": "Highest Win Rate Build (56% win - 2325 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (53% win - 2623 games)"
+      "type": "Consumables QWE -> QWE (50% win - 6816 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (53% win - 2623 games)"
+      "type": "WQE -> WQE (54% win - 142 games)"
     }
   ],
   "champion": "Xerath",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.16",
+  "title": "Support 8.20",
   "type": "custom"
 }

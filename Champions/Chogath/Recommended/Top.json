@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 5002 games)"
+      "type": "Most Frequent Starters (47% win - 12237 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1082"
+          "id": "1054"
         },
         {
           "count": 1,
-          "id": "2031"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 54 games)"
+      "type": "Highest Win Rate Starters (54% win - 146 games)"
     },
     {
       "items": [
@@ -60,20 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3194"
+          "id": "3748"
         }
       ],
-      "type": "Most Frequent Build (43% win - 648 games)"
+      "type": "Most Frequent Build (36% win - 1540 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3001"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3001"
         },
         {
           "count": 1,
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
           "id": "3193"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 230 games)"
+      "type": "Highest Win Rate Build (42% win - 680 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (50% win - 2086 games)"
+      "type": "Consumables EWQ -> EWQ (49% win - 4853 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> WQE (59% win - 189 games)"
+      "type": "WEQ -> EWQ (59% win - 115 games)"
     }
   ],
   "champion": "Chogath",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.16",
+  "title": "Top 8.20",
   "type": "custom"
 }

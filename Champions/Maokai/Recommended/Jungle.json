@@ -17,24 +17,78 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 387 games)"
+      "type": "Most Frequent Starters (50% win - 1122 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
-        },
-        {
-          "count": 1,
-          "id": "2031"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 387 games)"
+      "type": "Highest Win Rate Starters (54% win - 183 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "1413"
+        },
+        {
+          "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3800"
+        }
+      ],
+      "type": "Most Frequent Build (34% win - 146 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "1401"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3512"
+        }
+      ],
+      "type": "Highest Win Rate Build (40% win - 110 games)"
     },
     {
       "items": [
@@ -71,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QWE (48% win - 468 games)"
+      "type": "Consumables EQW -> QWE (49% win - 1038 games)"
     },
     {
       "items": [
@@ -92,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (54% win - 132 games)"
+      "type": "QWE -> QWE (49% win - 431 games)"
     }
   ],
   "champion": "Maokai",
@@ -102,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.16",
+  "title": "Jungle 8.20",
   "type": "custom"
 }

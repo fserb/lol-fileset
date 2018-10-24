@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 13505 games)"
+      "type": "Most Frequent Starters (52% win - 47537 games)"
     },
     {
       "items": [
@@ -26,7 +26,7 @@
           "id": "1056"
         },
         {
-          "count": 4,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -38,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 149 games)"
+      "type": "Highest Win Rate Starters (54% win - 1435 games)"
     },
     {
       "items": [
@@ -67,13 +67,13 @@
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (45% win - 2075 games)"
+      "type": "Most Frequent Build (46% win - 7812 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3151"
+          "id": "3116"
         },
         {
           "count": 1,
@@ -81,7 +81,7 @@
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3151"
         },
         {
           "count": 1,
@@ -89,14 +89,14 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 859 games)"
+      "type": "Highest Win Rate Build (49% win - 2559 games)"
     },
     {
       "items": [
@@ -133,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (50% win - 11432 games)"
+      "type": "Consumables WQE -> WQE (51% win - 38910 games)"
     },
     {
       "items": [
@@ -154,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> WQE (56% win - 125 games)"
+      "type": "WQE -> WQE (52% win - 365 games)"
     }
   ],
   "champion": "Brand",
@@ -164,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.16",
+  "title": "Support 8.20",
   "type": "custom"
 }

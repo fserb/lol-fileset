@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 8489 games)"
+      "type": "Most Frequent Starters (45% win - 28205 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1054"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (67% win - 124 games)"
+      "type": "Highest Win Rate Starters (60% win - 168 games)"
     },
     {
       "items": [
@@ -49,20 +53,24 @@
         {
           "count": 1,
           "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3107"
         },
         {
           "count": 1,
           "id": "3193"
+        },
+        {
+          "count": 1,
+          "id": "3742"
         }
       ],
-      "type": "Most Frequent Build (41% win - 980 games)"
+      "type": "Most Frequent Build (38% win - 3032 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3109"
+        },
         {
           "count": 1,
           "id": "3009"
@@ -77,18 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3050"
         },
         {
           "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "3143"
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 808 games)"
+      "type": "Highest Win Rate Build (40% win - 300 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (47% win - 6672 games)"
+      "type": "Consumables QWE -> QWE (46% win - 20860 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QWE (53% win - 299 games)"
+      "type": "QWE -> QWE (46% win - 20860 games)"
     }
   ],
   "champion": "TahmKench",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.16",
+  "title": "Support 8.20",
   "type": "custom"
 }

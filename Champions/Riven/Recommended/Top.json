@@ -17,20 +17,28 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 7563 games)"
+      "type": "Most Frequent Starters (50% win - 21508 games)"
     },
     {
       "items": [
         {
           "count": 1,
+          "id": "1036"
+        },
+        {
+          "count": 1,
           "id": "1055"
+        },
+        {
+          "count": 4,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 58 games)"
+      "type": "Highest Win Rate Starters (52% win - 155 games)"
     },
     {
       "items": [
@@ -59,7 +67,7 @@
           "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (40% win - 1948 games)"
+      "type": "Most Frequent Build (41% win - 6851 games)"
     },
     {
       "items": [
@@ -77,18 +85,18 @@
         },
         {
           "count": 1,
+          "id": "3142"
+        },
+        {
+          "count": 1,
           "id": "3026"
         },
         {
           "count": 1,
-          "id": "3074"
-        },
-        {
-          "count": 1,
-          "id": "3053"
+          "id": "3036"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 223 games)"
+      "type": "Highest Win Rate Build (45% win - 532 games)"
     },
     {
       "items": [
@@ -125,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 9500 games)"
+      "type": "Consumables QEW -> QEW (50% win - 29450 games)"
     },
     {
       "items": [
@@ -146,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (53% win - 2142 games)"
+      "type": "QEW -> EQW (52% win - 265 games)"
     }
   ],
   "champion": "Riven",
@@ -156,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.16",
+  "title": "Top 8.20",
   "type": "custom"
 }

@@ -17,20 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 28642 games)"
+      "type": "Most Frequent Starters (48% win - 100326 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
-        },
-        {
-          "count": 1,
           "id": "1055"
         },
         {
-          "count": 2,
+          "count": 1,
+          "id": "1056"
+        },
+        {
+          "count": 1,
           "id": "2003"
         },
         {
@@ -38,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 425 games)"
+      "type": "Highest Win Rate Starters (63% win - 171 games)"
     },
     {
       "items": [
@@ -67,7 +67,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (46% win - 14857 games)"
+      "type": "Most Frequent Build (45% win - 54611 games)"
     },
     {
       "items": [
@@ -77,11 +77,11 @@
         },
         {
           "count": 1,
-          "id": "3124"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3124"
         },
         {
           "count": 1,
@@ -96,7 +96,7 @@
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 1726 games)"
+      "type": "Highest Win Rate Build (45% win - 54611 games)"
     },
     {
       "items": [
@@ -133,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (52% win - 25200 games)"
+      "type": "Consumables QWE -> QEW (50% win - 123955 games)"
     },
     {
       "items": [
@@ -154,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (56% win - 587 games)"
+      "type": "QWQE -> QEW (51% win - 8406 games)"
     }
   ],
   "champion": "Kaisa",
@@ -164,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.16",
+  "title": "ADC 8.20",
   "type": "custom"
 }

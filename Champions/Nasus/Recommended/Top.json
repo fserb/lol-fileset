@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 6369 games)"
+      "type": "Most Frequent Starters (49% win - 16891 games)"
     },
     {
       "items": [
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "1029"
         },
         {
-          "count": 1,
-          "id": "3301"
+          "count": 4,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 156 games)"
+      "type": "Highest Win Rate Starters (54% win - 727 games)"
     },
     {
       "items": [
@@ -60,16 +60,16 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3072"
         }
       ],
-      "type": "Most Frequent Build (37% win - 825 games)"
+      "type": "Most Frequent Build (37% win - 2519 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3110"
+          "id": "3009"
         },
         {
           "count": 1,
@@ -77,7 +77,7 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3110"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3742"
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 146 games)"
+      "type": "Highest Win Rate Build (48% win - 115 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 2644 games)"
+      "type": "Consumables QEW -> QEW (49% win - 7720 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (53% win - 107 games)"
+      "type": "EQW -> QEW (59% win - 131 games)"
     }
   ],
   "champion": "Nasus",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.16",
+  "title": "Top 8.20",
   "type": "custom"
 }

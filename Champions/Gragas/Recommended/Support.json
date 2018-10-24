@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 1467 games)"
+      "type": "Most Frequent Starters (48% win - 7461 games)"
     },
     {
       "items": [
         {
-          "count": 2,
-          "id": "2003"
-        },
-        {
           "count": 1,
-          "id": "3301"
+          "id": "3302"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 65 games)"
+      "type": "Highest Win Rate Starters (57% win - 66 games)"
     },
     {
       "items": [
@@ -60,39 +56,39 @@
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (49% win - 361 games)"
+      "type": "Most Frequent Build (45% win - 1359 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "3158"
         },
         {
           "count": 1,
-          "id": "3152"
+          "id": "3050"
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "3109"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3092"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 115 games)"
+      "type": "Highest Win Rate Build (45% win - 1359 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (44% win - 955 games)"
+      "type": "Consumables QEW -> QEW (48% win - 2980 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (51% win - 166 games)"
+      "type": "EQW -> EWQ (49% win - 1736 games)"
     }
   ],
   "champion": "Gragas",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.16",
+  "title": "Support 8.20",
   "type": "custom"
 }
