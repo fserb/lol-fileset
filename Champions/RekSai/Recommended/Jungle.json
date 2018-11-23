@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 10005 games)"
+      "type": "Most Frequent Starters (50% win - 1888 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1041"
         },
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 368 games)"
+      "type": "Highest Win Rate Starters (50% win - 1888 games)"
     },
     {
       "items": [
@@ -60,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (39% win - 1430 games)"
+      "type": "Most Frequent Build (46% win - 280 games)"
     },
     {
       "items": [
@@ -73,7 +73,7 @@
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
+          "id": "3053"
+        },
+        {
+          "count": 1,
+          "id": "3083"
+        },
+        {
+          "count": 1,
           "id": "3748"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 335 games)"
+      "type": "Highest Win Rate Build (53% win - 127 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (50% win - 10086 games)"
+      "type": "Consumables QWE -> QEW (50% win - 1891 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EQW (52% win - 990 games)"
+      "type": "QWE -> EQW (52% win - 154 games)"
     }
   ],
   "champion": "RekSai",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.20",
+  "title": "Jungle 8.23",
   "type": "custom"
 }

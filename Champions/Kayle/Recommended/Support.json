@@ -17,82 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 699 games)"
+      "type": "Most Frequent Starters (49% win - 153 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1056"
+        },
         {
           "count": 2,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "3301"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 370 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3115"
-        },
-        {
-          "count": 1,
-          "id": "3124"
-        },
-        {
-          "count": 1,
-          "id": "3085"
-        },
-        {
-          "count": 1,
-          "id": "3091"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Most Frequent Build (48% win - 344 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3115"
-        },
-        {
-          "count": 1,
-          "id": "3124"
-        },
-        {
-          "count": 1,
-          "id": "3085"
-        },
-        {
-          "count": 1,
-          "id": "3091"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Highest Win Rate Build (48% win - 344 games)"
+      "type": "Highest Win Rate Starters (49% win - 153 games)"
     },
     {
       "items": [
@@ -129,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (47% win - 404 games)"
+      "type": "Consumables "
     },
     {
       "items": [
@@ -150,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EQW (47% win - 404 games)"
+      "type": ""
     }
   ],
   "champion": "Kayle",
@@ -160,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.20",
+  "title": "Support 8.23",
   "type": "custom"
 }

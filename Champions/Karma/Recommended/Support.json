@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 28663 games)"
+      "type": "Most Frequent Starters (48% win - 6605 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "2055"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 52 games)"
+      "type": "Highest Win Rate Starters (48% win - 6605 games)"
     },
     {
       "items": [
@@ -56,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3905"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (35% win - 1703 games)"
+      "type": "Most Frequent Build (38% win - 300 games)"
     },
     {
       "items": [
@@ -77,22 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3907"
-        },
-        {
-          "count": 1,
           "id": "3092"
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 418 games)"
+      "type": "Highest Win Rate Build (51% win - 104 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (46% win - 22122 games)"
+      "type": "Consumables QEW -> QEW (47% win - 4905 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (47% win - 3794 games)"
+      "type": "QWE -> QEW (49% win - 618 games)"
     }
   ],
   "champion": "Karma",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.20",
+  "title": "Support 8.23",
   "type": "custom"
 }

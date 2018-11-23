@@ -17,16 +17,12 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 55373 games)"
+      "type": "Most Frequent Starters (49% win - 8861 games)"
     },
     {
       "items": [
         {
-          "count": 4,
-          "id": "2003"
-        },
-        {
-          "count": 2,
+          "count": 1,
           "id": "3303"
         },
         {
@@ -34,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 154 games)"
+      "type": "Highest Win Rate Starters (51% win - 267 games)"
     },
     {
       "items": [
@@ -47,7 +43,7 @@
           "id": "3050"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3092"
         },
         {
@@ -57,13 +53,9 @@
         {
           "count": 1,
           "id": "3107"
-        },
-        {
-          "count": 1,
-          "id": "3139"
         }
       ],
-      "type": "Most Frequent Build (39% win - 7177 games)"
+      "type": "Most Frequent Build (37% win - 1026 games)"
     },
     {
       "items": [
@@ -92,7 +84,7 @@
           "id": "3107"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 2673 games)"
+      "type": "Highest Win Rate Build (45% win - 262 games)"
     },
     {
       "items": [
@@ -129,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (48% win - 14105 games)"
+      "type": "Consumables QWE -> QEW (47% win - 2203 games)"
     },
     {
       "items": [
@@ -150,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EWQ (52% win - 160 games)"
+      "type": "EWQ -> QEW (56% win - 131 games)"
     }
   ],
   "champion": "Rakan",
@@ -160,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.20",
+  "title": "Support 8.23",
   "type": "custom"
 }

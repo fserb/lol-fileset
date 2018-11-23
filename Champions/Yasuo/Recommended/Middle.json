@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 61217 games)"
+      "type": "Most Frequent Starters (47% win - 13064 games)"
     },
     {
       "items": [
@@ -27,14 +27,10 @@
         },
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 61217 games)"
+      "type": "Highest Win Rate Starters (54% win - 191 games)"
     },
     {
       "items": [
@@ -49,31 +45,31 @@
         {
           "count": 1,
           "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         },
         {
           "count": 1,
           "id": "3053"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3072"
         }
       ],
-      "type": "Most Frequent Build (42% win - 23235 games)"
+      "type": "Most Frequent Build (42% win - 4429 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3006"
+          "id": "3046"
         },
         {
           "count": 1,
-          "id": "3046"
+          "id": "3006"
         },
         {
           "count": 1,
@@ -85,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3022"
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 23228 games)"
+      "type": "Highest Win Rate Build (44% win - 1741 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 66834 games)"
+      "type": "Consumables QEW -> QEW (48% win - 13895 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQE -> QEW (48% win - 170 games)"
+      "type": "QEW -> QEW (48% win - 13895 games)"
     }
   ],
   "champion": "Yasuo",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.20",
+  "title": "Middle 8.23",
   "type": "custom"
 }

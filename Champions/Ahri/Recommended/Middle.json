@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 59052 games)"
+      "type": "Most Frequent Starters (53% win - 10605 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2003"
+          "id": "1082"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 52 games)"
+      "type": "Highest Win Rate Starters (59% win - 152 games)"
     },
     {
       "items": [
@@ -59,17 +63,21 @@
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (46% win - 16092 games)"
+      "type": "Most Frequent Build (49% win - 3277 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3285"
+          "id": "3157"
         },
         {
           "count": 1,
           "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3285"
         },
         {
           "count": 1,
@@ -82,13 +90,9 @@
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 15906 games)"
+      "type": "Highest Win Rate Build (51% win - 157 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (51% win - 33889 games)"
+      "type": "Consumables QEW -> QWE (52% win - 5056 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QWE (54% win - 415 games)"
+      "type": "EQQW -> QWE (62% win - 125 games)"
     }
   ],
   "champion": "Ahri",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.20",
+  "title": "Middle 8.23",
   "type": "custom"
 }

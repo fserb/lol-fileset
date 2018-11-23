@@ -5,19 +5,19 @@
     {
       "items": [
         {
-          "count": 1,
-          "id": "1054"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
-          "id": "2003"
+          "id": "3302"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 333 games)"
+      "type": "Most Frequent Starters (44% win - 254 games)"
     },
     {
       "items": [
@@ -30,65 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 122 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3383"
-        },
-        {
-          "count": 1,
-          "id": "3401"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        }
-      ],
-      "type": "Most Frequent Build (19% win - 110 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3383"
-        },
-        {
-          "count": 1,
-          "id": "3401"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        }
-      ],
-      "type": "Highest Win Rate Build (19% win - 110 games)"
+      "type": "Highest Win Rate Starters (49% win - 83 games)"
     },
     {
       "items": [
@@ -125,7 +67,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (48% win - 663 games)"
+      "type": "Consumables WQE -> WQE (46% win - 399 games)"
     },
     {
       "items": [
@@ -146,7 +88,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (48% win - 663 games)"
+      "type": "WQE -> WQE (46% win - 399 games)"
     }
   ],
   "champion": "Ornn",
@@ -156,6 +98,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.5",
+  "title": "Support 8.23",
   "type": "custom"
 }

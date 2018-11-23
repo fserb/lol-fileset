@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 8152 games)"
+      "type": "Most Frequent Starters (53% win - 2241 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 8152 games)"
+      "type": "Highest Win Rate Starters (53% win - 2241 games)"
     },
     {
       "items": [
@@ -63,17 +63,17 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (45% win - 1857 games)"
+      "type": "Most Frequent Build (50% win - 599 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3006"
+          "id": "3153"
         },
         {
           "count": 1,
-          "id": "3153"
+          "id": "3006"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3022"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 1298 games)"
+      "type": "Highest Win Rate Build (50% win - 577 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (50% win - 5527 games)"
+      "type": "Consumables WQE -> WQE (52% win - 1564 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQWQ -> WQE (54% win - 414 games)"
+      "type": "WQWE -> WQE (55% win - 361 games)"
     }
   ],
   "champion": "KogMaw",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.20",
+  "title": "ADC 8.23",
   "type": "custom"
 }

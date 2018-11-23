@@ -17,24 +17,28 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 28180 games)"
+      "type": "Most Frequent Starters (49% win - 5681 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1055"
         },
         {
           "count": 1,
-          "id": "2031"
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 252 games)"
+      "type": "Highest Win Rate Starters (62% win - 122 games)"
     },
     {
       "items": [
@@ -60,10 +64,10 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3072"
         }
       ],
-      "type": "Most Frequent Build (38% win - 7576 games)"
+      "type": "Most Frequent Build (42% win - 1323 games)"
     },
     {
       "items": [
@@ -73,11 +77,11 @@
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3074"
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -85,14 +89,14 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3139"
         },
         {
           "count": 1,
-          "id": "3812"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 1514 games)"
+      "type": "Highest Win Rate Build (49% win - 120 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (48% win - 29357 games)"
+      "type": "Consumables QWE -> QEW (49% win - 4970 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (55% win - 114 games)"
+      "type": "QWE -> QEW (49% win - 4970 games)"
     }
   ],
   "champion": "Fiora",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.20",
+  "title": "Top 8.23",
   "type": "custom"
 }

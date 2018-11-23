@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 2155 games)"
+      "type": "Most Frequent Starters (50% win - 528 games)"
     },
     {
       "items": [
@@ -34,65 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 2155 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3095"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3139"
-        }
-      ],
-      "type": "Most Frequent Build (51% win - 438 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3095"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3036"
-        }
-      ],
-      "type": "Highest Win Rate Build (51% win - 434 games)"
+      "type": "Highest Win Rate Starters (50% win - 528 games)"
     },
     {
       "items": [
@@ -129,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (51% win - 917 games)"
+      "type": "Consumables QEW -> QEW (49% win - 212 games)"
     },
     {
       "items": [
@@ -150,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QWE (57% win - 201 games)"
+      "type": "QEW -> QWE (52% win - 103 games)"
     }
   ],
   "champion": "Quinn",
@@ -160,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.20",
+  "title": "ADC 8.23",
   "type": "custom"
 }

@@ -13,74 +13,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1504 games)"
+      "type": "Most Frequent Starters (49% win - 674 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1054"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 1504 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 2,
-          "id": "3001"
-        },
-        {
-          "count": 1,
-          "id": "3143"
-        }
-      ],
-      "type": "Most Frequent Build (33% win - 221 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        }
-      ],
-      "type": "Highest Win Rate Build (35% win - 199 games)"
+      "type": "Highest Win Rate Starters (53% win - 137 games)"
     },
     {
       "items": [
@@ -117,7 +67,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (51% win - 570 games)"
+      "type": "Consumables EWQ -> EWQ (53% win - 248 games)"
     },
     {
       "items": [
@@ -138,7 +88,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> EWQ (53% win - 425 games)"
+      "type": "EWQ -> EWQ (53% win - 248 games)"
     }
   ],
   "champion": "Nautilus",
@@ -148,6 +98,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.16",
+  "title": "Top 8.23",
   "type": "custom"
 }

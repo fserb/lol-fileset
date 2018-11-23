@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 11111 games)"
+      "type": "Most Frequent Starters (50% win - 1471 games)"
     },
     {
       "items": [
@@ -26,23 +26,44 @@
           "id": "1056"
         },
         {
-          "count": 1,
-          "id": "1082"
-        },
-        {
           "count": 2,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 129 games)"
+      "type": "Highest Win Rate Starters (50% win - 1471 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3102"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        }
+      ],
+      "type": "Most Frequent Build (42% win - 289 games)"
     },
     {
       "items": [
@@ -68,39 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3165"
-        }
-      ],
-      "type": "Most Frequent Build (34% win - 3088 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
           "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (38% win - 762 games)"
+      "type": "Highest Win Rate Build (42% win - 284 games)"
     },
     {
       "items": [
@@ -137,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 7334 games)"
+      "type": "Consumables QEW -> QEW (45% win - 761 games)"
     },
     {
       "items": [
@@ -158,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QWE (52% win - 140 games)"
+      "type": "QWE -> QEW (58% win - 214 games)"
     }
   ],
   "champion": "Galio",
@@ -168,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.20",
+  "title": "Middle 8.23",
   "type": "custom"
 }

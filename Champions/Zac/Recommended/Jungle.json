@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 22385 games)"
+      "type": "Most Frequent Starters (49% win - 3327 games)"
     },
     {
       "items": [
@@ -26,19 +26,15 @@
           "id": "1039"
         },
         {
-          "count": 1,
+          "count": 3,
           "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2055"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 135 games)"
+      "type": "Highest Win Rate Starters (53% win - 110 games)"
     },
     {
       "items": [
@@ -56,18 +52,18 @@
         },
         {
           "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3742"
         }
       ],
-      "type": "Most Frequent Build (35% win - 3077 games)"
+      "type": "Most Frequent Build (41% win - 382 games)"
     },
     {
       "items": [
@@ -93,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 1231 games)"
+      "type": "Highest Win Rate Build (44% win - 160 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> EWQ (48% win - 9025 games)"
+      "type": "Consumables WEQ -> EWQ (51% win - 1321 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EWQ (59% win - 266 games)"
+      "type": "WEQ -> EWQ (53% win - 108 games)"
     }
   ],
   "champion": "Zac",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.20",
+  "title": "Jungle 8.23",
   "type": "custom"
 }

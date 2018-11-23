@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 19420 games)"
+      "type": "Most Frequent Starters (53% win - 2584 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 1,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 223 games)"
+      "type": "Highest Win Rate Starters (55% win - 232 games)"
     },
     {
       "items": [
@@ -63,14 +59,10 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (43% win - 6041 games)"
+      "type": "Most Frequent Build (46% win - 785 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
         {
           "count": 1,
           "id": "3027"
@@ -81,18 +73,22 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3020"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3165"
         },
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 147 games)"
+      "type": "Highest Win Rate Build (54% win - 317 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEEW -> EQW (51% win - 10509 games)"
+      "type": "Consumables QEEW -> EQW (55% win - 1239 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEQ -> EQW (58% win - 284 games)"
+      "type": "QEEW -> EQW (55% win - 1239 games)"
     }
   ],
   "champion": "Anivia",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.20",
+  "title": "Middle 8.23",
   "type": "custom"
 }

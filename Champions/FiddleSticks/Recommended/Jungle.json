@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 5128 games)"
+      "type": "Most Frequent Starters (50% win - 1174 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 790 games)"
+      "type": "Highest Win Rate Starters (57% win - 147 games)"
     },
     {
       "items": [
@@ -63,7 +63,7 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (42% win - 2957 games)"
+      "type": "Most Frequent Build (43% win - 591 games)"
     },
     {
       "items": [
@@ -73,26 +73,26 @@
         },
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
           "id": "1402"
         },
         {
           "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3102"
-        },
-        {
-          "count": 1,
-          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 108 games)"
+      "type": "Highest Win Rate Build (45% win - 144 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WQE (51% win - 2095 games)"
+      "type": "Consumables WEQ -> WQE (47% win - 334 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWWQ -> WQE (61% win - 326 games)"
+      "type": "EWQ -> WQE (60% win - 217 games)"
     }
   ],
   "champion": "Fiddlesticks",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.20",
+  "title": "Jungle 8.23",
   "type": "custom"
 }

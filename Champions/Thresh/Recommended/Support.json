@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 221310 games)"
+      "type": "Most Frequent Starters (51% win - 35786 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3301"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 218 games)"
+      "type": "Highest Win Rate Starters (51% win - 35786 games)"
     },
     {
       "items": [
@@ -59,7 +63,7 @@
           "id": "3050"
         }
       ],
-      "type": "Most Frequent Build (43% win - 38705 games)"
+      "type": "Most Frequent Build (42% win - 5691 games)"
     },
     {
       "items": [
@@ -73,11 +77,11 @@
         },
         {
           "count": 1,
-          "id": "3069"
+          "id": "3109"
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3069"
         },
         {
           "count": 1,
@@ -88,7 +92,7 @@
           "id": "3107"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 688 games)"
+      "type": "Highest Win Rate Build (49% win - 108 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 55087 games)"
+      "type": "Consumables QEW -> QEW (49% win - 9435 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QWE (51% win - 24865 games)"
+      "type": "QEW -> QWE (51% win - 3496 games)"
     }
   ],
   "champion": "Thresh",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.20",
+  "title": "Support 8.23",
   "type": "custom"
 }

@@ -17,14 +17,10 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 12237 games)"
+      "type": "Most Frequent Starters (49% win - 1462 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1054"
-        },
         {
           "count": 1,
           "id": "2033"
@@ -34,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 146 games)"
+      "type": "Highest Win Rate Starters (54% win - 385 games)"
     },
     {
       "items": [
@@ -56,24 +52,20 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3742"
         }
       ],
-      "type": "Most Frequent Build (36% win - 1540 games)"
+      "type": "Most Frequent Build (44% win - 120 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3001"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -81,18 +73,22 @@
         },
         {
           "count": 1,
-          "id": "3193"
-        },
-        {
-          "count": 1,
           "id": "3083"
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3193"
+        },
+        {
+          "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
+          "id": "3742"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 680 games)"
+      "type": "Highest Win Rate Build (44% win - 120 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (49% win - 4853 games)"
+      "type": "Consumables EWQ -> EWQ (54% win - 444 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> EWQ (59% win - 115 games)"
+      "type": "EWQ -> EWQ (54% win - 444 games)"
     }
   ],
   "champion": "Chogath",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.20",
+  "title": "Top 8.23",
   "type": "custom"
 }

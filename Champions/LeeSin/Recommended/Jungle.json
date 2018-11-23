@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 185150 games)"
+      "type": "Most Frequent Starters (49% win - 39582 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1006"
         },
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "1041"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 74 games)"
+      "type": "Highest Win Rate Starters (51% win - 306 games)"
     },
     {
       "items": [
@@ -63,21 +63,25 @@
           "id": "3074"
         }
       ],
-      "type": "Most Frequent Build (37% win - 24769 games)"
+      "type": "Most Frequent Build (44% win - 5309 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3071"
-        },
         {
           "count": 1,
           "id": "1412"
         },
         {
           "count": 1,
-          "id": "3117"
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         },
         {
           "count": 1,
@@ -86,13 +90,9 @@
         {
           "count": 1,
           "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 107 games)"
+      "type": "Highest Win Rate Build (44% win - 5297 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (48% win - 115377 games)"
+      "type": "Consumables QWE -> QWE (50% win - 24172 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (55% win - 3943 games)"
+      "type": "QWE -> QWE (57% win - 907 games)"
     }
   ],
   "champion": "LeeSin",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.20",
+  "title": "Jungle 8.23",
   "type": "custom"
 }

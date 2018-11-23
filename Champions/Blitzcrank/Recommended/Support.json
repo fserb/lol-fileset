@@ -17,13 +17,17 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 52526 games)"
+      "type": "Most Frequent Starters (51% win - 11354 games)"
     },
     {
       "items": [
         {
-          "count": 3,
+          "count": 4,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3301"
         },
         {
           "count": 1,
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 134 games)"
+      "type": "Highest Win Rate Starters (54% win - 137 games)"
     },
     {
       "items": [
@@ -60,17 +64,13 @@
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (42% win - 11666 games)"
+      "type": "Most Frequent Build (42% win - 2204 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3800"
-        },
         {
           "count": 1,
           "id": "3117"
@@ -81,18 +81,22 @@
         },
         {
           "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3383"
+          "id": "3800"
         },
         {
           "count": 1,
           "id": "3050"
+        },
+        {
+          "count": 1,
+          "id": "3194"
+        },
+        {
+          "count": 1,
+          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 106 games)"
+      "type": "Highest Win Rate Build (43% win - 2055 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 31205 games)"
+      "type": "Consumables QEW -> QEW (49% win - 6855 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (51% win - 252 games)"
+      "type": "QEQW -> QEW (52% win - 699 games)"
     }
   ],
   "champion": "Blitzcrank",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.20",
+  "title": "Support 8.22",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 49898 games)"
+      "type": "Most Frequent Starters (49% win - 10023 games)"
     },
     {
       "items": [
@@ -27,18 +27,10 @@
         },
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2055"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 2118 games)"
+      "type": "Highest Win Rate Starters (50% win - 164 games)"
     },
     {
       "items": [
@@ -67,25 +59,25 @@
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (36% win - 13324 games)"
+      "type": "Most Frequent Build (40% win - 2873 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1414"
+        },
         {
           "count": 1,
           "id": "3020"
         },
         {
           "count": 1,
-          "id": "1402"
-        },
-        {
-          "count": 1,
-          "id": "3041"
-        },
-        {
-          "count": 1,
           "id": "3100"
+        },
+        {
+          "count": 1,
+          "id": "3165"
         },
         {
           "count": 1,
@@ -96,7 +88,7 @@
           "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 1626 games)"
+      "type": "Highest Win Rate Build (43% win - 139 games)"
     },
     {
       "items": [
@@ -133,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (50% win - 30443 games)"
+      "type": "Consumables QWE -> QEW (50% win - 6137 games)"
     },
     {
       "items": [
@@ -154,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EQW (54% win - 1092 games)"
+      "type": "QWE -> EWQ (52% win - 296 games)"
     }
   ],
   "champion": "Evelynn",
@@ -164,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.20",
+  "title": "Jungle 8.23",
   "type": "custom"
 }

@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 45422 games)"
+      "type": "Most Frequent Starters (49% win - 5728 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
+          "id": "1039"
         },
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 137 games)"
+      "type": "Highest Win Rate Starters (49% win - 5728 games)"
     },
     {
       "items": [
@@ -53,27 +53,27 @@
         {
           "count": 1,
           "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3100"
         },
         {
           "count": 1,
           "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (41% win - 7254 games)"
+      "type": "Most Frequent Build (44% win - 1302 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "1402"
         },
         {
           "count": 1,
-          "id": "1402"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "3025"
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3041"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 496 games)"
+      "type": "Highest Win Rate Build (44% win - 1285 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> QEW (49% win - 18682 games)"
+      "type": "Consumables WEQ -> QEW (50% win - 2063 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> WEQ (68% win - 129 games)"
+      "type": "WEQ -> QEW (57% win - 103 games)"
     }
   ],
   "champion": "Gragas",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.20",
+  "title": "Jungle 8.23",
   "type": "custom"
 }

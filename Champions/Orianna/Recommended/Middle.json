@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 36904 games)"
+      "type": "Most Frequent Starters (49% win - 12917 games)"
     },
     {
       "items": [
@@ -27,18 +27,10 @@
         },
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2033"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (62% win - 120 games)"
+      "type": "Highest Win Rate Starters (55% win - 176 games)"
     },
     {
       "items": [
@@ -67,13 +59,13 @@
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (40% win - 9216 games)"
+      "type": "Most Frequent Build (43% win - 2753 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3027"
+          "id": "3157"
         },
         {
           "count": 1,
@@ -85,18 +77,18 @@
         },
         {
           "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
           "id": "3135"
         },
         {
           "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 131 games)"
+      "type": "Highest Win Rate Build (45% win - 252 games)"
     },
     {
       "items": [
@@ -133,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 36332 games)"
+      "type": "Consumables QWE -> QWE (49% win - 10640 games)"
     },
     {
       "items": [
@@ -154,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QWE (52% win - 176 games)"
+      "type": "QWQE -> QWE (54% win - 786 games)"
     }
   ],
   "champion": "Orianna",
@@ -164,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.20",
+  "title": "Middle 8.23",
   "type": "custom"
 }

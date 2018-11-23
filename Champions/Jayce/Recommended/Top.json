@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 8829 games)"
+      "type": "Most Frequent Starters (46% win - 2285 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1036"
         },
         {
-          "count": 1,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 181 games)"
+      "type": "Highest Win Rate Starters (58% win - 55 games)"
     },
     {
       "items": [
@@ -60,24 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (38% win - 1859 games)"
+      "type": "Most Frequent Build (42% win - 462 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3111"
-        },
         {
           "count": 1,
           "id": "3142"
         },
         {
           "count": 1,
-          "id": "3147"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -85,14 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3147"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         },
         {
           "count": 1,
           "id": "3036"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 180 games)"
+      "type": "Highest Win Rate Build (42% win - 462 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (49% win - 6430 games)"
+      "type": "Consumables QEW -> QWE (47% win - 1574 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QWE (51% win - 3030 games)"
+      "type": "QEQW -> QWE (55% win - 551 games)"
     }
   ],
   "champion": "Jayce",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.20",
+  "title": "Top 8.23",
   "type": "custom"
 }

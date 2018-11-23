@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 7461 games)"
+      "type": "Most Frequent Starters (49% win - 1254 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3302"
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 66 games)"
+      "type": "Highest Win Rate Starters (58% win - 131 games)"
     },
     {
       "items": [
@@ -47,19 +51,15 @@
           "id": "3109"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3092"
         },
         {
           "count": 1,
           "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (45% win - 1359 games)"
+      "type": "Most Frequent Build (52% win - 180 games)"
     },
     {
       "items": [
@@ -76,19 +76,15 @@
           "id": "3109"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3092"
         },
         {
           "count": 1,
           "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 1359 games)"
+      "type": "Highest Win Rate Build (52% win - 180 games)"
     },
     {
       "items": [
@@ -125,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (48% win - 2980 games)"
+      "type": "Consumables QEW -> QEW (45% win - 564 games)"
     },
     {
       "items": [
@@ -146,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EWQ (49% win - 1736 games)"
+      "type": "EQW -> QEW (53% win - 160 games)"
     }
   ],
   "champion": "Gragas",
@@ -156,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.20",
+  "title": "Support 8.23",
   "type": "custom"
 }

@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 8297 games)"
+      "type": "Most Frequent Starters (52% win - 2561 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1082"
+          "id": "1056"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 160 games)"
+      "type": "Highest Win Rate Starters (55% win - 428 games)"
     },
     {
       "items": [
@@ -48,11 +48,11 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3165"
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "3089"
         },
         {
           "count": 1,
@@ -60,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3092"
         }
       ],
-      "type": "Most Frequent Build (44% win - 2534 games)"
+      "type": "Most Frequent Build (47% win - 764 games)"
     },
     {
       "items": [
@@ -81,7 +81,7 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
         },
         {
           "count": 1,
@@ -89,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (56% win - 2325 games)"
+      "type": "Highest Win Rate Build (57% win - 546 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 6816 games)"
+      "type": "Consumables QWE -> QWE (52% win - 1809 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (54% win - 142 games)"
+      "type": "WQE -> QWE (56% win - 382 games)"
     }
   ],
   "champion": "Xerath",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.20",
+  "title": "Support 8.23",
   "type": "custom"
 }

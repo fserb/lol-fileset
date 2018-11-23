@@ -17,78 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 3933 games)"
+      "type": "Most Frequent Starters (52% win - 517 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1082"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 412 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3116"
-        },
-        {
-          "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3512"
-        }
-      ],
-      "type": "Most Frequent Build (35% win - 270 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3116"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3194"
-        }
-      ],
-      "type": "Highest Win Rate Build (39% win - 256 games)"
+      "type": "Highest Win Rate Starters (52% win - 517 games)"
     },
     {
       "items": [
@@ -125,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (51% win - 3360 games)"
+      "type": "Consumables QEQW -> QEW (51% win - 434 games)"
     },
     {
       "items": [
@@ -146,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (51% win - 3360 games)"
+      "type": "QEQW -> QEW (51% win - 434 games)"
     }
   ],
   "champion": "Singed",
@@ -156,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.20",
+  "title": "Jungle 8.23",
   "type": "custom"
 }

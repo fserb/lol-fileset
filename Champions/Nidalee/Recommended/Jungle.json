@@ -17,20 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 34217 games)"
+      "type": "Most Frequent Starters (49% win - 6783 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
-        },
-        {
-          "count": 1,
           "id": "1041"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2031"
         },
         {
@@ -38,36 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 214 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1414"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3100"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        }
-      ],
-      "type": "Most Frequent Build (37% win - 7794 games)"
+      "type": "Highest Win Rate Starters (51% win - 440 games)"
     },
     {
       "items": [
@@ -96,7 +63,36 @@
           "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (39% win - 7603 games)"
+      "type": "Most Frequent Build (39% win - 1604 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "1402"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3100"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        }
+      ],
+      "type": "Highest Win Rate Build (40% win - 144 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (50% win - 42979 games)"
+      "type": "Consumables QWE -> QEW (49% win - 7966 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (55% win - 867 games)"
+      "type": "QWE -> QEW (52% win - 163 games)"
     }
   ],
   "champion": "Nidalee",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.20",
+  "title": "Jungle 8.23",
   "type": "custom"
 }

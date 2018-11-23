@@ -17,16 +17,12 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 169295 games)"
+      "type": "Most Frequent Starters (51% win - 33216 games)"
     },
     {
       "items": [
         {
-          "count": 2,
-          "id": "1055"
-        },
-        {
-          "count": 2,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -34,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 282 games)"
+      "type": "Highest Win Rate Starters (52% win - 53 games)"
     },
     {
       "items": [
@@ -63,13 +59,13 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (47% win - 70113 games)"
+      "type": "Most Frequent Build (47% win - 13541 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3153"
+          "id": "3508"
         },
         {
           "count": 1,
@@ -77,22 +73,18 @@
         },
         {
           "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
           "id": "3071"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3094"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 70113 games)"
+      "type": "Highest Win Rate Build (53% win - 104 games)"
     },
     {
       "items": [
@@ -129,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (51% win - 150971 games)"
+      "type": "Consumables QEW -> QEW (50% win - 22622 games)"
     },
     {
       "items": [
@@ -150,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (52% win - 29002 games)"
+      "type": "EQQW -> QEW (59% win - 105 games)"
     }
   ],
   "champion": "Lucian",
@@ -160,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.20",
+  "title": "ADC 8.23",
   "type": "custom"
 }
