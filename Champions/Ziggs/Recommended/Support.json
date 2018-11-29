@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 333 games)"
+      "type": "Most Frequent Starters (50% win - 888 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 227 games)"
+      "type": "Highest Win Rate Starters (56% win - 730 games)"
     },
     {
       "items": [
@@ -52,28 +52,7 @@
         },
         {
           "count": 1,
-          "id": "3003"
-        },
-        {
-          "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        }
-      ],
-      "type": "Most Frequent Build (59% win - 187 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3285"
-        },
-        {
-          "count": 1,
-          "id": "3020"
+          "id": "3092"
         },
         {
           "count": 1,
@@ -82,17 +61,34 @@
         {
           "count": 1,
           "id": "3089"
+        }
+      ],
+      "type": "Most Frequent Build (57% win - 540 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3285"
+        },
+        {
+          "count": 2,
+          "id": "3020"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3041"
         },
         {
           "count": 1,
           "id": "3092"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (61% win - 184 games)"
+      "type": "Highest Win Rate Build (57% win - 492 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (48% win - 321 games)"
+      "type": "Consumables QEW -> QEW (49% win - 951 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (58% win - 116 games)"
+      "type": "QEQW -> QEW (53% win - 126 games)"
     }
   ],
   "champion": "Ziggs",

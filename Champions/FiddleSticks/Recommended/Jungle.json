@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1174 games)"
+      "type": "Most Frequent Starters (48% win - 3254 games)"
     },
     {
       "items": [
@@ -26,7 +26,11 @@
           "id": "1039"
         },
         {
-          "count": 2,
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
           "id": "2055"
         },
         {
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 147 games)"
+      "type": "Highest Win Rate Starters (55% win - 620 games)"
     },
     {
       "items": [
@@ -63,7 +67,7 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (43% win - 591 games)"
+      "type": "Most Frequent Build (44% win - 1691 games)"
     },
     {
       "items": [
@@ -92,7 +96,7 @@
           "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 144 games)"
+      "type": "Highest Win Rate Build (45% win - 426 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WQE (47% win - 334 games)"
+      "type": "Consumables WEQ -> WQE (48% win - 958 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> WQE (60% win - 217 games)"
+      "type": "WEQ -> QWE (61% win - 105 games)"
     }
   ],
   "champion": "Fiddlesticks",

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 5147 games)"
+      "type": "Most Frequent Starters (52% win - 13988 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 5147 games)"
+      "type": "Highest Win Rate Starters (52% win - 13988 games)"
     },
     {
       "items": [
@@ -63,17 +63,25 @@
           "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (43% win - 502 games)"
+      "type": "Most Frequent Build (43% win - 1454 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1402"
+          "id": "1401"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3001"
+        },
+        {
+          "count": 1,
+          "id": "3075"
         },
         {
           "count": 1,
@@ -81,18 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3116"
-        },
-        {
-          "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3157"
+          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 209 games)"
+      "type": "Highest Win Rate Build (43% win - 1454 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> EQW (51% win - 1127 games)"
+      "type": "Consumables WEQ -> EQW (52% win - 3052 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (64% win - 118 games)"
+      "type": "WEQ -> QEW (57% win - 240 games)"
     }
   ],
   "champion": "Amumu",

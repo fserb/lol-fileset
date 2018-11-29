@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 2024 games)"
+      "type": "Most Frequent Starters (51% win - 5745 games)"
     },
     {
       "items": [
@@ -26,11 +26,19 @@
           "id": "1036"
         },
         {
+          "count": 3,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2031"
+        },
+        {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 120 games)"
+      "type": "Highest Win Rate Starters (53% win - 56 games)"
     },
     {
       "items": [
@@ -59,17 +67,21 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (43% win - 2119 games)"
+      "type": "Most Frequent Build (41% win - 5863 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "3047"
         },
         {
           "count": 1,
           "id": "3146"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         },
         {
           "count": 1,
@@ -82,13 +94,9 @@
         {
           "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 450 games)"
+      "type": "Highest Win Rate Build (45% win - 199 games)"
     },
     {
       "items": [
@@ -125,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 7088 games)"
+      "type": "Consumables QEW -> QEW (49% win - 19840 games)"
     },
     {
       "items": [
@@ -146,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (54% win - 138 games)"
+      "type": "QEW -> EQW (60% win - 120 games)"
     }
   ],
   "champion": "Katarina",
