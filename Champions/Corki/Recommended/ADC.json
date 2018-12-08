@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 1028 games)"
+      "type": "Most Frequent Starters (48% win - 337 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 1028 games)"
+      "type": "Highest Win Rate Starters (48% win - 337 games)"
     },
     {
       "items": [
@@ -63,17 +63,17 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (43% win - 470 games)"
+      "type": "Most Frequent Build (50% win - 144 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "3078"
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3095"
-        },
-        {
-          "count": 1,
           "id": "3031"
         },
         {
           "count": 1,
-          "id": "3087"
+          "id": "3072"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 137 games)"
+      "type": "Highest Win Rate Build (50% win - 144 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (48% win - 635 games)"
+      "type": "Consumables QEW -> QEW (46% win - 209 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (48% win - 635 games)"
+      "type": "QWE -> QEW (54% win - 126 games)"
     }
   ],
   "champion": "Corki",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.23",
+  "title": "ADC 8.24",
   "type": "custom"
 }

@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 12055 games)"
+      "type": "Most Frequent Starters (52% win - 2760 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1082"
+          "id": "1056"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 616 games)"
+      "type": "Highest Win Rate Starters (52% win - 2760 games)"
     },
     {
       "items": [
@@ -63,10 +63,14 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (44% win - 1917 games)"
+      "type": "Most Frequent Build (47% win - 468 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3020"
+        },
         {
           "count": 1,
           "id": "3285"
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
           "id": "3089"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 113 games)"
+      "type": "Highest Win Rate Build (53% win - 139 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (51% win - 8281 games)"
+      "type": "Consumables QEW -> QEW (52% win - 1873 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (55% win - 143 games)"
+      "type": "QEQW -> QEW (53% win - 1322 games)"
     }
   ],
   "champion": "Karthus",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.23",
+  "title": "Middle 8.24",
   "type": "custom"
 }

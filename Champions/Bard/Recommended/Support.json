@@ -17,10 +17,14 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 21169 games)"
+      "type": "Most Frequent Starters (50% win - 6129 games)"
     },
     {
       "items": [
+        {
+          "count": 2,
+          "id": "2003"
+        },
         {
           "count": 1,
           "id": "3303"
@@ -30,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 271 games)"
+      "type": "Highest Win Rate Starters (50% win - 6129 games)"
     },
     {
       "items": [
@@ -44,10 +48,6 @@
         },
         {
           "count": 1,
-          "id": "3905"
-        },
-        {
-          "count": 1,
           "id": "3107"
         },
         {
@@ -56,17 +56,17 @@
         },
         {
           "count": 1,
-          "id": "3222"
+          "id": "3109"
+        },
+        {
+          "count": 1,
+          "id": "3504"
         }
       ],
-      "type": "Most Frequent Build (39% win - 2535 games)"
+      "type": "Most Frequent Build (39% win - 824 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3107"
-        },
         {
           "count": 1,
           "id": "3117"
@@ -81,14 +81,18 @@
         },
         {
           "count": 1,
+          "id": "3107"
+        },
+        {
+          "count": 1,
           "id": "3190"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 103 games)"
+      "type": "Highest Win Rate Build (41% win - 544 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 9857 games)"
+      "type": "Consumables QWE -> QWE (48% win - 2813 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (55% win - 134 games)"
+      "type": "QEW -> QEW (56% win - 290 games)"
     }
   ],
   "champion": "Bard",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.23",
+  "title": "Support 8.24",
   "type": "custom"
 }

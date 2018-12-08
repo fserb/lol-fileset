@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 26277 games)"
+      "type": "Most Frequent Starters (51% win - 9645 games)"
     },
     {
       "items": [
@@ -27,14 +27,10 @@
         },
         {
           "count": 1,
-          "id": "2033"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (61% win - 141 games)"
+      "type": "Highest Win Rate Starters (52% win - 373 games)"
     },
     {
       "items": [
@@ -63,21 +59,17 @@
           "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (40% win - 5299 games)"
+      "type": "Most Frequent Build (35% win - 2018 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3153"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
           "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3047"
         },
         {
           "count": 1,
@@ -85,14 +77,18 @@
         },
         {
           "count": 1,
-          "id": "3124"
+          "id": "3748"
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3053"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 200 games)"
+      "type": "Highest Win Rate Build (43% win - 1091 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> WQE (52% win - 14814 games)"
+      "type": "Consumables EQW -> WQE (53% win - 5750 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> WQE (58% win - 112 games)"
+      "type": "EQW -> QWE (54% win - 261 games)"
     }
   ],
   "champion": "Jax",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.23",
+  "title": "Top 8.24",
   "type": "custom"
 }

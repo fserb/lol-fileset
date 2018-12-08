@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (57% win - 3045 games)"
+      "type": "Most Frequent Starters (57% win - 839 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 3045 games)"
+      "type": "Highest Win Rate Starters (57% win - 839 games)"
     },
     {
       "items": [
@@ -48,10 +48,6 @@
         },
         {
           "count": 1,
-          "id": "3147"
-        },
-        {
-          "count": 1,
           "id": "3071"
         },
         {
@@ -60,10 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3147"
         }
       ],
-      "type": "Most Frequent Build (47% win - 1519 games)"
+      "type": "Most Frequent Build (49% win - 427 games)"
     },
     {
       "items": [
@@ -73,15 +73,7 @@
         },
         {
           "count": 1,
-          "id": "3142"
-        },
-        {
-          "count": 1,
-          "id": "3009"
-        },
-        {
-          "count": 1,
-          "id": "3814"
+          "id": "3006"
         },
         {
           "count": 1,
@@ -89,10 +81,18 @@
         },
         {
           "count": 1,
+          "id": "3142"
+        },
+        {
+          "count": 1,
           "id": "3036"
+        },
+        {
+          "count": 1,
+          "id": "3094"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 525 games)"
+      "type": "Highest Win Rate Build (51% win - 176 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (56% win - 946 games)"
+      "type": "Consumables QEW -> QWE (48% win - 249 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QWE (61% win - 337 games)"
+      "type": "QWE -> QWE (53% win - 237 games)"
     }
   ],
   "champion": "MissFortune",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.23",
+  "title": "Support 8.24",
   "type": "custom"
 }

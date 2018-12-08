@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 30445 games)"
+      "type": "Most Frequent Starters (48% win - 5797 games)"
     },
     {
       "items": [
@@ -26,11 +26,15 @@
           "id": "1056"
         },
         {
+          "count": 2,
+          "id": "2003"
+        },
+        {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 397 games)"
+      "type": "Highest Win Rate Starters (48% win - 5797 games)"
     },
     {
       "items": [
@@ -59,7 +63,7 @@
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (43% win - 6478 games)"
+      "type": "Most Frequent Build (42% win - 1341 games)"
     },
     {
       "items": [
@@ -81,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3102"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 6159 games)"
+      "type": "Highest Win Rate Build (42% win - 1259 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 25399 games)"
+      "type": "Consumables QWE -> QWE (49% win - 5035 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QWE (51% win - 1952 games)"
+      "type": "QEQW -> QWE (59% win - 137 games)"
     }
   ],
   "champion": "Orianna",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.23",
+  "title": "Middle 8.24",
   "type": "custom"
 }

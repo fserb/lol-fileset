@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 9304 games)"
+      "type": "Most Frequent Starters (53% win - 2699 games)"
     },
     {
       "items": [
@@ -27,14 +27,14 @@
         },
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 796 games)"
+      "type": "Highest Win Rate Starters (60% win - 152 games)"
     },
     {
       "items": [
@@ -60,24 +60,24 @@
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3074"
         }
       ],
-      "type": "Most Frequent Build (48% win - 1773 games)"
+      "type": "Most Frequent Build (48% win - 547 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1416"
-        },
-        {
-          "count": 1,
-          "id": "3078"
+          "id": "1400"
         },
         {
           "count": 1,
           "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3078"
         },
         {
           "count": 1,
@@ -89,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (61% win - 105 games)"
+      "type": "Highest Win Rate Build (49% win - 546 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (56% win - 5565 games)"
+      "type": "Consumables QEW -> QEW (56% win - 1736 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (57% win - 1178 games)"
+      "type": "QEQW -> QEW (61% win - 403 games)"
     }
   ],
   "champion": "Udyr",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.23",
+  "title": "Jungle 8.24",
   "type": "custom"
 }

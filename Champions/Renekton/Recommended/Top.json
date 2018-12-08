@@ -17,20 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 11128 games)"
+      "type": "Most Frequent Starters (48% win - 4576 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1036"
         },
         {
-          "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 1,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -38,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 236 games)"
+      "type": "Highest Win Rate Starters (56% win - 415 games)"
     },
     {
       "items": [
@@ -67,36 +63,36 @@
           "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (39% win - 2835 games)"
+      "type": "Most Frequent Build (38% win - 1139 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
         {
           "count": 1,
           "id": "3071"
         },
         {
           "count": 1,
-          "id": "3142"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3053"
         },
         {
           "count": 1,
-          "id": "3147"
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3748"
+        },
+        {
+          "count": 1,
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 116 games)"
+      "type": "Highest Win Rate Build (41% win - 265 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 7474 games)"
+      "type": "Consumables QEW -> QEW (49% win - 3212 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QEW (51% win - 1132 games)"
+      "type": "WQE -> QWE (53% win - 211 games)"
     }
   ],
   "champion": "Renekton",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.23",
+  "title": "Top 8.24",
   "type": "custom"
 }

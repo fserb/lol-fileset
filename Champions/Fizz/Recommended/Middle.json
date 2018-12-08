@@ -6,29 +6,17 @@
       "items": [
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 6568 games)"
+      "type": "Most Frequent Starters (55% win - 2051 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 2,
-          "id": "2003"
-        },
         {
           "count": 1,
           "id": "2033"
@@ -38,7 +26,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 288 games)"
+      "type": "Highest Win Rate Starters (55% win - 2051 games)"
     },
     {
       "items": [
@@ -67,7 +55,7 @@
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (48% win - 2621 games)"
+      "type": "Most Frequent Build (45% win - 818 games)"
     },
     {
       "items": [
@@ -89,14 +77,14 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 594 games)"
+      "type": "Highest Win Rate Build (48% win - 196 games)"
     },
     {
       "items": [
@@ -133,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (52% win - 5212 games)"
+      "type": "Consumables EWQ -> EWQ (54% win - 1670 games)"
     },
     {
       "items": [
@@ -154,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EWQ (55% win - 438 games)"
+      "type": "WEQ -> EWQ (54% win - 1231 games)"
     }
   ],
   "champion": "Fizz",
@@ -164,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.23",
+  "title": "Middle 8.24",
   "type": "custom"
 }

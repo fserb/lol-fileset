@@ -17,13 +17,17 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 33563 games)"
+      "type": "Most Frequent Starters (52% win - 8764 games)"
     },
     {
       "items": [
         {
-          "count": 2,
+          "count": 4,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3301"
         },
         {
           "count": 1,
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 33563 games)"
+      "type": "Highest Win Rate Starters (54% win - 50 games)"
     },
     {
       "items": [
@@ -63,13 +67,13 @@
           "id": "3174"
         }
       ],
-      "type": "Most Frequent Build (42% win - 5175 games)"
+      "type": "Most Frequent Build (43% win - 1514 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3174"
+          "id": "3504"
         },
         {
           "count": 1,
@@ -77,18 +81,22 @@
         },
         {
           "count": 1,
+          "id": "3107"
+        },
+        {
+          "count": 1,
           "id": "3092"
         },
         {
-          "count": 2,
-          "id": "3107"
+          "count": 1,
+          "id": "3190"
         },
         {
           "count": 1,
           "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 191 games)"
+      "type": "Highest Win Rate Build (45% win - 941 games)"
     },
     {
       "items": [
@@ -125,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WEQ (53% win - 6735 games)"
+      "type": "Consumables WEQ -> WEQ (53% win - 1791 games)"
     },
     {
       "items": [
@@ -146,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQWE -> WEQ (58% win - 458 games)"
+      "type": "WEWQ -> WEQ (56% win - 319 games)"
     }
   ],
   "champion": "Janna",
@@ -156,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.23",
+  "title": "Support 8.24",
   "type": "custom"
 }

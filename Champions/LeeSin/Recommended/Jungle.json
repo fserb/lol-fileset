@@ -17,28 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 111459 games)"
+      "type": "Most Frequent Starters (49% win - 39826 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1006"
+        },
         {
           "count": 1,
           "id": "1041"
         },
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2055"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 59 games)"
+      "type": "Highest Win Rate Starters (50% win - 300 games)"
     },
     {
       "items": [
@@ -60,20 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3074"
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3053"
         }
       ],
-      "type": "Most Frequent Build (42% win - 15146 games)"
+      "type": "Most Frequent Build (42% win - 5868 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3071"
+          "id": "1412"
         },
         {
           "count": 1,
@@ -81,22 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        },
+        {
+          "count": 1,
           "id": "3074"
         },
         {
           "count": 1,
-          "id": "1401"
-        },
-        {
-          "count": 1,
-          "id": "3156"
-        },
-        {
-          "count": 1,
-          "id": "3147"
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 104 games)"
+      "type": "Highest Win Rate Build (43% win - 3961 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 68307 games)"
+      "type": "Consumables QWE -> QWE (50% win - 25463 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (53% win - 2582 games)"
+      "type": "QWE -> QEW (54% win - 1045 games)"
     }
   ],
   "champion": "LeeSin",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.23",
+  "title": "Jungle 8.24",
   "type": "custom"
 }

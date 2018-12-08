@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 754 games)"
+      "type": "Most Frequent Starters (56% win - 349 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 754 games)"
+      "type": "Highest Win Rate Starters (56% win - 349 games)"
     },
     {
       "items": [
@@ -56,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3092"
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (56% win - 635 games)"
+      "type": "Most Frequent Build (60% win - 261 games)"
     },
     {
       "items": [
@@ -77,22 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
           "id": "3003"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3041"
         },
         {
           "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3102"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (56% win - 635 games)"
+      "type": "Highest Win Rate Build (60% win - 245 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEEW -> EQW (51% win - 535 games)"
+      "type": "Consumables QEEW -> EQW (49% win - 214 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEW -> EQW (51% win - 535 games)"
+      "type": "QEW -> EQW (52% win - 191 games)"
     }
   ],
   "champion": "Anivia",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.23",
+  "title": "Support 8.24",
   "type": "custom"
 }

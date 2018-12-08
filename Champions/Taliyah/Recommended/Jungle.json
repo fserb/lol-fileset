@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 9138 games)"
+      "type": "Most Frequent Starters (49% win - 2254 games)"
     },
     {
       "items": [
@@ -27,10 +27,14 @@
         },
         {
           "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 102 games)"
+      "type": "Highest Win Rate Starters (49% win - 2254 games)"
     },
     {
       "items": [
@@ -59,7 +63,7 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (40% win - 3338 games)"
+      "type": "Most Frequent Build (40% win - 821 games)"
     },
     {
       "items": [
@@ -88,7 +92,7 @@
           "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 558 games)"
+      "type": "Highest Win Rate Build (49% win - 115 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (49% win - 6513 games)"
+      "type": "Consumables QWE -> QEW (50% win - 1693 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (49% win - 6513 games)"
+      "type": "QWE -> QEW (50% win - 1693 games)"
     }
   ],
   "champion": "Taliyah",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.23",
+  "title": "Jungle 8.24",
   "type": "custom"
 }

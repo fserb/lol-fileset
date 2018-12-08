@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 11787 games)"
+      "type": "Most Frequent Starters (49% win - 3709 games)"
     },
     {
       "items": [
@@ -22,15 +22,15 @@
           "id": "1082"
         },
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 494 games)"
+      "type": "Highest Win Rate Starters (57% win - 2463 games)"
     },
     {
       "items": [
@@ -59,17 +59,21 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (39% win - 3334 games)"
+      "type": "Most Frequent Build (38% win - 1093 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3003"
+          "id": "3047"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3003"
         },
         {
           "count": 1,
@@ -77,18 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 381 games)"
+      "type": "Highest Win Rate Build (44% win - 107 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (54% win - 12171 games)"
+      "type": "Consumables QWE -> QEW (52% win - 3891 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EQW (61% win - 160 games)"
+      "type": "QWE -> EQW (60% win - 229 games)"
     }
   ],
   "champion": "Kassadin",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 8.23",
+  "title": "Middle 8.24",
   "type": "custom"
 }

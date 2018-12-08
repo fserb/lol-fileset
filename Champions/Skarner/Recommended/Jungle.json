@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 5053 games)"
+      "type": "Most Frequent Starters (51% win - 974 games)"
     },
     {
       "items": [
@@ -27,10 +27,6 @@
         },
         {
           "count": 1,
-          "id": "1041"
-        },
-        {
-          "count": 2,
           "id": "2031"
         },
         {
@@ -38,65 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 132 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1412"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        }
-      ],
-      "type": "Most Frequent Build (44% win - 1103 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1412"
-        },
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        }
-      ],
-      "type": "Highest Win Rate Build (44% win - 1103 games)"
+      "type": "Highest Win Rate Starters (51% win - 974 games)"
     },
     {
       "items": [
@@ -133,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (48% win - 3219 games)"
+      "type": "Consumables QEW -> QWE (51% win - 391 games)"
     },
     {
       "items": [
@@ -154,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EWQ (56% win - 125 games)"
+      "type": "QWE -> QWE (53% win - 191 games)"
     }
   ],
   "champion": "Skarner",
@@ -164,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.23",
+  "title": "Jungle 8.24",
   "type": "custom"
 }

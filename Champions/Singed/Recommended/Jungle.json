@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 1322 games)"
+      "type": "Most Frequent Starters (47% win - 318 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1082"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 81 games)"
+      "type": "Highest Win Rate Starters (47% win - 318 games)"
     },
     {
       "items": [
@@ -67,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQW -> QEW (50% win - 1133 games)"
+      "type": "Consumables QEQW -> QEW (46% win - 289 games)"
     },
     {
       "items": [
@@ -88,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (50% win - 1133 games)"
+      "type": "QEQW -> QEW (46% win - 289 games)"
     }
   ],
   "champion": "Singed",
@@ -98,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.23",
+  "title": "Jungle 8.24",
   "type": "custom"
 }

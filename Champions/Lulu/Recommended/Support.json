@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 28716 games)"
+      "type": "Most Frequent Starters (49% win - 8774 games)"
     },
     {
       "items": [
         {
+          "count": 2,
+          "id": "2003"
+        },
+        {
           "count": 1,
-          "id": "3301"
+          "id": "3303"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 66 games)"
+      "type": "Highest Win Rate Starters (49% win - 8774 games)"
     },
     {
       "items": [
@@ -59,14 +63,10 @@
           "id": "3050"
         }
       ],
-      "type": "Most Frequent Build (40% win - 3878 games)"
+      "type": "Most Frequent Build (40% win - 1432 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3174"
-        },
         {
           "count": 1,
           "id": "3117"
@@ -77,18 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3107"
+        },
+        {
+          "count": 1,
           "id": "3092"
         },
         {
           "count": 1,
-          "id": "3905"
+          "id": "3174"
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3190"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 103 games)"
+      "type": "Highest Win Rate Build (40% win - 1427 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EWQ (49% win - 9466 games)"
+      "type": "Consumables EQW -> EWQ (48% win - 3208 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEW -> EWQ (53% win - 140 games)"
+      "type": "EQEW -> EWQ (50% win - 138 games)"
     }
   ],
   "champion": "Lulu",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.23",
+  "title": "Support 8.24",
   "type": "custom"
 }
