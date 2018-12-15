@@ -17,12 +17,12 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 8591 games)"
+      "type": "Most Frequent Starters (48% win - 27842 games)"
     },
     {
       "items": [
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 8591 games)"
+      "type": "Highest Win Rate Starters (49% win - 280 games)"
     },
     {
       "items": [
@@ -56,24 +56,28 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3107"
+        },
+        {
+          "count": 1,
+          "id": "3512"
+        }
+      ],
+      "type": "Most Frequent Build (40% win - 3820 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3401"
         },
         {
           "count": 1,
           "id": "3050"
-        }
-      ],
-      "type": "Most Frequent Build (36% win - 1161 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3401"
-        },
-        {
-          "count": 1,
-          "id": "3117"
         },
         {
           "count": 1,
@@ -82,17 +86,13 @@
         {
           "count": 1,
           "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3143"
         },
         {
           "count": 1,
           "id": "3107"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 958 games)"
+      "type": "Highest Win Rate Build (40% win - 3369 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 5826 games)"
+      "type": "Consumables QEW -> QEW (48% win - 19299 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (49% win - 435 games)"
+      "type": "QEW -> QEW (48% win - 19299 games)"
     }
   ],
   "champion": "Braum",

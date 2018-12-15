@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 16928 games)"
+      "type": "Most Frequent Starters (49% win - 50796 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (66% win - 123 games)"
+      "type": "Highest Win Rate Starters (65% win - 299 games)"
     },
     {
       "items": [
@@ -63,21 +63,25 @@
           "id": "3071"
         }
       ],
-      "type": "Most Frequent Build (45% win - 5251 games)"
+      "type": "Most Frequent Build (45% win - 16178 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3009"
+        },
+        {
+          "count": 1,
+          "id": "3147"
+        },
         {
           "count": 1,
           "id": "3142"
         },
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3147"
+          "id": "3026"
         },
         {
           "count": 1,
@@ -86,13 +90,9 @@
         {
           "count": 1,
           "id": "3814"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 428 games)"
+      "type": "Highest Win Rate Build (56% win - 115 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 19984 games)"
+      "type": "Consumables QEW -> QEW (49% win - 60649 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (51% win - 416 games)"
+      "type": "EQW -> EQW (52% win - 107 games)"
     }
   ],
   "champion": "Pyke",

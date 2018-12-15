@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1023 games)"
+      "type": "Most Frequent Starters (52% win - 3169 games)"
     },
     {
       "items": [
@@ -31,10 +31,14 @@
         },
         {
           "count": 1,
+          "id": "2033"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 1023 games)"
+      "type": "Highest Win Rate Starters (57% win - 110 games)"
     },
     {
       "items": [
@@ -55,15 +59,11 @@
           "id": "3165"
         },
         {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (44% win - 217 games)"
+      "type": "Most Frequent Build (48% win - 699 games)"
     },
     {
       "items": [
@@ -72,27 +72,19 @@
           "id": "3285"
         },
         {
-          "count": 1,
+          "count": 2,
+          "id": "3157"
+        },
+        {
+          "count": 2,
           "id": "3020"
         },
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3152"
-        },
-        {
-          "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3135"
+          "id": "3041"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 124 games)"
+      "type": "Highest Win Rate Build (50% win - 105 games)"
     },
     {
       "items": [
@@ -129,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (47% win - 1004 games)"
+      "type": "Consumables QWE -> QWE (50% win - 3055 games)"
     },
     {
       "items": [
@@ -150,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (53% win - 198 games)"
+      "type": "QWQE -> QWE (57% win - 170 games)"
     }
   ],
   "champion": "Lissandra",
