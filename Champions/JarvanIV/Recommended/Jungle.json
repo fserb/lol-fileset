@@ -17,10 +17,14 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 21202 games)"
+      "type": "Most Frequent Starters (50% win - 25884 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1039"
+        },
         {
           "count": 1,
           "id": "1041"
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 21202 games)"
+      "type": "Highest Win Rate Starters (55% win - 60 games)"
     },
     {
       "items": [
@@ -63,13 +67,17 @@
           "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (43% win - 2047 games)"
+      "type": "Most Frequent Build (43% win - 2502 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1413"
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "1412"
         },
         {
           "count": 1,
@@ -77,22 +85,18 @@
         },
         {
           "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3033"
-        },
-        {
-          "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3748"
+        },
+        {
+          "count": 1,
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 106 games)"
+      "type": "Highest Win Rate Build (48% win - 229 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QEW (51% win - 17308 games)"
+      "type": "Consumables EQW -> QEW (51% win - 21213 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (57% win - 121 games)"
+      "type": "QEW -> QEW (59% win - 105 games)"
     }
   ],
   "champion": "JarvanIV",
