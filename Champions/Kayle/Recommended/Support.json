@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 423 games)"
+      "type": "Most Frequent Starters (51% win - 486 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 423 games)"
+      "type": "Highest Win Rate Starters (51% win - 486 games)"
     },
     {
       "items": [
@@ -59,10 +59,14 @@
           "id": "3153"
         }
       ],
-      "type": "Most Frequent Build (43% win - 177 games)"
+      "type": "Most Frequent Build (45% win - 208 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3006"
+        },
         {
           "count": 1,
           "id": "3115"
@@ -72,23 +76,15 @@
           "id": "3124"
         },
         {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "3091"
         },
         {
           "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3026"
+          "id": "3153"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 126 games)"
+      "type": "Highest Win Rate Build (45% win - 208 games)"
     },
     {
       "items": [
@@ -125,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (43% win - 241 games)"
+      "type": "Consumables EQW -> EQW (42% win - 281 games)"
     },
     {
       "items": [
@@ -146,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EWQ (48% win - 154 games)"
+      "type": "EWQ -> WQE (48% win - 109 games)"
     }
   ],
   "champion": "Kayle",

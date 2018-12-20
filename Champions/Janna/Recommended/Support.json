@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 33922 games)"
+      "type": "Most Frequent Starters (52% win - 40862 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 421 games)"
+      "type": "Highest Win Rate Starters (54% win - 507 games)"
     },
     {
       "items": [
@@ -63,17 +63,21 @@
           "id": "3174"
         }
       ],
-      "type": "Most Frequent Build (43% win - 6046 games)"
+      "type": "Most Frequent Build (43% win - 7360 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3020"
+        },
         {
           "count": 1,
           "id": "3504"
         },
         {
           "count": 1,
-          "id": "3117"
+          "id": "3174"
         },
         {
           "count": 1,
@@ -81,18 +85,14 @@
         },
         {
           "count": 1,
+          "id": "3905"
+        },
+        {
+          "count": 1,
           "id": "3092"
-        },
-        {
-          "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 3684 games)"
+      "type": "Highest Win Rate Build (49% win - 105 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WEQ (53% win - 7372 games)"
+      "type": "Consumables WEQ -> WEQ (53% win - 9084 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWWE -> WEQ (59% win - 113 games)"
+      "type": "QWWE -> WEQ (57% win - 129 games)"
     }
   ],
   "champion": "Janna",
