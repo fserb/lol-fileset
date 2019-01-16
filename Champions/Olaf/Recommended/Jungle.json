@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 11998 games)"
+      "type": "Most Frequent Starters (48% win - 2654 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 1541 games)"
+      "type": "Highest Win Rate Starters (48% win - 2654 games)"
     },
     {
       "items": [
@@ -60,16 +60,16 @@
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (36% win - 1147 games)"
+      "type": "Most Frequent Build (33% win - 224 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3071"
+          "id": "1401"
         },
         {
           "count": 1,
@@ -77,18 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3742"
         },
         {
           "count": 1,
           "id": "3065"
         },
         {
-          "count": 2,
-          "id": "1416"
+          "count": 1,
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 113 games)"
+      "type": "Highest Win Rate Build (36% win - 212 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (50% win - 7243 games)"
+      "type": "Consumables QWE -> QEW (50% win - 1528 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EWQ (60% win - 287 games)"
+      "type": "WQE -> QEW (51% win - 356 games)"
     }
   ],
   "champion": "Olaf",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.24",
+  "title": "Jungle 9.1",
   "type": "custom"
 }

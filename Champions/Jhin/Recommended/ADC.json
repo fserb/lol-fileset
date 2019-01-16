@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 148521 games)"
+      "type": "Most Frequent Starters (49% win - 31837 games)"
     },
     {
       "items": [
@@ -30,7 +30,7 @@
           "id": "1056"
         },
         {
-          "count": 2,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -38,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 385 games)"
+      "type": "Highest Win Rate Starters (54% win - 150 games)"
     },
     {
       "items": [
@@ -67,17 +67,17 @@
           "id": "3072"
         }
       ],
-      "type": "Most Frequent Build (49% win - 76007 games)"
+      "type": "Most Frequent Build (47% win - 16075 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3095"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3009"
+          "id": "3095"
         },
         {
           "count": 1,
@@ -89,14 +89,14 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3072"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 76007 games)"
+      "type": "Highest Win Rate Build (48% win - 166 games)"
     },
     {
       "items": [
@@ -133,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 88416 games)"
+      "type": "Consumables QWE -> QWE (48% win - 18448 games)"
     },
     {
       "items": [
@@ -154,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQQW -> QWE (56% win - 178 games)"
+      "type": "WQQE -> QWE (55% win - 916 games)"
     }
   ],
   "champion": "Jhin",
@@ -164,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.24",
+  "title": "ADC 9.1",
   "type": "custom"
 }

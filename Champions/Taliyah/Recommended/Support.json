@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 1616 games)"
+      "type": "Most Frequent Starters (51% win - 578 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 486 games)"
+      "type": "Highest Win Rate Starters (52% win - 123 games)"
     },
     {
       "items": [
@@ -44,11 +44,11 @@
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3165"
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3905"
         },
         {
           "count": 1,
@@ -63,14 +63,10 @@
           "id": "3092"
         }
       ],
-      "type": "Most Frequent Build (52% win - 530 games)"
+      "type": "Most Frequent Build (43% win - 230 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3285"
-        },
         {
           "count": 1,
           "id": "3020"
@@ -81,18 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3905"
+        },
+        {
+          "count": 1,
           "id": "3116"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3151"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3092"
         }
       ],
-      "type": "Highest Win Rate Build (57% win - 306 games)"
+      "type": "Highest Win Rate Build (43% win - 230 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (54% win - 1732 games)"
+      "type": "Consumables QWE -> QEW (52% win - 541 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (54% win - 1732 games)"
+      "type": "QEW -> QEW (53% win - 270 games)"
     }
   ],
   "champion": "Taliyah",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.24",
+  "title": "Support 9.1",
   "type": "custom"
 }

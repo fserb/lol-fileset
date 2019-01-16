@@ -17,35 +17,23 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 24723 games)"
+      "type": "Most Frequent Starters (50% win - 4985 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
-        },
-        {
-          "count": 1,
           "id": "1055"
-        },
-        {
-          "count": 2,
-          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 1014 games)"
+      "type": "Highest Win Rate Starters (57% win - 203 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3153"
-        },
         {
           "count": 1,
           "id": "3006"
@@ -65,16 +53,16 @@
         {
           "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3072"
         }
       ],
-      "type": "Most Frequent Build (47% win - 23894 games)"
+      "type": "Most Frequent Build (48% win - 7153 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3153"
-        },
         {
           "count": 1,
           "id": "3085"
@@ -94,9 +82,13 @@
         {
           "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 3190 games)"
+      "type": "Highest Win Rate Build (54% win - 613 games)"
     },
     {
       "items": [
@@ -133,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (53% win - 27042 games)"
+      "type": "Consumables EWQ -> EQW (54% win - 5692 games)"
     },
     {
       "items": [
@@ -154,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEEQ -> EQW (57% win - 366 games)"
+      "type": "EQEW -> EQW (58% win - 242 games)"
     }
   ],
   "champion": "Twitch",
@@ -164,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.24",
+  "title": "ADC 9.1",
   "type": "custom"
 }

@@ -17,12 +17,12 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 21251 games)"
+      "type": "Most Frequent Starters (52% win - 5740 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 312 games)"
+      "type": "Highest Win Rate Starters (52% win - 5740 games)"
     },
     {
       "items": [
@@ -52,7 +52,7 @@
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3107"
         },
         {
           "count": 1,
@@ -60,39 +60,39 @@
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (37% win - 1933 games)"
+      "type": "Most Frequent Build (38% win - 586 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3009"
-        },
         {
           "count": 1,
           "id": "3401"
         },
         {
           "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
           "id": "3050"
         },
         {
           "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3222"
+        },
+        {
+          "count": 1,
           "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3004"
-        },
-        {
-          "count": 1,
-          "id": "3003"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 159 games)"
+      "type": "Highest Win Rate Build (41% win - 552 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (51% win - 3755 games)"
+      "type": "Consumables EWQ -> EQW (52% win - 940 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QWE (51% win - 586 games)"
+      "type": "EWQ -> EQW (52% win - 940 games)"
     }
   ],
   "champion": "Taric",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.24",
+  "title": "Support 9.1",
   "type": "custom"
 }

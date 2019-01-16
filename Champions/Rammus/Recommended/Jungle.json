@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 46017 games)"
+      "type": "Most Frequent Starters (52% win - 12448 games)"
     },
     {
       "items": [
@@ -27,14 +27,10 @@
         },
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 46017 games)"
+      "type": "Highest Win Rate Starters (54% win - 200 games)"
     },
     {
       "items": [
@@ -60,24 +56,24 @@
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (43% win - 5468 games)"
+      "type": "Most Frequent Build (42% win - 1473 games)"
     },
     {
       "items": [
         {
           "count": 1,
+          "id": "1413"
+        },
+        {
+          "count": 1,
+          "id": "3009"
+        },
+        {
+          "count": 1,
           "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "1401"
         },
         {
           "count": 1,
@@ -85,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3742"
         },
         {
           "count": 1,
-          "id": "3194"
+          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (57% win - 104 games)"
+      "type": "Highest Win Rate Build (50% win - 113 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QEW (55% win - 11792 games)"
+      "type": "Consumables WQE -> QEW (56% win - 3375 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> WEQ (58% win - 236 games)"
+      "type": "EWQ -> QEW (59% win - 140 games)"
     }
   ],
   "champion": "Rammus",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.24",
+  "title": "Jungle 9.1",
   "type": "custom"
 }

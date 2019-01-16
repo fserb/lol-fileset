@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (57% win - 6618 games)"
+      "type": "Most Frequent Starters (57% win - 2220 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 1089 games)"
+      "type": "Highest Win Rate Starters (64% win - 572 games)"
     },
     {
       "items": [
@@ -56,28 +56,24 @@
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3041"
         },
         {
           "count": 1,
-          "id": "3285"
+          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (58% win - 3578 games)"
+      "type": "Most Frequent Build (57% win - 1828 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3285"
-        },
         {
           "count": 1,
           "id": "3020"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3152"
         },
         {
           "count": 1,
@@ -85,14 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3041"
         },
         {
           "count": 1,
-          "id": "3041"
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (59% win - 527 games)"
+      "type": "Highest Win Rate Build (64% win - 315 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (56% win - 5064 games)"
+      "type": "Consumables QWE -> QWE (56% win - 1770 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QWE (62% win - 698 games)"
+      "type": "WQE -> QWE (66% win - 248 games)"
     }
   ],
   "champion": "Galio",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.24",
+  "title": "Support 9.1",
   "type": "custom"
 }

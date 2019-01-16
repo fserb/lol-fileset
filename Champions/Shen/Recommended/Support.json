@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 8762 games)"
+      "type": "Most Frequent Starters (49% win - 2202 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 3638 games)"
+      "type": "Highest Win Rate Starters (50% win - 800 games)"
     },
     {
       "items": [
@@ -48,28 +48,20 @@
         },
         {
           "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
           "id": "3190"
         },
         {
-          "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3194"
+          "count": 3,
+          "id": "3401"
         }
       ],
-      "type": "Most Frequent Build (41% win - 1731 games)"
+      "type": "Most Frequent Build (41% win - 346 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3748"
+          "id": "3068"
         },
         {
           "count": 1,
@@ -77,22 +69,18 @@
         },
         {
           "count": 1,
-          "id": "3401"
+          "id": "3069"
+        },
+        {
+          "count": 2,
+          "id": "3194"
         },
         {
           "count": 1,
-          "id": "3091"
-        },
-        {
-          "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3075"
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (71% win - 211 games)"
+      "type": "Highest Win Rate Build (55% win - 177 games)"
     },
     {
       "items": [
@@ -129,7 +117,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 4959 games)"
+      "type": "Consumables QEW -> QEW (51% win - 1121 games)"
     },
     {
       "items": [
@@ -150,7 +138,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (49% win - 850 games)"
+      "type": "QEW -> QEW (51% win - 1121 games)"
     }
   ],
   "champion": "Shen",
@@ -160,6 +148,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.24",
+  "title": "Support 9.1",
   "type": "custom"
 }

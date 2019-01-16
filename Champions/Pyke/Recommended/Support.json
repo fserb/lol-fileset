@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 138889 games)"
+      "type": "Most Frequent Starters (48% win - 39837 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "1036"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
-          "id": "2031"
+          "id": "3301"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (65% win - 575 games)"
+      "type": "Highest Win Rate Starters (51% win - 4881 games)"
     },
     {
       "items": [
@@ -48,10 +48,6 @@
         },
         {
           "count": 1,
-          "id": "3142"
-        },
-        {
-          "count": 1,
           "id": "3401"
         },
         {
@@ -61,9 +57,13 @@
         {
           "count": 1,
           "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3156"
         }
       ],
-      "type": "Most Frequent Build (44% win - 43869 games)"
+      "type": "Most Frequent Build (46% win - 18942 games)"
     },
     {
       "items": [
@@ -76,19 +76,15 @@
           "id": "3147"
         },
         {
-          "count": 1,
-          "id": "3142"
-        },
-        {
-          "count": 2,
+          "count": 3,
           "id": "3401"
         },
         {
           "count": 1,
-          "id": "3814"
+          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 300 games)"
+      "type": "Highest Win Rate Build (48% win - 141 games)"
     },
     {
       "items": [
@@ -125,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (48% win - 162749 games)"
+      "type": "Consumables QEW -> QEW (48% win - 44778 games)"
     },
     {
       "items": [
@@ -146,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (50% win - 3357 games)"
+      "type": "QEQW -> QEW (49% win - 927 games)"
     }
   ],
   "champion": "Pyke",
@@ -156,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 8.24",
+  "title": "Support 9.1",
   "type": "custom"
 }

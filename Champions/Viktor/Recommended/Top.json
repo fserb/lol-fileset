@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 21001 games)"
+      "type": "Most Frequent Starters (50% win - 3979 games)"
     },
     {
       "items": [
@@ -26,7 +26,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 21001 games)"
+      "type": "Highest Win Rate Starters (50% win - 3979 games)"
     },
     {
       "items": [
@@ -36,10 +36,6 @@
         },
         {
           "count": 1,
-          "id": "3025"
-        },
-        {
-          "count": 1,
           "id": "3198"
         },
         {
@@ -52,39 +48,43 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3100"
         }
       ],
-      "type": "Most Frequent Build (38% win - 3084 games)"
+      "type": "Most Frequent Build (40% win - 1008 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3025"
-        },
-        {
-          "count": 1,
           "id": "3198"
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3020"
         },
         {
           "count": 1,
-          "id": "3116"
+          "id": "3100"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3041"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 634 games)"
+      "type": "Highest Win Rate Build (47% win - 533 games)"
     },
     {
       "items": [
@@ -121,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 16402 games)"
+      "type": "Consumables QEW -> QEW (48% win - 2833 games)"
     },
     {
       "items": [
@@ -142,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (52% win - 265 games)"
+      "type": "QEQW -> QEW (52% win - 157 games)"
     }
   ],
   "champion": "Viktor",
@@ -152,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 8.24",
+  "title": "Top 9.1",
   "type": "custom"
 }

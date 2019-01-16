@@ -17,24 +17,28 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 43492 games)"
+      "type": "Most Frequent Starters (48% win - 10315 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
         },
         {
-          "count": 3,
+          "count": 1,
           "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 141 games)"
+      "type": "Highest Win Rate Starters (49% win - 391 games)"
     },
     {
       "items": [
@@ -63,17 +67,17 @@
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (43% win - 10660 games)"
+      "type": "Most Frequent Build (42% win - 3002 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "1414"
         },
         {
           "count": 1,
-          "id": "1402"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -85,14 +89,14 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3041"
+          "id": "2065"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 914 games)"
+      "type": "Highest Win Rate Build (43% win - 515 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> QEW (50% win - 18149 games)"
+      "type": "Consumables WEQ -> QEW (49% win - 3972 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WEQ (58% win - 560 games)"
+      "type": "WEQ -> WEQ (59% win - 116 games)"
     }
   ],
   "champion": "Gragas",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.24",
+  "title": "Jungle 9.1",
   "type": "custom"
 }

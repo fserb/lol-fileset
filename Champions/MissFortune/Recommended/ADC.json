@@ -17,35 +17,27 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 77943 games)"
+      "type": "Most Frequent Starters (51% win - 18939 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1036"
         },
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 3,
-          "id": "2003"
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 143 games)"
+      "type": "Highest Win Rate Starters (53% win - 188 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3142"
-        },
         {
           "count": 1,
           "id": "3006"
@@ -64,16 +56,24 @@
         },
         {
           "count": 1,
+          "id": "3095"
+        },
+        {
+          "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (43% win - 11588 games)"
+      "type": "Most Frequent Build (43% win - 3002 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3009"
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3006"
         },
         {
           "count": 1,
@@ -81,22 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3142"
+          "id": "3036"
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3094"
         },
         {
           "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3156"
+          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 296 games)"
+      "type": "Highest Win Rate Build (49% win - 211 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 21240 games)"
+      "type": "Consumables QWE -> QWE (51% win - 4894 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QWE (60% win - 146 games)"
+      "type": "QWQW -> QWE (55% win - 304 games)"
     }
   ],
   "champion": "MissFortune",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 8.24",
+  "title": "ADC 9.1",
   "type": "custom"
 }

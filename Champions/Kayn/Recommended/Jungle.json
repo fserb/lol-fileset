@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 138733 games)"
+      "type": "Most Frequent Starters (50% win - 34126 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
+        },
+        {
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 166 games)"
+      "type": "Highest Win Rate Starters (50% win - 629 games)"
     },
     {
       "items": [
@@ -56,16 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3742"
+          "id": "3812"
         }
       ],
-      "type": "Most Frequent Build (35% win - 17369 games)"
+      "type": "Most Frequent Build (36% win - 4607 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3071"
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3147"
         },
         {
           "count": 1,
@@ -73,22 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3071"
         },
         {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 238 games)"
+      "type": "Highest Win Rate Build (45% win - 215 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 80718 games)"
+      "type": "Consumables QWE -> QWE (49% win - 19505 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WEQ (54% win - 3009 games)"
+      "type": "QEW -> WQE (58% win - 444 games)"
     }
   ],
   "champion": "Kayn",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.24",
+  "title": "Jungle 9.1",
   "type": "custom"
 }

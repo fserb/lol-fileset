@@ -17,28 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 28858 games)"
+      "type": "Most Frequent Starters (52% win - 8049 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1006"
-        },
-        {
-          "count": 1,
-          "id": "1039"
-        },
-        {
-          "count": 1,
-          "id": "2031"
+          "id": "1041"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 225 games)"
+      "type": "Highest Win Rate Starters (58% win - 206 games)"
     },
     {
       "items": [
@@ -67,7 +59,7 @@
           "id": "3748"
         }
       ],
-      "type": "Most Frequent Build (48% win - 6212 games)"
+      "type": "Most Frequent Build (48% win - 1918 games)"
     },
     {
       "items": [
@@ -89,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (57% win - 464 games)"
+      "type": "Highest Win Rate Build (59% win - 115 games)"
     },
     {
       "items": [
@@ -133,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (55% win - 18867 games)"
+      "type": "Consumables QEW -> QEW (54% win - 5306 games)"
     },
     {
       "items": [
@@ -154,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QEW (58% win - 103 games)"
+      "type": "QEW -> QEW (61% win - 252 games)"
     }
   ],
   "champion": "Udyr",
@@ -164,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 8.24",
+  "title": "Jungle 9.1",
   "type": "custom"
 }
