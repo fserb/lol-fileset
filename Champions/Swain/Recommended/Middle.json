@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2345 games)"
+      "type": "Most Frequent Starters (53% win - 971 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 2345 games)"
+      "type": "Highest Win Rate Starters (55% win - 168 games)"
     },
     {
       "items": [
@@ -57,42 +53,42 @@
         {
           "count": 1,
           "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        }
+      ],
+      "type": "Most Frequent Build (49% win - 415 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3116"
         },
         {
           "count": 1,
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (42% win - 976 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        }
-      ],
-      "type": "Highest Win Rate Build (43% win - 111 games)"
+      "type": "Highest Win Rate Build (49% win - 406 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 1347 games)"
+      "type": "Consumables EQW -> QEW (57% win - 503 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QWE (53% win - 130 games)"
+      "type": "EQW -> QEW (57% win - 503 games)"
     }
   ],
   "champion": "Swain",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.1",
+  "title": "Middle 9.18",
   "type": "custom"
 }

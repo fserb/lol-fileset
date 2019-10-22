@@ -5,19 +5,19 @@
     {
       "items": [
         {
-          "count": 2,
-          "id": "2003"
+          "count": 1,
+          "id": "1054"
         },
         {
           "count": 1,
-          "id": "3302"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (41% win - 1781 games)"
+      "type": "Most Frequent Starters (55% win - 134 games)"
     },
     {
       "items": [
@@ -34,65 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (44% win - 898 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3401"
-        },
-        {
-          "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3383"
-        },
-        {
-          "count": 1,
-          "id": "3050"
-        },
-        {
-          "count": 1,
-          "id": "3382"
-        }
-      ],
-      "type": "Most Frequent Build (31% win - 721 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3383"
-        },
-        {
-          "count": 1,
-          "id": "3401"
-        },
-        {
-          "count": 1,
-          "id": "3382"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        }
-      ],
-      "type": "Highest Win Rate Build (35% win - 164 games)"
+      "type": "Highest Win Rate Starters (55% win - 134 games)"
     },
     {
       "items": [
@@ -129,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (41% win - 1612 games)"
+      "type": "Consumables "
     },
     {
       "items": [
@@ -150,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (42% win - 345 games)"
+      "type": ""
     }
   ],
   "champion": "Ornn",
@@ -160,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.1",
+  "title": "Support 9.18",
   "type": "custom"
 }

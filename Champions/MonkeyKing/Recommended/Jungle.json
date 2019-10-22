@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 1807 games)"
+      "type": "Most Frequent Starters (48% win - 472 games)"
     },
     {
       "items": [
@@ -34,12 +34,12 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 1080 games)"
+      "type": "Highest Win Rate Starters (57% win - 172 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 2,
           "id": "1400"
         },
         {
@@ -52,43 +52,39 @@
         },
         {
           "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
           "id": "3026"
         },
         {
           "count": 1,
-          "id": "3812"
+          "id": "3071"
         }
       ],
-      "type": "Most Frequent Build (45% win - 715 games)"
+      "type": "Most Frequent Build (43% win - 252 games)"
     },
     {
       "items": [
+        {
+          "count": 2,
+          "id": "1400"
+        },
+        {
+          "count": 1,
+          "id": "3117"
+        },
         {
           "count": 1,
           "id": "3147"
         },
         {
-          "count": 2,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3071"
-        },
-        {
           "count": 1,
           "id": "3026"
         },
         {
           "count": 1,
-          "id": "3812"
+          "id": "3071"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 105 games)"
+      "type": "Highest Win Rate Build (43% win - 252 games)"
     },
     {
       "items": [
@@ -125,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (53% win - 2554 games)"
+      "type": "Consumables EWQ -> EQW (45% win - 657 games)"
     },
     {
       "items": [
@@ -146,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (54% win - 111 games)"
+      "type": "EWQ -> QEW (61% win - 170 games)"
     }
   ],
   "champion": "MonkeyKing",
@@ -156,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.1",
+  "title": "Jungle 9.18",
   "type": "custom"
 }

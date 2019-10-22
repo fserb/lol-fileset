@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 7685 games)"
+      "type": "Most Frequent Starters (50% win - 3678 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1036"
         },
         {
-          "count": 1,
-          "id": "2033"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 107 games)"
+      "type": "Highest Win Rate Starters (55% win - 188 games)"
     },
     {
       "items": [
@@ -48,18 +48,22 @@
         },
         {
           "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 2,
-          "id": "3026"
+          "id": "3814"
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3036"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (45% win - 3078 games)"
+      "type": "Most Frequent Build (48% win - 1853 games)"
     },
     {
       "items": [
@@ -73,18 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 2,
-          "id": "3026"
+          "id": "3814"
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3036"
+        },
+        {
+          "count": 1,
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 3078 games)"
+      "type": "Highest Win Rate Build (48% win - 1853 games)"
     },
     {
       "items": [
@@ -121,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (49% win - 6359 games)"
+      "type": "Consumables WQE -> WQE (50% win - 2038 games)"
     },
     {
       "items": [
@@ -142,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WQE (58% win - 107 games)"
+      "type": "WQWE -> WQE (51% win - 579 games)"
     }
   ],
   "champion": "Talon",
@@ -152,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.1",
+  "title": "Middle 9.18",
   "type": "custom"
 }

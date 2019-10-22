@@ -6,23 +6,6 @@
       "items": [
         {
           "count": 1,
-          "id": "1054"
-        },
-        {
-          "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        }
-      ],
-      "type": "Most Frequent Starters (46% win - 6356 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
           "id": "1055"
         },
         {
@@ -34,65 +17,86 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 5972 games)"
+      "type": "Most Frequent Starters (49% win - 16841 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3095"
+          "id": "1054"
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "1055"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
-          "id": "3094"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3139"
-        },
-        {
-          "count": 1,
-          "id": "3026"
+          "id": "3340"
         }
       ],
-      "type": "Most Frequent Build (46% win - 6343 games)"
+      "type": "Highest Win Rate Starters (50% win - 305 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3095"
-        },
-        {
-          "count": 1,
-          "id": "3094"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
         {
           "count": 1,
           "id": "3508"
         },
         {
           "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3094"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3046"
+        },
+        {
+          "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 744 games)"
+      "type": "Most Frequent Build (44% win - 6273 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3508"
+        },
+        {
+          "count": 1,
+          "id": "3094"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3046"
+        },
+        {
+          "count": 1,
+          "id": "3139"
+        }
+      ],
+      "type": "Highest Win Rate Build (45% win - 643 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> EWQ (48% win - 5893 games)"
+      "type": "Consumables QEW -> EWQ (48% win - 8879 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EWQ (50% win - 648 games)"
+      "type": "WQE -> EWQ (54% win - 1670 games)"
     }
   ],
   "champion": "Xayah",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 9.1",
+  "title": "ADC 9.18",
   "type": "custom"
 }

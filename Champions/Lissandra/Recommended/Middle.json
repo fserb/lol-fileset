@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 10151 games)"
+      "type": "Most Frequent Starters (46% win - 977 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1056"
         },
         {
-          "count": 1,
-          "id": "2033"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 243 games)"
+      "type": "Highest Win Rate Starters (46% win - 977 games)"
     },
     {
       "items": [
@@ -47,7 +47,7 @@
           "id": "3020"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3157"
         },
         {
@@ -56,43 +56,35 @@
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (47% win - 3798 games)"
+      "type": "Most Frequent Build (47% win - 214 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3285"
+          "id": "3152"
         },
         {
           "count": 1,
           "id": "3020"
         },
         {
+          "count": 2,
+          "id": "3157"
+        },
+        {
           "count": 1,
           "id": "3165"
         },
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 124 games)"
+      "type": "Highest Win Rate Build (47% win - 214 games)"
     },
     {
       "items": [
@@ -129,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 8500 games)"
+      "type": "Consumables QWE -> QWE (44% win - 793 games)"
     },
     {
       "items": [
@@ -150,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QEW (59% win - 176 games)"
+      "type": "QEW -> QEW (45% win - 178 games)"
     }
   ],
   "champion": "Lissandra",
@@ -160,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.1",
+  "title": "Middle 9.18",
   "type": "custom"
 }

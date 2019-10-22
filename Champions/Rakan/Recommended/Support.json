@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 11784 games)"
+      "type": "Most Frequent Starters (50% win - 10873 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3303"
+          "id": "3301"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 184 games)"
+      "type": "Highest Win Rate Starters (56% win - 162 games)"
     },
     {
       "items": [
@@ -52,20 +48,36 @@
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3107"
         },
         {
-          "count": 2,
-          "id": "3107"
+          "count": 1,
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3109"
         }
       ],
-      "type": "Most Frequent Build (36% win - 1658 games)"
+      "type": "Most Frequent Build (38% win - 1938 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3158"
+          "id": "3092"
+        },
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3504"
+        },
+        {
+          "count": 1,
+          "id": "3107"
         },
         {
           "count": 1,
@@ -73,22 +85,10 @@
         },
         {
           "count": 1,
-          "id": "3092"
-        },
-        {
-          "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 1,
           "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3504"
         }
       ],
-      "type": "Highest Win Rate Build (39% win - 319 games)"
+      "type": "Highest Win Rate Build (45% win - 323 games)"
     },
     {
       "items": [
@@ -125,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (46% win - 2992 games)"
+      "type": "Consumables WEQ -> WEQ (51% win - 2593 games)"
     },
     {
       "items": [
@@ -146,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QEW (50% win - 676 games)"
+      "type": "WEQ -> WEQ (51% win - 2593 games)"
     }
   ],
   "champion": "Rakan",
@@ -156,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.1",
+  "title": "Support 9.18",
   "type": "custom"
 }

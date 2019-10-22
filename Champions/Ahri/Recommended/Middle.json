@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 20217 games)"
+      "type": "Most Frequent Starters (51% win - 7273 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 1,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 247 games)"
+      "type": "Highest Win Rate Starters (52% win - 884 games)"
     },
     {
       "items": [
@@ -47,44 +43,48 @@
           "id": "3165"
         },
         {
-          "count": 2,
-          "id": "3157"
+          "count": 1,
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3116"
         },
         {
           "count": 1,
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (47% win - 9168 games)"
+      "type": "Most Frequent Build (45% win - 3147 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 2,
           "id": "3165"
         },
         {
           "count": 1,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 2,
-          "id": "3089"
         },
         {
           "count": 1,
           "id": "3102"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (53% win - 600 games)"
+      "type": "Highest Win Rate Build (56% win - 196 games)"
     },
     {
       "items": [
@@ -121,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (52% win - 9065 games)"
+      "type": "Consumables QEW -> QWE (50% win - 3269 games)"
     },
     {
       "items": [
@@ -142,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QWE (58% win - 716 games)"
+      "type": "QEQW -> QEW (55% win - 447 games)"
     }
   ],
   "champion": "Ahri",
@@ -152,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.1",
+  "title": "Middle 9.18",
   "type": "custom"
 }

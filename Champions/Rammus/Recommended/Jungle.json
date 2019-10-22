@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 12448 games)"
+      "type": "Most Frequent Starters (49% win - 3177 games)"
     },
     {
       "items": [
@@ -27,10 +27,14 @@
         },
         {
           "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 200 games)"
+      "type": "Highest Win Rate Starters (49% win - 3177 games)"
     },
     {
       "items": [
@@ -52,24 +56,24 @@
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3193"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3800"
         }
       ],
-      "type": "Most Frequent Build (42% win - 1473 games)"
+      "type": "Most Frequent Build (35% win - 442 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1413"
+          "id": "1401"
         },
         {
           "count": 1,
-          "id": "3009"
+          "id": "3117"
         },
         {
           "count": 1,
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3001"
-        },
-        {
-          "count": 1,
           "id": "3742"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3194"
+        },
+        {
+          "count": 1,
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 113 games)"
+      "type": "Highest Win Rate Build (45% win - 143 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QEW (56% win - 3375 games)"
+      "type": "Consumables WQE -> QEW (54% win - 1197 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> QEW (59% win - 140 games)"
+      "type": "WQE -> QEW (54% win - 1197 games)"
     }
   ],
   "champion": "Rammus",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.1",
+  "title": "Jungle 9.18",
   "type": "custom"
 }

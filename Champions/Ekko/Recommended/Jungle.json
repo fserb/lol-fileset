@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 2160 games)"
+      "type": "Most Frequent Starters (52% win - 5066 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (46% win - 2160 games)"
+      "type": "Highest Win Rate Starters (52% win - 5066 games)"
     },
     {
       "items": [
@@ -48,6 +48,10 @@
         },
         {
           "count": 1,
+          "id": "3152"
+        },
+        {
+          "count": 1,
           "id": "3100"
         },
         {
@@ -57,13 +61,9 @@
         {
           "count": 1,
           "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (41% win - 515 games)"
+      "type": "Most Frequent Build (46% win - 1227 games)"
     },
     {
       "items": [
@@ -77,11 +77,11 @@
         },
         {
           "count": 1,
-          "id": "3100"
+          "id": "3152"
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3100"
         },
         {
           "count": 1,
@@ -92,7 +92,7 @@
           "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 498 games)"
+      "type": "Highest Win Rate Build (46% win - 1226 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 1154 games)"
+      "type": "Consumables WQE -> QEW (53% win - 3883 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QEW (50% win - 1147 games)"
+      "type": "WQE -> QEW (53% win - 3883 games)"
     }
   ],
   "champion": "Ekko",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.1",
+  "title": "Jungle 9.18",
   "type": "custom"
 }

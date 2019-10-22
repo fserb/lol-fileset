@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 19649 games)"
+      "type": "Most Frequent Starters (45% win - 4971 games)"
     },
     {
       "items": [
@@ -26,7 +26,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (46% win - 19649 games)"
+      "type": "Highest Win Rate Starters (45% win - 4971 games)"
     },
     {
       "items": [
@@ -40,11 +40,11 @@
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3053"
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3748"
         },
         {
           "count": 1,
@@ -52,17 +52,13 @@
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (38% win - 5143 games)"
+      "type": "Most Frequent Build (34% win - 1136 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3091"
-        },
         {
           "count": 1,
           "id": "3111"
@@ -73,18 +69,22 @@
         },
         {
           "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
           "id": "3748"
         },
         {
           "count": 1,
+          "id": "3053"
+        },
+        {
+          "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3194"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 133 games)"
+      "type": "Highest Win Rate Build (37% win - 441 games)"
     },
     {
       "items": [
@@ -121,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 17762 games)"
+      "type": "Consumables QEW -> QEW (45% win - 4471 games)"
     },
     {
       "items": [
@@ -142,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QEW (48% win - 556 games)"
+      "type": "QEQW -> QEW (54% win - 144 games)"
     }
   ],
   "champion": "Irelia",
@@ -152,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.1",
+  "title": "Top 9.18",
   "type": "custom"
 }

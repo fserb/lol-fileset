@@ -6,6 +6,23 @@
       "items": [
         {
           "count": 1,
+          "id": "1054"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        }
+      ],
+      "type": "Most Frequent Starters (47% win - 2057 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
           "id": "1082"
         },
         {
@@ -17,24 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 4956 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1082"
-        },
-        {
-          "count": 3,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        }
-      ],
-      "type": "Highest Win Rate Starters (55% win - 413 games)"
+      "type": "Highest Win Rate Starters (53% win - 147 games)"
     },
     {
       "items": [
@@ -56,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3165"
         }
       ],
-      "type": "Most Frequent Build (43% win - 2148 games)"
+      "type": "Most Frequent Build (41% win - 704 games)"
     },
     {
       "items": [
@@ -89,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3151"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 438 games)"
+      "type": "Highest Win Rate Build (45% win - 171 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 10531 games)"
+      "type": "Consumables QEW -> QEW (49% win - 3662 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QEW (51% win - 599 games)"
+      "type": "QWE -> QEW (50% win - 1136 games)"
     }
   ],
   "champion": "Vladimir",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.1",
+  "title": "Top 9.18",
   "type": "custom"
 }

@@ -17,78 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 1399 games)"
+      "type": "Most Frequent Starters (48% win - 790 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1054"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 170 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        }
-      ],
-      "type": "Most Frequent Build (35% win - 114 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3800"
-        }
-      ],
-      "type": "Highest Win Rate Build (37% win - 114 games)"
+      "type": "Highest Win Rate Starters (48% win - 790 games)"
     },
     {
       "items": [
@@ -125,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (45% win - 308 games)"
+      "type": "Consumables EQW -> WQE (52% win - 280 games)"
     },
     {
       "items": [
@@ -146,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> WEQ (53% win - 138 games)"
+      "type": "EQW -> WQE (52% win - 280 games)"
     }
   ],
   "champion": "Volibear",
@@ -156,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.1",
+  "title": "Top 9.18",
   "type": "custom"
 }

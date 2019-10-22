@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 4218 games)"
+      "type": "Most Frequent Starters (51% win - 1341 games)"
     },
     {
       "items": [
@@ -27,18 +27,14 @@
         },
         {
           "count": 1,
-          "id": "2003"
-        },
-        {
-          "count": 1,
-          "id": "2055"
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 295 games)"
+      "type": "Highest Win Rate Starters (51% win - 1341 games)"
     },
     {
       "items": [
@@ -67,13 +63,17 @@
           "id": "3109"
         }
       ],
-      "type": "Most Frequent Build (42% win - 639 games)"
+      "type": "Most Frequent Build (44% win - 293 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3107"
         },
         {
           "count": 1,
@@ -85,18 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 1,
-          "id": "3041"
-        },
-        {
-          "count": 1,
           "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 331 games)"
+      "type": "Highest Win Rate Build (44% win - 293 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> EQW (53% win - 3675 games)"
+      "type": "Consumables QEW -> EQW (53% win - 1069 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEW -> EQW (54% win - 193 games)"
+      "type": "QEW -> EQW (53% win - 1069 games)"
     }
   ],
   "champion": "Ivern",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.1",
+  "title": "Jungle 9.18",
   "type": "custom"
 }

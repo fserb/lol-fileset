@@ -17,24 +17,28 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 13781 games)"
+      "type": "Most Frequent Starters (47% win - 3755 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1054"
         },
         {
           "count": 1,
-          "id": "2031"
+          "id": "1055"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 206 games)"
+      "type": "Highest Win Rate Starters (64% win - 56 games)"
     },
     {
       "items": [
@@ -63,17 +67,17 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (43% win - 2735 games)"
+      "type": "Most Frequent Build (43% win - 1006 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3078"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3078"
         },
         {
           "count": 1,
@@ -81,18 +85,18 @@
         },
         {
           "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 1116 games)"
+      "type": "Highest Win Rate Build (46% win - 637 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 6891 games)"
+      "type": "Consumables QEW -> QEW (47% win - 2466 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> QEW (51% win - 246 games)"
+      "type": "EWQ -> QEW (53% win - 145 games)"
     }
   ],
   "champion": "Darius",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.1",
+  "title": "Top 9.18",
   "type": "custom"
 }

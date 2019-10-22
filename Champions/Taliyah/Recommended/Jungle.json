@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 4306 games)"
+      "type": "Most Frequent Starters (49% win - 1857 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 4306 games)"
+      "type": "Highest Win Rate Starters (49% win - 1857 games)"
     },
     {
       "items": [
@@ -53,27 +53,27 @@
         {
           "count": 1,
           "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         },
         {
           "count": 1,
           "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (42% win - 1611 games)"
+      "type": "Most Frequent Build (39% win - 854 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "1402"
         },
         {
           "count": 1,
-          "id": "1402"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3102"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 251 games)"
+      "type": "Highest Win Rate Build (39% win - 854 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (51% win - 3014 games)"
+      "type": "Consumables QEW -> QEW (47% win - 1386 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (51% win - 3014 games)"
+      "type": "QWE -> QEW (52% win - 772 games)"
     }
   ],
   "champion": "Taliyah",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.1",
+  "title": "Jungle 9.18",
   "type": "custom"
 }

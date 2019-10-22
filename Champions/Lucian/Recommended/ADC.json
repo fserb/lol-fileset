@@ -17,20 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 60987 games)"
+      "type": "Most Frequent Starters (48% win - 15863 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2003"
+          "id": "1055"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 165 games)"
+      "type": "Highest Win Rate Starters (51% win - 166 games)"
     },
     {
       "items": [
@@ -40,7 +40,7 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3508"
         },
         {
           "count": 1,
@@ -51,11 +51,15 @@
           "id": "3031"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3033"
         }
       ],
-      "type": "Most Frequent Build (47% win - 28998 games)"
+      "type": "Most Frequent Build (41% win - 5046 games)"
     },
     {
       "items": [
@@ -69,22 +73,22 @@
         },
         {
           "count": 1,
-          "id": "3046"
-        },
-        {
-          "count": 1,
           "id": "3031"
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3094"
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3046"
+        },
+        {
+          "count": 1,
+          "id": "3139"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 464 games)"
+      "type": "Highest Win Rate Build (47% win - 2457 games)"
     },
     {
       "items": [
@@ -121,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 36922 games)"
+      "type": "Consumables QEW -> QEW (48% win - 13447 games)"
     },
     {
       "items": [
@@ -142,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (53% win - 261 games)"
+      "type": "WQE -> QEW (50% win - 217 games)"
     }
   ],
   "champion": "Lucian",
@@ -152,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 9.1",
+  "title": "ADC 9.18",
   "type": "custom"
 }
