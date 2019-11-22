@@ -17,14 +17,10 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 475 games)"
+      "type": "Most Frequent Starters (53% win - 2345 games)"
     },
     {
       "items": [
-        {
-          "count": 2,
-          "id": "2003"
-        },
         {
           "count": 1,
           "id": "3303"
@@ -34,7 +30,61 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (47% win - 475 games)"
+      "type": "Highest Win Rate Starters (55% win - 56 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3030"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3092"
+        }
+      ],
+      "type": "Most Frequent Build (53% win - 464 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3030"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 2,
+          "id": "3092"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        }
+      ],
+      "type": "Highest Win Rate Build (55% win - 232 games)"
     },
     {
       "items": [
@@ -71,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (48% win - 120 games)"
+      "type": "Consumables WEQ -> EWQ (52% win - 666 games)"
     },
     {
       "items": [
@@ -92,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (48% win - 120 games)"
+      "type": "WQE -> EWQ (59% win - 120 games)"
     }
   ],
   "champion": "Shaco",
@@ -102,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.18",
+  "title": "Support 9.22",
   "type": "custom"
 }

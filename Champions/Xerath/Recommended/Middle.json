@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 2716 games)"
+      "type": "Most Frequent Starters (50% win - 2452 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 2716 games)"
+      "type": "Highest Win Rate Starters (50% win - 2452 games)"
     },
     {
       "items": [
@@ -51,15 +51,15 @@
           "id": "3089"
         },
         {
-          "count": 2,
-          "id": "3157"
-        },
-        {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 2,
+          "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (41% win - 1121 games)"
+      "type": "Most Frequent Build (42% win - 950 games)"
     },
     {
       "items": [
@@ -69,22 +69,26 @@
         },
         {
           "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 2,
-          "id": "3157"
         },
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3116"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 1121 games)"
+      "type": "Highest Win Rate Build (43% win - 893 games)"
     },
     {
       "items": [
@@ -121,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (47% win - 2401 games)"
+      "type": "Consumables QWE -> QWE (49% win - 2102 games)"
     },
     {
       "items": [
@@ -142,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QWE (53% win - 375 games)"
+      "type": "QEW -> QWE (55% win - 249 games)"
     }
   ],
   "champion": "Xerath",
@@ -152,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.18",
+  "title": "Middle 9.22",
   "type": "custom"
 }

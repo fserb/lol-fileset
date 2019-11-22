@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 4551 games)"
+      "type": "Most Frequent Starters (45% win - 3609 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (46% win - 4551 games)"
+      "type": "Highest Win Rate Starters (45% win - 3609 games)"
     },
     {
       "items": [
@@ -48,22 +48,22 @@
         },
         {
           "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 1,
           "id": "3050"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3109"
+        },
+        {
+          "count": 1,
+          "id": "3190"
         },
         {
           "count": 1,
           "id": "3107"
         }
       ],
-      "type": "Most Frequent Build (37% win - 688 games)"
+      "type": "Most Frequent Build (37% win - 478 games)"
     },
     {
       "items": [
@@ -77,22 +77,18 @@
         },
         {
           "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 1,
           "id": "3050"
         },
         {
-          "count": 1,
-          "id": "3193"
+          "count": 2,
+          "id": "3109"
         },
         {
           "count": 1,
           "id": "3107"
         }
       ],
-      "type": "Highest Win Rate Build (37% win - 688 games)"
+      "type": "Highest Win Rate Build (37% win - 476 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (46% win - 3090 games)"
+      "type": "Consumables QEW -> QEW (45% win - 2356 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (47% win - 595 games)"
+      "type": "QEW -> QEW (45% win - 2356 games)"
     }
   ],
   "champion": "Braum",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.18",
+  "title": "Support 9.22",
   "type": "custom"
 }

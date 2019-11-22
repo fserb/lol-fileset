@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 3180 games)"
+      "type": "Most Frequent Starters (53% win - 3462 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 3180 games)"
+      "type": "Highest Win Rate Starters (54% win - 391 games)"
     },
     {
       "items": [
@@ -43,12 +39,37 @@
           "id": "3020"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3116"
         },
         {
           "count": 1,
           "id": "3151"
+        },
+        {
+          "count": 2,
+          "id": "3157"
+        }
+      ],
+      "type": "Most Frequent Build (49% win - 1019 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3165"
         },
         {
           "count": 1,
@@ -56,39 +77,10 @@
         },
         {
           "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
-          "id": "3146"
+          "id": "3907"
         }
       ],
-      "type": "Most Frequent Build (50% win - 980 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3116"
-        },
-        {
-          "count": 2,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 1,
-          "id": "3102"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        }
-      ],
-      "type": "Highest Win Rate Build (56% win - 130 games)"
+      "type": "Highest Win Rate Build (60% win - 182 games)"
     },
     {
       "items": [
@@ -125,7 +117,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (54% win - 1710 games)"
+      "type": "Consumables EWQ -> EQW (53% win - 1860 games)"
     },
     {
       "items": [
@@ -146,7 +138,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWEQ -> EQW (56% win - 167 games)"
+      "type": "QEW -> EQW (54% win - 433 games)"
     }
   ],
   "champion": "Malzahar",
@@ -156,6 +148,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.18",
+  "title": "Middle 9.22",
   "type": "custom"
 }

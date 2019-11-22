@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (56% win - 279 games)"
+      "type": "Most Frequent Starters (62% win - 288 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 279 games)"
+      "type": "Highest Win Rate Starters (62% win - 288 games)"
     },
     {
       "items": [
@@ -53,6 +53,35 @@
         {
           "count": 1,
           "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3033"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        }
+      ],
+      "type": "Most Frequent Build (46% win - 150 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3508"
+        },
+        {
+          "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
+          "id": "3031"
         },
         {
           "count": 1,
@@ -60,35 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3022"
+          "id": "3139"
         }
       ],
-      "type": "Most Frequent Build (49% win - 144 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3508"
-        },
-        {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 2,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "1412"
-        }
-      ],
-      "type": "Highest Win Rate Build (50% win - 141 games)"
+      "type": "Highest Win Rate Build (47% win - 118 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQQW -> QEW (57% win - 256 games)"
+      "type": "Consumables EQQW -> QEW (54% win - 233 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QEW (57% win - 256 games)"
+      "type": "EQQW -> QEW (54% win - 233 games)"
     }
   ],
   "champion": "Tryndamere",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.18",
+  "title": "Jungle 9.22",
   "type": "custom"
 }

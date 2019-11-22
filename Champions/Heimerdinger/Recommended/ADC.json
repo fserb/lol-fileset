@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 2837 games)"
+      "type": "Most Frequent Starters (52% win - 1571 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 2837 games)"
+      "type": "Highest Win Rate Starters (52% win - 1571 games)"
     },
     {
       "items": [
@@ -51,48 +51,40 @@
           "id": "3165"
         },
         {
+          "count": 3,
+          "id": "3116"
+        }
+      ],
+      "type": "Most Frequent Build (42% win - 551 games)"
+    },
+    {
+      "items": [
+        {
           "count": 1,
-          "id": "3151"
+          "id": "3157"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3151"
         },
         {
           "count": 1,
           "id": "3102"
-        }
-      ],
-      "type": "Most Frequent Build (45% win - 1068 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3285"
         },
         {
           "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3151"
+          "id": "3116"
         },
         {
           "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3165"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 101 games)"
+      "type": "Highest Win Rate Build (47% win - 119 games)"
     },
     {
       "items": [
@@ -129,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> WQE (53% win - 903 games)"
+      "type": "Consumables QWE -> WQE (53% win - 590 games)"
     },
     {
       "items": [
@@ -150,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> WQE (54% win - 509 games)"
+      "type": "QWE -> WQE (53% win - 590 games)"
     }
   ],
   "champion": "Heimerdinger",
@@ -160,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 9.1",
+  "title": "ADC 9.22",
   "type": "custom"
 }

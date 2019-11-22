@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 2550 games)"
+      "type": "Most Frequent Starters (48% win - 1512 games)"
     },
     {
       "items": [
@@ -30,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 678 games)"
+      "type": "Highest Win Rate Starters (54% win - 227 games)"
     },
     {
       "items": [
@@ -52,43 +52,35 @@
         },
         {
           "count": 1,
-          "id": "3388"
+          "id": "3147"
         },
         {
           "count": 1,
-          "id": "3147"
+          "id": "3091"
         }
       ],
-      "type": "Most Frequent Build (45% win - 682 games)"
+      "type": "Most Frequent Build (39% win - 431 games)"
     },
     {
       "items": [
         {
           "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
           "id": "1400"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3147"
         },
         {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3071"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3194"
+          "count": 2,
+          "id": "3814"
         }
       ],
-      "type": "Highest Win Rate Build (47% win - 195 games)"
+      "type": "Highest Win Rate Build (46% win - 170 games)"
     },
     {
       "items": [
@@ -125,7 +117,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (49% win - 1604 games)"
+      "type": "Consumables QEW -> QEW (44% win - 824 games)"
     },
     {
       "items": [
@@ -146,7 +138,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QEW (53% win - 592 games)"
+      "type": "QWE -> QWE (50% win - 552 games)"
     }
   ],
   "champion": "Pantheon",
@@ -156,6 +148,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.18",
+  "title": "Jungle 9.22",
   "type": "custom"
 }

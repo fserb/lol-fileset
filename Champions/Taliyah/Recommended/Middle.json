@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (56% win - 304 games)"
+      "type": "Most Frequent Starters (43% win - 266 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 304 games)"
+      "type": "Highest Win Rate Starters (58% win - 197 games)"
     },
     {
       "items": [
@@ -48,18 +44,22 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3151"
         },
         {
-          "count": 2,
-          "id": "3135"
+          "count": 1,
+          "id": "3390"
         },
         {
           "count": 1,
           "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (48% win - 208 games)"
+      "type": "Most Frequent Build (38% win - 130 games)"
     },
     {
       "items": [
@@ -72,15 +72,23 @@
           "id": "3165"
         },
         {
-          "count": 2,
-          "id": "3157"
+          "count": 1,
+          "id": "3151"
         },
         {
-          "count": 2,
-          "id": "3116"
+          "count": 1,
+          "id": "3390"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 203 games)"
+      "type": "Highest Win Rate Build (38% win - 130 games)"
     },
     {
       "items": [
@@ -117,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (54% win - 584 games)"
+      "type": "Consumables QEW -> QEW (48% win - 449 games)"
     },
     {
       "items": [
@@ -138,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (54% win - 584 games)"
+      "type": "QEW -> QEW (48% win - 449 games)"
     }
   ],
   "champion": "Taliyah",
@@ -148,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.18",
+  "title": "Middle 9.22",
   "type": "custom"
 }

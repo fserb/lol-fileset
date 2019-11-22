@@ -5,19 +5,15 @@
     {
       "items": [
         {
-          "count": 2,
-          "id": "2003"
-        },
-        {
           "count": 1,
-          "id": "3302"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 917 games)"
+      "type": "Most Frequent Starters (61% win - 161 games)"
     },
     {
       "items": [
@@ -30,61 +26,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (61% win - 774 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 2,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3512"
-        }
-      ],
-      "type": "Most Frequent Build (50% win - 457 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3401"
-        },
-        {
-          "count": 1,
-          "id": "3194"
-        },
-        {
-          "count": 1,
-          "id": "3110"
-        }
-      ],
-      "type": "Highest Win Rate Build (54% win - 182 games)"
+      "type": "Highest Win Rate Starters (61% win - 161 games)"
     },
     {
       "items": [
@@ -121,7 +63,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (55% win - 687 games)"
+      "type": "Consumables QEW -> QWE (51% win - 127 games)"
     },
     {
       "items": [
@@ -142,7 +84,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (56% win - 353 games)"
+      "type": "QEW -> QWE (51% win - 127 games)"
     }
   ],
   "champion": "Sion",
@@ -152,6 +94,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.1",
+  "title": "Support 9.22",
   "type": "custom"
 }

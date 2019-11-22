@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 3462 games)"
+      "type": "Most Frequent Starters (52% win - 3207 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1054"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 3462 games)"
+      "type": "Highest Win Rate Starters (52% win - 404 games)"
     },
     {
       "items": [
@@ -63,17 +63,17 @@
           "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (43% win - 923 games)"
+      "type": "Most Frequent Build (47% win - 753 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3111"
+          "id": "3748"
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -84,15 +84,11 @@
           "id": "3053"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 201 games)"
+      "type": "Highest Win Rate Build (55% win - 253 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 1957 games)"
+      "type": "Consumables QEW -> QWE (52% win - 1759 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (52% win - 1929 games)"
+      "type": "QEW -> QWE (52% win - 1759 games)"
     }
   ],
   "champion": "Kled",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.18",
+  "title": "Top 9.22",
   "type": "custom"
 }

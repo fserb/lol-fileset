@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 823 games)"
+      "type": "Most Frequent Starters (51% win - 892 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 334 games)"
+      "type": "Highest Win Rate Starters (52% win - 647 games)"
     },
     {
       "items": [
@@ -67,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (44% win - 190 games)"
+      "type": "Consumables EQW -> EQW (49% win - 209 games)"
     },
     {
       "items": [
@@ -88,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (54% win - 171 games)"
+      "type": "QEW -> QEW (56% win - 124 games)"
     }
   ],
   "champion": "Chogath",
@@ -98,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.18",
+  "title": "Top 9.22",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 6123 games)"
+      "type": "Most Frequent Starters (50% win - 5761 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 6123 games)"
+      "type": "Highest Win Rate Starters (50% win - 5761 games)"
     },
     {
       "items": [
@@ -63,10 +63,14 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (45% win - 1587 games)"
+      "type": "Most Frequent Build (46% win - 1637 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3072"
+        },
         {
           "count": 1,
           "id": "3031"
@@ -77,22 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3072"
-        },
-        {
-          "count": 1,
           "id": "3094"
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3139"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 228 games)"
+      "type": "Highest Win Rate Build (50% win - 340 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 5829 games)"
+      "type": "Consumables QWE -> QWE (51% win - 5619 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (50% win - 368 games)"
+      "type": "QWE -> QWE (51% win - 5619 games)"
     }
   ],
   "champion": "Draven",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 9.18",
+  "title": "ADC 9.22",
   "type": "custom"
 }
