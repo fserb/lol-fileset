@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 1400 games)"
+      "type": "Most Frequent Starters (50% win - 2020 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1006"
+        },
         {
           "count": 1,
           "id": "1041"
         },
         {
           "count": 1,
-          "id": "2031"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 806 games)"
+      "type": "Highest Win Rate Starters (57% win - 61 games)"
     },
     {
       "items": [
@@ -60,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3091"
         }
       ],
-      "type": "Most Frequent Build (45% win - 418 games)"
+      "type": "Most Frequent Build (42% win - 556 games)"
     },
     {
       "items": [
@@ -73,7 +73,7 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3009"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3091"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3800"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 416 games)"
+      "type": "Highest Win Rate Build (53% win - 156 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (54% win - 965 games)"
+      "type": "Consumables QWE -> QEW (52% win - 1256 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (54% win - 965 games)"
+      "type": "QEW -> QEW (53% win - 487 games)"
     }
   ],
   "champion": "Udyr",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.22",
+  "title": "Jungle 9.23",
   "type": "custom"
 }

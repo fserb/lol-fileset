@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 2759 games)"
+      "type": "Most Frequent Starters (47% win - 1894 games)"
     },
     {
       "items": [
@@ -22,15 +22,15 @@
           "id": "1056"
         },
         {
-          "count": 1,
-          "id": "2033"
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 124 games)"
+      "type": "Highest Win Rate Starters (47% win - 1769 games)"
     },
     {
       "items": [
@@ -44,43 +44,43 @@
         },
         {
           "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 2,
           "id": "3135"
         },
         {
           "count": 1,
+          "id": "3390"
+        },
+        {
+          "count": 1,
           "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (40% win - 2735 games)"
+      "type": "Most Frequent Build (38% win - 1970 games)"
     },
     {
       "items": [
+        {
+          "count": 2,
+          "id": "3165"
+        },
         {
           "count": 1,
           "id": "3020"
         },
         {
-          "count": 1,
-          "id": "3165"
+          "count": 2,
+          "id": "3135"
         },
         {
           "count": 1,
           "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 2,
-          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 2669 games)"
+      "type": "Highest Win Rate Build (44% win - 110 games)"
     },
     {
       "items": [
@@ -117,7 +117,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (47% win - 4133 games)"
+      "type": "Consumables WQE -> WQE (46% win - 2992 games)"
     },
     {
       "items": [
@@ -138,7 +138,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> WQE (50% win - 186 games)"
+      "type": "QWE -> WQE (50% win - 238 games)"
     }
   ],
   "champion": "Leblanc",
@@ -148,6 +148,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.22",
+  "title": "Middle 9.23",
   "type": "custom"
 }

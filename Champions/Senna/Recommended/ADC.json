@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 2718 games)"
+      "type": "Most Frequent Starters (53% win - 5122 games)"
     },
     {
       "items": [
@@ -27,16 +27,20 @@
         },
         {
           "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 53 games)"
+      "type": "Highest Win Rate Starters (53% win - 5122 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3147"
+          "id": "3004"
         },
         {
           "count": 1,
@@ -44,28 +48,28 @@
         },
         {
           "count": 1,
+          "id": "3147"
+        },
+        {
+          "count": 1,
           "id": "3031"
         },
         {
           "count": 1,
-          "id": "3812"
-        },
-        {
-          "count": 1,
-          "id": "3100"
+          "id": "3094"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (44% win - 246 games)"
+      "type": "Most Frequent Build (52% win - 1211 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3147"
+          "id": "3004"
         },
         {
           "count": 1,
@@ -73,22 +77,22 @@
         },
         {
           "count": 1,
+          "id": "3147"
+        },
+        {
+          "count": 1,
           "id": "3031"
         },
         {
           "count": 1,
-          "id": "3812"
+          "id": "3094"
         },
         {
           "count": 1,
-          "id": "3100"
-        },
-        {
-          "count": 1,
-          "id": "3026"
+          "id": "3036"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 246 games)"
+      "type": "Highest Win Rate Build (52% win - 1209 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (47% win - 2265 games)"
+      "type": "Consumables QWE -> QWE (51% win - 4668 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QWE (52% win - 647 games)"
+      "type": "WQQE -> QWE (67% win - 150 games)"
     }
   ],
   "champion": "Senna",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 9.22",
+  "title": "ADC 9.23",
   "type": "custom"
 }

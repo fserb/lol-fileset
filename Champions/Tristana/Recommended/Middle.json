@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 1301 games)"
+      "type": "Most Frequent Starters (50% win - 996 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1055"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 217 games)"
+      "type": "Highest Win Rate Starters (50% win - 996 games)"
     },
     {
       "items": [
@@ -44,15 +44,15 @@
         },
         {
           "count": 1,
-          "id": "3046"
-        },
-        {
-          "count": 1,
           "id": "3031"
         },
         {
           "count": 1,
           "id": "3094"
+        },
+        {
+          "count": 1,
+          "id": "3087"
         },
         {
           "count": 1,
@@ -60,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3087"
+          "id": "3033"
         }
       ],
-      "type": "Most Frequent Build (37% win - 517 games)"
+      "type": "Most Frequent Build (40% win - 290 games)"
     },
     {
       "items": [
@@ -76,23 +76,19 @@
           "id": "3031"
         },
         {
+          "count": 2,
+          "id": "3094"
+        },
+        {
           "count": 1,
           "id": "3046"
         },
         {
           "count": 1,
-          "id": "3094"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3036"
+          "id": "3095"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 456 games)"
+      "type": "Highest Win Rate Build (41% win - 281 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (48% win - 1283 games)"
+      "type": "Consumables EWQ -> EQW (50% win - 1028 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EQW (51% win - 262 games)"
+      "type": "EWQ -> EQW (50% win - 1028 games)"
     }
   ],
   "champion": "Tristana",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.22",
+  "title": "Middle 9.23",
   "type": "custom"
 }

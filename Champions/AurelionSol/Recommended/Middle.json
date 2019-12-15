@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 1746 games)"
+      "type": "Most Frequent Starters (55% win - 1646 games)"
     },
     {
       "items": [
@@ -30,7 +30,36 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (59% win - 127 games)"
+      "type": "Highest Win Rate Starters (56% win - 64 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3027"
+        },
+        {
+          "count": 1,
+          "id": "3009"
+        },
+        {
+          "count": 1,
+          "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3151"
+        },
+        {
+          "count": 1,
+          "id": "3905"
+        }
+      ],
+      "type": "Most Frequent Build (47% win - 209 games)"
     },
     {
       "items": [
@@ -51,36 +80,15 @@
           "id": "3151"
         },
         {
-          "count": 2,
-          "id": "3157"
+          "count": 1,
+          "id": "3041"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (49% win - 213 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3027"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3116"
-        },
-        {
-          "count": 1,
-          "id": "3151"
-        },
-        {
-          "count": 2,
-          "id": "3157"
-        }
-      ],
-      "type": "Highest Win Rate Build (49% win - 213 games)"
+      "type": "Highest Win Rate Build (52% win - 201 games)"
     },
     {
       "items": [
@@ -117,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (55% win - 1165 games)"
+      "type": "Consumables WQE -> WQE (54% win - 1030 games)"
     },
     {
       "items": [
@@ -138,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (58% win - 207 games)"
+      "type": "WQWE -> WQE (59% win - 406 games)"
     }
   ],
   "champion": "AurelionSol",
@@ -148,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.22",
+  "title": "Middle 9.23",
   "type": "custom"
 }

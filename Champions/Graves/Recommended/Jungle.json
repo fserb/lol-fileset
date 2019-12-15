@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 4696 games)"
+      "type": "Most Frequent Starters (48% win - 7236 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 4696 games)"
+      "type": "Highest Win Rate Starters (53% win - 143 games)"
     },
     {
       "items": [
@@ -48,7 +48,7 @@
         },
         {
           "count": 1,
-          "id": "3147"
+          "id": "3181"
         },
         {
           "count": 1,
@@ -63,7 +63,7 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (39% win - 998 games)"
+      "type": "Most Frequent Build (37% win - 1542 games)"
     },
     {
       "items": [
@@ -73,26 +73,26 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3181"
         },
         {
           "count": 1,
-          "id": "3046"
+          "id": "3147"
         },
         {
           "count": 1,
-          "id": "3812"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3156"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 339 games)"
+      "type": "Highest Win Rate Build (37% win - 1465 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QEW (50% win - 3988 games)"
+      "type": "Consumables EQW -> QEW (48% win - 5393 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EQW (57% win - 156 games)"
+      "type": "EQW -> QEW (54% win - 159 games)"
     }
   ],
   "champion": "Graves",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.22",
+  "title": "Jungle 9.23",
   "type": "custom"
 }

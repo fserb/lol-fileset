@@ -13,20 +13,82 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (60% win - 580 games)"
+      "type": "Most Frequent Starters (54% win - 372 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 580 games)"
+      "type": "Highest Win Rate Starters (56% win - 198 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3152"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3102"
+        },
+        {
+          "count": 1,
+          "id": "3041"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        }
+      ],
+      "type": "Most Frequent Build (49% win - 222 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3152"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3102"
+        },
+        {
+          "count": 1,
+          "id": "3041"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        }
+      ],
+      "type": "Highest Win Rate Build (49% win - 222 games)"
     },
     {
       "items": [
@@ -63,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (60% win - 322 games)"
+      "type": "Consumables EWQ -> EWQ (57% win - 220 games)"
     },
     {
       "items": [
@@ -84,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EWQ (60% win - 322 games)"
+      "type": "EWQ -> EWQ (57% win - 220 games)"
     }
   ],
   "champion": "Fizz",
@@ -94,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.22",
+  "title": "Support 9.23",
   "type": "custom"
 }

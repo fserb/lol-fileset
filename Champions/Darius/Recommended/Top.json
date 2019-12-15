@@ -17,20 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 3809 games)"
+      "type": "Most Frequent Starters (50% win - 3711 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
-        },
-        {
-          "count": 1,
           "id": "1055"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "2003"
         },
         {
@@ -38,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 105 games)"
+      "type": "Highest Win Rate Starters (50% win - 1435 games)"
     },
     {
       "items": [
@@ -56,18 +52,18 @@
         },
         {
           "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
           "id": "3065"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3742"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (44% win - 1052 games)"
+      "type": "Most Frequent Build (40% win - 827 games)"
     },
     {
       "items": [
@@ -85,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
           "id": "3742"
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3110"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 514 games)"
+      "type": "Highest Win Rate Build (47% win - 370 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (51% win - 2453 games)"
+      "type": "Consumables QEW -> QEW (53% win - 1873 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QEW (52% win - 1170 games)"
+      "type": "QEW -> QEW (53% win - 1873 games)"
     }
   ],
   "champion": "Darius",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.22",
+  "title": "Top 9.23",
   "type": "custom"
 }

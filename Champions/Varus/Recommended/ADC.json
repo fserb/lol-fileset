@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 4041 games)"
+      "type": "Most Frequent Starters (49% win - 3468 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 4041 games)"
+      "type": "Highest Win Rate Starters (49% win - 3468 games)"
     },
     {
       "items": [
@@ -51,19 +51,15 @@
           "id": "3085"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3046"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (43% win - 2071 games)"
+      "type": "Most Frequent Build (44% win - 1636 games)"
     },
     {
       "items": [
@@ -80,19 +76,15 @@
           "id": "3085"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3031"
         },
         {
           "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3046"
+          "id": "3094"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 493 games)"
+      "type": "Highest Win Rate Build (48% win - 322 games)"
     },
     {
       "items": [
@@ -129,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 943 games)"
+      "type": "Consumables QWE -> QWE (49% win - 743 games)"
     },
     {
       "items": [
@@ -150,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EWQ (50% win - 112 games)"
+      "type": "EQW -> QWE (50% win - 443 games)"
     }
   ],
   "champion": "Varus",
@@ -160,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 9.22",
+  "title": "ADC 9.23",
   "type": "custom"
 }

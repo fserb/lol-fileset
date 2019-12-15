@@ -6,7 +6,7 @@
       "items": [
         {
           "count": 1,
-          "id": "1039"
+          "id": "1041"
         },
         {
           "count": 1,
@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 1186 games)"
+      "type": "Most Frequent Starters (52% win - 2353 games)"
     },
     {
       "items": [
@@ -27,6 +27,10 @@
         },
         {
           "count": 1,
+          "id": "1041"
+        },
+        {
+          "count": 2,
           "id": "2031"
         },
         {
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 1186 games)"
+      "type": "Highest Win Rate Starters (55% win - 149 games)"
     },
     {
       "items": [
@@ -63,36 +67,36 @@
           "id": "3157"
         }
       ],
-      "type": "Most Frequent Build (45% win - 709 games)"
+      "type": "Most Frequent Build (45% win - 1024 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1402"
+          "id": "1416"
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3748"
         },
         {
           "count": 1,
-          "id": "3115"
+          "id": "3111"
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3742"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3151"
+          "id": "3091"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 706 games)"
+      "type": "Highest Win Rate Build (49% win - 104 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EWQ (51% win - 1503 games)"
+      "type": "Consumables EWQ -> EWQ (52% win - 1663 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EWQ (51% win - 1503 games)"
+      "type": "EWQ -> WEQ (53% win - 441 games)"
     }
   ],
   "champion": "Shyvana",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.22",
+  "title": "Jungle 9.23",
   "type": "custom"
 }

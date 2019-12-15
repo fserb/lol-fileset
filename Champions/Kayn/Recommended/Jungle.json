@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 11421 games)"
+      "type": "Most Frequent Starters (49% win - 9509 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 157 games)"
+      "type": "Highest Win Rate Starters (51% win - 135 games)"
     },
     {
       "items": [
@@ -60,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3036"
         }
       ],
-      "type": "Most Frequent Build (45% win - 2389 games)"
+      "type": "Most Frequent Build (43% win - 2074 games)"
     },
     {
       "items": [
@@ -80,15 +80,19 @@
           "id": "3147"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3814"
         },
         {
           "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3156"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 330 games)"
+      "type": "Highest Win Rate Build (51% win - 288 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (51% win - 4442 games)"
+      "type": "Consumables QWE -> QWE (47% win - 3660 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EQW (60% win - 215 games)"
+      "type": "QEW -> QWE (58% win - 146 games)"
     }
   ],
   "champion": "Kayn",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.22",
+  "title": "Jungle 9.23",
   "type": "custom"
 }

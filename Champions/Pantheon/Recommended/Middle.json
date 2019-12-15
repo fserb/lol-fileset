@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 979 games)"
+      "type": "Most Frequent Starters (52% win - 644 games)"
     },
     {
       "items": [
@@ -26,7 +26,57 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 979 games)"
+      "type": "Highest Win Rate Starters (52% win - 644 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3812"
+        },
+        {
+          "count": 2,
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3742"
+        }
+      ],
+      "type": "Most Frequent Build (33% win - 101 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3071"
+        },
+        {
+          "count": 1,
+          "id": "3812"
+        },
+        {
+          "count": 2,
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3742"
+        }
+      ],
+      "type": "Highest Win Rate Build (33% win - 101 games)"
     },
     {
       "items": [
@@ -63,7 +113,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (48% win - 509 games)"
+      "type": "Consumables QWE -> QEW (50% win - 360 games)"
     },
     {
       "items": [
@@ -84,7 +134,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (54% win - 191 games)"
+      "type": "QWE -> QWE (53% win - 164 games)"
     }
   ],
   "champion": "Pantheon",
@@ -94,6 +144,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.22",
+  "title": "Middle 9.23",
   "type": "custom"
 }

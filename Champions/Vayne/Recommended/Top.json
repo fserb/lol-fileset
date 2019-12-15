@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1079 games)"
+      "type": "Most Frequent Starters (51% win - 926 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1055"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 484 games)"
+      "type": "Highest Win Rate Starters (51% win - 926 games)"
     },
     {
       "items": [
@@ -47,19 +47,19 @@
           "id": "3124"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3046"
+        },
+        {
+          "count": 2,
+          "id": "3139"
         },
         {
           "count": 1,
           "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3139"
         }
       ],
-      "type": "Most Frequent Build (43% win - 1076 games)"
+      "type": "Most Frequent Build (43% win - 824 games)"
     },
     {
       "items": [
@@ -72,19 +72,19 @@
           "id": "3124"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3046"
+        },
+        {
+          "count": 2,
+          "id": "3139"
         },
         {
           "count": 1,
           "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3139"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 1076 games)"
+      "type": "Highest Win Rate Build (43% win - 824 games)"
     },
     {
       "items": [
@@ -121,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> WQE (49% win - 896 games)"
+      "type": "Consumables QWE -> WQE (48% win - 902 games)"
     },
     {
       "items": [
@@ -142,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (50% win - 575 games)"
+      "type": "WQE -> WQE (56% win - 101 games)"
     }
   ],
   "champion": "Vayne",
@@ -152,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.22",
+  "title": "Top 9.23",
   "type": "custom"
 }

@@ -10,14 +10,14 @@
         },
         {
           "count": 1,
-          "id": "3303"
+          "id": "3862"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 20013 games)"
+      "type": "Most Frequent Starters (52% win - 21587 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (60% win - 531 games)"
+      "type": "Highest Win Rate Starters (58% win - 1107 games)"
     },
     {
       "items": [
@@ -48,18 +48,14 @@
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "3174"
         },
         {
-          "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 2,
-          "id": "3036"
+          "count": 3,
+          "id": "3814"
         }
       ],
-      "type": "Most Frequent Build (47% win - 4498 games)"
+      "type": "Most Frequent Build (49% win - 7018 games)"
     },
     {
       "items": [
@@ -81,14 +77,14 @@
         },
         {
           "count": 1,
-          "id": "3092"
+          "id": "3036"
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3156"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 165 games)"
+      "type": "Highest Win Rate Build (58% win - 117 games)"
     },
     {
       "items": [
@@ -125,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 14644 games)"
+      "type": "Consumables QWE -> QWE (50% win - 17509 games)"
     },
     {
       "items": [
@@ -146,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QWE (53% win - 1819 games)"
+      "type": "WQQE -> QWE (57% win - 581 games)"
     }
   ],
   "champion": "Senna",
@@ -156,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.22",
+  "title": "Support 9.23",
   "type": "custom"
 }

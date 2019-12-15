@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 2689 games)"
+      "type": "Most Frequent Starters (51% win - 2607 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2031"
+          "id": "1054"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 180 games)"
+      "type": "Highest Win Rate Starters (51% win - 2607 games)"
     },
     {
       "items": [
@@ -52,20 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (44% win - 1022 games)"
+      "type": "Most Frequent Build (47% win - 964 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3111"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -81,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3190"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 311 games)"
+      "type": "Highest Win Rate Build (47% win - 963 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (53% win - 1304 games)"
+      "type": "Consumables QWE -> QWE (49% win - 1135 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WEQ (54% win - 132 games)"
+      "type": "WQE -> QWE (56% win - 127 games)"
     }
   ],
   "champion": "Ornn",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.22",
+  "title": "Top 9.23",
   "type": "custom"
 }

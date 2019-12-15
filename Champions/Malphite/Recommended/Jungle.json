@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 2309 games)"
+      "type": "Most Frequent Starters (47% win - 1499 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 2309 games)"
+      "type": "Highest Win Rate Starters (47% win - 1499 games)"
     },
     {
       "items": [
@@ -60,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3100"
         }
       ],
-      "type": "Most Frequent Build (43% win - 435 games)"
+      "type": "Most Frequent Build (42% win - 290 games)"
     },
     {
       "items": [
@@ -77,11 +77,7 @@
         },
         {
           "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3089"
+          "id": "3157"
         },
         {
           "count": 1,
@@ -89,10 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 424 games)"
+      "type": "Highest Win Rate Build (43% win - 269 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> QEW (50% win - 953 games)"
+      "type": "Consumables WEQ -> QEW (47% win - 563 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QEW (50% win - 953 games)"
+      "type": "QEW -> QEW (58% win - 110 games)"
     }
   ],
   "champion": "Malphite",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.22",
+  "title": "Jungle 9.23",
   "type": "custom"
 }

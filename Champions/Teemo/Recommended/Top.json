@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 2944 games)"
+      "type": "Most Frequent Starters (51% win - 2721 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 132 games)"
+      "type": "Highest Win Rate Starters (60% win - 50 games)"
     },
     {
       "items": [
@@ -52,25 +52,17 @@
         },
         {
           "count": 1,
-          "id": "3135"
-        },
-        {
-          "count": 1,
           "id": "3089"
         },
         {
-          "count": 1,
-          "id": "3116"
+          "count": 2,
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (48% win - 670 games)"
+      "type": "Most Frequent Build (47% win - 588 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3151"
-        },
         {
           "count": 1,
           "id": "3020"
@@ -81,7 +73,7 @@
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3151"
         },
         {
           "count": 1,
@@ -90,9 +82,13 @@
         {
           "count": 1,
           "id": "3135"
+        },
+        {
+          "count": 1,
+          "id": "3907"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 667 games)"
+      "type": "Highest Win Rate Build (48% win - 296 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (50% win - 1653 games)"
+      "type": "Consumables EQW -> EQW (50% win - 1496 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEW -> EQW (59% win - 171 games)"
+      "type": "EQW -> QEW (54% win - 206 games)"
     }
   ],
   "champion": "Teemo",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.22",
+  "title": "Top 9.23",
   "type": "custom"
 }

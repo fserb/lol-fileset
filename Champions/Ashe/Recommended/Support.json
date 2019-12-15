@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 1842 games)"
+      "type": "Most Frequent Starters (53% win - 1355 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 1842 games)"
+      "type": "Highest Win Rate Starters (53% win - 1355 games)"
     },
     {
       "items": [
@@ -51,11 +51,19 @@
           "id": "3031"
         },
         {
-          "count": 3,
+          "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3036"
+        },
+        {
+          "count": 1,
+          "id": "3508"
         }
       ],
-      "type": "Most Frequent Build (58% win - 1284 games)"
+      "type": "Most Frequent Build (57% win - 979 games)"
     },
     {
       "items": [
@@ -72,11 +80,19 @@
           "id": "3031"
         },
         {
-          "count": 3,
+          "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3036"
+        },
+        {
+          "count": 1,
+          "id": "3508"
         }
       ],
-      "type": "Highest Win Rate Build (58% win - 1284 games)"
+      "type": "Highest Win Rate Build (57% win - 979 games)"
     },
     {
       "items": [
@@ -113,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (51% win - 982 games)"
+      "type": "Consumables WQE -> WQE (48% win - 877 games)"
     },
     {
       "items": [
@@ -134,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQWE -> WQE (53% win - 747 games)"
+      "type": "WQWE -> WQE (54% win - 693 games)"
     }
   ],
   "champion": "Ashe",
@@ -144,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.22",
+  "title": "Support 9.23",
   "type": "custom"
 }

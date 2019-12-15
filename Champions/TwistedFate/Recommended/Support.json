@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 578 games)"
+      "type": "Most Frequent Starters (52% win - 325 games)"
     },
     {
       "items": [
@@ -26,7 +26,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 578 games)"
+      "type": "Highest Win Rate Starters (52% win - 325 games)"
     },
     {
       "items": [
@@ -36,7 +36,7 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -44,14 +44,18 @@
         },
         {
           "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
         {
-          "count": 2,
-          "id": "3091"
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Most Frequent Build (45% win - 271 games)"
+      "type": "Most Frequent Build (44% win - 175 games)"
     },
     {
       "items": [
@@ -61,7 +65,7 @@
         },
         {
           "count": 1,
-          "id": "3111"
+          "id": "3158"
         },
         {
           "count": 1,
@@ -69,14 +73,18 @@
         },
         {
           "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
         {
-          "count": 2,
-          "id": "3091"
+          "count": 1,
+          "id": "3102"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 271 games)"
+      "type": "Highest Win Rate Build (44% win - 175 games)"
     },
     {
       "items": [
@@ -113,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QWE (49% win - 714 games)"
+      "type": "Consumables WQE -> QWE (52% win - 556 games)"
     },
     {
       "items": [
@@ -134,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QWE (53% win - 190 games)"
+      "type": "WQE -> QWE (52% win - 556 games)"
     }
   ],
   "champion": "TwistedFate",
@@ -144,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.22",
+  "title": "Support 9.23",
   "type": "custom"
 }
