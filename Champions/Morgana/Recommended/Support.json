@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 9678 games)"
+      "type": "Most Frequent Starters (48% win - 23522 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1056"
+        },
         {
           "count": 2,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "3850"
-        },
-        {
-          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 9678 games)"
+      "type": "Highest Win Rate Starters (60% win - 130 games)"
     },
     {
       "items": [
@@ -47,19 +47,15 @@
           "id": "3157"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3107"
         },
         {
-          "count": 1,
-          "id": "3190"
-        },
-        {
           "count": 2,
-          "id": "3027"
+          "id": "2065"
         }
       ],
-      "type": "Most Frequent Build (45% win - 2834 games)"
+      "type": "Most Frequent Build (41% win - 7241 games)"
     },
     {
       "items": [
@@ -68,19 +64,23 @@
           "id": "3020"
         },
         {
+          "count": 1,
+          "id": "3157"
+        },
+        {
           "count": 2,
-          "id": "3151"
+          "id": "3905"
         },
         {
           "count": 1,
-          "id": "3041"
+          "id": "3165"
         },
         {
-          "count": 2,
-          "id": "3102"
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 122 games)"
+      "type": "Highest Win Rate Build (44% win - 576 games)"
     },
     {
       "items": [
@@ -117,7 +117,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 2145 games)"
+      "type": "Consumables QWE -> QWE (47% win - 4242 games)"
     },
     {
       "items": [
@@ -138,7 +138,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWQE -> QWE (57% win - 118 games)"
+      "type": "QWQE -> QWE (54% win - 162 games)"
     }
   ],
   "champion": "Morgana",
@@ -148,6 +148,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.23",
+  "title": "Support 10.1",
   "type": "custom"
 }

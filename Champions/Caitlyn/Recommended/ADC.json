@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 20202 games)"
+      "type": "Most Frequent Starters (50% win - 50494 games)"
     },
     {
       "items": [
@@ -27,6 +27,10 @@
         },
         {
           "count": 1,
+          "id": "1055"
+        },
+        {
+          "count": 2,
           "id": "2003"
         },
         {
@@ -34,13 +38,13 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 176 games)"
+      "type": "Highest Win Rate Starters (54% win - 121 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3031"
+          "id": "3095"
         },
         {
           "count": 1,
@@ -48,22 +52,22 @@
         },
         {
           "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
           "id": "3094"
         },
         {
           "count": 1,
-          "id": "3087"
-        },
-        {
-          "count": 1,
-          "id": "3072"
+          "id": "3046"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (43% win - 2811 games)"
+      "type": "Most Frequent Build (47% win - 17592 games)"
     },
     {
       "items": [
@@ -85,14 +89,14 @@
         },
         {
           "count": 1,
-          "id": "3087"
+          "id": "3046"
         },
         {
           "count": 1,
           "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (55% win - 271 games)"
+      "type": "Highest Win Rate Build (53% win - 1892 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (52% win - 9192 games)"
+      "type": "Consumables QWE -> QWE (50% win - 23140 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QWE (57% win - 103 games)"
+      "type": "QEQW -> QEW (52% win - 329 games)"
     }
   ],
   "champion": "Caitlyn",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 9.23",
+  "title": "ADC 10.1",
   "type": "custom"
 }

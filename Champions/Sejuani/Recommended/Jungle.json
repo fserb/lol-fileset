@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (45% win - 1574 games)"
+      "type": "Most Frequent Starters (48% win - 6000 games)"
     },
     {
       "items": [
@@ -34,7 +34,36 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (45% win - 1574 games)"
+      "type": "Highest Win Rate Starters (48% win - 6000 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "1401"
+        },
+        {
+          "count": 1,
+          "id": "3047"
+        },
+        {
+          "count": 1,
+          "id": "3083"
+        },
+        {
+          "count": 1,
+          "id": "3193"
+        },
+        {
+          "count": 1,
+          "id": "3143"
+        },
+        {
+          "count": 1,
+          "id": "3190"
+        }
+      ],
+      "type": "Most Frequent Build (42% win - 1559 games)"
     },
     {
       "items": [
@@ -60,39 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3110"
-        }
-      ],
-      "type": "Most Frequent Build (38% win - 419 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1401"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3193"
-        },
-        {
-          "count": 1,
           "id": "3143"
-        },
-        {
-          "count": 1,
-          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (39% win - 233 games)"
+      "type": "Highest Win Rate Build (42% win - 1549 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> WQE (47% win - 655 games)"
+      "type": "Consumables EWQ -> WQE (50% win - 2881 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> WQE (47% win - 655 games)"
+      "type": "EWQ -> QWE (60% win - 153 games)"
     }
   ],
   "champion": "Sejuani",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.23",
+  "title": "Jungle 10.1",
   "type": "custom"
 }

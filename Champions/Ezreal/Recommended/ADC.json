@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 11144 games)"
+      "type": "Most Frequent Starters (47% win - 19594 games)"
     },
     {
       "items": [
@@ -38,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 160 games)"
+      "type": "Highest Win Rate Starters (49% win - 270 games)"
     },
     {
       "items": [
@@ -64,17 +64,13 @@
         },
         {
           "count": 1,
-          "id": "3072"
+          "id": "3156"
         }
       ],
-      "type": "Most Frequent Build (42% win - 5468 games)"
+      "type": "Most Frequent Build (43% win - 9850 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3078"
-        },
         {
           "count": 1,
           "id": "3004"
@@ -84,15 +80,23 @@
           "id": "3158"
         },
         {
-          "count": 2,
+          "count": 1,
+          "id": "3078"
+        },
+        {
+          "count": 1,
           "id": "3072"
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3156"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 349 games)"
+      "type": "Highest Win Rate Build (43% win - 9758 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 9761 games)"
+      "type": "Consumables QEW -> QEW (48% win - 17204 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (47% win - 9761 games)"
+      "type": "QEW -> QEW (48% win - 17204 games)"
     }
   ],
   "champion": "Ezreal",
@@ -160,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 9.23",
+  "title": "ADC 10.1",
   "type": "custom"
 }

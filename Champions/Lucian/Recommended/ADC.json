@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 14183 games)"
+      "type": "Most Frequent Starters (48% win - 35551 games)"
     },
     {
       "items": [
@@ -27,6 +27,10 @@
         },
         {
           "count": 1,
+          "id": "1055"
+        },
+        {
+          "count": 2,
           "id": "2003"
         },
         {
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 296 games)"
+      "type": "Highest Win Rate Starters (53% win - 196 games)"
     },
     {
       "items": [
@@ -55,11 +59,15 @@
           "id": "3094"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3072"
         }
       ],
-      "type": "Most Frequent Build (40% win - 4868 games)"
+      "type": "Most Frequent Build (41% win - 12335 games)"
     },
     {
       "items": [
@@ -69,11 +77,11 @@
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3006"
         },
         {
           "count": 1,
@@ -81,14 +89,14 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3046"
         },
         {
           "count": 1,
-          "id": "3156"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 2355 games)"
+      "type": "Highest Win Rate Build (48% win - 1288 games)"
     },
     {
       "items": [
@@ -125,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 11839 games)"
+      "type": "Consumables QEW -> QEW (48% win - 30343 games)"
     },
     {
       "items": [
@@ -146,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> QEW (50% win - 186 games)"
+      "type": "EWQ -> QEW (51% win - 358 games)"
     }
   ],
   "champion": "Lucian",
@@ -156,6 +164,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 9.23",
+  "title": "ADC 10.1",
   "type": "custom"
 }

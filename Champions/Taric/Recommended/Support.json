@@ -10,14 +10,14 @@
         },
         {
           "count": 1,
-          "id": "3854"
+          "id": "3858"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 916 games)"
+      "type": "Most Frequent Starters (54% win - 5106 games)"
     },
     {
       "items": [
@@ -34,57 +34,57 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 271 games)"
+      "type": "Highest Win Rate Starters (54% win - 5106 games)"
     },
     {
       "items": [
-        {
-          "count": 2,
-          "id": "3111"
-        },
         {
           "count": 1,
           "id": "3109"
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3111"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3190"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3050"
+        },
+        {
+          "count": 1,
+          "id": "2065"
         }
       ],
-      "type": "Most Frequent Build (35% win - 109 games)"
+      "type": "Most Frequent Build (44% win - 470 games)"
     },
     {
       "items": [
-        {
-          "count": 2,
-          "id": "3111"
-        },
         {
           "count": 1,
           "id": "3109"
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3111"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3190"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3050"
+        },
+        {
+          "count": 1,
+          "id": "2065"
         }
       ],
-      "type": "Highest Win Rate Build (35% win - 109 games)"
+      "type": "Highest Win Rate Build (44% win - 470 games)"
     },
     {
       "items": [
@@ -121,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (56% win - 222 games)"
+      "type": "Consumables EWQ -> EQW (50% win - 1248 games)"
     },
     {
       "items": [
@@ -142,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EQW (56% win - 222 games)"
+      "type": "EWQ -> EQW (53% win - 646 games)"
     }
   ],
   "champion": "Taric",
@@ -152,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.23",
+  "title": "Support 10.1",
   "type": "custom"
 }

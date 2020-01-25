@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 1681 games)"
+      "type": "Most Frequent Starters (48% win - 3795 games)"
     },
     {
       "items": [
@@ -27,14 +27,14 @@
         },
         {
           "count": 1,
-          "id": "3850"
+          "id": "3858"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 1681 games)"
+      "type": "Highest Win Rate Starters (54% win - 129 games)"
     },
     {
       "items": [
@@ -43,7 +43,7 @@
           "id": "3020"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3157"
         },
         {
@@ -51,15 +51,15 @@
           "id": "3165"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3905"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3041"
         }
       ],
-      "type": "Most Frequent Build (42% win - 436 games)"
+      "type": "Most Frequent Build (48% win - 651 games)"
     },
     {
       "items": [
@@ -68,7 +68,7 @@
           "id": "3020"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3157"
         },
         {
@@ -76,15 +76,15 @@
           "id": "3165"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3905"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3041"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 436 games)"
+      "type": "Highest Win Rate Build (48% win - 651 games)"
     },
     {
       "items": [
@@ -121,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (46% win - 609 games)"
+      "type": "Consumables EQW -> EQW (46% win - 1026 games)"
     },
     {
       "items": [
@@ -142,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EQW (46% win - 609 games)"
+      "type": "EQEW -> QEW (51% win - 135 games)"
     }
   ],
   "champion": "Fiddlesticks",
@@ -152,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.23",
+  "title": "Support 10.1",
   "type": "custom"
 }

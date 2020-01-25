@@ -17,70 +17,54 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 1975 games)"
+      "type": "Most Frequent Starters (50% win - 5402 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "3850"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 263 games)"
+      "type": "Highest Win Rate Starters (55% win - 169 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3390"
         },
         {
           "count": 3,
-          "id": "3151"
+          "id": "3157"
         },
         {
-          "count": 1,
-          "id": "3157"
+          "count": 2,
+          "id": "3116"
         }
       ],
-      "type": "Most Frequent Build (49% win - 647 games)"
+      "type": "Most Frequent Build (49% win - 2149 games)"
     },
     {
       "items": [
         {
-          "count": 2,
+          "count": 1,
           "id": "3020"
         },
         {
-          "count": 1,
-          "id": "3003"
+          "count": 3,
+          "id": "3157"
         },
         {
-          "count": 1,
-          "id": "3102"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "3116"
-        },
-        {
-          "count": 1,
-          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 642 games)"
+      "type": "Highest Win Rate Build (49% win - 2149 games)"
     },
     {
       "items": [
@@ -117,7 +101,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (53% win - 1458 games)"
+      "type": "Consumables QWE -> QWE (50% win - 3681 games)"
     },
     {
       "items": [
@@ -138,7 +122,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (53% win - 1458 games)"
+      "type": "QWE -> WQE (52% win - 162 games)"
     }
   ],
   "champion": "Velkoz",
@@ -148,6 +132,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 9.23",
+  "title": "Support 10.1",
   "type": "custom"
 }

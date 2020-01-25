@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 4580 games)"
+      "type": "Most Frequent Starters (51% win - 15661 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1041"
         },
         {
-          "count": 1,
-          "id": "2031"
+          "count": 3,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 4580 games)"
+      "type": "Highest Win Rate Starters (51% win - 127 games)"
     },
     {
       "items": [
@@ -52,24 +52,24 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3053"
         },
         {
           "count": 1,
           "id": "3065"
         }
       ],
-      "type": "Most Frequent Build (45% win - 1321 games)"
+      "type": "Most Frequent Build (46% win - 4627 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1400"
+          "id": "1412"
         },
         {
           "count": 1,
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
           "id": "3053"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 479 games)"
+      "type": "Highest Win Rate Build (51% win - 201 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (52% win - 4387 games)"
+      "type": "Consumables QWE -> QEW (52% win - 14909 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> EQW (59% win - 116 games)"
+      "type": "QWE -> EQW (60% win - 255 games)"
     }
   ],
   "champion": "RekSai",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 9.23",
+  "title": "Jungle 10.1",
   "type": "custom"
 }

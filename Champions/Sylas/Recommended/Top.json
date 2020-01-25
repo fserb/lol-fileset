@@ -13,20 +13,82 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 367 games)"
+      "type": "Most Frequent Starters (46% win - 3047 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (47% win - 367 games)"
+      "type": "Highest Win Rate Starters (50% win - 384 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3152"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3100"
+        }
+      ],
+      "type": "Most Frequent Build (42% win - 713 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3152"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3100"
+        }
+      ],
+      "type": "Highest Win Rate Build (42% win - 713 games)"
     },
     {
       "items": [
@@ -63,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (47% win - 170 games)"
+      "type": "Consumables QEW -> QWE (47% win - 783 games)"
     },
     {
       "items": [
@@ -84,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (47% win - 170 games)"
+      "type": "EWQ -> WQE (52% win - 177 games)"
     }
   ],
   "champion": "Sylas",
@@ -94,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.22",
+  "title": "Top 10.1",
   "type": "custom"
 }

@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (45% win - 2333 games)"
+      "type": "Most Frequent Starters (43% win - 5748 games)"
     },
     {
       "items": [
@@ -26,7 +26,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (45% win - 2333 games)"
+      "type": "Highest Win Rate Starters (43% win - 5748 games)"
     },
     {
       "items": [
@@ -55,13 +55,17 @@
           "id": "3091"
         }
       ],
-      "type": "Most Frequent Build (26% win - 378 games)"
+      "type": "Most Frequent Build (31% win - 1075 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3047"
+          "id": "3091"
+        },
+        {
+          "count": 1,
+          "id": "3111"
         },
         {
           "count": 1,
@@ -73,18 +77,14 @@
         },
         {
           "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
           "id": "3026"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3143"
         }
       ],
-      "type": "Highest Win Rate Build (37% win - 226 games)"
+      "type": "Highest Win Rate Build (37% win - 176 games)"
     },
     {
       "items": [
@@ -121,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (44% win - 2183 games)"
+      "type": "Consumables QEW -> QEW (43% win - 5362 games)"
     },
     {
       "items": [
@@ -142,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (47% win - 301 games)"
+      "type": "EQW -> QEW (46% win - 843 games)"
     }
   ],
   "champion": "Irelia",
@@ -152,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.23",
+  "title": "Middle 10.1",
   "type": "custom"
 }

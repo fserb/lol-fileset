@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 882 games)"
+      "type": "Most Frequent Starters (51% win - 1884 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 882 games)"
+      "type": "Highest Win Rate Starters (51% win - 1884 games)"
     },
     {
       "items": [
@@ -60,24 +60,16 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3165"
         }
       ],
-      "type": "Most Frequent Build (46% win - 189 games)"
+      "type": "Most Frequent Build (44% win - 418 games)"
     },
     {
       "items": [
         {
-          "count": 1,
-          "id": "3030"
-        },
-        {
-          "count": 1,
+          "count": 2,
           "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3905"
         },
         {
           "count": 1,
@@ -85,14 +77,18 @@
         },
         {
           "count": 1,
-          "id": "3165"
+          "id": "3135"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3905"
+        },
+        {
+          "count": 1,
+          "id": "3030"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 159 games)"
+      "type": "Highest Win Rate Build (47% win - 144 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (50% win - 224 games)"
+      "type": "Consumables QEW -> QEW (53% win - 488 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (53% win - 204 games)"
+      "type": "QWE -> QEW (54% win - 211 games)"
     }
   ],
   "champion": "Veigar",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 9.23",
+  "title": "ADC 10.1",
   "type": "custom"
 }

@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 248 games)"
+      "type": "Most Frequent Starters (43% win - 403 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1036"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 153 games)"
+      "type": "Highest Win Rate Starters (57% win - 119 games)"
     },
     {
       "items": [
@@ -67,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (45% win - 218 games)"
+      "type": "Consumables QEQW -> QWE (48% win - 383 games)"
     },
     {
       "items": [
@@ -88,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEQW -> QWE (52% win - 119 games)"
+      "type": "QEQW -> QWE (48% win - 383 games)"
     }
   ],
   "champion": "Jayce",
@@ -98,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 9.23",
+  "title": "Middle 10.1",
   "type": "custom"
 }

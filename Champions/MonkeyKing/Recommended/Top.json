@@ -6,6 +6,19 @@
       "items": [
         {
           "count": 1,
+          "id": "2033"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        }
+      ],
+      "type": "Most Frequent Starters (47% win - 361 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
           "id": "1055"
         },
         {
@@ -17,20 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 197 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "2033"
-        },
-        {
-          "count": 1,
-          "id": "3340"
-        }
-      ],
-      "type": "Highest Win Rate Starters (51% win - 177 games)"
+      "type": "Highest Win Rate Starters (53% win - 328 games)"
     },
     {
       "items": [
@@ -67,7 +67,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (51% win - 195 games)"
+      "type": "Consumables EQW -> EQW (51% win - 302 games)"
     },
     {
       "items": [
@@ -88,7 +88,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> EQW (51% win - 195 games)"
+      "type": "EWQ -> EQW (56% win - 137 games)"
     }
   ],
   "champion": "MonkeyKing",
@@ -98,6 +98,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.23",
+  "title": "Top 10.1",
   "type": "custom"
 }

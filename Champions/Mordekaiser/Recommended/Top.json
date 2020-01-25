@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 5995 games)"
+      "type": "Most Frequent Starters (49% win - 17786 games)"
     },
     {
       "items": [
@@ -34,17 +34,17 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 237 games)"
+      "type": "Highest Win Rate Starters (52% win - 641 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3116"
+          "id": "3047"
         },
         {
           "count": 1,
-          "id": "3047"
+          "id": "3116"
         },
         {
           "count": 1,
@@ -60,16 +60,24 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3165"
         }
       ],
-      "type": "Most Frequent Build (44% win - 423 games)"
+      "type": "Most Frequent Build (41% win - 1523 games)"
     },
     {
       "items": [
         {
           "count": 1,
+          "id": "3152"
+        },
+        {
+          "count": 1,
           "id": "3116"
+        },
+        {
+          "count": 1,
+          "id": "3111"
         },
         {
           "count": 1,
@@ -77,18 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 2,
           "id": "3157"
         },
         {
           "count": 1,
-          "id": "3152"
+          "id": "3165"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 132 games)"
+      "type": "Highest Win Rate Build (43% win - 197 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (52% win - 5530 games)"
+      "type": "Consumables QEW -> QEW (50% win - 16338 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (57% win - 303 games)"
+      "type": "QEW -> QEW (50% win - 16338 games)"
     }
   ],
   "champion": "Mordekaiser",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 9.23",
+  "title": "Top 10.1",
   "type": "custom"
 }
