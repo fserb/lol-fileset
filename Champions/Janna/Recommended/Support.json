@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 16087 games)"
+      "type": "Most Frequent Starters (51% win - 5152 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
           "count": 1,
-          "id": "3850"
+          "id": "3858"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 161 games)"
+      "type": "Highest Win Rate Starters (56% win - 180 games)"
     },
     {
       "items": [
@@ -51,15 +51,15 @@
           "id": "3107"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3174"
         },
         {
-          "count": 2,
-          "id": "3102"
+          "count": 1,
+          "id": "3905"
         }
       ],
-      "type": "Most Frequent Build (44% win - 4349 games)"
+      "type": "Most Frequent Build (41% win - 1356 games)"
     },
     {
       "items": [
@@ -73,18 +73,14 @@
         },
         {
           "count": 2,
-          "id": "3504"
-        },
-        {
-          "count": 1,
           "id": "3107"
         },
         {
-          "count": 1,
-          "id": "3190"
+          "count": 2,
+          "id": "3504"
         }
       ],
-      "type": "Highest Win Rate Build (51% win - 546 games)"
+      "type": "Highest Win Rate Build (44% win - 122 games)"
     },
     {
       "items": [
@@ -121,7 +117,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WEQ (52% win - 4059 games)"
+      "type": "Consumables WEQ -> WEQ (50% win - 1332 games)"
     },
     {
       "items": [
@@ -142,7 +138,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> WEQ (55% win - 409 games)"
+      "type": "WEWQ -> WEQ (60% win - 113 games)"
     }
   ],
   "champion": "Janna",
@@ -152,6 +148,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 10.1",
+  "title": "Support 10.3",
   "type": "custom"
 }

@@ -17,26 +17,30 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 10815 games)"
+      "type": "Most Frequent Starters (50% win - 3717 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1055"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 172 games)"
+      "type": "Highest Win Rate Starters (51% win - 211 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3006"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -56,20 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3031"
         }
       ],
-      "type": "Most Frequent Build (43% win - 1116 games)"
+      "type": "Most Frequent Build (40% win - 381 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3078"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3078"
         },
         {
           "count": 1,
@@ -81,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3508"
+          "id": "3143"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3065"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 361 games)"
+      "type": "Highest Win Rate Build (44% win - 359 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> EQW (50% win - 6165 games)"
+      "type": "Consumables QEW -> EQW (50% win - 2210 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEW -> EQW (53% win - 289 games)"
+      "type": "EQW -> EQW (52% win - 359 games)"
     }
   ],
   "champion": "Garen",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 10.1",
+  "title": "Top 10.3",
   "type": "custom"
 }

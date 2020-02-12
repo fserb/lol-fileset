@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (42% win - 6026 games)"
+      "type": "Most Frequent Starters (40% win - 1227 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
+          "id": "1039"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (42% win - 149 games)"
+      "type": "Highest Win Rate Starters (40% win - 1227 games)"
     },
     {
       "items": [
@@ -47,23 +47,19 @@
           "id": "3117"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3147"
         },
         {
           "count": 1,
+          "id": "3388"
+        },
+        {
+          "count": 1,
           "id": "3814"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3033"
         }
       ],
-      "type": "Most Frequent Build (37% win - 1816 games)"
+      "type": "Most Frequent Build (35% win - 370 games)"
     },
     {
       "items": [
@@ -76,7 +72,7 @@
           "id": "3117"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3147"
         },
         {
@@ -84,11 +80,11 @@
           "id": "3814"
         },
         {
-          "count": 2,
-          "id": "3026"
+          "count": 1,
+          "id": "3033"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 1519 games)"
+      "type": "Highest Win Rate Build (42% win - 250 games)"
     },
     {
       "items": [
@@ -125,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QEW (43% win - 4793 games)"
+      "type": "Consumables WQE -> QEW (42% win - 833 games)"
     },
     {
       "items": [
@@ -146,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EQW (53% win - 115 games)"
+      "type": "WQE -> QEW (42% win - 833 games)"
     }
   ],
   "champion": "Qiyana",
@@ -156,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.1",
+  "title": "Jungle 10.3",
   "type": "custom"
 }

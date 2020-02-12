@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 3427 games)"
+      "type": "Most Frequent Starters (51% win - 1094 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 3427 games)"
+      "type": "Highest Win Rate Starters (51% win - 1094 games)"
     },
     {
       "items": [
@@ -63,17 +63,13 @@
           "id": "3109"
         }
       ],
-      "type": "Most Frequent Build (45% win - 899 games)"
+      "type": "Most Frequent Build (47% win - 228 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3504"
         },
         {
           "count": 1,
@@ -85,14 +81,18 @@
         },
         {
           "count": 1,
+          "id": "3504"
+        },
+        {
+          "count": 1,
           "id": "3190"
         },
         {
           "count": 1,
-          "id": "3041"
+          "id": "3109"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 186 games)"
+      "type": "Highest Win Rate Build (49% win - 191 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> EQW (54% win - 2822 games)"
+      "type": "Consumables QEW -> EQW (53% win - 958 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (55% win - 129 games)"
+      "type": "QEEW -> EQW (62% win - 102 games)"
     }
   ],
   "champion": "Ivern",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.1",
+  "title": "Jungle 10.3",
   "type": "custom"
 }

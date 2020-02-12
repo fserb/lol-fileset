@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 1953 games)"
+      "type": "Most Frequent Starters (49% win - 752 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 1953 games)"
+      "type": "Highest Win Rate Starters (49% win - 752 games)"
     },
     {
       "items": [
@@ -55,25 +55,21 @@
           "id": "3031"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3072"
         }
       ],
-      "type": "Most Frequent Build (44% win - 1063 games)"
+      "type": "Most Frequent Build (45% win - 383 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3124"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3124"
         },
         {
           "count": 1,
@@ -81,18 +77,14 @@
         },
         {
           "count": 1,
-          "id": "3091"
+          "id": "3031"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3156"
         }
       ],
-      "type": "Highest Win Rate Build (52% win - 283 games)"
+      "type": "Highest Win Rate Build (45% win - 383 games)"
     },
     {
       "items": [
@@ -129,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (49% win - 1000 games)"
+      "type": "Consumables WQE -> WQE (48% win - 422 games)"
     },
     {
       "items": [
@@ -150,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQWE -> WQE (55% win - 175 games)"
+      "type": "WEQ -> WQE (49% win - 119 games)"
     }
   ],
   "champion": "KogMaw",
@@ -160,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 10.1",
+  "title": "ADC 10.3",
   "type": "custom"
 }

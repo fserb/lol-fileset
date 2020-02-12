@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 20623 games)"
+      "type": "Most Frequent Starters (48% win - 10270 games)"
     },
     {
       "items": [
@@ -27,10 +27,14 @@
         },
         {
           "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 157 games)"
+      "type": "Highest Win Rate Starters (48% win - 10270 games)"
     },
     {
       "items": [
@@ -59,21 +63,13 @@
           "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (43% win - 6607 games)"
+      "type": "Most Frequent Build (42% win - 3340 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3095"
-        },
-        {
-          "count": 1,
-          "id": "3085"
-        },
-        {
-          "count": 1,
-          "id": "3006"
+          "id": "3508"
         },
         {
           "count": 1,
@@ -81,14 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3508"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3085"
+        },
+        {
+          "count": 1,
+          "id": "3139"
+        },
+        {
+          "count": 1,
+          "id": "3046"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 175 games)"
+      "type": "Highest Win Rate Build (50% win - 300 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QQQW -> QWE (50% win - 18503 games)"
+      "type": "Consumables QQQW -> QWE (49% win - 9837 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QQQW -> QWE (53% win - 134 games)"
+      "type": "WQQQ -> QWE (54% win - 159 games)"
     }
   ],
   "champion": "Aphelios",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 10.1",
+  "title": "ADC 10.3",
   "type": "custom"
 }

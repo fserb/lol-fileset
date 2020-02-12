@@ -17,14 +17,10 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 6919 games)"
+      "type": "Most Frequent Starters (47% win - 5837 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "2055"
-        },
         {
           "count": 1,
           "id": "3850"
@@ -34,13 +30,17 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 494 games)"
+      "type": "Highest Win Rate Starters (53% win - 366 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 2,
           "id": "3174"
+        },
+        {
+          "count": 2,
+          "id": "3107"
         },
         {
           "count": 1,
@@ -48,24 +48,20 @@
         },
         {
           "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 2,
           "id": "2065"
-        },
-        {
-          "count": 1,
-          "id": "3905"
         }
       ],
-      "type": "Most Frequent Build (41% win - 3368 games)"
+      "type": "Most Frequent Build (32% win - 1638 games)"
     },
     {
       "items": [
         {
-          "count": 1,
+          "count": 2,
           "id": "3174"
+        },
+        {
+          "count": 2,
+          "id": "3107"
         },
         {
           "count": 1,
@@ -73,18 +69,10 @@
         },
         {
           "count": 1,
-          "id": "3107"
-        },
-        {
-          "count": 2,
           "id": "2065"
-        },
-        {
-          "count": 1,
-          "id": "3905"
         }
       ],
-      "type": "Highest Win Rate Build (41% win - 3368 games)"
+      "type": "Highest Win Rate Build (32% win - 1638 games)"
     },
     {
       "items": [
@@ -121,7 +109,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQE -> QEW (45% win - 2352 games)"
+      "type": "Consumables QEQE -> QEW (44% win - 2888 games)"
     },
     {
       "items": [
@@ -142,7 +130,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEQ -> EQW (49% win - 1142 games)"
+      "type": "EQEW -> EWQ (51% win - 380 games)"
     }
   ],
   "champion": "Yuumi",
@@ -152,6 +140,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 10.1",
+  "title": "Support 10.3",
   "type": "custom"
 }

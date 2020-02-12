@@ -17,17 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 36557 games)"
+      "type": "Most Frequent Starters (45% win - 8570 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "1054"
-        },
-        {
-          "count": 1,
-          "id": "1055"
         },
         {
           "count": 1,
@@ -38,13 +34,42 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 111 games)"
+      "type": "Highest Win Rate Starters (50% win - 157 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3095"
+          "id": "3004"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3124"
+        },
+        {
+          "count": 1,
+          "id": "3115"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        }
+      ],
+      "type": "Most Frequent Build (40% win - 2960 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3031"
         },
         {
           "count": 1,
@@ -60,43 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3046"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3139"
         }
       ],
-      "type": "Most Frequent Build (44% win - 12921 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3004"
-        },
-        {
-          "count": 1,
-          "id": "3124"
-        },
-        {
-          "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 1,
-          "id": "3115"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        }
-      ],
-      "type": "Highest Win Rate Build (48% win - 1142 games)"
+      "type": "Highest Win Rate Build (51% win - 101 games)"
     },
     {
       "items": [
@@ -133,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (47% win - 26880 games)"
+      "type": "Consumables QWE -> QEW (47% win - 6423 games)"
     },
     {
       "items": [
@@ -154,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QEW (52% win - 554 games)"
+      "type": "QWE -> QEW (47% win - 6423 games)"
     }
   ],
   "champion": "Kaisa",
@@ -164,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 10.1",
+  "title": "ADC 10.3",
   "type": "custom"
 }

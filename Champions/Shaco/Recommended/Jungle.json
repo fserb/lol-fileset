@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (54% win - 5083 games)"
+      "type": "Most Frequent Starters (53% win - 1942 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 3061 games)"
+      "type": "Highest Win Rate Starters (56% win - 1349 games)"
     },
     {
       "items": [
@@ -51,19 +51,15 @@
           "id": "3078"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3036"
         },
         {
           "count": 1,
           "id": "3074"
         }
       ],
-      "type": "Most Frequent Build (48% win - 1356 games)"
+      "type": "Most Frequent Build (46% win - 611 games)"
     },
     {
       "items": [
@@ -73,11 +69,11 @@
         },
         {
           "count": 1,
-          "id": "1400"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3078"
         },
         {
           "count": 1,
@@ -85,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3031"
         },
         {
           "count": 1,
           "id": "3748"
         }
       ],
-      "type": "Highest Win Rate Build (56% win - 105 games)"
+      "type": "Highest Win Rate Build (55% win - 138 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> EQW (54% win - 6547 games)"
+      "type": "Consumables WQE -> EQW (53% win - 2649 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> EWQ (54% win - 257 games)"
+      "type": "WQE -> EQW (53% win - 2649 games)"
     }
   ],
   "champion": "Shaco",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.1",
+  "title": "Jungle 10.3",
   "type": "custom"
 }

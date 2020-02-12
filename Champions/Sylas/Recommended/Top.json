@@ -13,24 +13,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (46% win - 3047 games)"
+      "type": "Most Frequent Starters (46% win - 1252 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1056"
-        },
-        {
-          "count": 2,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 384 games)"
+      "type": "Highest Win Rate Starters (46% win - 1252 games)"
     },
     {
       "items": [
@@ -44,22 +40,18 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3165"
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3100"
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (42% win - 713 games)"
+      "type": "Most Frequent Build (39% win - 233 games)"
     },
     {
       "items": [
@@ -73,22 +65,18 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3165"
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3100"
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 713 games)"
+      "type": "Highest Win Rate Build (39% win - 233 games)"
     },
     {
       "items": [
@@ -125,7 +113,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QWE (47% win - 783 games)"
+      "type": "Consumables EWQ -> WEQ (48% win - 343 games)"
     },
     {
       "items": [
@@ -146,7 +134,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> WQE (52% win - 177 games)"
+      "type": "QEW -> WEQ (49% win - 130 games)"
     }
   ],
   "champion": "Sylas",
@@ -156,6 +144,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 10.1",
+  "title": "Top 10.3",
   "type": "custom"
 }

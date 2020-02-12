@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 8549 games)"
+      "type": "Most Frequent Starters (48% win - 3871 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1041"
-        },
-        {
-          "count": 1,
-          "id": "2031"
+          "id": "1039"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 234 games)"
+      "type": "Highest Win Rate Starters (48% win - 129 games)"
     },
     {
       "items": [
@@ -60,20 +56,16 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (42% win - 2349 games)"
+      "type": "Most Frequent Build (40% win - 862 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1402"
-        },
-        {
-          "count": 1,
-          "id": "3020"
+          "id": "1414"
         },
         {
           "count": 1,
@@ -81,18 +73,22 @@
         },
         {
           "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (44% win - 373 games)"
+      "type": "Highest Win Rate Build (42% win - 352 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (50% win - 9033 games)"
+      "type": "Consumables QWE -> QEW (49% win - 4257 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (50% win - 9033 games)"
+      "type": "QWE -> QEW (49% win - 4257 games)"
     }
   ],
   "champion": "Nidalee",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.1",
+  "title": "Jungle 10.3",
   "type": "custom"
 }

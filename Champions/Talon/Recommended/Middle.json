@@ -17,24 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 6790 games)"
+      "type": "Most Frequent Starters (50% win - 2921 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
-        },
-        {
-          "count": 1,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (56% win - 124 games)"
+      "type": "Highest Win Rate Starters (54% win - 185 games)"
     },
     {
       "items": [
@@ -55,15 +51,11 @@
           "id": "3071"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3074"
         }
       ],
-      "type": "Most Frequent Build (46% win - 3293 games)"
+      "type": "Most Frequent Build (45% win - 1549 games)"
     },
     {
       "items": [
@@ -84,15 +76,11 @@
           "id": "3071"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3074"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 3293 games)"
+      "type": "Highest Win Rate Build (45% win - 1549 games)"
     },
     {
       "items": [
@@ -129,7 +117,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (49% win - 3945 games)"
+      "type": "Consumables WQE -> WQE (50% win - 1669 games)"
     },
     {
       "items": [
@@ -150,7 +138,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WQE (58% win - 101 games)"
+      "type": "WQE -> QWE (58% win - 292 games)"
     }
   ],
   "champion": "Talon",
@@ -160,6 +148,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 10.1",
+  "title": "Middle 10.3",
   "type": "custom"
 }

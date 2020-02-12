@@ -17,82 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 848 games)"
+      "type": "Most Frequent Starters (43% win - 235 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1039"
         },
         {
           "count": 1,
-          "id": "2003"
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 269 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1401"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3193"
-        }
-      ],
-      "type": "Most Frequent Build (37% win - 127 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1401"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        },
-        {
-          "count": 1,
-          "id": "3193"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        }
-      ],
-      "type": "Highest Win Rate Build (41% win - 112 games)"
+      "type": "Highest Win Rate Starters (43% win - 235 games)"
     },
     {
       "items": [
@@ -129,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> EQW (48% win - 285 games)"
+      "type": "Consumables "
     },
     {
       "items": [
@@ -150,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (56% win - 118 games)"
+      "type": ""
     }
   ],
   "champion": "Chogath",
@@ -160,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.1",
+  "title": "Jungle 10.3",
   "type": "custom"
 }

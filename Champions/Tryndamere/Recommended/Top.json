@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (45% win - 4063 games)"
+      "type": "Most Frequent Starters (45% win - 1313 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1036"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 53 games)"
+      "type": "Highest Win Rate Starters (53% win - 342 games)"
     },
     {
       "items": [
@@ -56,10 +60,10 @@
         },
         {
           "count": 1,
-          "id": "3139"
+          "id": "3124"
         }
       ],
-      "type": "Most Frequent Build (43% win - 2358 games)"
+      "type": "Most Frequent Build (43% win - 809 games)"
     },
     {
       "items": [
@@ -69,11 +73,11 @@
         },
         {
           "count": 1,
-          "id": "3031"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3006"
+          "id": "3031"
         },
         {
           "count": 1,
@@ -85,10 +89,10 @@
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3074"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 146 games)"
+      "type": "Highest Win Rate Build (51% win - 323 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQQW -> QEW (49% win - 2412 games)"
+      "type": "Consumables EQQW -> QEW (51% win - 840 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (49% win - 826 games)"
+      "type": "EQQW -> QEW (51% win - 840 games)"
     }
   ],
   "champion": "Tryndamere",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 10.1",
+  "title": "Top 10.3",
   "type": "custom"
 }

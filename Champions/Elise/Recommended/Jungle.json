@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 28581 games)"
+      "type": "Most Frequent Starters (51% win - 11856 games)"
     },
     {
       "items": [
@@ -26,15 +26,15 @@
           "id": "1041"
         },
         {
-          "count": 3,
-          "id": "2003"
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 66 games)"
+      "type": "Highest Win Rate Starters (51% win - 11856 games)"
     },
     {
       "items": [
@@ -60,16 +60,16 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3116"
         }
       ],
-      "type": "Most Frequent Build (47% win - 7973 games)"
+      "type": "Most Frequent Build (47% win - 3570 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3117"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -80,19 +80,15 @@
           "id": "3165"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3157"
         },
         {
           "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3102"
+          "id": "3041"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 4575 games)"
+      "type": "Highest Win Rate Build (50% win - 364 games)"
     },
     {
       "items": [
@@ -129,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QWE (51% win - 27643 games)"
+      "type": "Consumables WQE -> QWE (51% win - 11552 games)"
     },
     {
       "items": [
@@ -150,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QWE (57% win - 394 games)"
+      "type": "EQW -> QWE (63% win - 152 games)"
     }
   ],
   "champion": "Elise",
@@ -160,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.1",
+  "title": "Jungle 10.3",
   "type": "custom"
 }
