@@ -17,16 +17,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 3822 games)"
+      "type": "Most Frequent Starters (48% win - 6720 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1054"
         },
         {
           "count": 1,
+          "id": "1055"
+        },
+        {
+          "count": 2,
           "id": "2003"
         },
         {
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 3822 games)"
+      "type": "Highest Win Rate Starters (50% win - 130 games)"
     },
     {
       "items": [
@@ -49,10 +53,6 @@
         {
           "count": 1,
           "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3812"
         },
         {
           "count": 1,
@@ -61,16 +61,16 @@
         {
           "count": 1,
           "id": "3026"
+        },
+        {
+          "count": 1,
+          "id": "3812"
         }
       ],
-      "type": "Most Frequent Build (42% win - 821 games)"
+      "type": "Most Frequent Build (40% win - 1433 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "3074"
-        },
         {
           "count": 1,
           "id": "3078"
@@ -81,18 +81,22 @@
         },
         {
           "count": 1,
+          "id": "3074"
+        },
+        {
+          "count": 1,
           "id": "3812"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3053"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 273 games)"
+      "type": "Highest Win Rate Build (45% win - 196 games)"
     },
     {
       "items": [
@@ -129,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (49% win - 3554 games)"
+      "type": "Consumables QWE -> QEW (50% win - 6255 games)"
     },
     {
       "items": [
@@ -150,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (49% win - 3554 games)"
+      "type": "QWE -> QEW (50% win - 6255 games)"
     }
   ],
   "champion": "Fiora",

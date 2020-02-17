@@ -17,10 +17,14 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 11856 games)"
+      "type": "Most Frequent Starters (51% win - 19831 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "1039"
+        },
         {
           "count": 1,
           "id": "1041"
@@ -34,7 +38,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 11856 games)"
+      "type": "Highest Win Rate Starters (55% win - 123 games)"
     },
     {
       "items": [
@@ -63,13 +67,13 @@
           "id": "3116"
         }
       ],
-      "type": "Most Frequent Build (47% win - 3570 games)"
+      "type": "Most Frequent Build (47% win - 6125 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3020"
+          "id": "3117"
         },
         {
           "count": 1,
@@ -80,15 +84,19 @@
           "id": "3165"
         },
         {
-          "count": 2,
+          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
           "id": "3041"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 364 games)"
+      "type": "Highest Win Rate Build (50% win - 2291 games)"
     },
     {
       "items": [
@@ -125,7 +133,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QWE (51% win - 11552 games)"
+      "type": "Consumables WQE -> QWE (51% win - 19222 games)"
     },
     {
       "items": [
@@ -146,7 +154,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QWE (63% win - 152 games)"
+      "type": "EQW -> QWE (64% win - 263 games)"
     }
   ],
   "champion": "Elise",
