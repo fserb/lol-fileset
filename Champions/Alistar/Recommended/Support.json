@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 4667 games)"
+      "type": "Most Frequent Starters (49% win - 1344 games)"
     },
     {
       "items": [
@@ -27,64 +27,14 @@
         },
         {
           "count": 1,
-          "id": "3854"
+          "id": "3858"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 125 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 2,
-          "id": "3050"
-        },
-        {
-          "count": 1,
-          "id": "3107"
-        }
-      ],
-      "type": "Most Frequent Build (40% win - 1378 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 2,
-          "id": "3050"
-        },
-        {
-          "count": 1,
-          "id": "3107"
-        }
-      ],
-      "type": "Highest Win Rate Build (40% win - 1378 games)"
+      "type": "Highest Win Rate Starters (49% win - 1344 games)"
     },
     {
       "items": [
@@ -121,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (48% win - 4024 games)"
+      "type": "Consumables QWE -> QWE (48% win - 1150 games)"
     },
     {
       "items": [
@@ -142,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QWE (50% win - 413 games)"
+      "type": "QWE -> QWE (48% win - 1150 games)"
     }
   ],
   "champion": "Alistar",
@@ -152,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 10.3",
+  "title": "Support 10.5",
   "type": "custom"
 }

@@ -13,24 +13,20 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2006 games)"
+      "type": "Most Frequent Starters (52% win - 436 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1001"
-        },
-        {
-          "count": 4,
-          "id": "2003"
+          "id": "2033"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 85 games)"
+      "type": "Highest Win Rate Starters (52% win - 436 games)"
     },
     {
       "items": [
@@ -56,10 +52,10 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3041"
         }
       ],
-      "type": "Most Frequent Build (45% win - 595 games)"
+      "type": "Most Frequent Build (46% win - 156 games)"
     },
     {
       "items": [
@@ -69,7 +65,7 @@
         },
         {
           "count": 1,
-          "id": "3020"
+          "id": "3111"
         },
         {
           "count": 1,
@@ -85,10 +81,10 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3165"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 399 games)"
+      "type": "Highest Win Rate Build (47% win - 149 games)"
     },
     {
       "items": [
@@ -125,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QWE (50% win - 3265 games)"
+      "type": "Consumables WQE -> QWE (50% win - 680 games)"
     },
     {
       "items": [
@@ -146,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEQ -> QWE (53% win - 841 games)"
+      "type": "WQE -> QWE (50% win - 680 games)"
     }
   ],
   "champion": "TwistedFate",
@@ -156,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 10.3",
+  "title": "Middle 10.5",
   "type": "custom"
 }

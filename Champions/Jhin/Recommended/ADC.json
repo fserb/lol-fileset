@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 17234 games)"
+      "type": "Most Frequent Starters (50% win - 2930 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1054"
+          "id": "1055"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 156 games)"
+      "type": "Highest Win Rate Starters (50% win - 2930 games)"
     },
     {
       "items": [
@@ -60,13 +60,17 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3033"
         }
       ],
-      "type": "Most Frequent Build (47% win - 3976 games)"
+      "type": "Most Frequent Build (46% win - 673 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3009"
+        },
         {
           "count": 1,
           "id": "3095"
@@ -77,22 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3009"
-        },
-        {
-          "count": 1,
           "id": "3094"
         },
         {
           "count": 1,
-          "id": "3508"
+          "id": "3046"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3508"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 692 games)"
+      "type": "Highest Win Rate Build (47% win - 327 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 8624 games)"
+      "type": "Consumables QWE -> QWE (49% win - 1515 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQQW -> QWE (55% win - 109 games)"
+      "type": "WQE -> QWE (56% win - 125 games)"
     }
   ],
   "champion": "Jhin",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 10.3",
+  "title": "ADC 10.5",
   "type": "custom"
 }

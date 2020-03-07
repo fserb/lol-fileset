@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 3498 games)"
+      "type": "Most Frequent Starters (50% win - 679 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 3498 games)"
+      "type": "Highest Win Rate Starters (50% win - 679 games)"
     },
     {
       "items": [
@@ -43,19 +43,23 @@
           "id": "3020"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3165"
-        },
-        {
-          "count": 3,
-          "id": "3157"
         },
         {
           "count": 1,
           "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (40% win - 2434 games)"
+      "type": "Most Frequent Build (42% win - 569 games)"
     },
     {
       "items": [
@@ -64,19 +68,23 @@
           "id": "3020"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3165"
-        },
-        {
-          "count": 3,
-          "id": "3157"
         },
         {
           "count": 1,
           "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3135"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 2434 games)"
+      "type": "Highest Win Rate Build (42% win - 569 games)"
     },
     {
       "items": [
@@ -113,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (47% win - 4200 games)"
+      "type": "Consumables QEW -> QEW (47% win - 860 games)"
     },
     {
       "items": [
@@ -134,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (52% win - 437 games)"
+      "type": "EQW -> QEW (52% win - 123 games)"
     }
   ],
   "champion": "Zoe",
@@ -144,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 10.3",
+  "title": "Middle 10.5",
   "type": "custom"
 }

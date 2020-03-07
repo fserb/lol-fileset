@@ -13,20 +13,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 2291 games)"
+      "type": "Most Frequent Starters (51% win - 436 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 2291 games)"
+      "type": "Highest Win Rate Starters (54% win - 145 games)"
     },
     {
       "items": [
@@ -48,24 +52,24 @@
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3100"
         }
       ],
-      "type": "Most Frequent Build (45% win - 1432 games)"
+      "type": "Most Frequent Build (51% win - 237 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3006"
+          "id": "3146"
         },
         {
           "count": 1,
-          "id": "3146"
+          "id": "3006"
         },
         {
           "count": 1,
@@ -77,14 +81,14 @@
         },
         {
           "count": 1,
-          "id": "3089"
+          "id": "3091"
         },
         {
           "count": 1,
-          "id": "3157"
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (46% win - 1038 games)"
+      "type": "Highest Win Rate Build (51% win - 232 games)"
     },
     {
       "items": [
@@ -121,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> QEW (50% win - 1595 games)"
+      "type": "Consumables EQW -> QEW (53% win - 303 games)"
     },
     {
       "items": [
@@ -142,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (50% win - 1277 games)"
+      "type": "EQW -> QEW (53% win - 303 games)"
     }
   ],
   "champion": "Kayle",
@@ -152,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 10.3",
+  "title": "Top 10.5",
   "type": "custom"
 }

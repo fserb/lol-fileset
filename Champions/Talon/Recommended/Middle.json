@@ -17,20 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 5202 games)"
+      "type": "Most Frequent Starters (47% win - 986 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1036"
+        },
+        {
+          "count": 1,
+          "id": "2031"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 307 games)"
+      "type": "Highest Win Rate Starters (47% win - 986 games)"
     },
     {
       "items": [
@@ -48,24 +52,24 @@
         },
         {
           "count": 1,
-          "id": "3071"
+          "id": "3033"
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3388"
         },
         {
           "count": 1,
           "id": "3074"
         }
       ],
-      "type": "Most Frequent Build (45% win - 2680 games)"
+      "type": "Most Frequent Build (43% win - 465 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3111"
+          "id": "3117"
         },
         {
           "count": 1,
@@ -77,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3033"
         },
         {
           "count": 1,
-          "id": "3078"
+          "id": "3388"
         },
         {
           "count": 1,
-          "id": "3053"
+          "id": "3074"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 243 games)"
+      "type": "Highest Win Rate Build (43% win - 465 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> WQE (50% win - 3180 games)"
+      "type": "Consumables WQE -> WQE (44% win - 560 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QWE (59% win - 467 games)"
+      "type": "WQE -> QWE (50% win - 128 games)"
     }
   ],
   "champion": "Talon",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 10.3",
+  "title": "Middle 10.5",
   "type": "custom"
 }

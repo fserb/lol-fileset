@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (55% win - 971 games)"
+      "type": "Most Frequent Starters (60% win - 233 games)"
     },
     {
       "items": [
@@ -34,65 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 971 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3194"
-        },
-        {
-          "count": 1,
-          "id": "3190"
-        }
-      ],
-      "type": "Most Frequent Build (56% win - 142 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3068"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
-          "id": "3075"
-        },
-        {
-          "count": 1,
-          "id": "3194"
-        },
-        {
-          "count": 1,
-          "id": "3190"
-        }
-      ],
-      "type": "Highest Win Rate Build (56% win - 142 games)"
+      "type": "Highest Win Rate Starters (60% win - 233 games)"
     },
     {
       "items": [
@@ -129,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (51% win - 941 games)"
+      "type": "Consumables QEW -> QEW (57% win - 231 games)"
     },
     {
       "items": [
@@ -150,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (53% win - 399 games)"
+      "type": "QEW -> QEW (57% win - 231 games)"
     }
   ],
   "champion": "Shen",
@@ -160,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 10.3",
+  "title": "Support 10.5",
   "type": "custom"
 }

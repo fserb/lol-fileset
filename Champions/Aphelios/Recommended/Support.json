@@ -6,85 +6,35 @@
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1055"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (44% win - 710 games)"
+      "type": "Most Frequent Starters (53% win - 436 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1055"
+        },
+        {
+          "count": 1,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (44% win - 710 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        },
-        {
-          "count": 1,
-          "id": "3143"
-        }
-      ],
-      "type": "Most Frequent Build (30% win - 116 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3001"
-        }
-      ],
-      "type": "Highest Win Rate Build (31% win - 110 games)"
+      "type": "Highest Win Rate Starters (53% win - 436 games)"
     },
     {
       "items": [
@@ -121,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (43% win - 694 games)"
+      "type": "Consumables QQQW -> QWE (52% win - 423 games)"
     },
     {
       "items": [
@@ -142,16 +92,16 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (43% win - 694 games)"
+      "type": "QQQW -> QWE (52% win - 423 games)"
     }
   ],
-  "champion": "Irelia",
+  "champion": "Aphelios",
   "isGlobalForChampions": false,
   "isGlobalForMaps": true,
   "map": "any",
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 10.5",
+  "title": "Support 10.5",
   "type": "custom"
 }

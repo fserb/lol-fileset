@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 3943 games)"
+      "type": "Most Frequent Starters (52% win - 780 games)"
     },
     {
       "items": [
@@ -27,64 +27,14 @@
         },
         {
           "count": 1,
-          "id": "3854"
+          "id": "3858"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 109 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3050"
-        },
-        {
-          "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 2,
-          "id": "3107"
-        },
-        {
-          "count": 1,
-          "id": "3504"
-        }
-      ],
-      "type": "Most Frequent Build (42% win - 1698 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3050"
-        },
-        {
-          "count": 1,
-          "id": "3109"
-        },
-        {
-          "count": 2,
-          "id": "3107"
-        },
-        {
-          "count": 1,
-          "id": "3504"
-        }
-      ],
-      "type": "Highest Win Rate Build (42% win - 1698 games)"
+      "type": "Highest Win Rate Starters (52% win - 780 games)"
     },
     {
       "items": [
@@ -121,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WEQ (49% win - 1820 games)"
+      "type": "Consumables WEQ -> WEQ (49% win - 348 games)"
     },
     {
       "items": [
@@ -142,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> QWE (52% win - 308 games)"
+      "type": "WEQ -> WEQ (49% win - 348 games)"
     }
   ],
   "champion": "Rakan",
@@ -152,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 10.3",
+  "title": "Support 10.5",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 19110 games)"
+      "type": "Most Frequent Starters (50% win - 2935 games)"
     },
     {
       "items": [
@@ -34,17 +34,13 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 1840 games)"
+      "type": "Highest Win Rate Starters (51% win - 267 games)"
     },
     {
       "items": [
         {
           "count": 1,
           "id": "3117"
-        },
-        {
-          "count": 1,
-          "id": "3050"
         },
         {
           "count": 1,
@@ -52,14 +48,18 @@
         },
         {
           "count": 2,
-          "id": "3143"
+          "id": "3050"
         },
         {
           "count": 1,
-          "id": "3383"
+          "id": "3190"
+        },
+        {
+          "count": 1,
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (45% win - 4966 games)"
+      "type": "Most Frequent Build (42% win - 496 games)"
     },
     {
       "items": [
@@ -69,26 +69,22 @@
         },
         {
           "count": 1,
+          "id": "3109"
+        },
+        {
+          "count": 2,
           "id": "3050"
         },
         {
           "count": 1,
-          "id": "3109"
+          "id": "3190"
         },
         {
           "count": 1,
-          "id": "3800"
-        },
-        {
-          "count": 1,
-          "id": "3383"
-        },
-        {
-          "count": 1,
-          "id": "3107"
+          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (45% win - 4964 games)"
+      "type": "Highest Win Rate Build (42% win - 496 games)"
     },
     {
       "items": [
@@ -125,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> WEQ (50% win - 8435 games)"
+      "type": "Consumables QEW -> WEQ (49% win - 1284 games)"
     },
     {
       "items": [
@@ -146,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> WEQ (50% win - 8435 games)"
+      "type": "QEW -> WEQ (49% win - 1284 games)"
     }
   ],
   "champion": "Leona",
@@ -156,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 10.3",
+  "title": "Support 10.5",
   "type": "custom"
 }

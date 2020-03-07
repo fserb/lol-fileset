@@ -17,18 +17,10 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 6690 games)"
+      "type": "Most Frequent Starters (49% win - 1220 games)"
     },
     {
       "items": [
-        {
-          "count": 1,
-          "id": "1054"
-        },
-        {
-          "count": 1,
-          "id": "2003"
-        },
         {
           "count": 1,
           "id": "2031"
@@ -38,7 +30,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 61 games)"
+      "type": "Highest Win Rate Starters (54% win - 266 games)"
     },
     {
       "items": [
@@ -60,20 +52,20 @@
         },
         {
           "count": 1,
-          "id": "3075"
+          "id": "3193"
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3075"
         }
       ],
-      "type": "Most Frequent Build (46% win - 2927 games)"
+      "type": "Most Frequent Build (51% win - 544 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3111"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -93,10 +85,10 @@
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3075"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 831 games)"
+      "type": "Highest Win Rate Build (51% win - 544 games)"
     },
     {
       "items": [
@@ -133,7 +125,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (51% win - 3599 games)"
+      "type": "Consumables QWE -> QWE (48% win - 711 games)"
     },
     {
       "items": [
@@ -154,7 +146,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (58% win - 211 games)"
+      "type": "QWE -> WQE (53% win - 414 games)"
     }
   ],
   "champion": "Ornn",
@@ -164,6 +156,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 10.3",
+  "title": "Top 10.5",
   "type": "custom"
 }

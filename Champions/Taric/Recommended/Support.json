@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 4020 games)"
+      "type": "Most Frequent Starters (53% win - 1075 games)"
     },
     {
       "items": [
@@ -27,64 +27,14 @@
         },
         {
           "count": 1,
-          "id": "3854"
+          "id": "3858"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 268 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3050"
-        },
-        {
-          "count": 2,
-          "id": "3109"
-        },
-        {
-          "count": 1,
-          "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3068"
-        }
-      ],
-      "type": "Most Frequent Build (45% win - 298 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3158"
-        },
-        {
-          "count": 2,
-          "id": "3050"
-        },
-        {
-          "count": 1,
-          "id": "3504"
-        },
-        {
-          "count": 1,
-          "id": "3222"
-        },
-        {
-          "count": 1,
-          "id": "3107"
-        }
-      ],
-      "type": "Highest Win Rate Build (56% win - 105 games)"
+      "type": "Highest Win Rate Starters (53% win - 1075 games)"
     },
     {
       "items": [
@@ -121,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (49% win - 971 games)"
+      "type": "Consumables EWQ -> EQW (50% win - 297 games)"
     },
     {
       "items": [
@@ -142,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> EWQ (52% win - 489 games)"
+      "type": "EWQ -> EQW (50% win - 144 games)"
     }
   ],
   "champion": "Taric",
@@ -152,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 10.3",
+  "title": "Support 10.5",
   "type": "custom"
 }

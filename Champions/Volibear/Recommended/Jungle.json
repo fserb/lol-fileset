@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 2064 games)"
+      "type": "Most Frequent Starters (52% win - 409 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1039"
+          "id": "1041"
         },
         {
           "count": 1,
@@ -34,65 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 69 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1401"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        }
-      ],
-      "type": "Most Frequent Build (46% win - 485 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1401"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3083"
-        }
-      ],
-      "type": "Highest Win Rate Build (46% win - 485 games)"
+      "type": "Highest Win Rate Starters (52% win - 409 games)"
     },
     {
       "items": [
@@ -129,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WQE (52% win - 598 games)"
+      "type": "Consumables WEQ -> WQE (47% win - 129 games)"
     },
     {
       "items": [
@@ -150,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "EWQ -> WQE (54% win - 438 games)"
+      "type": "WEQ -> WQE (47% win - 129 games)"
     }
   ],
   "champion": "Volibear",
@@ -160,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.3",
+  "title": "Jungle 10.5",
   "type": "custom"
 }

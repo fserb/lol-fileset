@@ -6,7 +6,7 @@
       "items": [
         {
           "count": 1,
-          "id": "1039"
+          "id": "1041"
         },
         {
           "count": 1,
@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 1413 games)"
+      "type": "Most Frequent Starters (47% win - 371 games)"
     },
     {
       "items": [
@@ -34,65 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (54% win - 905 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1400"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3026"
-        }
-      ],
-      "type": "Most Frequent Build (41% win - 370 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1400"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3091"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3053"
-        }
-      ],
-      "type": "Highest Win Rate Build (48% win - 241 games)"
+      "type": "Highest Win Rate Starters (47% win - 371 games)"
     },
     {
       "items": [
@@ -129,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (55% win - 1043 games)"
+      "type": "Consumables QWE -> QEW (55% win - 222 games)"
     },
     {
       "items": [
@@ -150,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (55% win - 1043 games)"
+      "type": "QWE -> QEW (55% win - 222 games)"
     }
   ],
   "champion": "Udyr",
@@ -160,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.3",
+  "title": "Jungle 10.5",
   "type": "custom"
 }

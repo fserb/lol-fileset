@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (49% win - 3253 games)"
+      "type": "Most Frequent Starters (55% win - 960 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (49% win - 3253 games)"
+      "type": "Highest Win Rate Starters (55% win - 960 games)"
     },
     {
       "items": [
@@ -56,24 +56,24 @@
         },
         {
           "count": 1,
-          "id": "3800"
+          "id": "3194"
         },
         {
           "count": 1,
-          "id": "3110"
+          "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (40% win - 514 games)"
+      "type": "Most Frequent Build (43% win - 178 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3009"
+          "id": "1401"
         },
         {
           "count": 1,
-          "id": "1401"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3001"
+          "id": "3742"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3194"
         },
         {
           "count": 1,
-          "id": "3083"
+          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (43% win - 107 games)"
+      "type": "Highest Win Rate Build (43% win - 178 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WQE -> QEW (51% win - 1165 games)"
+      "type": "Consumables WQE -> QEW (59% win - 414 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQE -> WEQ (55% win - 159 games)"
+      "type": "WQE -> QEW (59% win - 414 games)"
     }
   ],
   "champion": "Rammus",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.3",
+  "title": "Jungle 10.5",
   "type": "custom"
 }

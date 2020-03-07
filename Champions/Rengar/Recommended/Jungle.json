@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 6173 games)"
+      "type": "Most Frequent Starters (50% win - 1343 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1041"
         },
         {
-          "count": 1,
+          "count": 3,
           "id": "2003"
         },
         {
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 177 games)"
+      "type": "Highest Win Rate Starters (57% win - 131 games)"
     },
     {
       "items": [
@@ -63,17 +63,17 @@
           "id": "3074"
         }
       ],
-      "type": "Most Frequent Build (49% win - 1972 games)"
+      "type": "Most Frequent Build (49% win - 337 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3147"
+          "id": "3158"
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "3147"
         },
         {
           "count": 1,
@@ -92,7 +92,7 @@
           "id": "3074"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 1972 games)"
+      "type": "Highest Win Rate Build (52% win - 101 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QEW (51% win - 7606 games)"
+      "type": "Consumables QWE -> QEW (51% win - 1195 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (52% win - 167 games)"
+      "type": "QWE -> QEW (51% win - 1195 games)"
     }
   ],
   "champion": "Rengar",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.3",
+  "title": "Jungle 10.5",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (53% win - 4419 games)"
+      "type": "Most Frequent Starters (52% win - 957 games)"
     },
     {
       "items": [
@@ -27,68 +27,14 @@
         },
         {
           "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (55% win - 119 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1400"
-        },
-        {
-          "count": 1,
-          "id": "3047"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
-          "id": "3742"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        }
-      ],
-      "type": "Most Frequent Build (43% win - 423 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "1401"
-        },
-        {
-          "count": 1,
-          "id": "3111"
-        },
-        {
-          "count": 1,
-          "id": "3748"
-        },
-        {
-          "count": 1,
-          "id": "3065"
-        },
-        {
-          "count": 1,
-          "id": "3091"
-        },
-        {
-          "count": 1,
-          "id": "3078"
-        }
-      ],
-      "type": "Highest Win Rate Build (53% win - 255 games)"
+      "type": "Highest Win Rate Starters (52% win - 957 games)"
     },
     {
       "items": [
@@ -125,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (53% win - 4110 games)"
+      "type": "Consumables QWE -> QWE (51% win - 876 games)"
     },
     {
       "items": [
@@ -146,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QWE (56% win - 118 games)"
+      "type": "QWE -> QEW (53% win - 135 games)"
     }
   ],
   "champion": "Trundle",
@@ -156,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.3",
+  "title": "Jungle 10.5",
   "type": "custom"
 }

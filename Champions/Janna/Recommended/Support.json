@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 9296 games)"
+      "type": "Most Frequent Starters (53% win - 1777 games)"
     },
     {
       "items": [
@@ -27,14 +27,14 @@
         },
         {
           "count": 1,
-          "id": "3858"
+          "id": "3850"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 298 games)"
+      "type": "Highest Win Rate Starters (53% win - 1777 games)"
     },
     {
       "items": [
@@ -47,40 +47,44 @@
           "id": "3504"
         },
         {
-          "count": 1,
-          "id": "3107"
-        },
-        {
           "count": 2,
           "id": "3174"
         },
         {
           "count": 1,
-          "id": "3905"
+          "id": "3107"
+        },
+        {
+          "count": 1,
+          "id": "3041"
         }
       ],
-      "type": "Most Frequent Build (43% win - 2372 games)"
+      "type": "Most Frequent Build (40% win - 332 games)"
     },
     {
       "items": [
         {
           "count": 1,
+          "id": "3117"
+        },
+        {
+          "count": 1,
+          "id": "3504"
+        },
+        {
+          "count": 2,
           "id": "3174"
         },
         {
           "count": 1,
-          "id": "3117"
-        },
-        {
-          "count": 2,
           "id": "3107"
         },
         {
-          "count": 2,
-          "id": "3504"
+          "count": 1,
+          "id": "3041"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 265 games)"
+      "type": "Highest Win Rate Build (40% win - 332 games)"
     },
     {
       "items": [
@@ -117,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables WEQ -> WEQ (52% win - 2368 games)"
+      "type": "Consumables WEQ -> WEQ (52% win - 495 games)"
     },
     {
       "items": [
@@ -138,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "WEWQ -> WEQ (58% win - 212 games)"
+      "type": "WQE -> WEQ (55% win - 314 games)"
     }
   ],
   "champion": "Janna",
@@ -148,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 10.3",
+  "title": "Support 10.5",
   "type": "custom"
 }

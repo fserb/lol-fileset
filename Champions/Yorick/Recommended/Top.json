@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2163 games)"
+      "type": "Most Frequent Starters (51% win - 413 games)"
     },
     {
       "items": [
@@ -26,7 +26,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (50% win - 2163 games)"
+      "type": "Highest Win Rate Starters (51% win - 413 games)"
     },
     {
       "items": [
@@ -47,17 +47,21 @@
           "id": "3065"
         },
         {
-          "count": 2,
-          "id": "3143"
+          "count": 1,
+          "id": "3075"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (44% win - 490 games)"
+      "type": "Most Frequent Build (43% win - 108 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3111"
+          "id": "3047"
         },
         {
           "count": 1,
@@ -69,18 +73,18 @@
         },
         {
           "count": 1,
-          "id": "3748"
+          "id": "3065"
         },
         {
           "count": 1,
-          "id": "3143"
+          "id": "3075"
         },
         {
           "count": 1,
-          "id": "3193"
+          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (48% win - 254 games)"
+      "type": "Highest Win Rate Build (43% win - 108 games)"
     },
     {
       "items": [
@@ -117,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (48% win - 1986 games)"
+      "type": "Consumables QEW -> QEW (50% win - 385 games)"
     },
     {
       "items": [
@@ -138,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QWE (51% win - 338 games)"
+      "type": "QEW -> QEW (50% win - 385 games)"
     }
   ],
   "champion": "Yorick",
@@ -148,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 10.3",
+  "title": "Top 10.5",
   "type": "custom"
 }

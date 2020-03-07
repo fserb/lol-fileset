@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 2223 games)"
+      "type": "Most Frequent Starters (46% win - 631 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (48% win - 2223 games)"
+      "type": "Highest Win Rate Starters (46% win - 631 games)"
     },
     {
       "items": [
@@ -63,13 +63,13 @@
           "id": "3089"
         }
       ],
-      "type": "Most Frequent Build (38% win - 484 games)"
+      "type": "Most Frequent Build (39% win - 146 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1414"
+          "id": "1402"
         },
         {
           "count": 1,
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3165"
-        },
-        {
-          "count": 1,
           "id": "3157"
         },
         {
           "count": 1,
-          "id": "3065"
+          "id": "3165"
+        },
+        {
+          "count": 1,
+          "id": "3089"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 220 games)"
+      "type": "Highest Win Rate Build (39% win - 146 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQW -> WEQ (49% win - 748 games)"
+      "type": "Consumables EQW -> WEQ (43% win - 298 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> WEQ (49% win - 748 games)"
+      "type": "EQW -> WQE (45% win - 106 games)"
     }
   ],
   "champion": "Sylas",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.3",
+  "title": "Jungle 10.5",
   "type": "custom"
 }

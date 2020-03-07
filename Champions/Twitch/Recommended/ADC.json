@@ -17,13 +17,13 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 1740 games)"
+      "type": "Most Frequent Starters (57% win - 354 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1055"
+          "id": "1054"
         },
         {
           "count": 1,
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 1740 games)"
+      "type": "Highest Win Rate Starters (58% win - 149 games)"
     },
     {
       "items": [
@@ -55,40 +55,36 @@
           "id": "3046"
         },
         {
-          "count": 1,
-          "id": "3033"
-        },
-        {
-          "count": 1,
-          "id": "3026"
+          "count": 2,
+          "id": "3508"
         }
       ],
-      "type": "Most Frequent Build (44% win - 1523 games)"
+      "type": "Most Frequent Build (54% win - 344 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3006"
+        },
         {
           "count": 1,
           "id": "3085"
         },
         {
           "count": 1,
-          "id": "3006"
-        },
-        {
-          "count": 2,
           "id": "3031"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3046"
         },
         {
-          "count": 1,
-          "id": "3026"
+          "count": 2,
+          "id": "3508"
         }
       ],
-      "type": "Highest Win Rate Build (57% win - 122 games)"
+      "type": "Highest Win Rate Build (54% win - 344 games)"
     },
     {
       "items": [
@@ -125,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EWQ -> EQW (51% win - 1499 games)"
+      "type": "Consumables EWQ -> EQW (54% win - 322 games)"
     },
     {
       "items": [
@@ -146,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> EQW (52% win - 269 games)"
+      "type": "EQW -> EQW (61% win - 165 games)"
     }
   ],
   "champion": "Twitch",
@@ -156,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 10.3",
+  "title": "ADC 10.5",
   "type": "custom"
 }

@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 19588 games)"
+      "type": "Most Frequent Starters (53% win - 5289 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (53% win - 2121 games)"
+      "type": "Highest Win Rate Starters (55% win - 203 games)"
     },
     {
       "items": [
@@ -43,23 +43,23 @@
           "id": "3009"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3147"
         },
         {
           "count": 1,
-          "id": "3094"
-        },
-        {
-          "count": 2,
           "id": "3814"
         },
         {
           "count": 1,
-          "id": "3033"
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3026"
         }
       ],
-      "type": "Most Frequent Build (44% win - 5648 games)"
+      "type": "Most Frequent Build (49% win - 1766 games)"
     },
     {
       "items": [
@@ -68,23 +68,19 @@
           "id": "3174"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "3009"
         },
         {
-          "count": 1,
-          "id": "3504"
-        },
-        {
           "count": 2,
-          "id": "3107"
+          "id": "3147"
         },
         {
           "count": 1,
-          "id": "3222"
+          "id": "3031"
         }
       ],
-      "type": "Highest Win Rate Build (49% win - 764 games)"
+      "type": "Highest Win Rate Build (56% win - 121 games)"
     },
     {
       "items": [
@@ -121,7 +117,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QWE -> QWE (49% win - 16101 games)"
+      "type": "Consumables QWE -> QWE (51% win - 4127 games)"
     },
     {
       "items": [
@@ -142,7 +138,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQQE -> QWE (57% win - 586 games)"
+      "type": "WQQE -> QWE (58% win - 130 games)"
     }
   ],
   "champion": "Senna",
@@ -152,6 +148,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Support 10.3",
+  "title": "Support 10.5",
   "type": "custom"
 }

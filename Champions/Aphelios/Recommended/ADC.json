@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (48% win - 18829 games)"
+      "type": "Most Frequent Starters (47% win - 2693 games)"
     },
     {
       "items": [
@@ -27,10 +27,14 @@
         },
         {
           "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 150 games)"
+      "type": "Highest Win Rate Starters (47% win - 2693 games)"
     },
     {
       "items": [
@@ -52,24 +56,20 @@
         },
         {
           "count": 1,
-          "id": "3046"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3046"
         }
       ],
-      "type": "Most Frequent Build (42% win - 6049 games)"
+      "type": "Most Frequent Build (42% win - 930 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3031"
-        },
-        {
-          "count": 1,
-          "id": "3006"
+          "id": "3508"
         },
         {
           "count": 1,
@@ -77,18 +77,22 @@
         },
         {
           "count": 1,
-          "id": "3046"
+          "id": "3006"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3031"
         },
         {
           "count": 1,
-          "id": "3095"
+          "id": "3033"
+        },
+        {
+          "count": 1,
+          "id": "3072"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 158 games)"
+      "type": "Highest Win Rate Build (54% win - 147 games)"
     },
     {
       "items": [
@@ -125,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QQQW -> QWE (49% win - 18014 games)"
+      "type": "Consumables QQQW -> QWE (47% win - 2596 games)"
     },
     {
       "items": [
@@ -146,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "WQQQ -> QWE (52% win - 257 games)"
+      "type": "QQQW -> QWE (47% win - 2596 games)"
     }
   ],
   "champion": "Aphelios",
@@ -156,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "ADC 10.3",
+  "title": "ADC 10.5",
   "type": "custom"
 }

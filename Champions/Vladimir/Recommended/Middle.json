@@ -17,16 +17,16 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (52% win - 3093 games)"
+      "type": "Most Frequent Starters (54% win - 558 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1083"
+          "id": "1056"
         },
         {
-          "count": 1,
+          "count": 2,
           "id": "2003"
         },
         {
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (58% win - 189 games)"
+      "type": "Highest Win Rate Starters (54% win - 558 games)"
     },
     {
       "items": [
@@ -60,20 +60,20 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3907"
         }
       ],
-      "type": "Most Frequent Build (41% win - 1260 games)"
+      "type": "Most Frequent Build (39% win - 240 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3907"
+          "id": "3152"
         },
         {
           "count": 1,
-          "id": "3158"
+          "id": "3020"
         },
         {
           "count": 1,
@@ -85,14 +85,14 @@
         },
         {
           "count": 1,
-          "id": "3135"
+          "id": "3165"
         },
         {
           "count": 1,
-          "id": "3041"
+          "id": "3907"
         }
       ],
-      "type": "Highest Win Rate Build (50% win - 102 games)"
+      "type": "Highest Win Rate Build (39% win - 240 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (50% win - 7433 games)"
+      "type": "Consumables QEW -> QEW (49% win - 1274 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QWE -> QEW (51% win - 1235 games)"
+      "type": "QWE -> QEW (51% win - 237 games)"
     }
   ],
   "champion": "Vladimir",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 10.3",
+  "title": "Middle 10.5",
   "type": "custom"
 }
