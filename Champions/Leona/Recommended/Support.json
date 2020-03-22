@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 2935 games)"
+      "type": "Most Frequent Starters (50% win - 9563 games)"
     },
     {
       "items": [
@@ -34,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 267 games)"
+      "type": "Highest Win Rate Starters (51% win - 881 games)"
     },
     {
       "items": [
@@ -59,10 +59,14 @@
           "id": "3193"
         }
       ],
-      "type": "Most Frequent Build (42% win - 496 games)"
+      "type": "Most Frequent Build (41% win - 1592 games)"
     },
     {
       "items": [
+        {
+          "count": 1,
+          "id": "3050"
+        },
         {
           "count": 1,
           "id": "3117"
@@ -73,18 +77,14 @@
         },
         {
           "count": 2,
-          "id": "3050"
+          "id": "3193"
         },
         {
           "count": 1,
           "id": "3190"
-        },
-        {
-          "count": 1,
-          "id": "3193"
         }
       ],
-      "type": "Highest Win Rate Build (42% win - 496 games)"
+      "type": "Highest Win Rate Build (45% win - 632 games)"
     },
     {
       "items": [
@@ -121,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> WEQ (49% win - 1284 games)"
+      "type": "Consumables QEW -> WEQ (49% win - 4083 games)"
     },
     {
       "items": [
@@ -142,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> WEQ (49% win - 1284 games)"
+      "type": "QEW -> WQE (49% win - 109 games)"
     }
   ],
   "champion": "Leona",

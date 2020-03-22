@@ -17,70 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (50% win - 500 games)"
+      "type": "Most Frequent Starters (51% win - 362 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "2033"
+          "id": "1056"
+        },
+        {
+          "count": 2,
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (57% win - 91 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 2,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3041"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        }
-      ],
-      "type": "Most Frequent Build (51% win - 113 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 2,
-          "id": "3165"
-        },
-        {
-          "count": 1,
-          "id": "3041"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        }
-      ],
-      "type": "Highest Win Rate Build (51% win - 113 games)"
+      "type": "Highest Win Rate Starters (51% win - 362 games)"
     },
     {
       "items": [
@@ -117,7 +71,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (53% win - 623 games)"
+      "type": "Consumables QEW -> QEW (51% win - 481 games)"
     },
     {
       "items": [
@@ -138,7 +92,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEW -> QEW (53% win - 623 games)"
+      "type": "QEW -> QEW (51% win - 481 games)"
     }
   ],
   "champion": "Taliyah",
@@ -148,6 +102,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Middle 10.3",
+  "title": "Middle 10.5",
   "type": "custom"
 }

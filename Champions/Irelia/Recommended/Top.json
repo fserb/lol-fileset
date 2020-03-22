@@ -13,7 +13,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (45% win - 1019 games)"
+      "type": "Most Frequent Starters (44% win - 3497 games)"
     },
     {
       "items": [
@@ -26,7 +26,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (45% win - 1019 games)"
+      "type": "Highest Win Rate Starters (44% win - 3497 games)"
     },
     {
       "items": [
@@ -48,20 +48,24 @@
         },
         {
           "count": 1,
-          "id": "3091"
+          "id": "3026"
         },
         {
           "count": 1,
-          "id": "3026"
+          "id": "3143"
         }
       ],
-      "type": "Most Frequent Build (33% win - 203 games)"
+      "type": "Most Frequent Build (32% win - 714 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "3047"
+          "id": "3111"
+        },
+        {
+          "count": 1,
+          "id": "3091"
         },
         {
           "count": 1,
@@ -73,18 +77,14 @@
         },
         {
           "count": 1,
+          "id": "3065"
+        },
+        {
+          "count": 1,
           "id": "3053"
-        },
-        {
-          "count": 1,
-          "id": "3091"
-        },
-        {
-          "count": 1,
-          "id": "3026"
         }
       ],
-      "type": "Highest Win Rate Build (33% win - 203 games)"
+      "type": "Highest Win Rate Build (35% win - 129 games)"
     },
     {
       "items": [
@@ -121,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEW -> QEW (44% win - 964 games)"
+      "type": "Consumables QEW -> QEW (45% win - 3245 games)"
     },
     {
       "items": [
@@ -142,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQW -> QEW (44% win - 220 games)"
+      "type": "QEW -> QEW (45% win - 3245 games)"
     }
   ],
   "champion": "Irelia",
@@ -152,6 +152,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Top 10.4",
+  "title": "Top 10.5",
   "type": "custom"
 }

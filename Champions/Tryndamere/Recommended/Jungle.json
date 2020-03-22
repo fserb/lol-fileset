@@ -17,24 +17,24 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (57% win - 398 games)"
+      "type": "Most Frequent Starters (51% win - 347 games)"
     },
     {
       "items": [
         {
           "count": 1,
-          "id": "1036"
+          "id": "1055"
         },
         {
           "count": 1,
-          "id": "2031"
+          "id": "2003"
         },
         {
           "count": 1,
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (63% win - 112 games)"
+      "type": "Highest Win Rate Starters (51% win - 347 games)"
     },
     {
       "items": [
@@ -56,14 +56,14 @@
         },
         {
           "count": 1,
-          "id": "3074"
+          "id": "3033"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3124"
         }
       ],
-      "type": "Most Frequent Build (54% win - 271 games)"
+      "type": "Most Frequent Build (54% win - 206 games)"
     },
     {
       "items": [
@@ -81,18 +81,18 @@
         },
         {
           "count": 1,
-          "id": "3078"
-        },
-        {
-          "count": 1,
           "id": "3074"
         },
         {
           "count": 1,
-          "id": "3036"
+          "id": "3091"
+        },
+        {
+          "count": 1,
+          "id": "3078"
         }
       ],
-      "type": "Highest Win Rate Build (54% win - 271 games)"
+      "type": "Highest Win Rate Build (56% win - 185 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables EQQW -> QEW (63% win - 320 games)"
+      "type": "Consumables EQQW -> QEW (57% win - 267 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQQW -> QEW (63% win - 320 games)"
+      "type": "EQQW -> QEW (57% win - 267 games)"
     }
   ],
   "champion": "Tryndamere",
@@ -160,6 +160,6 @@
   "mode": "any",
   "priority": false,
   "sortrank": 1,
-  "title": "Jungle 10.3",
+  "title": "Jungle 10.5",
   "type": "custom"
 }

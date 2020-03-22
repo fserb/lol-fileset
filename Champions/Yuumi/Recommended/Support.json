@@ -17,10 +17,14 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (47% win - 3306 games)"
+      "type": "Most Frequent Starters (49% win - 11059 games)"
     },
     {
       "items": [
+        {
+          "count": 2,
+          "id": "2003"
+        },
         {
           "count": 1,
           "id": "3850"
@@ -30,7 +34,7 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (52% win - 212 games)"
+      "type": "Highest Win Rate Starters (49% win - 11059 games)"
     },
     {
       "items": [
@@ -55,10 +59,14 @@
           "id": "2065"
         }
       ],
-      "type": "Most Frequent Build (40% win - 2068 games)"
+      "type": "Most Frequent Build (41% win - 6846 games)"
     },
     {
       "items": [
+        {
+          "count": 2,
+          "id": "3041"
+        },
         {
           "count": 1,
           "id": "3174"
@@ -69,18 +77,14 @@
         },
         {
           "count": 1,
-          "id": "3107"
+          "id": "3222"
         },
         {
           "count": 1,
-          "id": "3041"
-        },
-        {
-          "count": 2,
-          "id": "2065"
+          "id": "3151"
         }
       ],
-      "type": "Highest Win Rate Build (40% win - 2068 games)"
+      "type": "Highest Win Rate Build (69% win - 220 games)"
     },
     {
       "items": [
@@ -117,7 +121,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEQE -> QEW (45% win - 1707 games)"
+      "type": "Consumables QEQE -> QEW (47% win - 5271 games)"
     },
     {
       "items": [
@@ -138,7 +142,7 @@
           "id": "3363"
         }
       ],
-      "type": "EQEW -> EWQ (50% win - 177 games)"
+      "type": "EQEW -> EWQ (51% win - 676 games)"
     }
   ],
   "champion": "Yuumi",

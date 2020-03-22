@@ -17,7 +17,7 @@
           "id": "3340"
         }
       ],
-      "type": "Most Frequent Starters (51% win - 684 games)"
+      "type": "Most Frequent Starters (50% win - 2215 games)"
     },
     {
       "items": [
@@ -34,7 +34,36 @@
           "id": "3340"
         }
       ],
-      "type": "Highest Win Rate Starters (51% win - 684 games)"
+      "type": "Highest Win Rate Starters (50% win - 2215 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3198"
+        },
+        {
+          "count": 1,
+          "id": "3020"
+        },
+        {
+          "count": 1,
+          "id": "3100"
+        },
+        {
+          "count": 1,
+          "id": "3157"
+        },
+        {
+          "count": 1,
+          "id": "3089"
+        },
+        {
+          "count": 1,
+          "id": "3135"
+        }
+      ],
+      "type": "Most Frequent Build (42% win - 780 games)"
     },
     {
       "items": [
@@ -63,36 +92,7 @@
           "id": "3135"
         }
       ],
-      "type": "Most Frequent Build (45% win - 237 games)"
-    },
-    {
-      "items": [
-        {
-          "count": 1,
-          "id": "3198"
-        },
-        {
-          "count": 1,
-          "id": "3020"
-        },
-        {
-          "count": 1,
-          "id": "3100"
-        },
-        {
-          "count": 1,
-          "id": "3089"
-        },
-        {
-          "count": 1,
-          "id": "3157"
-        },
-        {
-          "count": 1,
-          "id": "3135"
-        }
-      ],
-      "type": "Highest Win Rate Build (45% win - 237 games)"
+      "type": "Highest Win Rate Build (43% win - 767 games)"
     },
     {
       "items": [
@@ -129,7 +129,7 @@
           "id": "2140"
         }
       ],
-      "type": "Consumables QEEW -> EQW (55% win - 288 games)"
+      "type": "Consumables QEW -> EQW (48% win - 850 games)"
     },
     {
       "items": [
@@ -150,7 +150,7 @@
           "id": "3363"
         }
       ],
-      "type": "QEEW -> EQW (55% win - 288 games)"
+      "type": "QEEW -> EQW (51% win - 846 games)"
     }
   ],
   "champion": "Viktor",
